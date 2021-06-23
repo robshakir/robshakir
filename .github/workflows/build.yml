@@ -24,7 +24,7 @@ jobs:
 
     - name: Write README.md
       run |
-          go run main.go
+          go run gen/main.go
 
     - name: Commit files
       run: |
