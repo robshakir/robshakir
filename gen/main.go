@@ -145,7 +145,7 @@ func writeActiveRepos(events *Events) string {
 func main() {
 	ctx := context.Background()
 
-	token := os.Getenv("AUTH_TOKEN")
+	token := os.Getenv("GITHUB_TOKEN")
 	if token == "" {
 		log.Exitf("null token in environment, did you forget to set GITHUB_TOKEN?")
 	}
