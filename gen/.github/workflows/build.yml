@@ -1,0 +1,38 @@
+on:
+  push:
+    branches:
+      - main
+  schedule:
+    # * is a special character in YAML so you have to quote this string
+    - cron:  '30 */2 * * *'
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Set up Go 
+      uses: actions/setup-go@v2
+
+    - name: Check out code into the Go module directory
+      uses: actions/checkout@v2
+
+    - name: Get deps
+      run |
+          go get -v -t -d ./...
+
+    - name: Write README.md
+      run |
+          go run main.go
+
+    - name: Commit files
+      run: |
+        git config --local user.email "bot@rob.sh"
+        git config --local user.name "github-actions[bot]"
+        DATE=`date +%s` git commit -m "Update #{DATE}" -a
+    - name: Push changes
+      uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        branch: ${{ github.ref }}
