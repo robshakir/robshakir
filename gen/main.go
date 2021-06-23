@@ -21,7 +21,7 @@ const (
 	fetchEvents int    = 100
 )
 
-func pacific(t *time.Time) time.Time {
+func pacific(t time.Time) time.Time {
 	pst, err := time.LoadLocation("America/Los_Angeles")
 	if err != nil {
 		log.Exitf("LA doesn't exist")
@@ -59,14 +59,14 @@ func events(ctx context.Context, client *github.Client) (*Events, error) {
 	for _, event := range ghevents {
 		e.Repos[event.GetRepo().GetName()]++
 		e.Actions[event.GetType()]++
-		hours[pacific(event.CreatedAt).Hour()]++
+		hours[pacific(*event.CreatedAt).Hour()]++
 	}
 
 	for i := 0; i < 24; i++ {
 		e.Hours = append(e.Hours, float64(hours[i]))
 	}
 
-	e.Start = pacific(ghevents[fetchEvents-1].CreatedAt)
+	e.Start = pacific(*ghevents[fetchEvents-1].CreatedAt)
 
 	return e, nil
 }
@@ -74,8 +74,8 @@ func events(ctx context.Context, client *github.Client) (*Events, error) {
 func plotHourOfDay(events *Events) string {
 	outBuf := &bytes.Buffer{}
 	as := asciigraph.Plot(events.Hours,
-		asciigraph.Width(80),
-		asciigraph.Height(20),
+		asciigraph.Width(100),
+		asciigraph.Height(15),
 		asciigraph.Precision(0),
 		asciigraph.Caption("Commits by Hour of Day"),
 	)
@@ -172,7 +172,14 @@ func main() {
 	outBuf.WriteString(repos)
 	outBuf.WriteString("\n```\n")
 
-	outBuf.WriteString("[robshakir](mailto:robjs@google.com) is not an official Google product.\n")
+	outBuf.WriteString("**[robshakir](mailto:robjs@google.com) is not an official Google product.**\n")
+
+	host, err := os.Hostname()
+	if err != nil {
+		host = "a machine somewhere in GitHub"
+	}
+
+	outBuf.WriteString(fmt.Sprintf("\n\nLast Updated: %s on %s\n", pacific(time.Now()), host))
 
 	if err := ioutil.WriteFile("README.md", outBuf.Bytes(), 0644); err != nil {
 		log.Exitf("can't write file, %v", err)
