@@ -33,6 +33,7 @@ jobs:
       run: |
         git config --local user.email "bot@rob.sh"
         git config --local user.name "github-actions[bot]"
+        git add .
         DATE=`date +%s` git commit -m "Update #{DATE}" -a
     - name: Push changes
       uses: ad-m/github-push-action@master
