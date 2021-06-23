@@ -35,7 +35,7 @@ type Events struct {
 	Repos       map[string]int
 	Actions     map[string]int
 	Hours       []float64
-	Breadcrumbs []string
+	Breadcrumbs []*github.Event
 }
 
 func NewEvents() *Events {
@@ -43,7 +43,7 @@ func NewEvents() *Events {
 		Repos:       map[string]int{},
 		Actions:     map[string]int{},
 		Hours:       []float64{},
-		Breadcrumbs: []string{},
+		Breadcrumbs: []*github.Event{},
 	}
 }
 
@@ -68,6 +68,7 @@ func events(ctx context.Context, client *github.Client) (*Events, error) {
 	}
 
 	e.Start = pacific(*ghevents[fetchEvents-1].CreatedAt)
+	e.Breadcrumbs = ghevents[0:10]
 
 	return e, nil
 }
@@ -148,19 +149,47 @@ func writeActiveRepos(events *Events) string {
 			barBuf.WriteString("#")
 		}
 		outBuf.WriteString(padBuf.String())
+		outBuf.WriteRune('|')
 		outBuf.WriteString(barBuf.String())
 		outBuf.WriteString("\n")
 		outBuf.WriteString(fmt.Sprintf(" %s", name))
 		for i := 0; i < (maxNameLen-len(name))+4; i++ {
 			outBuf.WriteRune(' ')
 		}
+		outBuf.WriteRune('|')
 		outBuf.WriteString(barBuf.String())
 		outBuf.WriteString("\n")
 		outBuf.WriteString(padBuf.String())
+		outBuf.WriteRune('|')
 		outBuf.WriteString(barBuf.String())
 		outBuf.WriteString("\n\n")
 	}
 	outBuf.WriteString(fmt.Sprintf("\n\nSince %s, I've been most active in %s, with %d events.\n", events.Start, activeRepo, maxEvents))
+	return outBuf.String()
+}
+
+func breadcrumbs(events *Events) string {
+
+	actMap := map[string]string{
+		"PushEvent":          "🚢: Pushed some commits to",
+		"CommitCommentEvent": "🗣: Commented on a commit in",
+		"CreateEvent":        "💥: Created a branch in",
+		"DeleteEvent":        "🗑: Delete a branch in",
+		"ForkEvent":          "🍴: Forked",
+		"IssueCommentEvent":  "😃: Commented on an issue in",
+		"IssuesEvent":        "👀: Worked on an issue in",
+		"MemberEvent":        "👉: Prodded at the collaborators for",
+		"PublicEvent":        "🚀: Open sourced some code in",
+		"ReleaseEvent":       "🐿: Created a release in",
+		"SponsorshipEvent":   "💰: Sponsored a project in",
+		"WatchEvent":         "⭐️: Starred",
+	}
+
+	outBuf := &bytes.Buffer{}
+	outBuf.WriteString("### 🍞: Bread Crumbs\n\n")
+	for _, e := range events.Breadcrumbs {
+		outBuf.WriteString(fmt.Sprintf(" * %s `%s` at %s\n", actMap[e.GetType()], e.Repo.GetName(), pacific(e.GetCreatedAt())))
+	}
 	return outBuf.String()
 }
 
@@ -185,8 +214,11 @@ func main() {
 
 	hours := plotHourOfDay(events)
 	repos := writeActiveRepos(events)
+	bc := breadcrumbs(events)
 
 	outBuf := &bytes.Buffer{}
+	outBuf.WriteString(bc)
+	outBuf.WriteString("\n### 🕘: Historical Activity")
 	outBuf.WriteString("\n```\n")
 	outBuf.WriteString(hours)
 	outBuf.WriteString("\n```\n")
