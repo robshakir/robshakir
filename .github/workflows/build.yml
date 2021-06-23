@@ -26,6 +26,8 @@ jobs:
     - name: Write README.md
       run: |
           go run gen/main.go
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
     - name: Commit files
       run: |
