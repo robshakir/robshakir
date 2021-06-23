@@ -4,6 +4,7 @@ package main
 import (
 	"bytes"
 	"context"
+	"flag"
 	"fmt"
 	"io/ioutil"
 	"os"
@@ -77,9 +78,30 @@ func plotHourOfDay(events *Events) string {
 		asciigraph.Width(100),
 		asciigraph.Height(15),
 		asciigraph.Precision(0),
-		asciigraph.Caption("Commits by Hour of Day"),
 	)
 	outBuf.WriteString(as)
+	outBuf.WriteString("\n    ")
+	width := 100
+	interval := 2 // hours between labels
+	for i := 0; i <= width; i++ {
+		if i%(width/(24/interval)) != 0 {
+			outBuf.WriteRune('─')
+		} else {
+			outBuf.WriteRune('+')
+		}
+	}
+	outBuf.WriteString("\n  ")
+	// total width is $width
+	//   remaining width is $width - (5 ch * # of intervals)
+	//   spaces is therefore remaining / # of intervals
+	spaces := (width - 5*(24/interval)) / (24 / interval)
+	for i := 0; i <= (24 / interval); i++ {
+		outBuf.WriteString(fmt.Sprintf("%02d:00", (i*interval)%24))
+		for j := 0; j < spaces; j++ {
+			outBuf.WriteRune(' ')
+		}
+	}
+	outBuf.WriteString("\n\n						Commits by Hour of Day\n")
 
 	max := 0.0
 	maxHour := 0
@@ -143,6 +165,7 @@ func writeActiveRepos(events *Events) string {
 }
 
 func main() {
+	flag.Parse()
 	ctx := context.Background()
 
 	token := os.Getenv("GITHUB_TOKEN")
