@@ -171,24 +171,31 @@ func writeActiveRepos(events *Events) string {
 func breadcrumbs(events *Events) string {
 
 	actMap := map[string]string{
-		"PushEvent":          "🚢: Pushed some commits to",
-		"CommitCommentEvent": "🗣: Commented on a commit in",
-		"CreateEvent":        "💥: Created a branch in",
-		"DeleteEvent":        "🗑: Delete a branch in",
-		"ForkEvent":          "🍴: Forked",
-		"IssueCommentEvent":  "😃: Commented on an issue in",
-		"IssuesEvent":        "👀: Worked on an issue in",
-		"MemberEvent":        "👉: Prodded at the collaborators for",
-		"PublicEvent":        "🚀: Open sourced some code in",
-		"ReleaseEvent":       "🐿: Created a release in",
-		"SponsorshipEvent":   "💰: Sponsored a project in",
-		"WatchEvent":         "⭐️: Starred",
+		"PushEvent":                     "🚢: Pushed some commits to",
+		"CommitCommentEvent":            "🗣: Commented on a commit in",
+		"CreateEvent":                   "💥: Created a branch in",
+		"DeleteEvent":                   "🗑: Delete a branch in",
+		"ForkEvent":                     "🍴: Forked",
+		"IssueCommentEvent":             "😃: Commented on an issue in",
+		"IssuesEvent":                   "👀: Worked on an issue in",
+		"MemberEvent":                   "👉: Prodded at the collaborators for",
+		"PublicEvent":                   "🚀: Open sourced some code in",
+		"ReleaseEvent":                  "🐿: Created a release in",
+		"SponsorshipEvent":              "💰: Sponsored a project in",
+		"WatchEvent":                    "⭐️: Starred",
+		"PullRequestEvent":              "✍🏼: Created a pull request in",
+		"PullRequestReviewEvent":        "🔍: Reviewed a pull request in ",
+		"PullRequestReviewCommentEvent": "💬: Comment on a PR in ",
 	}
 
 	outBuf := &bytes.Buffer{}
-	outBuf.WriteString("### 🍞: Bread Crumbs\n\n")
+	outBuf.WriteString("### 🍞 Bread Crumbs\n\n")
 	for _, e := range events.Breadcrumbs {
-		outBuf.WriteString(fmt.Sprintf(" * %s `%s` at %s\n", actMap[e.GetType()], e.Repo.GetName(), pacific(e.GetCreatedAt())))
+		activity := actMap[e.GetType()]
+		if activity == "" {
+			log.Errorf("activity %s is not mapped to a name", e.GetType())
+		}
+		outBuf.WriteString(fmt.Sprintf(" * %s `%s` at %s\n", activity, e.Repo.GetName(), pacific(e.GetCreatedAt())))
 	}
 	return outBuf.String()
 }
@@ -218,7 +225,7 @@ func main() {
 
 	outBuf := &bytes.Buffer{}
 	outBuf.WriteString(bc)
-	outBuf.WriteString("\n### 🕘: Historical Activity")
+	outBuf.WriteString("\n### 🕘 Recents Activity")
 	outBuf.WriteString("\n```\n")
 	outBuf.WriteString(hours)
 	outBuf.WriteString("\n```\n")
