@@ -225,7 +225,7 @@ func main() {
 
 	outBuf := &bytes.Buffer{}
 	outBuf.WriteString(bc)
-	outBuf.WriteString("\n### 🕘 Recents Activity")
+	outBuf.WriteString("\n### 🕘 Recent Activity")
 	outBuf.WriteString("\n```\n")
 	outBuf.WriteString(hours)
 	outBuf.WriteString("\n```\n")
