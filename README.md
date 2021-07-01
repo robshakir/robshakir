@@ -42,14 +42,6 @@ Since 2021-06-22 19:08:25 -0700 PDT, I'm most active between 07:00-07:59 - with 
 
 
 ```
-                        |##################
- openconfig/goyang      |##################
-                        |##################
-
-                        |#######
- openconfig/ygot        |#######
-                        |#######
-
                         |################
  robshakir/robshakir    |################
                         |################
@@ -57,6 +49,14 @@ Since 2021-06-22 19:08:25 -0700 PDT, I'm most active between 07:00-07:59 - with 
                         |###########################################################
  openconfig/gribigo     |###########################################################
                         |###########################################################
+
+                        |##################
+ openconfig/goyang      |##################
+                        |##################
+
+                        |#######
+ openconfig/ygot        |#######
+                        |#######
 
 
 
@@ -66,4 +66,4 @@ Since 2021-06-22 19:08:25 -0700 PDT, I've been most active in openconfig/gribigo
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**
 
 
-Last Updated: 2021-07-01 00:19:31.31923409 -0700 PDT on fv-az82-366
+Last Updated: 2021-07-01 00:30:55.900165854 -0700 PDT on fv-az39-656
