@@ -174,7 +174,7 @@ func breadcrumbs(events *Events) string {
 		"PushEvent":                     "🚢: Pushed some commits to",
 		"CommitCommentEvent":            "🗣: Commented on a commit in",
 		"CreateEvent":                   "💥: Created a branch in",
-		"DeleteEvent":                   "🗑: Delete a branch in",
+		"DeleteEvent":                   "🗑: Deleted a branch in",
 		"ForkEvent":                     "🍴: Forked",
 		"IssueCommentEvent":             "😃: Commented on an issue in",
 		"IssuesEvent":                   "👀: Worked on an issue in",
@@ -185,7 +185,7 @@ func breadcrumbs(events *Events) string {
 		"WatchEvent":                    "⭐️: Starred",
 		"PullRequestEvent":              "✍🏼: Created a pull request in",
 		"PullRequestReviewEvent":        "🔍: Reviewed a pull request in ",
-		"PullRequestReviewCommentEvent": "💬: Comment on a PR in ",
+		"PullRequestReviewCommentEvent": "💬: Commented on a PR in ",
 	}
 
 	outBuf := &bytes.Buffer{}
@@ -234,14 +234,8 @@ func main() {
 	outBuf.WriteString(repos)
 	outBuf.WriteString("\n```\n")
 
-	outBuf.WriteString("**[robshakir](mailto:robjs@google.com) is not an official Google product.**\n")
-
-	host, err := os.Hostname()
-	if err != nil {
-		host = "a machine somewhere in GitHub"
-	}
-
-	outBuf.WriteString(fmt.Sprintf("\n\nLast Updated: %s on %s\n", pacific(time.Now()), host))
+	outBuf.WriteString("**[robshakir](mailto:robjs@google.com) is not an official Google product.**  \n")
+	outBuf.WriteString(fmt.Sprintf("\n\nLast Updated: %s\n", pacific(time.Now())))
 
 	if err := ioutil.WriteFile("README.md", outBuf.Bytes(), 0644); err != nil {
 		log.Exitf("can't write file, %v", err)
