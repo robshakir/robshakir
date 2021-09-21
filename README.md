@@ -42,6 +42,18 @@ Since 2021-08-06 15:45:56 -0700 PDT, I'm most active between 10:00-10:59 - with 
 
 
 ```
+                              |####
+ openconfig/goyang            |####
+                              |####
+
+                              |##########################
+ openconfig/public            |##########################
+                              |##########################
+
+                              |##########################################
+ openconfig/ygot              |##########################################
+                              |##########################################
+
                               |####################
  openconfig/gribigo           |####################
                               |####################
@@ -51,7 +63,7 @@ Since 2021-08-06 15:45:56 -0700 PDT, I'm most active between 10:00-10:59 - with 
                               |###
 
                               |#
- openconfig/catalog-server    |#
+ openconfig/lsdbparse         |#
                               |#
 
                               |#
@@ -62,21 +74,9 @@ Since 2021-08-06 15:45:56 -0700 PDT, I'm most active between 10:00-10:59 - with 
  openconfig/gnmi              |##
                               |##
 
-                              |##########################################
- openconfig/ygot              |##########################################
-                              |##########################################
-
                               |#
- openconfig/lsdbparse         |#
+ openconfig/catalog-server    |#
                               |#
-
-                              |####
- openconfig/goyang            |####
-                              |####
-
-                              |##########################
- openconfig/public            |##########################
-                              |##########################
 
 
 
@@ -86,4 +86,4 @@ Since 2021-08-06 15:45:56 -0700 PDT, I've been most active in openconfig/ygot, w
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2021-09-21 15:45:54.789145077 -0700 PDT
+Last Updated: 2021-09-21 16:01:27.63329918 -0700 PDT
