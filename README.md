@@ -42,18 +42,6 @@ Since 2021-08-06 15:45:56 -0700 PDT, I'm most active between 10:00-10:59 - with 
 
 
 ```
-                              |##########################
- openconfig/public            |##########################
-                              |##########################
-
-                              |#
- openconfig/ondatra           |#
-                              |#
-
-                              |###
- openconfig/gribi             |###
-                              |###
-
                               |#
  openconfig/lsdbparse         |#
                               |#
@@ -62,17 +50,29 @@ Since 2021-08-06 15:45:56 -0700 PDT, I'm most active between 10:00-10:59 - with 
  openconfig/goyang            |####
                               |####
 
+                              |#
+ openconfig/ondatra           |#
+                              |#
+
                               |##
  openconfig/gnmi              |##
                               |##
 
-                              |#
- openconfig/catalog-server    |#
-                              |#
-
                               |##########################################
  openconfig/ygot              |##########################################
                               |##########################################
+
+                              |###
+ openconfig/gribi             |###
+                              |###
+
+                              |##########################
+ openconfig/public            |##########################
+                              |##########################
+
+                              |#
+ openconfig/catalog-server    |#
+                              |#
 
                               |####################
  openconfig/gribigo           |####################
@@ -86,4 +86,4 @@ Since 2021-08-06 15:45:56 -0700 PDT, I've been most active in openconfig/ygot, w
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2021-09-21 14:01:16.471399479 -0700 PDT
+Last Updated: 2021-09-21 14:18:52.459214392 -0700 PDT
