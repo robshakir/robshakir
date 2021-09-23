@@ -42,6 +42,14 @@ Since 2021-08-09 10:37:01 -0700 PDT, I'm most active between 10:00-10:59 - with 
 
 
 ```
+                              |#
+ openconfig/catalog-server    |#
+                              |#
+
+                              |##########################################
+ openconfig/ygot              |##########################################
+                              |##########################################
+
                               |####################
  openconfig/gribigo           |####################
                               |####################
@@ -49,10 +57,6 @@ Since 2021-08-09 10:37:01 -0700 PDT, I'm most active between 10:00-10:59 - with 
                               |###
  openconfig/gribi             |###
                               |###
-
-                              |#
- openconfig/lsdbparse         |#
-                              |#
 
                               |####
  openconfig/goyang            |####
@@ -62,21 +66,17 @@ Since 2021-08-09 10:37:01 -0700 PDT, I'm most active between 10:00-10:59 - with 
  openconfig/public            |##########################
                               |##########################
 
+                              |##
+ openconfig/gnmi              |##
+                              |##
+
                               |#
  openconfig/ondatra           |#
                               |#
 
                               |#
- openconfig/catalog-server    |#
+ openconfig/lsdbparse         |#
                               |#
-
-                              |##########################################
- openconfig/ygot              |##########################################
-                              |##########################################
-
-                              |##
- openconfig/gnmi              |##
-                              |##
 
 
 
@@ -86,4 +86,4 @@ Since 2021-08-09 10:37:01 -0700 PDT, I've been most active in openconfig/ygot, w
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2021-09-23 10:04:28.946322458 -0700 PDT
+Last Updated: 2021-09-23 10:20:19.454874562 -0700 PDT
