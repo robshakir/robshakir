@@ -42,29 +42,9 @@ Since 2021-08-09 10:37:01 -0700 PDT, I'm most active between 10:00-10:59 - with 
 
 
 ```
-                              |##########################
- openconfig/public            |##########################
-                              |##########################
-
-                              |#
- openconfig/catalog-server    |#
-                              |#
-
                               |##########################################
  openconfig/ygot              |##########################################
                               |##########################################
-
-                              |####
- openconfig/goyang            |####
-                              |####
-
-                              |#
- openconfig/ondatra           |#
-                              |#
-
-                              |##
- openconfig/gnmi              |##
-                              |##
 
                               |####################
  openconfig/gribigo           |####################
@@ -78,6 +58,26 @@ Since 2021-08-09 10:37:01 -0700 PDT, I'm most active between 10:00-10:59 - with 
  openconfig/lsdbparse         |#
                               |#
 
+                              |####
+ openconfig/goyang            |####
+                              |####
+
+                              |##########################
+ openconfig/public            |##########################
+                              |##########################
+
+                              |#
+ openconfig/ondatra           |#
+                              |#
+
+                              |##
+ openconfig/gnmi              |##
+                              |##
+
+                              |#
+ openconfig/catalog-server    |#
+                              |#
+
 
 
 Since 2021-08-09 10:37:01 -0700 PDT, I've been most active in openconfig/ygot, with 42 events.
@@ -86,4 +86,4 @@ Since 2021-08-09 10:37:01 -0700 PDT, I've been most active in openconfig/ygot, w
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2021-09-22 23:35:47.995871404 -0700 PDT
+Last Updated: 2021-09-22 23:49:34.10152406 -0700 PDT
