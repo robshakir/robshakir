@@ -43,8 +43,28 @@ Since 2021-08-09 10:37:01 -0700 PDT, I'm most active between 10:00-10:59 - with 
 
 ```
                               |#
+ openconfig/lsdbparse         |#
+                              |#
+
+                              |##########################
+ openconfig/public            |##########################
+                              |##########################
+
+                              |#
  openconfig/ondatra           |#
                               |#
+
+                              |##
+ openconfig/gnmi              |##
+                              |##
+
+                              |###
+ openconfig/gribi             |###
+                              |###
+
+                              |####
+ openconfig/goyang            |####
+                              |####
 
                               |#
  openconfig/catalog-server    |#
@@ -54,29 +74,9 @@ Since 2021-08-09 10:37:01 -0700 PDT, I'm most active between 10:00-10:59 - with 
  openconfig/ygot              |##########################################
                               |##########################################
 
-                              |##########################
- openconfig/public            |##########################
-                              |##########################
-
                               |####################
  openconfig/gribigo           |####################
                               |####################
-
-                              |###
- openconfig/gribi             |###
-                              |###
-
-                              |#
- openconfig/lsdbparse         |#
-                              |#
-
-                              |####
- openconfig/goyang            |####
-                              |####
-
-                              |##
- openconfig/gnmi              |##
-                              |##
 
 
 
@@ -86,4 +86,4 @@ Since 2021-08-09 10:37:01 -0700 PDT, I've been most active in openconfig/ygot, w
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2021-09-24 12:45:57.483276893 -0700 PDT
+Last Updated: 2021-09-24 13:01:27.179959906 -0700 PDT
