@@ -42,9 +42,25 @@ Since 2021-08-09 10:37:01 -0700 PDT, I'm most active between 10:00-10:59 - with 
 
 
 ```
+                              |###
+ openconfig/gribi             |###
+                              |###
+
+                              |#
+ openconfig/lsdbparse         |#
+                              |#
+
+                              |##########################
+ openconfig/public            |##########################
+                              |##########################
+
                               |#
  openconfig/ondatra           |#
                               |#
+
+                              |##
+ openconfig/gnmi              |##
+                              |##
 
                               |#
  openconfig/catalog-server    |#
@@ -54,29 +70,13 @@ Since 2021-08-09 10:37:01 -0700 PDT, I'm most active between 10:00-10:59 - with 
  openconfig/gribigo           |####################
                               |####################
 
-                              |#
- openconfig/lsdbparse         |#
-                              |#
-
-                              |####
- openconfig/goyang            |####
-                              |####
-
-                              |##########################
- openconfig/public            |##########################
-                              |##########################
-
                               |##########################################
  openconfig/ygot              |##########################################
                               |##########################################
 
-                              |###
- openconfig/gribi             |###
-                              |###
-
-                              |##
- openconfig/gnmi              |##
-                              |##
+                              |####
+ openconfig/goyang            |####
+                              |####
 
 
 
@@ -86,4 +86,4 @@ Since 2021-08-09 10:37:01 -0700 PDT, I've been most active in openconfig/ygot, w
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2021-09-26 11:20:15.89256743 -0700 PDT
+Last Updated: 2021-09-26 11:34:40.804109774 -0700 PDT
