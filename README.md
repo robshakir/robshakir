@@ -42,8 +42,28 @@ Since 2021-08-09 10:56:11 -0700 PDT, I'm most active between 10:00-10:59 - with 
 
 
 ```
+                              |##########################
+ openconfig/public            |##########################
+                              |##########################
+
+                              |##
+ openconfig/gnmi              |##
+                              |##
+
                               |#
  openconfig/catalog-server    |#
+                              |#
+
+                              |####################
+ openconfig/gribigo           |####################
+                              |####################
+
+                              |#
+ openconfig/lsdbparse         |#
+                              |#
+
+                              |#
+ openconfig/ondatra           |#
                               |#
 
                               |##########################################
@@ -54,29 +74,9 @@ Since 2021-08-09 10:56:11 -0700 PDT, I'm most active between 10:00-10:59 - with 
  openconfig/gribi             |###
                               |###
 
-                              |#
- openconfig/lsdbparse         |#
-                              |#
-
                               |####
  openconfig/goyang            |####
                               |####
-
-                              |#
- openconfig/ondatra           |#
-                              |#
-
-                              |##
- openconfig/gnmi              |##
-                              |##
-
-                              |##########################
- openconfig/public            |##########################
-                              |##########################
-
-                              |####################
- openconfig/gribigo           |####################
-                              |####################
 
 
 
@@ -86,4 +86,4 @@ Since 2021-08-09 10:56:11 -0700 PDT, I've been most active in openconfig/ygot, w
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2021-09-27 10:20:40.999225888 -0700 PDT
+Last Updated: 2021-09-27 10:35:13.736950226 -0700 PDT
