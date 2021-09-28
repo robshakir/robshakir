@@ -42,18 +42,6 @@ Since 2021-08-11 20:31:44 -0700 PDT, I'm most active between 13:00-13:59 - with 
 
 
 ```
-                              |##################################
- openconfig/public            |##################################
-                              |##################################
-
-                              |#
- openconfig/catalog-server    |#
-                              |#
-
-                              |###
- openconfig/goyang            |###
-                              |###
-
                               |###
  openconfig/gribi             |###
                               |###
@@ -62,9 +50,9 @@ Since 2021-08-11 20:31:44 -0700 PDT, I'm most active between 13:00-13:59 - with 
  openconfig/lsdbparse         |#
                               |#
 
-                              |#
- openconfig/ondatra           |#
-                              |#
+                              |##################################
+ openconfig/public            |##################################
+                              |##################################
 
                               |##
  openconfig/gnmi              |##
@@ -78,6 +66,18 @@ Since 2021-08-11 20:31:44 -0700 PDT, I'm most active between 13:00-13:59 - with 
  openconfig/gribigo           |##################
                               |##################
 
+                              |###
+ openconfig/goyang            |###
+                              |###
+
+                              |#
+ openconfig/ondatra           |#
+                              |#
+
+                              |#
+ openconfig/catalog-server    |#
+                              |#
+
 
 
 Since 2021-08-11 20:31:44 -0700 PDT, I've been most active in openconfig/ygot, with 37 events.
@@ -86,4 +86,4 @@ Since 2021-08-11 20:31:44 -0700 PDT, I've been most active in openconfig/ygot, w
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2021-09-28 08:01:24.066232162 -0700 PDT
+Last Updated: 2021-09-28 08:20:09.05570456 -0700 PDT
