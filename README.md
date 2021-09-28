@@ -42,13 +42,17 @@ Since 2021-08-11 20:31:44 -0700 PDT, I'm most active between 13:00-13:59 - with 
 
 
 ```
+                              |##
+ openconfig/gnmi              |##
+                              |##
+
                               |#
- openconfig/ondatra           |#
+ openconfig/catalog-server    |#
                               |#
 
-                              |#####################################
- openconfig/ygot              |#####################################
-                              |#####################################
+                              |###
+ openconfig/goyang            |###
+                              |###
 
                               |##################
  openconfig/gribigo           |##################
@@ -58,25 +62,21 @@ Since 2021-08-11 20:31:44 -0700 PDT, I'm most active between 13:00-13:59 - with 
  openconfig/gribi             |###
                               |###
 
-                              |##################################
- openconfig/public            |##################################
-                              |##################################
-
-                              |##
- openconfig/gnmi              |##
-                              |##
-
-                              |#
- openconfig/catalog-server    |#
-                              |#
-
                               |#
  openconfig/lsdbparse         |#
                               |#
 
-                              |###
- openconfig/goyang            |###
-                              |###
+                              |##################################
+ openconfig/public            |##################################
+                              |##################################
+
+                              |#
+ openconfig/ondatra           |#
+                              |#
+
+                              |#####################################
+ openconfig/ygot              |#####################################
+                              |#####################################
 
 
 
@@ -86,4 +86,4 @@ Since 2021-08-11 20:31:44 -0700 PDT, I've been most active in openconfig/ygot, w
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2021-09-28 03:01:34.014276631 -0700 PDT
+Last Updated: 2021-09-28 03:20:18.479385817 -0700 PDT
