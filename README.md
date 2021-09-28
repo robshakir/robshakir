@@ -42,21 +42,29 @@ Since 2021-08-11 20:31:44 -0700 PDT, I'm most active between 13:00-13:59 - with 
 
 
 ```
-                              |##################################
- openconfig/public            |##################################
-                              |##################################
-
                               |#
  openconfig/ondatra           |#
                               |#
 
-                              |##
- openconfig/gnmi              |##
-                              |##
-
                               |#
  openconfig/catalog-server    |#
                               |#
+
+                              |#####################################
+ openconfig/ygot              |#####################################
+                              |#####################################
+
+                              |###
+ openconfig/goyang            |###
+                              |###
+
+                              |##################################
+ openconfig/public            |##################################
+                              |##################################
+
+                              |##
+ openconfig/gnmi              |##
+                              |##
 
                               |##################
  openconfig/gribigo           |##################
@@ -65,14 +73,6 @@ Since 2021-08-11 20:31:44 -0700 PDT, I'm most active between 13:00-13:59 - with 
                               |###
  openconfig/gribi             |###
                               |###
-
-                              |###
- openconfig/goyang            |###
-                              |###
-
-                              |#####################################
- openconfig/ygot              |#####################################
-                              |#####################################
 
                               |#
  openconfig/lsdbparse         |#
@@ -86,4 +86,4 @@ Since 2021-08-11 20:31:44 -0700 PDT, I've been most active in openconfig/ygot, w
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2021-09-27 22:30:57.872914458 -0700 PDT
+Last Updated: 2021-09-27 22:45:51.142184951 -0700 PDT
