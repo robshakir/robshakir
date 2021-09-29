@@ -42,17 +42,25 @@ Since 2021-08-11 20:35:55 -0700 PDT, I'm most active between 13:00-13:59 - with 
 
 
 ```
+                              |##################################
+ openconfig/public            |##################################
+                              |##################################
+
+                              |##
+ openconfig/gnmi              |##
+                              |##
+
                               |#
  openconfig/catalog-server    |#
                               |#
 
-                              |#################
- openconfig/gribigo           |#################
-                              |#################
-
                               |###
  openconfig/gribi             |###
                               |###
+
+                              |#
+ openconfig/lsdbparse         |#
+                              |#
 
                               |###
  openconfig/goyang            |###
@@ -62,20 +70,12 @@ Since 2021-08-11 20:35:55 -0700 PDT, I'm most active between 13:00-13:59 - with 
  openconfig/ygot              |######################################
                               |######################################
 
-                              |##################################
- openconfig/public            |##################################
-                              |##################################
+                              |#################
+ openconfig/gribigo           |#################
+                              |#################
 
                               |#
  openconfig/ondatra           |#
-                              |#
-
-                              |##
- openconfig/gnmi              |##
-                              |##
-
-                              |#
- openconfig/lsdbparse         |#
                               |#
 
 
@@ -86,4 +86,4 @@ Since 2021-08-11 20:35:55 -0700 PDT, I've been most active in openconfig/ygot, w
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2021-09-29 09:39:36.027304056 -0700 PDT
+Last Updated: 2021-09-29 09:54:01.766447861 -0700 PDT
