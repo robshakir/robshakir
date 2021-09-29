@@ -42,29 +42,17 @@ Since 2021-08-11 20:35:55 -0700 PDT, I'm most active between 13:00-13:59 - with 
 
 
 ```
-                              |##################################
- openconfig/public            |##################################
-                              |##################################
-
-                              |#
- openconfig/catalog-server    |#
-                              |#
-
-                              |###
- openconfig/gribi             |###
-                              |###
-
                               |#
  openconfig/lsdbparse         |#
                               |#
 
-                              |###
- openconfig/goyang            |###
-                              |###
-
                               |######################################
  openconfig/ygot              |######################################
                               |######################################
+
+                              |##################################
+ openconfig/public            |##################################
+                              |##################################
 
                               |#
  openconfig/ondatra           |#
@@ -74,9 +62,21 @@ Since 2021-08-11 20:35:55 -0700 PDT, I'm most active between 13:00-13:59 - with 
  openconfig/gnmi              |##
                               |##
 
+                              |#
+ openconfig/catalog-server    |#
+                              |#
+
+                              |###
+ openconfig/gribi             |###
+                              |###
+
                               |#################
  openconfig/gribigo           |#################
                               |#################
+
+                              |###
+ openconfig/goyang            |###
+                              |###
 
 
 
@@ -86,4 +86,4 @@ Since 2021-08-11 20:35:55 -0700 PDT, I've been most active in openconfig/ygot, w
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2021-09-29 13:01:07.665858504 -0700 PDT
+Last Updated: 2021-09-29 13:19:57.90055089 -0700 PDT
