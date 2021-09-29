@@ -42,33 +42,17 @@ Since 2021-08-11 20:35:55 -0700 PDT, I'm most active between 13:00-13:59 - with 
 
 
 ```
-                              |###
- openconfig/gribi             |###
-                              |###
-
-                              |#
- openconfig/lsdbparse         |#
-                              |#
-
-                              |#
- openconfig/catalog-server    |#
-                              |#
-
                               |##################################
  openconfig/public            |##################################
                               |##################################
 
-                              |#
- openconfig/ondatra           |#
-                              |#
-
-                              |##
- openconfig/gnmi              |##
-                              |##
-
                               |#################
  openconfig/gribigo           |#################
                               |#################
+
+                              |#
+ openconfig/lsdbparse         |#
+                              |#
 
                               |###
  openconfig/goyang            |###
@@ -78,6 +62,22 @@ Since 2021-08-11 20:35:55 -0700 PDT, I'm most active between 13:00-13:59 - with 
  openconfig/ygot              |######################################
                               |######################################
 
+                              |#
+ openconfig/ondatra           |#
+                              |#
+
+                              |##
+ openconfig/gnmi              |##
+                              |##
+
+                              |#
+ openconfig/catalog-server    |#
+                              |#
+
+                              |###
+ openconfig/gribi             |###
+                              |###
+
 
 
 Since 2021-08-11 20:35:55 -0700 PDT, I've been most active in openconfig/ygot, with 38 events.
@@ -86,4 +86,4 @@ Since 2021-08-11 20:35:55 -0700 PDT, I've been most active in openconfig/ygot, w
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2021-09-28 17:22:40.460366335 -0700 PDT
+Last Updated: 2021-09-28 17:43:46.511777294 -0700 PDT
