@@ -42,17 +42,25 @@ Since 2021-08-16 10:41:03 -0700 PDT, I'm most active between 14:00-14:59 - with 
 
 
 ```
-                              |##
- openconfig/gnmi              |##
-                              |##
-
-                              |##########################
- openconfig/goyang            |##########################
-                              |##########################
+                              |########################
+ openconfig/ygot              |########################
+                              |########################
 
                               |##################################
  openconfig/public            |##################################
                               |##################################
+
+                              |##
+ openconfig/gnmi              |##
+                              |##
+
+                              |###
+ openconfig/gribi             |###
+                              |###
+
+                              |##########################
+ openconfig/goyang            |##########################
+                              |##########################
 
                               |#
  openconfig/ondatra           |#
@@ -66,17 +74,9 @@ Since 2021-08-16 10:41:03 -0700 PDT, I'm most active between 14:00-14:59 - with 
  openconfig/gribigo           |########
                               |########
 
-                              |###
- openconfig/gribi             |###
-                              |###
-
                               |#
  openconfig/lsdbparse         |#
                               |#
-
-                              |########################
- openconfig/ygot              |########################
-                              |########################
 
 
 
@@ -86,4 +86,4 @@ Since 2021-08-16 10:41:03 -0700 PDT, I've been most active in openconfig/public,
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2021-10-03 16:45:50.844050309 -0700 PDT
+Last Updated: 2021-10-03 17:02:09.19478015 -0700 PDT
