@@ -42,28 +42,16 @@ Since 2021-08-16 10:41:03 -0700 PDT, I'm most active between 14:00-14:59 - with 
 
 
 ```
-                              |########################
- openconfig/ygot              |########################
-                              |########################
-
-                              |##
- openconfig/gnmi              |##
-                              |##
-
-                              |#
- openconfig/catalog-server    |#
-                              |#
-
                               |########
  openconfig/gribigo           |########
                               |########
 
-                              |###
- openconfig/gribi             |###
-                              |###
-
                               |#
  openconfig/lsdbparse         |#
+                              |#
+
+                              |#
+ openconfig/ondatra           |#
                               |#
 
                               |##########################
@@ -74,9 +62,21 @@ Since 2021-08-16 10:41:03 -0700 PDT, I'm most active between 14:00-14:59 - with 
  openconfig/public            |##################################
                               |##################################
 
+                              |##
+ openconfig/gnmi              |##
+                              |##
+
                               |#
- openconfig/ondatra           |#
+ openconfig/catalog-server    |#
                               |#
+
+                              |###
+ openconfig/gribi             |###
+                              |###
+
+                              |########################
+ openconfig/ygot              |########################
+                              |########################
 
 
 
@@ -86,4 +86,4 @@ Since 2021-08-16 10:41:03 -0700 PDT, I've been most active in openconfig/public,
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2021-10-04 10:36:20.639563596 -0700 PDT
+Last Updated: 2021-10-04 10:46:56.149448468 -0700 PDT
