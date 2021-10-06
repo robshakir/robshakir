@@ -42,17 +42,29 @@ Since 2021-08-16 11:45:57 -0700 PDT, I'm most active between 14:00-14:59 - with 
 
 
 ```
+                              |####
+ openconfig/gribi             |####
+                              |####
+
                               |########################
  openconfig/ygot              |########################
                               |########################
 
-                              |#######################
- openconfig/goyang            |#######################
-                              |#######################
-
                               |#
  openconfig/ondatra           |#
                               |#
+
+                              |########
+ openconfig/gribigo           |########
+                              |########
+
+                              |####################################
+ openconfig/public            |####################################
+                              |####################################
+
+                              |#######################
+ openconfig/goyang            |#######################
+                              |#######################
 
                               |##
  openconfig/gnmi              |##
@@ -61,18 +73,6 @@ Since 2021-08-16 11:45:57 -0700 PDT, I'm most active between 14:00-14:59 - with 
                               |#
  openconfig/catalog-server    |#
                               |#
-
-                              |####################################
- openconfig/public            |####################################
-                              |####################################
-
-                              |####
- openconfig/gribi             |####
-                              |####
-
-                              |########
- openconfig/gribigo           |########
-                              |########
 
                               |#
  openconfig/lsdbparse         |#
@@ -86,4 +86,4 @@ Since 2021-08-16 11:45:57 -0700 PDT, I've been most active in openconfig/public,
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2021-10-06 09:01:13.27919882 -0700 PDT
+Last Updated: 2021-10-06 09:21:00.791629722 -0700 PDT
