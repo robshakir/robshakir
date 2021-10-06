@@ -42,17 +42,13 @@ Since 2021-08-16 11:45:57 -0700 PDT, I'm most active between 14:00-14:59 - with 
 
 
 ```
-                              |########
- openconfig/gribigo           |########
-                              |########
-
                               |####################################
  openconfig/public            |####################################
                               |####################################
 
-                              |#######################
- openconfig/goyang            |#######################
-                              |#######################
+                              |########################
+ openconfig/ygot              |########################
+                              |########################
 
                               |#
  openconfig/ondatra           |#
@@ -66,6 +62,10 @@ Since 2021-08-16 11:45:57 -0700 PDT, I'm most active between 14:00-14:59 - with 
  openconfig/catalog-server    |#
                               |#
 
+                              |########
+ openconfig/gribigo           |########
+                              |########
+
                               |#
  openconfig/lsdbparse         |#
                               |#
@@ -74,9 +74,9 @@ Since 2021-08-16 11:45:57 -0700 PDT, I'm most active between 14:00-14:59 - with 
  openconfig/gribi             |####
                               |####
 
-                              |########################
- openconfig/ygot              |########################
-                              |########################
+                              |#######################
+ openconfig/goyang            |#######################
+                              |#######################
 
 
 
@@ -86,4 +86,4 @@ Since 2021-08-16 11:45:57 -0700 PDT, I've been most active in openconfig/public,
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2021-10-06 10:20:15.798247362 -0700 PDT
+Last Updated: 2021-10-06 10:34:15.15362241 -0700 PDT
