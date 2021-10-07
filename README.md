@@ -42,21 +42,17 @@ Since 2021-08-16 18:04:16 -0700 PDT, I'm most active between 14:00-14:59 - with 
 
 
 ```
-                              |###############
- openconfig/ygot              |###############
-                              |###############
+                              |###############################
+ openconfig/goyang            |###############################
+                              |###############################
 
                               |##
  openconfig/gnmi              |##
                               |##
 
                               |#
- openconfig/catalog-server    |#
+ openconfig/lsdbparse         |#
                               |#
-
-                              |########
- openconfig/gribigo           |########
-                              |########
 
                               |#
  openconfig/oc-pyang          |#
@@ -70,17 +66,21 @@ Since 2021-08-16 18:04:16 -0700 PDT, I'm most active between 14:00-14:59 - with 
  openconfig/gribi             |####
                               |####
 
+                              |###############
+ openconfig/ygot              |###############
+                              |###############
+
                               |#
  openconfig/ondatra           |#
                               |#
 
                               |#
- openconfig/lsdbparse         |#
+ openconfig/catalog-server    |#
                               |#
 
-                              |###############################
- openconfig/goyang            |###############################
-                              |###############################
+                              |########
+ openconfig/gribigo           |########
+                              |########
 
 
 
@@ -90,4 +90,4 @@ Since 2021-08-16 18:04:16 -0700 PDT, I've been most active in openconfig/public,
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2021-10-07 09:37:41.486935607 -0700 PDT
+Last Updated: 2021-10-07 09:50:54.039326559 -0700 PDT
