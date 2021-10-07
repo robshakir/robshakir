@@ -42,9 +42,9 @@ Since 2021-08-16 18:04:16 -0700 PDT, I'm most active between 14:00-14:59 - with 
 
 
 ```
-                              |####
- openconfig/gribi             |####
-                              |####
+                              |###############
+ openconfig/ygot              |###############
+                              |###############
 
                               |#
  openconfig/ondatra           |#
@@ -54,9 +54,13 @@ Since 2021-08-16 18:04:16 -0700 PDT, I'm most active between 14:00-14:59 - with 
  openconfig/gribigo           |########
                               |########
 
-                              |###############
- openconfig/ygot              |###############
-                              |###############
+                              |#
+ openconfig/oc-pyang          |#
+                              |#
+
+                              |###############################
+ openconfig/goyang            |###############################
+                              |###############################
 
                               |##
  openconfig/gnmi              |##
@@ -70,17 +74,13 @@ Since 2021-08-16 18:04:16 -0700 PDT, I'm most active between 14:00-14:59 - with 
  openconfig/lsdbparse         |#
                               |#
 
-                              |#
- openconfig/oc-pyang          |#
-                              |#
-
-                              |###############################
- openconfig/goyang            |###############################
-                              |###############################
-
                               |####################################
  openconfig/public            |####################################
                               |####################################
+
+                              |####
+ openconfig/gribi             |####
+                              |####
 
 
 
@@ -90,4 +90,4 @@ Since 2021-08-16 18:04:16 -0700 PDT, I've been most active in openconfig/public,
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2021-10-07 06:46:08.559168641 -0700 PDT
+Last Updated: 2021-10-07 07:01:15.2468565 -0700 PDT
