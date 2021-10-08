@@ -43,12 +43,24 @@ Since 2021-08-16 18:04:16 -0700 PDT, I'm most active between 14:00-14:59 - with 
 
 ```
                               |#
+ openconfig/ondatra           |#
+                              |#
+
+                              |#
+ openconfig/catalog-server    |#
+                              |#
+
+                              |#
  openconfig/lsdbparse         |#
                               |#
 
                               |#
  openconfig/oc-pyang          |#
                               |#
+
+                              |###############################
+ openconfig/goyang            |###############################
+                              |###############################
 
                               |####
  openconfig/gribi             |####
@@ -58,25 +70,13 @@ Since 2021-08-16 18:04:16 -0700 PDT, I'm most active between 14:00-14:59 - with 
  openconfig/ygot              |###############
                               |###############
 
-                              |#
- openconfig/ondatra           |#
-                              |#
-
-                              |##
- openconfig/gnmi              |##
-                              |##
-
-                              |###############################
- openconfig/goyang            |###############################
-                              |###############################
-
                               |####################################
  openconfig/public            |####################################
                               |####################################
 
-                              |#
- openconfig/catalog-server    |#
-                              |#
+                              |##
+ openconfig/gnmi              |##
+                              |##
 
                               |########
  openconfig/gribigo           |########
@@ -90,4 +90,4 @@ Since 2021-08-16 18:04:16 -0700 PDT, I've been most active in openconfig/public,
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2021-10-07 18:39:25.754590972 -0700 PDT
+Last Updated: 2021-10-07 19:05:36.164549243 -0700 PDT
