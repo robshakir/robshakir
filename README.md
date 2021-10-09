@@ -42,6 +42,14 @@ Since 2021-08-17 10:07:32 -0700 PDT, I'm most active between 14:00-14:59 - with 
 
 
 ```
+                              |##
+ openconfig/gnmi              |##
+                              |##
+
+                              |#
+ openconfig/lsdbparse         |#
+                              |#
+
                               |###############################
  openconfig/goyang            |###############################
                               |###############################
@@ -54,33 +62,25 @@ Since 2021-08-17 10:07:32 -0700 PDT, I'm most active between 14:00-14:59 - with 
  openconfig/ondatra           |#
                               |#
 
-                              |#
- openconfig/catalog-server    |#
-                              |#
+                              |#############
+ openconfig/ygot              |#############
+                              |#############
 
                               |#
- openconfig/lsdbparse         |#
+ openconfig/catalog-server    |#
                               |#
 
                               |##########
  openconfig/gribigo           |##########
                               |##########
 
-                              |####
- openconfig/gribi             |####
-                              |####
-
-                              |#############
- openconfig/ygot              |#############
-                              |#############
-
-                              |##
- openconfig/gnmi              |##
-                              |##
-
                               |#
  openconfig/oc-pyang          |#
                               |#
+
+                              |####
+ openconfig/gribi             |####
+                              |####
 
 
 
@@ -90,4 +90,4 @@ Since 2021-08-17 10:07:32 -0700 PDT, I've been most active in openconfig/public,
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2021-10-09 16:01:14.879633106 -0700 PDT
+Last Updated: 2021-10-09 16:19:51.684555171 -0700 PDT
