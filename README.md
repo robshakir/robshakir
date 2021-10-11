@@ -42,21 +42,21 @@ Since 2021-09-13 08:56:28 -0700 PDT, I'm most active between 14:00-14:59 - with 
 
 
 ```
+                              |######
+ openconfig/gribi             |######
+                              |######
+
                               |###############################
  openconfig/goyang            |###############################
                               |###############################
 
-                              |############################
- openconfig/public            |############################
-                              |############################
+                              |#
+ openconfig/ondatra           |#
+                              |#
 
                               |########
  openconfig/ygot              |########
                               |########
-
-                              |#
- openconfig/ondatra           |#
-                              |#
 
                               |#
  openconfig/gnmi              |#
@@ -66,10 +66,6 @@ Since 2021-09-13 08:56:28 -0700 PDT, I'm most active between 14:00-14:59 - with 
  openconfig/catalog-server    |#
                               |#
 
-                              |######
- openconfig/gribi             |######
-                              |######
-
                               |#######################
  openconfig/gribigo           |#######################
                               |#######################
@@ -77,6 +73,10 @@ Since 2021-09-13 08:56:28 -0700 PDT, I'm most active between 14:00-14:59 - with 
                               |#
  openconfig/oc-pyang          |#
                               |#
+
+                              |############################
+ openconfig/public            |############################
+                              |############################
 
 
 
@@ -86,4 +86,4 @@ Since 2021-09-13 08:56:28 -0700 PDT, I've been most active in openconfig/goyang,
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2021-10-11 06:21:00.932174982 -0700 PDT
+Last Updated: 2021-10-11 06:34:05.000226471 -0700 PDT
