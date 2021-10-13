@@ -42,14 +42,6 @@ Since 2021-09-29 14:30:42 -0700 PDT, I'm most active between 09:00-09:59 - with 
 
 
 ```
-                        |##
- openconfig/public      |##
-                        |##
-
-                        |###
- openconfig/ygot        |###
-                        |###
-
                         |########################
  openconfig/gribi       |########################
                         |########################
@@ -66,6 +58,14 @@ Since 2021-09-29 14:30:42 -0700 PDT, I'm most active between 09:00-09:59 - with 
  openconfig/goyang      |#########################
                         |#########################
 
+                        |##
+ openconfig/public      |##
+                        |##
+
+                        |###
+ openconfig/ygot        |###
+                        |###
+
 
 
 Since 2021-09-29 14:30:42 -0700 PDT, I've been most active in openconfig/gribigo, with 45 events.
@@ -74,4 +74,4 @@ Since 2021-09-29 14:30:42 -0700 PDT, I've been most active in openconfig/gribigo
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2021-10-13 04:30:57.398557555 -0700 PDT
+Last Updated: 2021-10-13 04:45:59.787876801 -0700 PDT
