@@ -43,20 +43,20 @@ Since 2021-10-06 17:41:05 -0700 PDT, I'm most active between 10:00-10:59 - with 
 
 ```
                         |#
- openconfig/gnmitest    |#
-                        |#
-
-                        |#######################
- openconfig/gribi       |#######################
-                        |#######################
-
-                        |#
  openconfig/oc-pyang    |#
                         |#
 
                         |###########################################################################
  openconfig/gribigo     |###########################################################################
                         |###########################################################################
+
+                        |#
+ openconfig/gnmitest    |#
+                        |#
+
+                        |#######################
+ openconfig/gribi       |#######################
+                        |#######################
 
 
 
@@ -66,4 +66,4 @@ Since 2021-10-06 17:41:05 -0700 PDT, I've been most active in openconfig/gribigo
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2021-10-13 17:43:58.674828077 -0700 PDT
+Last Updated: 2021-10-13 18:10:44.098772348 -0700 PDT
