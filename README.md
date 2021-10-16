@@ -42,10 +42,6 @@ Since 2021-10-12 04:25:15 -0700 PDT, I'm most active between 10:00-10:59 - with 
 
 
 ```
-                        |#
- openconfig/gnmitest    |#
-                        |#
-
                         |################################
  openconfig/gribi       |################################
                         |################################
@@ -58,6 +54,10 @@ Since 2021-10-12 04:25:15 -0700 PDT, I'm most active between 10:00-10:59 - with 
  openconfig/gribigo     |###########################################
                         |###########################################
 
+                        |#
+ openconfig/gnmitest    |#
+                        |#
+
 
 
 Since 2021-10-12 04:25:15 -0700 PDT, I've been most active in openconfig/gribigo, with 43 events.
@@ -66,4 +66,4 @@ Since 2021-10-12 04:25:15 -0700 PDT, I've been most active in openconfig/gribigo
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2021-10-16 16:01:27.668232805 -0700 PDT
+Last Updated: 2021-10-16 16:20:00.753387791 -0700 PDT
