@@ -42,10 +42,6 @@ Since 2021-10-21 03:12:36 -0700 PDT, I'm most active between 03:00-03:59 - with 
 
 
 ```
-                         |#######
- openconfig/gnoi         |#######
-                         |#######
-
                          |#
  robshakir/public        |#
                          |#
@@ -70,6 +66,10 @@ Since 2021-10-21 03:12:36 -0700 PDT, I'm most active between 03:00-03:59 - with 
  openconfig/ygot         |#########################
                          |#########################
 
+                         |#######
+ openconfig/gnoi         |#######
+                         |#######
+
 
 
 Since 2021-10-21 03:12:36 -0700 PDT, I've been most active in openconfig/gribigo, with 42 events.
@@ -78,4 +78,4 @@ Since 2021-10-21 03:12:36 -0700 PDT, I've been most active in openconfig/gribigo
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2021-11-15 23:19:53.169122937 -0800 PST
+Last Updated: 2021-11-15 23:31:35.851994208 -0800 PST
