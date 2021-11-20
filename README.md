@@ -42,10 +42,6 @@ Since 2021-10-28 07:14:50 -0700 PDT, I'm most active between 17:00-17:59 - with 
 
 
 ```
-                       |#####################
- openconfig/public     |#####################
-                       |#####################
-
                        |#
  bio-routing/bio-rd    |#
                        |#
@@ -70,6 +66,10 @@ Since 2021-10-28 07:14:50 -0700 PDT, I'm most active between 17:00-17:59 - with 
  openconfig/gribigo    |########################################
                        |########################################
 
+                       |#####################
+ openconfig/public     |#####################
+                       |#####################
+
 
 
 Since 2021-10-28 07:14:50 -0700 PDT, I've been most active in openconfig/gribigo, with 40 events.
@@ -78,4 +78,4 @@ Since 2021-10-28 07:14:50 -0700 PDT, I've been most active in openconfig/gribigo
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2021-11-20 00:46:59.771003282 -0800 PST
+Last Updated: 2021-11-20 01:01:21.684938263 -0800 PST
