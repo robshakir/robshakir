@@ -42,6 +42,18 @@ Since 2021-12-29 10:28:14 -0800 PST, I'm most active between 12:00-12:59 - with 
 
 
 ```
+                       |#################
+ openconfig/ygot       |#################
+                       |#################
+
+                       |###########################
+ openconfig/public     |###########################
+                       |###########################
+
+                       |##################################
+ openconfig/goyang     |##################################
+                       |##################################
+
                        |##
  openconfig/gribi      |##
                        |##
@@ -58,18 +70,6 @@ Since 2021-12-29 10:28:14 -0800 PST, I'm most active between 12:00-12:59 - with 
  openconfig/gribigo    |##################
                        |##################
 
-                       |#################
- openconfig/ygot       |#################
-                       |#################
-
-                       |###########################
- openconfig/public     |###########################
-                       |###########################
-
-                       |##################################
- openconfig/goyang     |##################################
-                       |##################################
-
 
 
 Since 2021-12-29 10:28:14 -0800 PST, I've been most active in openconfig/goyang, with 34 events.
@@ -78,4 +78,4 @@ Since 2021-12-29 10:28:14 -0800 PST, I've been most active in openconfig/goyang,
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2022-01-14 10:49:55.945815804 -0800 PST
+Last Updated: 2022-01-14 11:01:10.876882235 -0800 PST
