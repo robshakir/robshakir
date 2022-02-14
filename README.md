@@ -42,6 +42,10 @@ Since 2022-01-31 09:12:41 -0800 PST, I'm most active between 08:00-08:59 - with 
 
 
 ```
+                       |###################
+ openconfig/public     |###################
+                       |###################
+
                        |##
  openconfig/goyang     |##
                        |##
@@ -66,10 +70,6 @@ Since 2022-01-31 09:12:41 -0800 PST, I'm most active between 08:00-08:59 - with 
  openconfig/gnoi       |####
                        |####
 
-                       |###################
- openconfig/public     |###################
-                       |###################
-
 
 
 Since 2022-01-31 09:12:41 -0800 PST, I've been most active in openconfig/gribigo, with 71 events.
@@ -78,4 +78,4 @@ Since 2022-01-31 09:12:41 -0800 PST, I've been most active in openconfig/gribigo
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2022-02-14 00:01:31.435295158 -0800 PST
+Last Updated: 2022-02-14 00:20:34.972480588 -0800 PST
