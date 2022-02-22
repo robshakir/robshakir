@@ -42,9 +42,21 @@ Since 2022-02-03 08:50:21 -0800 PST, I'm most active between 07:00-07:59 - with 
 
 
 ```
+                              |#############################
+ openconfig/reference         |#############################
+                              |#############################
+
+                              |##
+ openconfig/ygot              |##
+                              |##
+
                               |######
  openconfig/gribi             |######
                               |######
+
+                              |##
+ openconfig/goyang            |##
+                              |##
 
                               |#
  robshakir/public             |#
@@ -66,18 +78,6 @@ Since 2022-02-03 08:50:21 -0800 PST, I'm most active between 07:00-07:59 - with 
  openconfig/public            |##########################
                               |##########################
 
-                              |##
- openconfig/goyang            |##
-                              |##
-
-                              |#############################
- openconfig/reference         |#############################
-                              |#############################
-
-                              |##
- openconfig/ygot              |##
-                              |##
-
                               |############################
  openconfig/gribigo           |############################
                               |############################
@@ -90,4 +90,4 @@ Since 2022-02-03 08:50:21 -0800 PST, I've been most active in openconfig/referen
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2022-02-22 08:01:41.866645418 -0800 PST
+Last Updated: 2022-02-22 08:21:07.306187512 -0800 PST
