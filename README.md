@@ -42,14 +42,6 @@ Since 2022-02-10 04:33:42 -0800 PST, I'm most active between 07:00-07:59 - with 
 
 
 ```
-                               |#####
- openconfig/gribi              |#####
-                               |#####
-
-                               |##
- openconfig/goyang             |##
-                               |##
-
                                |##############
  openconfig/featureprofiles    |##############
                                |##############
@@ -57,6 +49,18 @@ Since 2022-02-10 04:33:42 -0800 PST, I'm most active between 07:00-07:59 - with 
                                |####################################
  openconfig/public             |####################################
                                |####################################
+
+                               |#####
+ openconfig/gribi              |#####
+                               |#####
+
+                               |#
+ robshakir/public              |#
+                               |#
+
+                               |###
+ openconfig/ygot               |###
+                               |###
 
                                |#############################
  openconfig/reference          |#############################
@@ -70,17 +74,13 @@ Since 2022-02-10 04:33:42 -0800 PST, I'm most active between 07:00-07:59 - with 
  robshakir/docker-grpc-cpp     |#
                                |#
 
-                               |###
- openconfig/ygot               |###
-                               |###
-
                                |######
  openconfig/gribigo            |######
                                |######
 
-                               |#
- robshakir/public              |#
-                               |#
+                               |##
+ openconfig/goyang             |##
+                               |##
 
 
 
@@ -90,4 +90,4 @@ Since 2022-02-10 04:33:42 -0800 PST, I've been most active in openconfig/public,
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2022-02-23 04:01:20.707325995 -0800 PST
+Last Updated: 2022-02-23 04:21:40.937828454 -0800 PST
