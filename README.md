@@ -42,37 +42,21 @@ Since 2022-02-03 12:37:30 -0800 PST, I'm most active between 07:00-07:59 - with 
 
 
 ```
-                               |##################
- openconfig/gribigo            |##################
-                               |##################
-
-                               |##
- openconfig/goyang             |##
-                               |##
-
-                               |#
- robshakir/public              |#
-                               |#
-
-                               |###
- openconfig/ygot               |###
-                               |###
-
-                               |##
- openconfig/featureprofiles    |##
-                               |##
-
-                               |#####
- openconfig/gribi              |#####
-                               |#####
+                               |####################################
+ openconfig/public             |####################################
+                               |####################################
 
                                |#
  robshakir/docker-grpc-cpp     |#
                                |#
 
-                               |####################################
- openconfig/public             |####################################
-                               |####################################
+                               |##
+ openconfig/goyang             |##
+                               |##
+
+                               |##
+ openconfig/featureprofiles    |##
+                               |##
 
                                |#############################
  openconfig/reference          |#############################
@@ -80,6 +64,22 @@ Since 2022-02-03 12:37:30 -0800 PST, I'm most active between 07:00-07:59 - with 
 
                                |###
  coryan/docker-grpc-cpp        |###
+                               |###
+
+                               |#####
+ openconfig/gribi              |#####
+                               |#####
+
+                               |##################
+ openconfig/gribigo            |##################
+                               |##################
+
+                               |#
+ robshakir/public              |#
+                               |#
+
+                               |###
+ openconfig/ygot               |###
                                |###
 
 
@@ -90,4 +90,4 @@ Since 2022-02-03 12:37:30 -0800 PST, I've been most active in openconfig/public,
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2022-02-22 16:44:49.045020495 -0800 PST
+Last Updated: 2022-02-22 17:12:08.032740899 -0800 PST
