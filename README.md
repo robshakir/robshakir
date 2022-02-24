@@ -42,6 +42,10 @@ Since 2022-02-10 13:27:42 -0800 PST, I'm most active between 07:00-07:59 - with 
 
 
 ```
+                               |###################################
+ openconfig/public             |###################################
+                               |###################################
+
                                |#############################
  openconfig/reference          |#############################
                                |#############################
@@ -54,22 +58,6 @@ Since 2022-02-10 13:27:42 -0800 PST, I'm most active between 07:00-07:59 - with 
  robshakir/docker-grpc-cpp     |#
                                |#
 
-                               |#
- openconfig/goyang             |#
-                               |#
-
-                               |#################
- openconfig/featureprofiles    |#################
-                               |#################
-
-                               |###
- openconfig/ygot               |###
-                               |###
-
-                               |###################################
- openconfig/public             |###################################
-                               |###################################
-
                                |#####
  openconfig/gribi              |#####
                                |#####
@@ -77,6 +65,18 @@ Since 2022-02-10 13:27:42 -0800 PST, I'm most active between 07:00-07:59 - with 
                                |######
  openconfig/gribigo            |######
                                |######
+
+                               |###
+ openconfig/ygot               |###
+                               |###
+
+                               |#
+ openconfig/goyang             |#
+                               |#
+
+                               |#################
+ openconfig/featureprofiles    |#################
+                               |#################
 
 
 
@@ -86,4 +86,4 @@ Since 2022-02-10 13:27:42 -0800 PST, I've been most active in openconfig/public,
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2022-02-23 22:20:46.24710003 -0800 PST
+Last Updated: 2022-02-23 22:35:18.880539251 -0800 PST
