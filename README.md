@@ -42,14 +42,6 @@ Since 2022-02-10 13:27:42 -0800 PST, I'm most active between 07:00-07:59 - with 
 
 
 ```
-                               |###
- openconfig/ygot               |###
-                               |###
-
-                               |#############################
- openconfig/reference          |#############################
-                               |#############################
-
                                |#
  robshakir/docker-grpc-cpp     |#
                                |#
@@ -63,6 +55,18 @@ Since 2022-02-10 13:27:42 -0800 PST, I'm most active between 07:00-07:59 - with 
                                |#################
 
                                |###
+ openconfig/ygot               |###
+                               |###
+
+                               |###################################
+ openconfig/public             |###################################
+                               |###################################
+
+                               |#############################
+ openconfig/reference          |#############################
+                               |#############################
+
+                               |###
  coryan/docker-grpc-cpp        |###
                                |###
 
@@ -74,10 +78,6 @@ Since 2022-02-10 13:27:42 -0800 PST, I'm most active between 07:00-07:59 - with 
  openconfig/goyang             |#
                                |#
 
-                               |###################################
- openconfig/public             |###################################
-                               |###################################
-
 
 
 Since 2022-02-10 13:27:42 -0800 PST, I've been most active in openconfig/public, with 35 events.
@@ -86,4 +86,4 @@ Since 2022-02-10 13:27:42 -0800 PST, I've been most active in openconfig/public,
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2022-02-24 14:20:25.550597902 -0800 PST
+Last Updated: 2022-02-24 14:32:57.790982498 -0800 PST
