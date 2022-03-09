@@ -47,22 +47,6 @@ Since 2022-02-22 17:21:47 -0800 PST, I'm most active between 13:00-13:59 - with 
                                |###
 
                                |##
- openconfig/gocloser           |##
-                               |##
-
-                               |##################
- openconfig/lemming            |##################
-                               |##################
-
-                               |############
- openconfig/gribi              |############
-                               |############
-
-                               |#################
- openconfig/featureprofiles    |#################
-                               |#################
-
-                               |##
  openconfig/testt              |##
                                |##
 
@@ -70,13 +54,29 @@ Since 2022-02-22 17:21:47 -0800 PST, I'm most active between 13:00-13:59 - with 
  openconfig/goyang             |#
                                |#
 
+                               |#####################
+ openconfig/public             |#####################
+                               |#####################
+
+                               |#################
+ openconfig/featureprofiles    |#################
+                               |#################
+
+                               |##
+ openconfig/gocloser           |##
+                               |##
+
+                               |##################
+ openconfig/lemming            |##################
+                               |##################
+
                                |########################
  openconfig/gribigo            |########################
                                |########################
 
-                               |#####################
- openconfig/public             |#####################
-                               |#####################
+                               |############
+ openconfig/gribi              |############
+                               |############
 
 
 
@@ -86,4 +86,4 @@ Since 2022-02-22 17:21:47 -0800 PST, I've been most active in openconfig/gribigo
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2022-03-09 04:53:00.302344649 -0800 PST
+Last Updated: 2022-03-09 05:05:05.080700265 -0800 PST
