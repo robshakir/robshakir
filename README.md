@@ -42,6 +42,10 @@ Since 2022-03-01 14:19:08 -0800 PST, I'm most active between 09:00-09:59 - with 
 
 
 ```
+                        |##################
+ openconfig/lemming     |##################
+                        |##################
+
                         |#
  openconfig/goyang      |#
                         |#
@@ -70,10 +74,6 @@ Since 2022-03-01 14:19:08 -0800 PST, I'm most active between 09:00-09:59 - with 
  openconfig/gocloser    |##
                         |##
 
-                        |##################
- openconfig/lemming     |##################
-                        |##################
-
 
 
 Since 2022-03-01 14:19:08 -0800 PST, I've been most active in openconfig/gribigo, with 40 events.
@@ -82,4 +82,4 @@ Since 2022-03-01 14:19:08 -0800 PST, I've been most active in openconfig/gribigo
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2022-03-14 20:02:43.100061322 -0700 PDT
+Last Updated: 2022-03-14 20:20:21.571096505 -0700 PDT
