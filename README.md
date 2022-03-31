@@ -42,22 +42,6 @@ Since 2022-03-04 14:06:39 -0800 PST, I'm most active between 14:00-14:59 - with 
 
 
 ```
-                               |#
- openconfig/gribi              |#
-                               |#
-
-                               |##
- openconfig/testt              |##
-                               |##
-
-                               |################################
- openconfig/gribigo            |################################
-                               |################################
-
-                               |####################
- openconfig/public             |####################
-                               |####################
-
                                |###########################
  openconfig/ygot               |###########################
                                |###########################
@@ -74,6 +58,26 @@ Since 2022-03-04 14:06:39 -0800 PST, I'm most active between 14:00-14:59 - with 
  omec-project/gnbsim           |#
                                |#
 
+                               |#
+ openconfig/lsdbparse          |#
+                               |#
+
+                               |#
+ openconfig/gnmi               |#
+                               |#
+
+                               |####################
+ openconfig/public             |####################
+                               |####################
+
+                               |#
+ openconfig/gribi              |#
+                               |#
+
+                               |##
+ openconfig/testt              |##
+                               |##
+
                                |##
  openconfig/gocloser           |##
                                |##
@@ -82,13 +86,9 @@ Since 2022-03-04 14:06:39 -0800 PST, I'm most active between 14:00-14:59 - with 
  openconfig/lemming            |###########
                                |###########
 
-                               |#
- openconfig/lsdbparse          |#
-                               |#
-
-                               |#
- openconfig/gnmi               |#
-                               |#
+                               |################################
+ openconfig/gribigo            |################################
+                               |################################
 
 
 
@@ -98,4 +98,4 @@ Since 2022-03-04 14:06:39 -0800 PST, I've been most active in openconfig/gribigo
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2022-03-31 14:45:53.768478897 -0700 PDT
+Last Updated: 2022-03-31 15:01:06.177039758 -0700 PDT
