@@ -42,9 +42,17 @@ Since 2022-03-04 14:06:39 -0800 PST, I'm most active between 14:00-14:59 - with 
 
 
 ```
+                               |####################
+ openconfig/public             |####################
+                               |####################
+
                                |###########################
  openconfig/ygot               |###########################
                                |###########################
+
+                               |#
+ openconfig/gribi              |#
+                               |#
 
                                |#
  p4lang/p4runtime              |#
@@ -63,19 +71,15 @@ Since 2022-03-04 14:06:39 -0800 PST, I'm most active between 14:00-14:59 - with 
                                |###########
 
                                |#
+ openconfig/gnmi               |#
+                               |#
+
+                               |#
  openconfig/lsdbparse          |#
                                |#
 
-                               |####################
- openconfig/public             |####################
-                               |####################
-
                                |#
  openconfig/featureprofiles    |#
-                               |#
-
-                               |#
- openconfig/gribi              |#
                                |#
 
                                |#
@@ -86,10 +90,6 @@ Since 2022-03-04 14:06:39 -0800 PST, I'm most active between 14:00-14:59 - with 
  openconfig/gribigo            |################################
                                |################################
 
-                               |#
- openconfig/gnmi               |#
-                               |#
-
 
 
 Since 2022-03-04 14:06:39 -0800 PST, I've been most active in openconfig/gribigo, with 32 events.
@@ -98,4 +98,4 @@ Since 2022-03-04 14:06:39 -0800 PST, I've been most active in openconfig/gribigo
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2022-04-03 00:00:54.805306608 -0700 PDT
+Last Updated: 2022-04-03 00:19:51.928609714 -0700 PDT
