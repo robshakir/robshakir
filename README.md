@@ -42,14 +42,6 @@ Since 2022-03-04 12:48:13 -0800 PST, I'm most active between 14:00-14:59 - with 
 
 
 ```
-                               |################################
- openconfig/gribigo            |################################
-                               |################################
-
-                               |#
- openconfig/gnmi               |#
-                               |#
-
                                |####################
  openconfig/public             |####################
                                |####################
@@ -57,6 +49,34 @@ Since 2022-03-04 12:48:13 -0800 PST, I'm most active between 14:00-14:59 - with 
                                |###########################
  openconfig/ygot               |###########################
                                |###########################
+
+                               |#
+ openconfig/featureprofiles    |#
+                               |#
+
+                               |#
+ p4lang/p4runtime              |#
+                               |#
+
+                               |#
+ omec-project/gnbsim           |#
+                               |#
+
+                               |################################
+ openconfig/gribigo            |################################
+                               |################################
+
+                               |#
+ openconfig/lsdbparse          |#
+                               |#
+
+                               |#
+ openconfig/gnmi               |#
+                               |#
+
+                               |#
+ openconfig/gribi              |#
+                               |#
 
                                |##
  openconfig/testt              |##
@@ -70,26 +90,6 @@ Since 2022-03-04 12:48:13 -0800 PST, I'm most active between 14:00-14:59 - with 
  openconfig/lemming            |###########
                                |###########
 
-                               |#
- openconfig/lsdbparse          |#
-                               |#
-
-                               |#
- openconfig/featureprofiles    |#
-                               |#
-
-                               |#
- openconfig/gribi              |#
-                               |#
-
-                               |#
- p4lang/p4runtime              |#
-                               |#
-
-                               |#
- omec-project/gnbsim           |#
-                               |#
-
 
 
 Since 2022-03-04 12:48:13 -0800 PST, I've been most active in openconfig/gribigo, with 32 events.
@@ -98,4 +98,4 @@ Since 2022-03-04 12:48:13 -0800 PST, I've been most active in openconfig/gribigo
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2022-04-07 02:45:54.630881743 -0700 PDT
+Last Updated: 2022-04-07 03:01:31.757522024 -0700 PDT
