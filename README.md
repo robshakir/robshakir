@@ -42,18 +42,6 @@ Since 2022-03-04 12:48:13 -0800 PST, I'm most active between 14:00-14:59 - with 
 
 
 ```
-                               |#
- openconfig/gribi              |#
-                               |#
-
-                               |##
- openconfig/testt              |##
-                               |##
-
-                               |###########
- openconfig/lemming            |###########
-                               |###########
-
                                |################################
  openconfig/gribigo            |################################
                                |################################
@@ -66,17 +54,29 @@ Since 2022-03-04 12:48:13 -0800 PST, I'm most active between 14:00-14:59 - with 
  openconfig/gnmi               |#
                                |#
 
-                               |####################
- openconfig/public             |####################
-                               |####################
+                               |#
+ openconfig/featureprofiles    |#
+                               |#
+
+                               |#
+ openconfig/gribi              |#
+                               |#
+
+                               |##
+ openconfig/testt              |##
+                               |##
+
+                               |##
+ openconfig/gocloser           |##
+                               |##
+
+                               |###########
+ openconfig/lemming            |###########
+                               |###########
 
                                |###########################
  openconfig/ygot               |###########################
                                |###########################
-
-                               |#
- openconfig/featureprofiles    |#
-                               |#
 
                                |#
  p4lang/p4runtime              |#
@@ -86,9 +86,9 @@ Since 2022-03-04 12:48:13 -0800 PST, I'm most active between 14:00-14:59 - with 
  omec-project/gnbsim           |#
                                |#
 
-                               |##
- openconfig/gocloser           |##
-                               |##
+                               |####################
+ openconfig/public             |####################
+                               |####################
 
 
 
@@ -98,4 +98,4 @@ Since 2022-03-04 12:48:13 -0800 PST, I've been most active in openconfig/gribigo
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2022-04-08 02:32:59.636938887 -0700 PDT
+Last Updated: 2022-04-08 02:46:00.693928227 -0700 PDT
