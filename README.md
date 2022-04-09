@@ -46,6 +46,22 @@ Since 2022-03-09 14:44:07 -0800 PST, I'm most active between 14:00-14:59 - with 
  openconfig/lemming            |###
                                |###
 
+                               |###################################
+ openconfig/ygot               |###################################
+                               |###################################
+
+                               |#
+ openconfig/gnmi               |#
+                               |#
+
+                               |###############
+ openconfig/public             |###############
+                               |###############
+
+                               |#
+ omec-project/gnbsim           |#
+                               |#
+
                                |#################
  openconfig/gribi              |#################
                                |#################
@@ -59,27 +75,11 @@ Since 2022-03-09 14:44:07 -0800 PST, I'm most active between 14:00-14:59 - with 
                                |#
 
                                |#
- openconfig/gnmi               |#
+ openconfig/featureprofiles    |#
                                |#
 
                                |#
  p4lang/p4runtime              |#
-                               |#
-
-                               |#
- omec-project/gnbsim           |#
-                               |#
-
-                               |###################################
- openconfig/ygot               |###################################
-                               |###################################
-
-                               |###############
- openconfig/public             |###############
-                               |###############
-
-                               |#
- openconfig/featureprofiles    |#
                                |#
 
 
@@ -90,4 +90,4 @@ Since 2022-03-09 14:44:07 -0800 PST, I've been most active in openconfig/ygot, w
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2022-04-08 22:31:00.959544509 -0700 PDT
+Last Updated: 2022-04-08 22:45:54.85399783 -0700 PDT
