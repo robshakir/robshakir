@@ -43,32 +43,12 @@ Since 2022-03-09 14:44:07 -0800 PST, I'm most active between 14:00-14:59 - with 
 
 ```
                                |#
- p4lang/p4runtime              |#
-                               |#
-
-                               |###
- openconfig/lemming            |###
-                               |###
-
-                               |#
- openconfig/lsdbparse          |#
-                               |#
-
-                               |#
  openconfig/gnmi               |#
                                |#
 
                                |###############
  openconfig/public             |###############
                                |###############
-
-                               |#
- openconfig/featureprofiles    |#
-                               |#
-
-                               |#################
- openconfig/gribi              |#################
-                               |#################
 
                                |###################################
  openconfig/ygot               |###################################
@@ -79,8 +59,28 @@ Since 2022-03-09 14:44:07 -0800 PST, I'm most active between 14:00-14:59 - with 
                                |#########################
 
                                |#
+ openconfig/lsdbparse          |#
+                               |#
+
+                               |#
+ openconfig/featureprofiles    |#
+                               |#
+
+                               |#
+ p4lang/p4runtime              |#
+                               |#
+
+                               |#
  omec-project/gnbsim           |#
                                |#
+
+                               |###
+ openconfig/lemming            |###
+                               |###
+
+                               |#################
+ openconfig/gribi              |#################
+                               |#################
 
 
 
@@ -90,4 +90,4 @@ Since 2022-03-09 14:44:07 -0800 PST, I've been most active in openconfig/ygot, w
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2022-04-08 17:23:34.01520696 -0700 PDT
+Last Updated: 2022-04-08 17:44:58.773131785 -0700 PDT
