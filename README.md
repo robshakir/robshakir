@@ -43,28 +43,16 @@ Since 2022-03-09 14:44:07 -0800 PST, I'm most active between 14:00-14:59 - with 
 
 ```
                                |#
- openconfig/featureprofiles    |#
-                               |#
-
-                               |###
- openconfig/lemming            |###
-                               |###
-
-                               |#################
- openconfig/gribi              |#################
-                               |#################
-
-                               |#
- openconfig/lsdbparse          |#
-                               |#
-
-                               |#
- openconfig/gnmi               |#
+ p4lang/p4runtime              |#
                                |#
 
                                |###############
  openconfig/public             |###############
                                |###############
+
+                               |#################
+ openconfig/gribi              |#################
+                               |#################
 
                                |###################################
  openconfig/ygot               |###################################
@@ -75,12 +63,24 @@ Since 2022-03-09 14:44:07 -0800 PST, I'm most active between 14:00-14:59 - with 
                                |#########################
 
                                |#
- p4lang/p4runtime              |#
+ openconfig/lsdbparse          |#
+                               |#
+
+                               |#
+ openconfig/gnmi               |#
+                               |#
+
+                               |#
+ openconfig/featureprofiles    |#
                                |#
 
                                |#
  omec-project/gnbsim           |#
                                |#
+
+                               |###
+ openconfig/lemming            |###
+                               |###
 
 
 
@@ -90,4 +90,4 @@ Since 2022-03-09 14:44:07 -0800 PST, I've been most active in openconfig/ygot, w
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2022-04-10 16:33:06.710742156 -0700 PDT
+Last Updated: 2022-04-10 16:45:47.449949015 -0700 PDT
