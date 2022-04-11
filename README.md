@@ -42,18 +42,6 @@ Since 2022-03-09 14:44:07 -0800 PST, I'm most active between 14:00-14:59 - with 
 
 
 ```
-                               |###
- openconfig/lemming            |###
-                               |###
-
-                               |###################################
- openconfig/ygot               |###################################
-                               |###################################
-
-                               |#
- openconfig/gnmi               |#
-                               |#
-
                                |#################
  openconfig/gribi              |#################
                                |#################
@@ -69,6 +57,18 @@ Since 2022-03-09 14:44:07 -0800 PST, I'm most active between 14:00-14:59 - with 
                                |###############
  openconfig/public             |###############
                                |###############
+
+                               |###
+ openconfig/lemming            |###
+                               |###
+
+                               |###################################
+ openconfig/ygot               |###################################
+                               |###################################
+
+                               |#
+ openconfig/gnmi               |#
+                               |#
 
                                |#
  openconfig/featureprofiles    |#
@@ -90,4 +90,4 @@ Since 2022-03-09 14:44:07 -0800 PST, I've been most active in openconfig/ygot, w
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2022-04-11 16:20:22.460115772 -0700 PDT
+Last Updated: 2022-04-11 16:33:42.806818788 -0700 PDT
