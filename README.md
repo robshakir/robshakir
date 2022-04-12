@@ -51,6 +51,10 @@ Since 2022-03-09 14:48:57 -0800 PST, I'm most active between 13:00-13:59 - with 
                                |#
 
                                |#
+ openconfig/featureprofiles    |#
+                               |#
+
+                               |#
  omec-project/gnbsim           |#
                                |#
 
@@ -58,28 +62,24 @@ Since 2022-03-09 14:48:57 -0800 PST, I'm most active between 13:00-13:59 - with 
  openconfig/gribi              |#######################
                                |#######################
 
+                               |###
+ openconfig/lemming            |###
+                               |###
+
                                |###################################
  openconfig/ygot               |###################################
                                |###################################
+
+                               |#
+ openconfig/gnmi               |#
+                               |#
 
                                |#########
  openconfig/public             |#########
                                |#########
 
                                |#
- openconfig/featureprofiles    |#
-                               |#
-
-                               |#
  p4lang/p4runtime              |#
-                               |#
-
-                               |###
- openconfig/lemming            |###
-                               |###
-
-                               |#
- openconfig/gnmi               |#
                                |#
 
 
@@ -90,4 +90,4 @@ Since 2022-03-09 14:48:57 -0800 PST, I've been most active in openconfig/ygot, w
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2022-04-12 16:33:10.071350325 -0700 PDT
+Last Updated: 2022-04-12 16:45:54.114146882 -0700 PDT
