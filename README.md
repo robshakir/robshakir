@@ -42,28 +42,8 @@ Since 2022-03-12 04:27:34 -0800 PST, I'm most active between 13:00-13:59 - with 
 
 
 ```
-                               |####
- openconfig/public             |####
-                               |####
-
-                               |#
- openconfig/featureprofiles    |#
-                               |#
-
-                               |########################
- openconfig/gribi              |########################
-                               |########################
-
-                               |#########################################
- openconfig/ygot               |#########################################
-                               |#########################################
-
                                |#
  openconfig/gnmi               |#
-                               |#
-
-                               |#
- p4lang/p4runtime              |#
                                |#
 
                                |#
@@ -74,6 +54,22 @@ Since 2022-03-12 04:27:34 -0800 PST, I'm most active between 13:00-13:59 - with 
  openconfig/lemming            |######
                                |######
 
+                               |########################
+ openconfig/gribi              |########################
+                               |########################
+
+                               |#########################################
+ openconfig/ygot               |#########################################
+                               |#########################################
+
+                               |#
+ openconfig/featureprofiles    |#
+                               |#
+
+                               |#
+ p4lang/p4runtime              |#
+                               |#
+
                                |####################
  openconfig/gribigo            |####################
                                |####################
@@ -81,6 +77,10 @@ Since 2022-03-12 04:27:34 -0800 PST, I'm most active between 13:00-13:59 - with 
                                |#
  openconfig/lsdbparse          |#
                                |#
+
+                               |####
+ openconfig/public             |####
+                               |####
 
 
 
@@ -90,4 +90,4 @@ Since 2022-03-12 04:27:34 -0800 PST, I've been most active in openconfig/ygot, w
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2022-04-16 08:47:07.264551669 -0700 PDT
+Last Updated: 2022-04-16 09:01:09.913980837 -0700 PDT
