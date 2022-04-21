@@ -43,28 +43,16 @@ Since 2022-03-23 05:20:43 -0700 PDT, I'm most active between 11:00-11:59 - with 
 
 ```
                                |#
+ openconfig/gnmi               |#
+                               |#
+
+                               |#
  p4lang/p4runtime              |#
                                |#
 
                                |#
  omec-project/gnbsim           |#
                                |#
-
-                               |#
- openconfig/lsdbparse          |#
-                               |#
-
-                               |#
- openconfig/gnmi               |#
-                               |#
-
-                               |#
- openconfig/featureprofiles    |#
-                               |#
-
-                               |######################################
- openconfig/ygot               |######################################
-                               |######################################
 
                                |####################
  openconfig/public             |####################
@@ -78,9 +66,21 @@ Since 2022-03-23 05:20:43 -0700 PDT, I'm most active between 11:00-11:59 - with 
  openconfig/gribi              |########################
                                |########################
 
+                               |#
+ openconfig/lsdbparse          |#
+                               |#
+
+                               |######################################
+ openconfig/ygot               |######################################
+                               |######################################
+
                                |#######
  openconfig/gribigo            |#######
                                |#######
+
+                               |#
+ openconfig/featureprofiles    |#
+                               |#
 
 
 
@@ -90,4 +90,4 @@ Since 2022-03-23 05:20:43 -0700 PDT, I've been most active in openconfig/ygot, w
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2022-04-20 17:25:35.519232126 -0700 PDT
+Last Updated: 2022-04-20 17:45:45.861429367 -0700 PDT
