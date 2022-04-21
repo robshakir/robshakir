@@ -42,10 +42,6 @@ Since 2022-03-23 05:26:07 -0700 PDT, I'm most active between 11:00-11:59 - with 
 
 
 ```
-                                |######
- openconfig/lemming             |######
-                                |######
-
                                 |#####
  openconfig/gribigo             |#####
                                 |#####
@@ -55,27 +51,11 @@ Since 2022-03-23 05:26:07 -0700 PDT, I'm most active between 11:00-11:59 - with 
                                 |#
 
                                 |#
- omec-project/gnbsim            |#
-                                |#
-
-                                |########################
- openconfig/gribi               |########################
-                                |########################
-
-                                |#
  openconfig/gnmi                |#
                                 |#
 
                                 |#
  p4lang/p4runtime               |#
-                                |#
-
-                                |######################################
- openconfig/ygot                |######################################
-                                |######################################
-
-                                |#
- networkop/kubernetes-on-eos    |#
                                 |#
 
                                 |##
@@ -86,6 +66,26 @@ Since 2022-03-23 05:26:07 -0700 PDT, I'm most active between 11:00-11:59 - with 
  openconfig/public              |####################
                                 |####################
 
+                                |######
+ openconfig/lemming             |######
+                                |######
+
+                                |########################
+ openconfig/gribi               |########################
+                                |########################
+
+                                |######################################
+ openconfig/ygot                |######################################
+                                |######################################
+
+                                |#
+ networkop/kubernetes-on-eos    |#
+                                |#
+
+                                |#
+ omec-project/gnbsim            |#
+                                |#
+
 
 
 Since 2022-03-23 05:26:07 -0700 PDT, I've been most active in openconfig/ygot, with 38 events.
@@ -94,4 +94,4 @@ Since 2022-03-23 05:26:07 -0700 PDT, I've been most active in openconfig/ygot, w
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2022-04-21 16:20:12.833182173 -0700 PDT
+Last Updated: 2022-04-21 16:31:36.501679202 -0700 PDT
