@@ -50,18 +50,6 @@ Since 2022-03-23 05:26:07 -0700 PDT, I'm most active between 11:00-11:59 - with 
  openconfig/lemming             |######
                                 |######
 
-                                |#
- openconfig/gnmi                |#
-                                |#
-
-                                |#
- networkop/kubernetes-on-eos    |#
-                                |#
-
-                                |##
- openconfig/featureprofiles     |##
-                                |##
-
                                 |########################
  openconfig/gribi               |########################
                                 |########################
@@ -74,6 +62,22 @@ Since 2022-03-23 05:26:07 -0700 PDT, I'm most active between 11:00-11:59 - with 
  openconfig/lsdbparse           |#
                                 |#
 
+                                |######################################
+ openconfig/ygot                |######################################
+                                |######################################
+
+                                |#
+ networkop/kubernetes-on-eos    |#
+                                |#
+
+                                |##
+ openconfig/featureprofiles     |##
+                                |##
+
+                                |#
+ openconfig/gnmi                |#
+                                |#
+
                                 |#
  p4lang/p4runtime               |#
                                 |#
@@ -81,10 +85,6 @@ Since 2022-03-23 05:26:07 -0700 PDT, I'm most active between 11:00-11:59 - with 
                                 |#
  omec-project/gnbsim            |#
                                 |#
-
-                                |######################################
- openconfig/ygot                |######################################
-                                |######################################
 
 
 
@@ -94,4 +94,4 @@ Since 2022-03-23 05:26:07 -0700 PDT, I've been most active in openconfig/ygot, w
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2022-04-22 09:40:41.085592125 -0700 PDT
+Last Updated: 2022-04-22 09:56:24.261745842 -0700 PDT
