@@ -50,21 +50,17 @@ Since 2022-03-29 11:13:50 -0700 PDT, I'm most active between 11:00-11:59 - with 
  networkop/kubernetes-on-eos    |#
                                 |#
 
-                                |###################
- openconfig/public              |###################
-                                |###################
-
                                 |#
  openconfig/featureprofiles     |#
                                 |#
 
+                                |###################
+ openconfig/public              |###################
+                                |###################
+
                                 |######
  openconfig/lemming             |######
                                 |######
-
-                                |#######################
- openconfig/gribi               |#######################
-                                |#######################
 
                                 |#####
  openconfig/gribigo             |#####
@@ -73,6 +69,10 @@ Since 2022-03-29 11:13:50 -0700 PDT, I'm most active between 11:00-11:59 - with 
                                 |#
  openconfig/lsdbparse           |#
                                 |#
+
+                                |#######################
+ openconfig/gribi               |#######################
+                                |#######################
 
                                 |#
  openconfig/gnmi                |#
@@ -86,4 +86,4 @@ Since 2022-03-29 11:13:50 -0700 PDT, I've been most active in openconfig/ygot, w
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2022-04-22 11:01:02.150107939 -0700 PDT
+Last Updated: 2022-04-22 11:21:03.57516946 -0700 PDT
