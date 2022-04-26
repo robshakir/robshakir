@@ -42,10 +42,6 @@ Since 2022-04-19 11:29:37 -0700 PDT, I'm most active between 14:00-14:59 - with 
 
 
 ```
-                                |#
- openconfig/featureprofiles     |#
-                                |#
-
                                 |############################################################
  openconfig/ygot                |############################################################
                                 |############################################################
@@ -66,6 +62,10 @@ Since 2022-04-19 11:29:37 -0700 PDT, I'm most active between 14:00-14:59 - with 
  networkop/kubernetes-on-eos    |#
                                 |#
 
+                                |#
+ openconfig/featureprofiles     |#
+                                |#
+
 
 
 Since 2022-04-19 11:29:37 -0700 PDT, I've been most active in openconfig/ygot, with 60 events.
@@ -74,4 +74,4 @@ Since 2022-04-19 11:29:37 -0700 PDT, I've been most active in openconfig/ygot, w
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2022-04-26 09:21:25.228539104 -0700 PDT
+Last Updated: 2022-04-26 09:40:22.892310419 -0700 PDT
