@@ -43,6 +43,14 @@ Since 2022-04-19 11:29:37 -0700 PDT, I'm most active between 14:00-14:59 - with 
 
 ```
                                 |#
+ openconfig/gribi               |#
+                                |#
+
+                                |#
+ openconfig/gribigo             |#
+                                |#
+
+                                |#
  networkop/kubernetes-on-eos    |#
                                 |#
 
@@ -58,14 +66,6 @@ Since 2022-04-19 11:29:37 -0700 PDT, I'm most active between 14:00-14:59 - with 
  openconfig/public              |####################################
                                 |####################################
 
-                                |#
- openconfig/gribi               |#
-                                |#
-
-                                |#
- openconfig/gribigo             |#
-                                |#
-
 
 
 Since 2022-04-19 11:29:37 -0700 PDT, I've been most active in openconfig/ygot, with 60 events.
@@ -74,4 +74,4 @@ Since 2022-04-19 11:29:37 -0700 PDT, I've been most active in openconfig/ygot, w
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2022-04-26 03:47:47.398648797 -0700 PDT
+Last Updated: 2022-04-26 04:01:01.835636376 -0700 PDT
