@@ -1,5 +1,6 @@
 ### 🍞 Bread Crumbs
 
+ * 🔍: Reviewed a pull request in  `openconfig/ygot` at 2022-05-04 11:02:36 -0700 PDT
  * 💥: Created a branch in `openconfig/gnmi` at 2022-05-03 16:08:56 -0700 PDT
  * ✍🏼: Created a pull request in `openconfig/gnmi` at 2022-05-03 16:08:56 -0700 PDT
  * ✍🏼: Created a pull request in `openconfig/gnoi` at 2022-05-02 16:55:31 -0700 PDT
@@ -9,7 +10,6 @@
  * 👀: Worked on an issue in `openconfig/public` at 2022-05-02 11:40:04 -0700 PDT
  * 😃: Commented on an issue in `openconfig/public` at 2022-05-02 11:40:04 -0700 PDT
  * 👀: Worked on an issue in `openconfig/public` at 2022-05-02 11:39:32 -0700 PDT
- * 😃: Commented on an issue in `openconfig/public` at 2022-05-02 11:39:31 -0700 PDT
 
 ### 🕘 Recent Activity
 ```
@@ -17,12 +17,12 @@
  17 ┤                                                       │    │
  16 ┤                                                       │    ╰╮
  14 ┤                                                      ╭╯     │      ╭╮      ╭╮
- 13 ┤                                                      │      │      │╰╮   ╭─╯╰╮
- 12 ┤                                              ╭╮      │      ╰╮    ╭╯ ╰─╮╭╯   │
- 11 ┤                                            ╭─╯│      │       │    │    ╰╯    │
- 10 ┤                                           ╭╯  ╰╮    ╭╯       │   ╭╯          ╰╮
-  8 ┤                                          ╭╯    │    │        ╰╮  │            │
-  7 ┤                                         ╭╯     ╰╮   │         │ ╭╯            │
+ 13 ┤                                              ╭╮      │      │      │╰╮    ╭╯╰╮
+ 12 ┤                                             ╭╯│      │      ╰╮    ╭╯ ╰╮  ╭╯  │
+ 11 ┤                                            ╭╯ ╰╮     │       │    │   ╰╮╭╯   │
+ 10 ┤                                           ╭╯   │    ╭╯       │   ╭╯    ╰╯    ╰╮
+  8 ┤                                          ╭╯    ╰╮   │        ╰╮  │            │
+  7 ┤                                         ╭╯      │   │         │ ╭╯            │
   6 ┤                                         │       │  ╭╯         │ │             ╰╮
   5 ┤                                        ╭╯       ╰╮ │          ╰╮│              │
   4 ┤                                        │         │ │           ╰╯              │
@@ -35,17 +35,13 @@
 						Commits by Hour of Day
 
 
-Since 2022-04-26 17:50:38 -0700 PDT, I'm most active between 13:00-13:59 - with 18 events in that hour.
+Since 2022-04-26 17:50:37 -0700 PDT, I'm most active between 13:00-13:59 - with 18 events in that hour.
 
 ```
 
 
 
 ```
-                               |####
- openconfig/gnoi               |####
-                               |####
-
                                |#######
  openconfig/public             |#######
                                |#######
@@ -54,24 +50,28 @@ Since 2022-04-26 17:50:38 -0700 PDT, I'm most active between 13:00-13:59 - with 
  openconfig/featureprofiles    |#####
                                |#####
 
-                               |##############################################################
- openconfig/ygot               |##############################################################
-                               |##############################################################
-
                                |####################
  openconfig/reference          |####################
                                |####################
+
+                               |##############################################################
+ openconfig/ygot               |##############################################################
+                               |##############################################################
 
                                |##
  openconfig/gnmi               |##
                                |##
 
+                               |####
+ openconfig/gnoi               |####
+                               |####
 
 
-Since 2022-04-26 17:50:38 -0700 PDT, I've been most active in openconfig/ygot, with 62 events.
+
+Since 2022-04-26 17:50:37 -0700 PDT, I've been most active in openconfig/ygot, with 62 events.
 
 ```
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2022-05-04 11:01:23.073770077 -0700 PDT
+Last Updated: 2022-05-04 11:20:55.31548048 -0700 PDT
