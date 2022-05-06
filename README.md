@@ -42,6 +42,10 @@ Since 2022-04-27 13:50:39 -0700 PDT, I'm most active between 14:00-14:59 - with 
 
 
 ```
+                               |####
+ openconfig/gnoi               |####
+                               |####
+
                                |#
  robshakir/vestago             |#
                                |#
@@ -66,10 +70,6 @@ Since 2022-04-27 13:50:39 -0700 PDT, I'm most active between 14:00-14:59 - with 
  openconfig/gnmi               |##
                                |##
 
-                               |####
- openconfig/gnoi               |####
-                               |####
-
 
 
 Since 2022-04-27 13:50:39 -0700 PDT, I've been most active in openconfig/ygot, with 34 events.
@@ -78,4 +78,4 @@ Since 2022-04-27 13:50:39 -0700 PDT, I've been most active in openconfig/ygot, w
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2022-05-06 09:01:24.163992852 -0700 PDT
+Last Updated: 2022-05-06 09:21:36.436939102 -0700 PDT
