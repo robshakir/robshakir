@@ -42,14 +42,6 @@ Since 2022-04-29 17:13:48 -0700 PDT, I'm most active between 09:00-09:59 - with 
 
 
 ```
-                               |#################
- openconfig/featureprofiles    |#################
-                               |#################
-
-                               |#
- openconfig/reference          |#
-                               |#
-
                                |##
  openconfig/gnmi               |##
                                |##
@@ -74,6 +66,14 @@ Since 2022-04-29 17:13:48 -0700 PDT, I'm most active between 09:00-09:59 - with 
  robshakir/vestago             |#
                                |#
 
+                               |#################
+ openconfig/featureprofiles    |#################
+                               |#################
+
+                               |#
+ openconfig/reference          |#
+                               |#
+
 
 
 Since 2022-04-29 17:13:48 -0700 PDT, I've been most active in openconfig/public, with 59 events.
@@ -82,4 +82,4 @@ Since 2022-04-29 17:13:48 -0700 PDT, I've been most active in openconfig/public,
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2022-05-11 05:43:02.503738753 -0700 PDT
+Last Updated: 2022-05-11 06:03:01.353983973 -0700 PDT
