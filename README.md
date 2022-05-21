@@ -42,14 +42,6 @@ Since 2022-05-06 10:00:53 -0700 PDT, I'm most active between 15:00-15:59 - with 
 
 
 ```
-                         |###################################################
- openconfig/ygot         |###################################################
-                         |###################################################
-
-                         |###########
- openconfig/gribi        |###########
-                         |###########
-
                          |#############
  openconfig/public       |#############
                          |#############
@@ -66,6 +58,14 @@ Since 2022-05-06 10:00:53 -0700 PDT, I'm most active between 15:00-15:59 - with 
  openconfig/reference    |###############
                          |###############
 
+                         |###################################################
+ openconfig/ygot         |###################################################
+                         |###################################################
+
+                         |###########
+ openconfig/gribi        |###########
+                         |###########
+
 
 
 Since 2022-05-06 10:00:53 -0700 PDT, I've been most active in openconfig/ygot, with 51 events.
@@ -74,4 +74,4 @@ Since 2022-05-06 10:00:53 -0700 PDT, I've been most active in openconfig/ygot, w
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2022-05-20 21:38:13.645677729 -0700 PDT
+Last Updated: 2022-05-20 21:51:00.577790162 -0700 PDT
