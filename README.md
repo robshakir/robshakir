@@ -1,5 +1,6 @@
 ### 🍞 Bread Crumbs
 
+ * 😃: Commented on an issue in `openconfig/gnmi` at 2022-05-23 16:28:11 -0700 PDT
  * 💬: Commented on a PR in  `openconfig/gribigo` at 2022-05-23 15:28:54 -0700 PDT
  * 🔍: Reviewed a pull request in  `openconfig/gribigo` at 2022-05-23 15:29:16 -0700 PDT
  * 💬: Commented on a PR in  `openconfig/gribigo` at 2022-05-23 15:25:27 -0700 PDT
@@ -9,7 +10,6 @@
  * 🔍: Reviewed a pull request in  `openconfig/gribigo` at 2022-05-23 15:20:38 -0700 PDT
  * 💬: Commented on a PR in  `openconfig/ygot` at 2022-05-23 14:49:12 -0700 PDT
  * 🔍: Reviewed a pull request in  `openconfig/ygot` at 2022-05-23 14:49:13 -0700 PDT
- * 🔍: Reviewed a pull request in  `openconfig/ygot` at 2022-05-23 14:48:56 -0700 PDT
 
 ### 🕘 Recent Activity
 ```
@@ -24,9 +24,9 @@
  16 ┤                                                       ╭────╯     ╰╮
  13 ┤                                                      ╭╯           │
  11 ┤                                                     ╭╯            │
-  9 ┤                                                    ╭╯             │
-  7 ┤                                         ╭──╮      ╭╯              ╰╮
-  4 ┤                            ╭────────────╯  ╰──────╯                │
+  9 ┤                                                    ╭╯             ╰╮
+  7 ┤                                         ╭─╮       ╭╯               │
+  4 ┤                            ╭────────────╯ ╰───────╯                │
   2 ┤                         ╭──╯                                       │
   0 ┼─────────────────────────╯                                          ╰──────────────────────────────
     +───────+───────+───────+───────+───────+───────+───────+───────+───────+───────+───────+───────+────
@@ -35,29 +35,13 @@
 						Commits by Hour of Day
 
 
-Since 2022-05-16 11:25:49 -0700 PDT, I'm most active between 15:00-15:59 - with 36 events in that hour.
+Since 2022-05-16 11:37:20 -0700 PDT, I'm most active between 15:00-15:59 - with 36 events in that hour.
 
 ```
 
 
 
 ```
-                         |###########
- openconfig/gribi        |###########
-                         |###########
-
-                         |#######
- openconfig/public       |#######
-                         |#######
-
-                         |#######
- openconfig/gribigo      |#######
-                         |#######
-
-                         |#################################################
- openconfig/ygot         |#################################################
-                         |#################################################
-
                          |#################
  openconfig/reference    |#################
                          |#################
@@ -66,12 +50,32 @@ Since 2022-05-16 11:25:49 -0700 PDT, I'm most active between 15:00-15:59 - with 
  openconfig/gnoi         |#########
                          |#########
 
+                         |###########
+ openconfig/gribi        |###########
+                         |###########
+
+                         |#######
+ openconfig/public       |#######
+                         |#######
+
+                         |#
+ openconfig/gnmi         |#
+                         |#
+
+                         |#######
+ openconfig/gribigo      |#######
+                         |#######
+
+                         |################################################
+ openconfig/ygot         |################################################
+                         |################################################
 
 
-Since 2022-05-16 11:25:49 -0700 PDT, I've been most active in openconfig/ygot, with 49 events.
+
+Since 2022-05-16 11:37:20 -0700 PDT, I've been most active in openconfig/ygot, with 48 events.
 
 ```
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2022-05-23 16:20:26.270079592 -0700 PDT
+Last Updated: 2022-05-23 16:33:50.594892567 -0700 PDT
