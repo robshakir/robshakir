@@ -50,6 +50,10 @@ Since 2022-05-19 15:14:14 -0700 PDT, I'm most active between 15:00-15:59 - with 
  openconfig/gnmi             |###############
                              |###############
 
+                             |#################################
+ openconfig/ygot             |#################################
+                             |#################################
+
                              |#
  openconfig/common-ci        |#
                              |#
@@ -57,18 +61,6 @@ Since 2022-05-19 15:14:14 -0700 PDT, I'm most active between 15:00-15:59 - with 
                              |###
  openconfig/goyang           |###
                              |###
-
-                             |######
- openconfig/gribi            |######
-                             |######
-
-                             |#######################
- openconfig/gnoi             |#######################
-                             |#######################
-
-                             |#################################
- openconfig/ygot             |#################################
-                             |#################################
 
                              |###########
  openconfig/gribigo          |###########
@@ -78,6 +70,14 @@ Since 2022-05-19 15:14:14 -0700 PDT, I'm most active between 15:00-15:59 - with 
  openconfig/reference        |#######
                              |#######
 
+                             |######
+ openconfig/gribi            |######
+                             |######
+
+                             |#######################
+ openconfig/gnoi             |#######################
+                             |#######################
+
 
 
 Since 2022-05-19 15:14:14 -0700 PDT, I've been most active in openconfig/ygot, with 33 events.
@@ -86,4 +86,4 @@ Since 2022-05-19 15:14:14 -0700 PDT, I've been most active in openconfig/ygot, w
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2022-05-28 05:01:18.261856626 -0700 PDT
+Last Updated: 2022-05-28 05:21:54.727772049 -0700 PDT
