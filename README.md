@@ -46,18 +46,6 @@ Since 2022-05-19 15:14:14 -0700 PDT, I'm most active between 15:00-15:59 - with 
  openconfig/gnoi             |#######################
                              |#######################
 
-                             |###
- openconfig/goyang           |###
-                             |###
-
-                             |###########
- openconfig/gribigo          |###########
-                             |###########
-
-                             |#################################
- openconfig/ygot             |#################################
-                             |#################################
-
                              |#
  nflath/openconfig-public    |#
                              |#
@@ -66,13 +54,25 @@ Since 2022-05-19 15:14:14 -0700 PDT, I'm most active between 15:00-15:59 - with 
  openconfig/gnmi             |###############
                              |###############
 
-                             |#
- openconfig/common-ci        |#
-                             |#
+                             |###
+ openconfig/goyang           |###
+                             |###
 
                              |#######
  openconfig/reference        |#######
                              |#######
+
+                             |#################################
+ openconfig/ygot             |#################################
+                             |#################################
+
+                             |#
+ openconfig/common-ci        |#
+                             |#
+
+                             |###########
+ openconfig/gribigo          |###########
+                             |###########
 
                              |######
  openconfig/gribi            |######
@@ -86,4 +86,4 @@ Since 2022-05-19 15:14:14 -0700 PDT, I've been most active in openconfig/ygot, w
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2022-05-28 12:31:18.810416839 -0700 PDT
+Last Updated: 2022-05-28 12:45:53.987748314 -0700 PDT
