@@ -42,21 +42,21 @@ Since 2022-05-19 15:14:14 -0700 PDT, I'm most active between 15:00-15:59 - with 
 
 
 ```
-                             |###########
- openconfig/gribigo          |###########
-                             |###########
-
                              |#######
  openconfig/reference        |#######
                              |#######
 
-                             |###############
- openconfig/gnmi             |###############
-                             |###############
+                             |#######################
+ openconfig/gnoi             |#######################
+                             |#######################
 
                              |#
  openconfig/common-ci        |#
                              |#
+
+                             |###########
+ openconfig/gribigo          |###########
+                             |###########
 
                              |###
  openconfig/goyang           |###
@@ -66,10 +66,6 @@ Since 2022-05-19 15:14:14 -0700 PDT, I'm most active between 15:00-15:59 - with 
  openconfig/gribi            |######
                              |######
 
-                             |#######################
- openconfig/gnoi             |#######################
-                             |#######################
-
                              |#################################
  openconfig/ygot             |#################################
                              |#################################
@@ -77,6 +73,10 @@ Since 2022-05-19 15:14:14 -0700 PDT, I'm most active between 15:00-15:59 - with 
                              |#
  nflath/openconfig-public    |#
                              |#
+
+                             |###############
+ openconfig/gnmi             |###############
+                             |###############
 
 
 
@@ -86,4 +86,4 @@ Since 2022-05-19 15:14:14 -0700 PDT, I've been most active in openconfig/ygot, w
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2022-05-28 07:32:37.735921774 -0700 PDT
+Last Updated: 2022-05-28 07:45:45.202992709 -0700 PDT
