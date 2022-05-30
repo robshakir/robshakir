@@ -42,17 +42,25 @@ Since 2022-05-19 15:14:14 -0700 PDT, I'm most active between 15:00-15:59 - with 
 
 
 ```
-                             |#######################
- openconfig/gnoi             |#######################
-                             |#######################
+                             |###
+ openconfig/goyang           |###
+                             |###
 
-                             |###############
- openconfig/gnmi             |###############
-                             |###############
+                             |###########
+ openconfig/gribigo          |###########
+                             |###########
+
+                             |#######
+ openconfig/reference        |#######
+                             |#######
 
                              |######
  openconfig/gribi            |######
                              |######
+
+                             |###############
+ openconfig/gnmi             |###############
+                             |###############
 
                              |#################################
  openconfig/ygot             |#################################
@@ -66,17 +74,9 @@ Since 2022-05-19 15:14:14 -0700 PDT, I'm most active between 15:00-15:59 - with 
  openconfig/common-ci        |#
                              |#
 
-                             |###
- openconfig/goyang           |###
-                             |###
-
-                             |###########
- openconfig/gribigo          |###########
-                             |###########
-
-                             |#######
- openconfig/reference        |#######
-                             |#######
+                             |#######################
+ openconfig/gnoi             |#######################
+                             |#######################
 
 
 
@@ -86,4 +86,4 @@ Since 2022-05-19 15:14:14 -0700 PDT, I've been most active in openconfig/ygot, w
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2022-05-30 15:01:11.286759715 -0700 PDT
+Last Updated: 2022-05-30 15:20:28.636811372 -0700 PDT
