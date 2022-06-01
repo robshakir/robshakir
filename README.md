@@ -46,9 +46,17 @@ Since 2022-05-19 15:14:14 -0700 PDT, I'm most active between 15:00-15:59 - with 
  nflath/openconfig-public    |#
                              |#
 
-                             |#
- openconfig/common-ci        |#
-                             |#
+                             |###
+ openconfig/goyang           |###
+                             |###
+
+                             |###########
+ openconfig/gribigo          |###########
+                             |###########
+
+                             |######
+ openconfig/gribi            |######
+                             |######
 
                              |#######################
  openconfig/gnoi             |#######################
@@ -58,25 +66,17 @@ Since 2022-05-19 15:14:14 -0700 PDT, I'm most active between 15:00-15:59 - with 
  openconfig/ygot             |#################################
                              |#################################
 
-                             |###########
- openconfig/gribigo          |###########
-                             |###########
-
-                             |#######
- openconfig/reference        |#######
-                             |#######
-
-                             |######
- openconfig/gribi            |######
-                             |######
-
                              |###############
  openconfig/gnmi             |###############
                              |###############
 
-                             |###
- openconfig/goyang           |###
-                             |###
+                             |#
+ openconfig/common-ci        |#
+                             |#
+
+                             |#######
+ openconfig/reference        |#######
+                             |#######
 
 
 
@@ -86,4 +86,4 @@ Since 2022-05-19 15:14:14 -0700 PDT, I've been most active in openconfig/ygot, w
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2022-06-01 14:01:13.800366633 -0700 PDT
+Last Updated: 2022-06-01 14:20:15.809455485 -0700 PDT
