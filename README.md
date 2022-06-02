@@ -42,13 +42,29 @@ Since 2022-05-19 15:14:14 -0700 PDT, I'm most active between 15:00-15:59 - with 
 
 
 ```
+                             |#
+ openconfig/common-ci        |#
+                             |#
+
+                             |###
+ openconfig/goyang           |###
+                             |###
+
                              |#######################
  openconfig/gnoi             |#######################
                              |#######################
 
+                             |#################################
+ openconfig/ygot             |#################################
+                             |#################################
+
                              |#
  nflath/openconfig-public    |#
                              |#
+
+                             |######
+ openconfig/gribi            |######
+                             |######
 
                              |###############
  openconfig/gnmi             |###############
@@ -62,22 +78,6 @@ Since 2022-05-19 15:14:14 -0700 PDT, I'm most active between 15:00-15:59 - with 
  openconfig/reference        |#######
                              |#######
 
-                             |#################################
- openconfig/ygot             |#################################
-                             |#################################
-
-                             |#
- openconfig/common-ci        |#
-                             |#
-
-                             |###
- openconfig/goyang           |###
-                             |###
-
-                             |######
- openconfig/gribi            |######
-                             |######
-
 
 
 Since 2022-05-19 15:14:14 -0700 PDT, I've been most active in openconfig/ygot, with 33 events.
@@ -86,4 +86,4 @@ Since 2022-05-19 15:14:14 -0700 PDT, I've been most active in openconfig/ygot, w
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2022-06-02 01:01:25.665370149 -0700 PDT
+Last Updated: 2022-06-02 01:21:55.47789838 -0700 PDT
