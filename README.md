@@ -46,9 +46,17 @@ Since 2022-05-19 15:16:59 -0700 PDT, I'm most active between 15:00-15:59 - with 
  openconfig/public           |#
                              |#
 
-                             |#######################
- openconfig/gnoi             |#######################
-                             |#######################
+                             |#
+ nflath/openconfig-public    |#
+                             |#
+
+                             |#
+ openconfig/common-ci        |#
+                             |#
+
+                             |###
+ openconfig/goyang           |###
+                             |###
 
                              |###########
  openconfig/gribigo          |###########
@@ -62,25 +70,17 @@ Since 2022-05-19 15:16:59 -0700 PDT, I'm most active between 15:00-15:59 - with 
  openconfig/gribi            |######
                              |######
 
+                             |#######################
+ openconfig/gnoi             |#######################
+                             |#######################
+
                              |################################
  openconfig/ygot             |################################
                              |################################
 
-                             |#
- nflath/openconfig-public    |#
-                             |#
-
                              |###############
  openconfig/gnmi             |###############
                              |###############
-
-                             |#
- openconfig/common-ci        |#
-                             |#
-
-                             |###
- openconfig/goyang           |###
-                             |###
 
 
 
@@ -90,4 +90,4 @@ Since 2022-05-19 15:16:59 -0700 PDT, I've been most active in openconfig/ygot, w
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2022-06-03 18:29:14.834528296 -0700 PDT
+Last Updated: 2022-06-03 19:11:51.238344825 -0700 PDT
