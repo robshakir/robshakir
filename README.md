@@ -42,9 +42,13 @@ Since 2022-05-19 15:16:59 -0700 PDT, I'm most active between 15:00-15:59 - with 
 
 
 ```
-                             |###########
- openconfig/gribigo          |###########
-                             |###########
+                             |#
+ openconfig/public           |#
+                             |#
+
+                             |#######################
+ openconfig/gnoi             |#######################
+                             |#######################
 
                              |################################
  openconfig/ygot             |################################
@@ -62,25 +66,21 @@ Since 2022-05-19 15:16:59 -0700 PDT, I'm most active between 15:00-15:59 - with 
  openconfig/goyang           |###
                              |###
 
-                             |######
- openconfig/gribi            |######
-                             |######
-
-                             |#
- openconfig/public           |#
-                             |#
-
-                             |#######################
- openconfig/gnoi             |#######################
-                             |#######################
+                             |#######
+ openconfig/reference        |#######
+                             |#######
 
                              |###############
  openconfig/gnmi             |###############
                              |###############
 
-                             |#######
- openconfig/reference        |#######
-                             |#######
+                             |###########
+ openconfig/gribigo          |###########
+                             |###########
+
+                             |######
+ openconfig/gribi            |######
+                             |######
 
 
 
@@ -90,4 +90,4 @@ Since 2022-05-19 15:16:59 -0700 PDT, I've been most active in openconfig/ygot, w
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2022-06-06 16:45:50.128920577 -0700 PDT
+Last Updated: 2022-06-06 17:02:49.341064441 -0700 PDT
