@@ -42,21 +42,33 @@ Since 2022-05-20 07:27:03 -0700 PDT, I'm most active between 12:00-12:59 - with 
 
 
 ```
-                             |#
- openconfig/common-ci        |#
-                             |#
-
                              |#######################################
  openconfig/ygot             |#######################################
                              |#######################################
+
+                             |#
+ openconfig/public           |#
+                             |#
+
+                             |#
+ nflath/openconfig-public    |#
+                             |#
+
+                             |###############
+ openconfig/gnmi             |###############
+                             |###############
 
                              |#####
  openconfig/goyang           |#####
                              |#####
 
-                             |###############
- openconfig/gnmi             |###############
-                             |###############
+                             |#######################
+ openconfig/gnoi             |#######################
+                             |#######################
+
+                             |#
+ openconfig/common-ci        |#
+                             |#
 
                              |###########
  openconfig/gribigo          |###########
@@ -66,18 +78,6 @@ Since 2022-05-20 07:27:03 -0700 PDT, I'm most active between 12:00-12:59 - with 
  openconfig/reference        |####
                              |####
 
-                             |#
- openconfig/public           |#
-                             |#
-
-                             |#######################
- openconfig/gnoi             |#######################
-                             |#######################
-
-                             |#
- nflath/openconfig-public    |#
-                             |#
-
 
 
 Since 2022-05-20 07:27:03 -0700 PDT, I've been most active in openconfig/ygot, with 39 events.
@@ -86,4 +86,4 @@ Since 2022-05-20 07:27:03 -0700 PDT, I've been most active in openconfig/ygot, w
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2022-06-07 13:33:56.297630427 -0700 PDT
+Last Updated: 2022-06-07 13:45:57.767834447 -0700 PDT
