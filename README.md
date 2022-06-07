@@ -46,6 +46,22 @@ Since 2022-05-20 07:27:03 -0700 PDT, I'm most active between 12:00-12:59 - with 
  openconfig/common-ci        |#
                              |#
 
+                             |#######################################
+ openconfig/ygot             |#######################################
+                             |#######################################
+
+                             |#####
+ openconfig/goyang           |#####
+                             |#####
+
+                             |###############
+ openconfig/gnmi             |###############
+                             |###############
+
+                             |###########
+ openconfig/gribigo          |###########
+                             |###########
+
                              |####
  openconfig/reference        |####
                              |####
@@ -57,22 +73,6 @@ Since 2022-05-20 07:27:03 -0700 PDT, I'm most active between 12:00-12:59 - with 
                              |#######################
  openconfig/gnoi             |#######################
                              |#######################
-
-                             |###############
- openconfig/gnmi             |###############
-                             |###############
-
-                             |###########
- openconfig/gribigo          |###########
-                             |###########
-
-                             |#######################################
- openconfig/ygot             |#######################################
-                             |#######################################
-
-                             |#####
- openconfig/goyang           |#####
-                             |#####
 
                              |#
  nflath/openconfig-public    |#
@@ -86,4 +86,4 @@ Since 2022-05-20 07:27:03 -0700 PDT, I've been most active in openconfig/ygot, w
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2022-06-07 13:20:53.834675637 -0700 PDT
+Last Updated: 2022-06-07 13:33:56.297630427 -0700 PDT
