@@ -43,12 +43,8 @@ Since 2022-05-19 15:16:59 -0700 PDT, I'm most active between 15:00-15:59 - with 
 
 ```
                              |#
- nflath/openconfig-public    |#
+ openconfig/public           |#
                              |#
-
-                             |###############
- openconfig/gnmi             |###############
-                             |###############
 
                              |###
  openconfig/goyang           |###
@@ -58,29 +54,33 @@ Since 2022-05-19 15:16:59 -0700 PDT, I'm most active between 15:00-15:59 - with 
  openconfig/reference        |#######
                              |#######
 
-                             |#
- openconfig/public           |#
-                             |#
+                             |######
+ openconfig/gribi            |######
+                             |######
 
                              |#######################
  openconfig/gnoi             |#######################
                              |#######################
-
-                             |###########
- openconfig/gribigo          |###########
-                             |###########
-
-                             |######
- openconfig/gribi            |######
-                             |######
 
                              |################################
  openconfig/ygot             |################################
                              |################################
 
                              |#
+ nflath/openconfig-public    |#
+                             |#
+
+                             |###############
+ openconfig/gnmi             |###############
+                             |###############
+
+                             |#
  openconfig/common-ci        |#
                              |#
+
+                             |###########
+ openconfig/gribigo          |###########
+                             |###########
 
 
 
@@ -90,4 +90,4 @@ Since 2022-05-19 15:16:59 -0700 PDT, I've been most active in openconfig/ygot, w
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2022-06-07 01:48:31.769118275 -0700 PDT
+Last Updated: 2022-06-07 02:05:39.979206362 -0700 PDT
