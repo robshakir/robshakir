@@ -42,14 +42,6 @@ Since 2022-06-08 08:59:41 -0700 PDT, I'm most active between 11:00-11:59 - with 
 
 
 ```
-                      |##############
- openconfig/gnsi      |##############
-                      |##############
-
-                      |#########
- openconfig/ygot      |#########
-                      |#########
-
                       |######################
  openconfig/public    |######################
                       |######################
@@ -62,6 +54,14 @@ Since 2022-06-08 08:59:41 -0700 PDT, I'm most active between 11:00-11:59 - with 
  toransahu/gnoi       |#
                       |#
 
+                      |##############
+ openconfig/gnsi      |##############
+                      |##############
+
+                      |#########
+ openconfig/ygot      |#########
+                      |#########
+
 
 
 Since 2022-06-08 08:59:41 -0700 PDT, I've been most active in openconfig/gnoi, with 54 events.
@@ -70,4 +70,4 @@ Since 2022-06-08 08:59:41 -0700 PDT, I've been most active in openconfig/gnoi, w
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2022-06-08 16:01:21.641596292 -0700 PDT
+Last Updated: 2022-06-08 16:20:10.403409044 -0700 PDT
