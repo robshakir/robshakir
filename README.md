@@ -42,10 +42,6 @@ Since 2022-06-08 09:24:01 -0700 PDT, I'm most active between 11:00-11:59 - with 
 
 
 ```
-                         |##################
- openconfig/ygot         |##################
-                         |##################
-
                          |#
  cslev/p4-bmv2-docker    |#
                          |#
@@ -66,6 +62,10 @@ Since 2022-06-08 09:24:01 -0700 PDT, I'm most active between 11:00-11:59 - with 
  openconfig/gnsi         |##############
                          |##############
 
+                         |##################
+ openconfig/ygot         |##################
+                         |##################
+
 
 
 Since 2022-06-08 09:24:01 -0700 PDT, I've been most active in openconfig/gnoi, with 42 events.
@@ -74,4 +74,4 @@ Since 2022-06-08 09:24:01 -0700 PDT, I've been most active in openconfig/gnoi, w
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2022-06-09 06:42:11.260273574 -0700 PDT
+Last Updated: 2022-06-09 06:52:21.94329012 -0700 PDT
