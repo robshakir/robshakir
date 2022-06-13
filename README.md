@@ -42,10 +42,6 @@ Since 2022-06-08 09:30:20 -0700 PDT, I'm most active between 11:00-11:59 - with 
 
 
 ```
-                         |################################
- openconfig/public       |################################
-                         |################################
-
                          |#
  p4lang/p4runtime        |#
                          |#
@@ -70,6 +66,10 @@ Since 2022-06-08 09:30:20 -0700 PDT, I'm most active between 11:00-11:59 - with 
  openconfig/gnsi         |##############
                          |##############
 
+                         |################################
+ openconfig/public       |################################
+                         |################################
+
 
 
 Since 2022-06-08 09:30:20 -0700 PDT, I've been most active in openconfig/gnoi, with 33 events.
@@ -78,4 +78,4 @@ Since 2022-06-08 09:30:20 -0700 PDT, I've been most active in openconfig/gnoi, w
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2022-06-12 22:09:39.740227224 -0700 PDT
+Last Updated: 2022-06-12 22:21:13.093066724 -0700 PDT
