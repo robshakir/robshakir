@@ -42,10 +42,6 @@ Since 2022-06-08 09:27:08 -0700 PDT, I'm most active between 11:00-11:59 - with 
 
 
 ```
-                               |##############
- openconfig/gnsi               |##############
-                               |##############
-
                                |###
  openconfig/featureprofiles    |###
                                |###
@@ -74,6 +70,10 @@ Since 2022-06-08 09:27:08 -0700 PDT, I'm most active between 11:00-11:59 - with 
  toransahu/gnoi                |#
                                |#
 
+                               |##############
+ openconfig/gnsi               |##############
+                               |##############
+
 
 
 Since 2022-06-08 09:27:08 -0700 PDT, I've been most active in openconfig/public, with 32 events.
@@ -82,4 +82,4 @@ Since 2022-06-08 09:27:08 -0700 PDT, I've been most active in openconfig/public,
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2022-06-13 08:50:37.666608312 -0700 PDT
+Last Updated: 2022-06-13 09:01:06.451570909 -0700 PDT
