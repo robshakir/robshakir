@@ -46,9 +46,9 @@ Since 2022-06-08 11:11:30 -0700 PDT, I'm most active between 11:00-11:59 - with 
  openconfig/lemming            |#####
                                |#####
 
-                               |#
- openconfig/reference          |#
-                               |#
+                               |#######
+ openconfig/featureprofiles    |#######
+                               |#######
 
                                |####################################
  openconfig/public             |####################################
@@ -62,13 +62,9 @@ Since 2022-06-08 11:11:30 -0700 PDT, I'm most active between 11:00-11:59 - with 
  toransahu/gnoi                |#
                                |#
 
-                               |##############
- openconfig/gnsi               |##############
-                               |##############
-
-                               |#######
- openconfig/featureprofiles    |#######
-                               |#######
+                               |#
+ openconfig/reference          |#
+                               |#
 
                                |#
  p4lang/p4runtime              |#
@@ -82,6 +78,10 @@ Since 2022-06-08 11:11:30 -0700 PDT, I'm most active between 11:00-11:59 - with 
  cslev/p4-bmv2-docker          |#
                                |#
 
+                               |##############
+ openconfig/gnsi               |##############
+                               |##############
+
 
 
 Since 2022-06-08 11:11:30 -0700 PDT, I've been most active in openconfig/public, with 36 events.
@@ -90,4 +90,4 @@ Since 2022-06-08 11:11:30 -0700 PDT, I've been most active in openconfig/public,
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2022-06-13 16:01:10.62812009 -0700 PDT
+Last Updated: 2022-06-13 16:20:17.74832321 -0700 PDT
