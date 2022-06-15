@@ -42,33 +42,21 @@ Since 2022-06-08 13:38:08 -0700 PDT, I'm most active between 15:00-15:59 - with 
 
 
 ```
-                               |################
- openconfig/gribi              |################
-                               |################
-
-                               |##
- openconfig/reference          |##
-                               |##
-
-                               |#######
- openconfig/featureprofiles    |#######
-                               |#######
-
-                               |#
- p4lang/p4runtime              |#
-                               |#
-
-                               |#########
- openconfig/gnsi               |#########
-                               |#########
-
                                |##############################################
  openconfig/public             |##############################################
                                |##############################################
 
-                               |#########
- openconfig/ygot               |#########
-                               |#########
+                               |################
+ openconfig/gribi              |################
+                               |################
+
+                               |#####
+ openconfig/lemming            |#####
+                               |#####
+
+                               |#######
+ openconfig/featureprofiles    |#######
+                               |#######
 
                                |#
  cslev/p4-bmv2-docker          |#
@@ -78,13 +66,25 @@ Since 2022-06-08 13:38:08 -0700 PDT, I'm most active between 15:00-15:59 - with 
  openconfig/gnoi               |###
                                |###
 
+                               |##
+ openconfig/reference          |##
+                               |##
+
+                               |#
+ p4lang/p4runtime              |#
+                               |#
+
+                               |#########
+ openconfig/ygot               |#########
+                               |#########
+
                                |#
  toransahu/gnoi                |#
                                |#
 
-                               |#####
- openconfig/lemming            |#####
-                               |#####
+                               |#########
+ openconfig/gnsi               |#########
+                               |#########
 
 
 
@@ -94,4 +94,4 @@ Since 2022-06-08 13:38:08 -0700 PDT, I've been most active in openconfig/public,
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2022-06-15 00:01:03.134009174 -0700 PDT
+Last Updated: 2022-06-15 00:20:20.09172324 -0700 PDT
