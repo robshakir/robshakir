@@ -42,26 +42,6 @@ Since 2022-06-08 13:43:57 -0700 PDT, I'm most active between 15:00-15:59 - with 
 
 
 ```
-                               |################
- openconfig/gribi              |################
-                               |################
-
-                               |#####
- openconfig/lemming            |#####
-                               |#####
-
-                               |#
- p4lang/p4runtime              |#
-                               |#
-
-                               |#########
- openconfig/ygot               |#########
-                               |#########
-
-                               |###
- openconfig/gnoi               |###
-                               |###
-
                                |##############################################
  openconfig/public             |##############################################
                                |##############################################
@@ -71,8 +51,32 @@ Since 2022-06-08 13:43:57 -0700 PDT, I'm most active between 15:00-15:59 - with 
                                |#######
 
                                |#
+ p4lang/p4runtime              |#
+                               |#
+
+                               |#########
+ openconfig/ygot               |#########
+                               |#########
+
+                               |#
  cslev/p4-bmv2-docker          |#
                                |#
+
+                               |###
+ openconfig/gnoi               |###
+                               |###
+
+                               |###
+ openconfig/reference          |###
+                               |###
+
+                               |################
+ openconfig/gribi              |################
+                               |################
+
+                               |#####
+ openconfig/lemming            |#####
+                               |#####
 
                                |#
  toransahu/gnoi                |#
@@ -82,10 +86,6 @@ Since 2022-06-08 13:43:57 -0700 PDT, I'm most active between 15:00-15:59 - with 
  openconfig/gnsi               |########
                                |########
 
-                               |###
- openconfig/reference          |###
-                               |###
-
 
 
 Since 2022-06-08 13:43:57 -0700 PDT, I've been most active in openconfig/public, with 46 events.
@@ -94,4 +94,4 @@ Since 2022-06-08 13:43:57 -0700 PDT, I've been most active in openconfig/public,
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2022-06-15 08:01:12.839631521 -0700 PDT
+Last Updated: 2022-06-15 08:20:33.889087065 -0700 PDT
