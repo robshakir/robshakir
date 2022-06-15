@@ -42,29 +42,13 @@ Since 2022-06-08 13:40:29 -0700 PDT, I'm most active between 15:00-15:59 - with 
 
 
 ```
-                               |####
- openconfig/gnoi               |####
-                               |####
-
-                               |################
- openconfig/gribi              |################
-                               |################
-
-                               |#######
- openconfig/featureprofiles    |#######
-                               |#######
-
-                               |#
- p4lang/p4runtime              |#
-                               |#
-
-                               |#
- cslev/p4-bmv2-docker          |#
-                               |#
-
                                |#######
  openconfig/gnsi               |#######
                                |#######
+
+                               |####
+ openconfig/gnoi               |####
+                               |####
 
                                |###
  openconfig/reference          |###
@@ -78,9 +62,25 @@ Since 2022-06-08 13:40:29 -0700 PDT, I'm most active between 15:00-15:59 - with 
  openconfig/lemming            |#####
                                |#####
 
+                               |#######
+ openconfig/featureprofiles    |#######
+                               |#######
+
+                               |#
+ p4lang/p4runtime              |#
+                               |#
+
                                |#########
  openconfig/ygot               |#########
                                |#########
+
+                               |################
+ openconfig/gribi              |################
+                               |################
+
+                               |#
+ cslev/p4-bmv2-docker          |#
+                               |#
 
                                |#
  toransahu/gnoi                |#
@@ -94,4 +94,4 @@ Since 2022-06-08 13:40:29 -0700 PDT, I've been most active in openconfig/public,
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2022-06-15 08:35:22.460196699 -0700 PDT
+Last Updated: 2022-06-15 08:47:50.877996656 -0700 PDT
