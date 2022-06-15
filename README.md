@@ -42,34 +42,6 @@ Since 2022-06-08 13:43:57 -0700 PDT, I'm most active between 15:00-15:59 - with 
 
 
 ```
-                               |################
- openconfig/gribi              |################
-                               |################
-
-                               |#######
- openconfig/featureprofiles    |#######
-                               |#######
-
-                               |#
- p4lang/p4runtime              |#
-                               |#
-
-                               |#########
- openconfig/ygot               |#########
-                               |#########
-
-                               |#
- cslev/p4-bmv2-docker          |#
-                               |#
-
-                               |###
- openconfig/gnoi               |###
-                               |###
-
-                               |###
- openconfig/reference          |###
-                               |###
-
                                |##############################################
  openconfig/public             |##############################################
                                |##############################################
@@ -79,12 +51,40 @@ Since 2022-06-08 13:43:57 -0700 PDT, I'm most active between 15:00-15:59 - with 
                                |#####
 
                                |#
+ p4lang/p4runtime              |#
+                               |#
+
+                               |###
+ openconfig/gnoi               |###
+                               |###
+
+                               |#
  toransahu/gnoi                |#
                                |#
 
                                |########
  openconfig/gnsi               |########
                                |########
+
+                               |###
+ openconfig/reference          |###
+                               |###
+
+                               |#######
+ openconfig/featureprofiles    |#######
+                               |#######
+
+                               |#########
+ openconfig/ygot               |#########
+                               |#########
+
+                               |#
+ cslev/p4-bmv2-docker          |#
+                               |#
+
+                               |################
+ openconfig/gribi              |################
+                               |################
 
 
 
@@ -94,4 +94,4 @@ Since 2022-06-08 13:43:57 -0700 PDT, I've been most active in openconfig/public,
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2022-06-15 06:58:29.302832685 -0700 PDT
+Last Updated: 2022-06-15 07:01:01.413697312 -0700 PDT
