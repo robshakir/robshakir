@@ -46,13 +46,29 @@ Since 2022-06-08 14:55:40 -0700 PDT, I'm most active between 15:00-15:59 - with 
  nflath/openconfig-public      |#
                                |#
 
-                               |###
- openconfig/gnoi               |###
-                               |###
+                               |#####################################################
+ openconfig/public             |#####################################################
+                               |#####################################################
 
                                |################
  openconfig/gribi              |################
                                |################
+
+                               |#########
+ openconfig/ygot               |#########
+                               |#########
+
+                               |#
+ cslev/p4-bmv2-docker          |#
+                               |#
+
+                               |###
+ openconfig/gnoi               |###
+                               |###
+
+                               |###
+ openconfig/reference          |###
+                               |###
 
                                |#####
  openconfig/lemming            |#####
@@ -62,24 +78,8 @@ Since 2022-06-08 14:55:40 -0700 PDT, I'm most active between 15:00-15:59 - with 
  openconfig/featureprofiles    |#######
                                |#######
 
-                               |#####################################################
- openconfig/public             |#####################################################
-                               |#####################################################
-
-                               |###
- openconfig/reference          |###
-                               |###
-
                                |#
  p4lang/p4runtime              |#
-                               |#
-
-                               |#########
- openconfig/ygot               |#########
-                               |#########
-
-                               |#
- cslev/p4-bmv2-docker          |#
                                |#
 
                                |#
@@ -94,4 +94,4 @@ Since 2022-06-08 14:55:40 -0700 PDT, I've been most active in openconfig/public,
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2022-06-15 17:47:32.381177385 -0700 PDT
+Last Updated: 2022-06-15 18:30:02.837459638 -0700 PDT
