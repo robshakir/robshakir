@@ -42,14 +42,6 @@ Since 2022-06-08 14:55:40 -0700 PDT, I'm most active between 15:00-15:59 - with 
 
 
 ```
-                               |#
- p4lang/p4runtime              |#
-                               |#
-
-                               |#
- nflath/openconfig-public      |#
-                               |#
-
                                |###
  openconfig/reference          |###
                                |###
@@ -58,9 +50,25 @@ Since 2022-06-08 14:55:40 -0700 PDT, I'm most active between 15:00-15:59 - with 
  openconfig/gribi              |################
                                |################
 
+                               |#
+ p4lang/p4runtime              |#
+                               |#
+
+                               |#
+ nflath/openconfig-public      |#
+                               |#
+
+                               |#####################################################
+ openconfig/public             |#####################################################
+                               |#####################################################
+
                                |#######
  openconfig/featureprofiles    |#######
                                |#######
+
+                               |#########
+ openconfig/ygot               |#########
+                               |#########
 
                                |#
  cslev/p4-bmv2-docker          |#
@@ -70,10 +78,6 @@ Since 2022-06-08 14:55:40 -0700 PDT, I'm most active between 15:00-15:59 - with 
  toransahu/gnoi                |#
                                |#
 
-                               |#####################################################
- openconfig/public             |#####################################################
-                               |#####################################################
-
                                |###
  openconfig/gnoi               |###
                                |###
@@ -81,10 +85,6 @@ Since 2022-06-08 14:55:40 -0700 PDT, I'm most active between 15:00-15:59 - with 
                                |#####
  openconfig/lemming            |#####
                                |#####
-
-                               |#########
- openconfig/ygot               |#########
-                               |#########
 
 
 
@@ -94,4 +94,4 @@ Since 2022-06-08 14:55:40 -0700 PDT, I've been most active in openconfig/public,
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2022-06-15 17:02:26.463406725 -0700 PDT
+Last Updated: 2022-06-15 17:26:13.056169302 -0700 PDT
