@@ -42,18 +42,6 @@ Since 2022-06-08 15:15:27 -0700 PDT, I'm most active between 15:00-15:59 - with 
 
 
 ```
-                               |#
- p4lang/p4runtime              |#
-                               |#
-
-                               |#########
- openconfig/ygot               |#########
-                               |#########
-
-                               |#########
- openconfig/lemming            |#########
-                               |#########
-
                                |###################################################
  openconfig/public             |###################################################
                                |###################################################
@@ -62,25 +50,37 @@ Since 2022-06-08 15:15:27 -0700 PDT, I'm most active between 15:00-15:59 - with 
  nflath/openconfig-public      |##
                                |##
 
-                               |#
- openconfig/gnoi               |#
-                               |#
-
                                |###
  openconfig/reference          |###
                                |###
-
-                               |################
- openconfig/gribi              |################
-                               |################
 
                                |#######
  openconfig/featureprofiles    |#######
                                |#######
 
                                |#
+ p4lang/p4runtime              |#
+                               |#
+
+                               |#########
+ openconfig/ygot               |#########
+                               |#########
+
+                               |#
  cslev/p4-bmv2-docker          |#
                                |#
+
+                               |#########
+ openconfig/lemming            |#########
+                               |#########
+
+                               |#
+ openconfig/gnoi               |#
+                               |#
+
+                               |################
+ openconfig/gribi              |################
+                               |################
 
 
 
@@ -90,4 +90,4 @@ Since 2022-06-08 15:15:27 -0700 PDT, I've been most active in openconfig/public,
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2022-06-16 14:19:36.100588897 -0700 PDT
+Last Updated: 2022-06-16 14:31:59.333160338 -0700 PDT
