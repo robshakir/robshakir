@@ -43,18 +43,6 @@ Since 2022-06-08 18:26:58 -0700 PDT, I'm most active between 14:00-14:59 - with 
 
 ```
                                    |#
- antoninbas/p4runtime-go-client    |#
-                                   |#
-
-                                   |#########
- openconfig/lemming                |#########
-                                   |#########
-
-                                   |################
- openconfig/gribi                  |################
-                                   |################
-
-                                   |#
  cslev/p4-bmv2-docker              |#
                                    |#
 
@@ -70,6 +58,26 @@ Since 2022-06-08 18:26:58 -0700 PDT, I'm most active between 14:00-14:59 - with 
  nflath/openconfig-public          |##
                                    |##
 
+                                   |################
+ openconfig/gribi                  |################
+                                   |################
+
+                                   |#######
+ openconfig/featureprofiles        |#######
+                                   |#######
+
+                                   |#######
+ openconfig/ygot                   |#######
+                                   |#######
+
+                                   |#
+ antoninbas/p4runtime-go-client    |#
+                                   |#
+
+                                   |#########
+ openconfig/lemming                |#########
+                                   |#########
+
                                    |#
  openconfig/gnoi                   |#
                                    |#
@@ -78,17 +86,9 @@ Since 2022-06-08 18:26:58 -0700 PDT, I'm most active between 14:00-14:59 - with 
  openconfig/reference              |###
                                    |###
 
-                                   |#######
- openconfig/featureprofiles        |#######
-                                   |#######
-
                                    |#
  p4lang/p4runtime                  |#
                                    |#
-
-                                   |#######
- openconfig/ygot                   |#######
-                                   |#######
 
 
 
@@ -98,4 +98,4 @@ Since 2022-06-08 18:26:58 -0700 PDT, I've been most active in openconfig/public,
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2022-06-17 09:39:52.962603862 -0700 PDT
+Last Updated: 2022-06-17 09:56:36.988294621 -0700 PDT
