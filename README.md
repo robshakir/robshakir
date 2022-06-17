@@ -43,32 +43,16 @@ Since 2022-06-08 18:26:58 -0700 PDT, I'm most active between 14:00-14:59 - with 
 
 ```
                                    |#
- antoninbas/p4runtime-go-client    |#
+ openconfig/gnoi                   |#
                                    |#
-
-                                   |##
- nflath/openconfig-public          |##
-                                   |##
 
                                    |###
  openconfig/reference              |###
                                    |###
 
-                                   |#
- p4lang/p4runtime                  |#
-                                   |#
-
-                                   |#######
- openconfig/featureprofiles        |#######
-                                   |#######
-
                                    |#######
  openconfig/ygot                   |#######
                                    |#######
-
-                                   |#
- cslev/p4-bmv2-docker              |#
-                                   |#
 
                                    |##################################################
  openconfig/public                 |##################################################
@@ -78,17 +62,33 @@ Since 2022-06-08 18:26:58 -0700 PDT, I'm most active between 14:00-14:59 - with 
  robshakir/p4runtime-go-client     |##
                                    |##
 
+                                   |#
+ antoninbas/p4runtime-go-client    |#
+                                   |#
+
                                    |#########
  openconfig/lemming                |#########
                                    |#########
 
                                    |#
- openconfig/gnoi                   |#
+ cslev/p4-bmv2-docker              |#
                                    |#
+
+                                   |##
+ nflath/openconfig-public          |##
+                                   |##
 
                                    |################
  openconfig/gribi                  |################
                                    |################
+
+                                   |#######
+ openconfig/featureprofiles        |#######
+                                   |#######
+
+                                   |#
+ p4lang/p4runtime                  |#
+                                   |#
 
 
 
@@ -98,4 +98,4 @@ Since 2022-06-08 18:26:58 -0700 PDT, I've been most active in openconfig/public,
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2022-06-17 06:40:13.396130409 -0700 PDT
+Last Updated: 2022-06-17 06:55:33.675219867 -0700 PDT
