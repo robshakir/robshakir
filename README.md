@@ -42,21 +42,13 @@ Since 2022-06-10 07:01:20 -0700 PDT, I'm most active between 14:00-14:59 - with 
 
 
 ```
-                                   |########################################################
- openconfig/public                 |########################################################
-                                   |########################################################
-
-                                   |#########
- openconfig/lemming                |#########
-                                   |#########
-
                                    |#######
  openconfig/featureprofiles        |#######
                                    |#######
 
-                                   |###
- openconfig/reference              |###
-                                   |###
+                                   |########################################################
+ openconfig/public                 |########################################################
+                                   |########################################################
 
                                    |#
  robshakir/public                  |#
@@ -78,6 +70,14 @@ Since 2022-06-10 07:01:20 -0700 PDT, I'm most active between 14:00-14:59 - with 
  nflath/openconfig-public          |##
                                    |##
 
+                                   |###
+ openconfig/reference              |###
+                                   |###
+
+                                   |#########
+ openconfig/lemming                |#########
+                                   |#########
+
                                    |#
  openconfig/gnoi                   |#
                                    |#
@@ -90,4 +90,4 @@ Since 2022-06-10 07:01:20 -0700 PDT, I've been most active in openconfig/public,
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2022-06-19 10:01:52.948889741 -0700 PDT
+Last Updated: 2022-06-19 10:19:50.192032927 -0700 PDT
