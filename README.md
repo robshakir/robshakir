@@ -42,33 +42,13 @@ Since 2022-06-10 07:17:57 -0700 PDT, I'm most active between 14:00-14:59 - with 
 
 
 ```
-                                   |######
- openconfig/reference              |######
-                                   |######
-
-                                   |#
- openconfig/kne                    |#
-                                   |#
-
                                    |####################################################
  openconfig/public                 |####################################################
                                    |####################################################
 
-                                   |#
- robshakir/public                  |#
-                                   |#
-
-                                   |##################
- openconfig/gribi                  |##################
-                                   |##################
-
                                    |##
  robshakir/p4runtime-go-client     |##
                                    |##
-
-                                   |#
- antoninbas/p4runtime-go-client    |#
-                                   |#
 
                                    |#########
  openconfig/lemming                |#########
@@ -82,9 +62,29 @@ Since 2022-06-10 07:17:57 -0700 PDT, I'm most active between 14:00-14:59 - with 
  openconfig/gnoi                   |#
                                    |#
 
+                                   |######
+ openconfig/reference              |######
+                                   |######
+
+                                   |#
+ robshakir/public                  |#
+                                   |#
+
+                                   |##################
+ openconfig/gribi                  |##################
+                                   |##################
+
+                                   |#
+ antoninbas/p4runtime-go-client    |#
+                                   |#
+
                                    |#######
  openconfig/featureprofiles        |#######
                                    |#######
+
+                                   |#
+ openconfig/kne                    |#
+                                   |#
 
 
 
@@ -94,4 +94,4 @@ Since 2022-06-10 07:17:57 -0700 PDT, I've been most active in openconfig/public,
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2022-06-21 14:01:07.571479078 -0700 PDT
+Last Updated: 2022-06-21 14:19:49.215919254 -0700 PDT
