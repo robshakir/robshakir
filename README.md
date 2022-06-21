@@ -42,10 +42,6 @@ Since 2022-06-10 07:01:20 -0700 PDT, I'm most active between 14:00-14:59 - with 
 
 
 ```
-                                   |########################################################
- openconfig/public                 |########################################################
-                                   |########################################################
-
                                    |#
  robshakir/public                  |#
                                    |#
@@ -57,6 +53,18 @@ Since 2022-06-10 07:01:20 -0700 PDT, I'm most active between 14:00-14:59 - with 
                                    |#########
  openconfig/lemming                |#########
                                    |#########
+
+                                   |########################################################
+ openconfig/public                 |########################################################
+                                   |########################################################
+
+                                   |##
+ robshakir/p4runtime-go-client     |##
+                                   |##
+
+                                   |#
+ antoninbas/p4runtime-go-client    |#
+                                   |#
 
                                    |##
  nflath/openconfig-public          |##
@@ -74,14 +82,6 @@ Since 2022-06-10 07:01:20 -0700 PDT, I'm most active between 14:00-14:59 - with 
  openconfig/featureprofiles        |#######
                                    |#######
 
-                                   |##
- robshakir/p4runtime-go-client     |##
-                                   |##
-
-                                   |#
- antoninbas/p4runtime-go-client    |#
-                                   |#
-
 
 
 Since 2022-06-10 07:01:20 -0700 PDT, I've been most active in openconfig/public, with 56 events.
@@ -90,4 +90,4 @@ Since 2022-06-10 07:01:20 -0700 PDT, I've been most active in openconfig/public,
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2022-06-20 17:02:57.06797964 -0700 PDT
+Last Updated: 2022-06-20 17:26:14.621088728 -0700 PDT
