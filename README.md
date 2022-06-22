@@ -43,32 +43,12 @@ Since 2022-06-14 14:21:50 -0700 PDT, I'm most active between 14:00-14:59 - with 
 
 ```
                                    |#
- openconfig/kne                    |#
-                                   |#
-
-                                   |#
- antoninbas/p4runtime-go-client    |#
-                                   |#
-
-                                   |##
- nflath/openconfig-public          |##
-                                   |##
-
-                                   |#
  openconfig/gnoi                   |#
                                    |#
-
-                                   |######################
- openconfig/gribi                  |######################
-                                   |######################
 
                                    |###########################################################
  openconfig/public                 |###########################################################
                                    |###########################################################
-
-                                   |#######
- openconfig/lemming                |#######
-                                   |#######
 
                                    |####
  openconfig/reference              |####
@@ -82,6 +62,26 @@ Since 2022-06-14 14:21:50 -0700 PDT, I'm most active between 14:00-14:59 - with 
  robshakir/p4runtime-go-client     |##
                                    |##
 
+                                   |#
+ antoninbas/p4runtime-go-client    |#
+                                   |#
+
+                                   |##
+ nflath/openconfig-public          |##
+                                   |##
+
+                                   |######################
+ openconfig/gribi                  |######################
+                                   |######################
+
+                                   |#######
+ openconfig/lemming                |#######
+                                   |#######
+
+                                   |#
+ openconfig/kne                    |#
+                                   |#
+
 
 
 Since 2022-06-14 14:21:50 -0700 PDT, I've been most active in openconfig/public, with 59 events.
@@ -90,4 +90,4 @@ Since 2022-06-14 14:21:50 -0700 PDT, I've been most active in openconfig/public,
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2022-06-22 13:46:13.68941108 -0700 PDT
+Last Updated: 2022-06-22 14:01:25.06201648 -0700 PDT
