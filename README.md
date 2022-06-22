@@ -42,22 +42,6 @@ Since 2022-06-13 12:32:59 -0700 PDT, I'm most active between 14:00-14:59 - with 
 
 
 ```
-                                   |##################
- openconfig/gribi                  |##################
-                                   |##################
-
-                                   |#
- antoninbas/p4runtime-go-client    |#
-                                   |#
-
-                                   |##
- nflath/openconfig-public          |##
-                                   |##
-
-                                   |#
- openconfig/gnoi                   |#
-                                   |#
-
                                    |###########################################################
  openconfig/public                 |###########################################################
                                    |###########################################################
@@ -74,13 +58,29 @@ Since 2022-06-13 12:32:59 -0700 PDT, I'm most active between 14:00-14:59 - with 
  openconfig/kne                    |#
                                    |#
 
+                                   |##
+ robshakir/p4runtime-go-client     |##
+                                   |##
+
+                                   |##
+ nflath/openconfig-public          |##
+                                   |##
+
                                    |#
  robshakir/public                  |#
                                    |#
 
-                                   |##
- robshakir/p4runtime-go-client     |##
-                                   |##
+                                   |##################
+ openconfig/gribi                  |##################
+                                   |##################
+
+                                   |#
+ antoninbas/p4runtime-go-client    |#
+                                   |#
+
+                                   |#
+ openconfig/gnoi                   |#
+                                   |#
 
 
 
@@ -90,4 +90,4 @@ Since 2022-06-13 12:32:59 -0700 PDT, I've been most active in openconfig/public,
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2022-06-22 03:21:11.952841797 -0700 PDT
+Last Updated: 2022-06-22 03:35:28.938885847 -0700 PDT
