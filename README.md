@@ -42,6 +42,10 @@ Since 2022-06-14 14:21:50 -0700 PDT, I'm most active between 14:00-14:59 - with 
 
 
 ```
+                                   |######################
+ openconfig/gribi                  |######################
+                                   |######################
+
                                    |###########################################################
  openconfig/public                 |###########################################################
                                    |###########################################################
@@ -55,16 +59,12 @@ Since 2022-06-14 14:21:50 -0700 PDT, I'm most active between 14:00-14:59 - with 
                                    |####
 
                                    |#
- openconfig/kne                    |#
-                                   |#
-
-                                   |#
  openconfig/gnoi                   |#
                                    |#
 
-                                   |######################
- openconfig/gribi                  |######################
-                                   |######################
+                                   |#
+ openconfig/kne                    |#
+                                   |#
 
                                    |#
  robshakir/public                  |#
@@ -90,4 +90,4 @@ Since 2022-06-14 14:21:50 -0700 PDT, I've been most active in openconfig/public,
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2022-06-23 07:20:01.869669672 -0700 PDT
+Last Updated: 2022-06-23 07:32:36.445860569 -0700 PDT
