@@ -42,9 +42,17 @@ Since 2022-06-14 14:21:50 -0700 PDT, I'm most active between 14:00-14:59 - with 
 
 
 ```
-                                   |#######
- openconfig/lemming                |#######
-                                   |#######
+                                   |#
+ antoninbas/p4runtime-go-client    |#
+                                   |#
+
+                                   |##
+ nflath/openconfig-public          |##
+                                   |##
+
+                                   |#
+ openconfig/gnoi                   |#
+                                   |#
 
                                    |####
  openconfig/reference              |####
@@ -62,14 +70,6 @@ Since 2022-06-14 14:21:50 -0700 PDT, I'm most active between 14:00-14:59 - with 
  robshakir/p4runtime-go-client     |##
                                    |##
 
-                                   |#
- antoninbas/p4runtime-go-client    |#
-                                   |#
-
-                                   |##
- nflath/openconfig-public          |##
-                                   |##
-
                                    |######################
  openconfig/gribi                  |######################
                                    |######################
@@ -78,9 +78,9 @@ Since 2022-06-14 14:21:50 -0700 PDT, I'm most active between 14:00-14:59 - with 
  openconfig/public                 |###########################################################
                                    |###########################################################
 
-                                   |#
- openconfig/gnoi                   |#
-                                   |#
+                                   |#######
+ openconfig/lemming                |#######
+                                   |#######
 
 
 
@@ -90,4 +90,4 @@ Since 2022-06-14 14:21:50 -0700 PDT, I've been most active in openconfig/public,
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2022-06-23 02:46:32.185933868 -0700 PDT
+Last Updated: 2022-06-23 03:01:05.660599966 -0700 PDT
