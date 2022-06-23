@@ -42,10 +42,6 @@ Since 2022-06-14 14:21:50 -0700 PDT, I'm most active between 14:00-14:59 - with 
 
 
 ```
-                                   |#
- openconfig/gnoi                   |#
-                                   |#
-
                                    |######################
  openconfig/gribi                  |######################
                                    |######################
@@ -58,12 +54,16 @@ Since 2022-06-14 14:21:50 -0700 PDT, I'm most active between 14:00-14:59 - with 
  openconfig/reference              |####
                                    |####
 
+                                   |#
+ antoninbas/p4runtime-go-client    |#
+                                   |#
+
                                    |##
  nflath/openconfig-public          |##
                                    |##
 
                                    |#
- antoninbas/p4runtime-go-client    |#
+ openconfig/gnoi                   |#
                                    |#
 
                                    |#######
@@ -90,4 +90,4 @@ Since 2022-06-14 14:21:50 -0700 PDT, I've been most active in openconfig/public,
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2022-06-23 12:30:57.5636963 -0700 PDT
+Last Updated: 2022-06-23 12:45:49.060119043 -0700 PDT
