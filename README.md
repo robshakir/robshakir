@@ -42,34 +42,6 @@ Since 2022-06-14 15:28:13 -0700 PDT, I'm most active between 08:00-08:59 - with 
 
 
 ```
-                                   |##########
- openconfig/featureprofiles        |##########
-                                   |##########
-
-                                   |##########################################################
- openconfig/public                 |##########################################################
-                                   |##########################################################
-
-                                   |####
- openconfig/reference              |####
-                                   |####
-
-                                   |##
- robshakir/p4runtime-go-client     |##
-                                   |##
-
-                                   |##
- nflath/openconfig-public          |##
-                                   |##
-
-                                   |#############
- openconfig/gribi                  |#############
-                                   |#############
-
-                                   |#######
- openconfig/lemming                |#######
-                                   |#######
-
                                    |#
  openconfig/kne                    |#
                                    |#
@@ -86,6 +58,34 @@ Since 2022-06-14 15:28:13 -0700 PDT, I'm most active between 08:00-08:59 - with 
  openconfig/gnoi                   |#
                                    |#
 
+                                   |#############
+ openconfig/gribi                  |#############
+                                   |#############
+
+                                   |##########
+ openconfig/featureprofiles        |##########
+                                   |##########
+
+                                   |##########################################################
+ openconfig/public                 |##########################################################
+                                   |##########################################################
+
+                                   |#######
+ openconfig/lemming                |#######
+                                   |#######
+
+                                   |####
+ openconfig/reference              |####
+                                   |####
+
+                                   |##
+ robshakir/p4runtime-go-client     |##
+                                   |##
+
+                                   |##
+ nflath/openconfig-public          |##
+                                   |##
+
 
 
 Since 2022-06-14 15:28:13 -0700 PDT, I've been most active in openconfig/public, with 58 events.
@@ -94,4 +94,4 @@ Since 2022-06-14 15:28:13 -0700 PDT, I've been most active in openconfig/public,
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2022-06-24 13:20:29.035691636 -0700 PDT
+Last Updated: 2022-06-24 13:33:22.580104356 -0700 PDT
