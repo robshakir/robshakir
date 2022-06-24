@@ -42,17 +42,9 @@ Since 2022-06-14 14:17:18 -0700 PDT, I'm most active between 14:00-14:59 - with 
 
 
 ```
-                                   |#
- antoninbas/p4runtime-go-client    |#
-                                   |#
-
                                    |############################################################
  openconfig/public                 |############################################################
                                    |############################################################
-
-                                   |##
- robshakir/p4runtime-go-client     |##
-                                   |##
 
                                    |####
  openconfig/reference              |####
@@ -62,17 +54,17 @@ Since 2022-06-14 14:17:18 -0700 PDT, I'm most active between 14:00-14:59 - with 
  openconfig/kne                    |#
                                    |#
 
+                                   |##
+ robshakir/p4runtime-go-client     |##
+                                   |##
+
                                    |#
- robshakir/public                  |#
+ antoninbas/p4runtime-go-client    |#
                                    |#
 
                                    |##
  nflath/openconfig-public          |##
                                    |##
-
-                                   |#
- openconfig/gnoi                   |#
-                                   |#
 
                                    |#####################
  openconfig/gribi                  |#####################
@@ -82,6 +74,14 @@ Since 2022-06-14 14:17:18 -0700 PDT, I'm most active between 14:00-14:59 - with 
  openconfig/lemming                |#######
                                    |#######
 
+                                   |#
+ robshakir/public                  |#
+                                   |#
+
+                                   |#
+ openconfig/gnoi                   |#
+                                   |#
+
 
 
 Since 2022-06-14 14:17:18 -0700 PDT, I've been most active in openconfig/public, with 60 events.
@@ -90,4 +90,4 @@ Since 2022-06-14 14:17:18 -0700 PDT, I've been most active in openconfig/public,
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2022-06-24 00:20:11.907109444 -0700 PDT
+Last Updated: 2022-06-24 00:32:26.717711513 -0700 PDT
