@@ -42,14 +42,6 @@ Since 2022-06-14 15:32:58 -0700 PDT, I'm most active between 08:00-08:59 - with 
 
 
 ```
-                                   |#######
- openconfig/lemming                |#######
-                                   |#######
-
-                                   |####
- openconfig/reference              |####
-                                   |####
-
                                    |#############
  openconfig/gribi                  |#############
                                    |#############
@@ -58,12 +50,12 @@ Since 2022-06-14 15:32:58 -0700 PDT, I'm most active between 08:00-08:59 - with 
  openconfig/public                 |########################################################
                                    |########################################################
 
-                                   |#
- openconfig/kne                    |#
-                                   |#
+                                   |#######
+ openconfig/lemming                |#######
+                                   |#######
 
                                    |#
- robshakir/public                  |#
+ openconfig/kne                    |#
                                    |#
 
                                    |##
@@ -78,13 +70,21 @@ Since 2022-06-14 15:32:58 -0700 PDT, I'm most active between 08:00-08:59 - with 
  nflath/openconfig-public          |##
                                    |##
 
+                                   |############
+ openconfig/featureprofiles        |############
+                                   |############
+
                                    |#
  openconfig/gnoi                   |#
                                    |#
 
-                                   |############
- openconfig/featureprofiles        |############
-                                   |############
+                                   |#
+ robshakir/public                  |#
+                                   |#
+
+                                   |####
+ openconfig/reference              |####
+                                   |####
 
 
 
@@ -94,4 +94,4 @@ Since 2022-06-14 15:32:58 -0700 PDT, I've been most active in openconfig/public,
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2022-06-25 01:01:21.623900852 -0700 PDT
+Last Updated: 2022-06-25 01:20:52.057813085 -0700 PDT
