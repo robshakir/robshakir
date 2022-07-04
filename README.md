@@ -42,21 +42,9 @@ Since 2022-06-16 08:35:50 -0700 PDT, I'm most active between 08:00-08:59 - with 
 
 
 ```
-                                                        |#######
- openconfig/reference                                   |#######
-                                                        |#######
-
-                                                        |#
- EngineOwningSoftware/Vestaboard-Reverse-Engineering    |#
-                                                        |#
-
-                                                        |#
- antoninbas/p4runtime-go-client                         |#
-                                                        |#
-
-                                                        |#####
- openconfig/goyang                                      |#####
-                                                        |#####
+                                                        |#############
+ openconfig/featureprofiles                             |#############
+                                                        |#############
 
                                                         |##
  robshakir/go-vestaboard                                |##
@@ -64,6 +52,14 @@ Since 2022-06-16 08:35:50 -0700 PDT, I'm most active between 08:00-08:59 - with 
 
                                                         |#
  openconfig/ygot                                        |#
+                                                        |#
+
+                                                        |####
+ mikehelmick/go-vestaboard                              |####
+                                                        |####
+
+                                                        |#
+ EngineOwningSoftware/Vestaboard-Reverse-Engineering    |#
                                                         |#
 
                                                         |#######
@@ -74,33 +70,37 @@ Since 2022-06-16 08:35:50 -0700 PDT, I'm most active between 08:00-08:59 - with 
  robshakir/p4runtime-go-client                          |##
                                                         |##
 
-                                                        |#############
- openconfig/featureprofiles                             |#############
-                                                        |#############
-
-                                                        |####
- mikehelmick/go-vestaboard                              |####
-                                                        |####
-
-                                                        |#############
- openconfig/gribi                                       |#############
-                                                        |#############
+                                                        |#########################################
+ openconfig/public                                      |#########################################
+                                                        |#########################################
 
                                                         |#
  openconfig/kne                                         |#
                                                         |#
 
                                                         |#
+ robshakir/public                                       |#
+                                                        |#
+
+                                                        |#
+ antoninbas/p4runtime-go-client                         |#
+                                                        |#
+
+                                                        |#####
+ openconfig/goyang                                      |#####
+                                                        |#####
+
+                                                        |#######
+ openconfig/reference                                   |#######
+                                                        |#######
+
+                                                        |#
  gchq/BoilingFrogs                                      |#
                                                         |#
 
-                                                        |#########################################
- openconfig/public                                      |#########################################
-                                                        |#########################################
-
-                                                        |#
- robshakir/public                                       |#
-                                                        |#
+                                                        |#############
+ openconfig/gribi                                       |#############
+                                                        |#############
 
 
 
@@ -110,4 +110,4 @@ Since 2022-06-16 08:35:50 -0700 PDT, I've been most active in openconfig/public,
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2022-07-04 06:53:52.938038582 -0700 PDT
+Last Updated: 2022-07-04 07:01:11.356879861 -0700 PDT
