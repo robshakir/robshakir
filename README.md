@@ -1,86 +1,70 @@
 ### 🍞 Bread Crumbs
 
+ * 🔍: Reviewed a pull request in  `openconfig/reference` at 2022-07-07 04:34:10 -0700 PDT
+ * 💬: Commented on a PR in  `openconfig/reference` at 2022-07-07 04:33:04 -0700 PDT
+ * 🔍: Reviewed a pull request in  `openconfig/reference` at 2022-07-07 04:33:40 -0700 PDT
+ * 🔍: Reviewed a pull request in  `openconfig/reference` at 2022-07-07 04:33:40 -0700 PDT
+ * 💬: Commented on a PR in  `openconfig/reference` at 2022-07-07 04:33:31 -0700 PDT
  * 🔍: Reviewed a pull request in  `openconfig/featureprofiles` at 2022-06-29 07:56:40 -0700 PDT
  * 🔍: Reviewed a pull request in  `openconfig/goyang` at 2022-06-28 05:42:26 -0700 PDT
  * 😃: Commented on an issue in `openconfig/goyang` at 2022-06-28 05:42:13 -0700 PDT
  * ✍🏼: Created a pull request in `openconfig/goyang` at 2022-06-28 05:40:55 -0700 PDT
  * ✍🏼: Created a pull request in `openconfig/goyang` at 2022-06-28 05:39:01 -0700 PDT
- * 💥: Created a branch in `openconfig/goyang` at 2022-06-28 05:39:01 -0700 PDT
- * 😃: Commented on an issue in `openconfig/reference` at 2022-06-28 05:29:53 -0700 PDT
- * 😃: Commented on an issue in `openconfig/reference` at 2022-06-28 05:29:23 -0700 PDT
- * 😃: Commented on an issue in `mikehelmick/go-vestaboard` at 2022-06-27 22:13:40 -0700 PDT
- * ✍🏼: Created a pull request in `mikehelmick/go-vestaboard` at 2022-06-27 08:06:33 -0700 PDT
 
 ### 🕘 Recent Activity
 ```
- 14 ┼                                 ╭─╮
- 13 ┤                                 │ │
- 12 ┤                                ╭╯ │                                             ╭╮
- 11 ┤                                │  ╰╮                                            ││
- 10 ┤                               ╭╯   │                                           ╭╯│
-  9 ┤                               │    ╰╮                    ╭──╮                  │ ╰╮
-  8 ┤                               │     │        ╭╮         ╭╯  │                  │  │
-  8 ┤                    ╭─╮       ╭╯     ╰╮       │╰╮       ╭╯   ╰╮                ╭╯  │
-  7 ┤                  ╭─╯ │       │       │      ╭╯ │      ╭╯     ╰╮               │   ╰╮
-  6 ┤                 ╭╯   ╰╮     ╭╯       ╰╮     │  ╰╮    ╭╯       │     ╭───╮     │    │
-  5 ┤                ╭╯     ╰╮   ╭╯         ╰╮    │   │    │        ╰╮╭───╯   ╰╮   ╭╯    │
-  4 ┤               ╭╯       │  ╭╯           │   ╭╯   ╰╮  ╭╯         ╰╯        ╰╮  │     ╰╮
-  3 ┤              ╭╯        ╰╮╭╯            ╰╮  │     │  │                     │  │      │       ╭─╮
-  2 ┤              │          ╰╯              ╰╮╭╯     │ ╭╯                     ╰╮╭╯      │      ╭╯ ╰╮
-  1 ┤             ╭╯                           ││      ╰─╯                       ╰╯       ╰──╮  ╭╯   ╰─╮
-  0 ┼─────────────╯                            ╰╯                                            ╰──╯      ╰
+ 12 ┼                                 ╭╮                                              ╭╮
+ 12 ┤                                 │╰╮                                             ││
+ 11 ┤                                ╭╯ │                                            ╭╯│
+ 10 ┤                 ╭╮             │  │                       ╭╮                   │ ╰╮
+  9 ┤                ╭╯╰─╮          ╭╯  ╰╮                     ╭╯╰╮                  │  │
+  8 ┤                │   ╰╮         │    │         ╭╮         ╭╯  │                  │  │
+  7 ┤               ╭╯    ╰╮       ╭╯    ╰╮        │╰╮      ╭─╯   ╰╮                ╭╯  │
+  7 ┤               │      │       │      │        │ │      │      │                │   ╰╮
+  6 ┤               │      ╰╮     ╭╯      │       ╭╯ ╰╮    ╭╯      ╰╮      ╭──╮     │    │
+  5 ┤              ╭╯       ╰╮   ╭╯       ╰╮      │   │    │        ╰╮ ╭───╯  ╰╮   ╭╯    │
+  4 ┤              │         │  ╭╯         │     ╭╯   │   ╭╯         ╰─╯       │   │     ╰╮
+  3 ┤              │         ╰╮╭╯          │     │    ╰╮  │                    ╰╮  │      │
+  2 ┤             ╭╯          ╰╯           ╰─╮   │     │ ╭╯                     │  │      │       ╭──╮
+  2 ┤             │                          ╰╮ ╭╯     ╰╮│                      ╰╮╭╯      ╰╮     ╭╯  ╰╮
+  1 ┤             │                           ╰╮│       ╰╯                       ╰╯        ╰─╮ ╭─╯    ╰╮
+  0 ┼─────────────╯                            ╰╯                                            ╰─╯       ╰
     +───────+───────+───────+───────+───────+───────+───────+───────+───────+───────+───────+───────+────
   00:00   02:00   04:00   06:00   08:00   10:00   12:00   14:00   16:00   18:00   20:00   22:00   00:00   
 
 						Commits by Hour of Day
 
 
-Since 2022-06-16 08:35:50 -0700 PDT, I'm most active between 08:00-08:59 - with 15 events in that hour.
+Since 2022-06-16 09:30:48 -0700 PDT, I'm most active between 08:00-08:59 - with 13 events in that hour.
 
 ```
 
 
 
 ```
-                                                        |#############
- openconfig/featureprofiles                             |#############
-                                                        |#############
-
-                                                        |#########################################
- openconfig/public                                      |#########################################
-                                                        |#########################################
-
-                                                        |#
- robshakir/public                                       |#
-                                                        |#
-
                                                         |#####
  openconfig/goyang                                      |#####
                                                         |#####
 
-                                                        |#######
- openconfig/reference                                   |#######
-                                                        |#######
+                                                        |#
+ gchq/BoilingFrogs                                      |#
+                                                        |#
 
-                                                        |##
- robshakir/go-vestaboard                                |##
-                                                        |##
+                                                        |####################################
+ openconfig/public                                      |####################################
+                                                        |####################################
 
                                                         |#############
- openconfig/gribi                                       |#############
+ openconfig/featureprofiles                             |#############
                                                         |#############
-
-                                                        |#######
- openconfig/lemming                                     |#######
-                                                        |#######
-
-                                                        |##
- robshakir/p4runtime-go-client                          |##
-                                                        |##
 
                                                         |####
  mikehelmick/go-vestaboard                              |####
                                                         |####
+
+                                                        |##
+ robshakir/go-vestaboard                                |##
+                                                        |##
 
                                                         |#
  openconfig/ygot                                        |#
@@ -90,12 +74,28 @@ Since 2022-06-16 08:35:50 -0700 PDT, I'm most active between 08:00-08:59 - with 
  EngineOwningSoftware/Vestaboard-Reverse-Engineering    |#
                                                         |#
 
+                                                        |#######
+ openconfig/lemming                                     |#######
+                                                        |#######
+
                                                         |#
  openconfig/kne                                         |#
                                                         |#
 
+                                                        |##
+ robshakir/p4runtime-go-client                          |##
+                                                        |##
+
+                                                        |############
+ openconfig/reference                                   |############
+                                                        |############
+
+                                                        |#############
+ openconfig/gribi                                       |#############
+                                                        |#############
+
                                                         |#
- gchq/BoilingFrogs                                      |#
+ robshakir/public                                       |#
                                                         |#
 
                                                         |#
@@ -104,10 +104,10 @@ Since 2022-06-16 08:35:50 -0700 PDT, I'm most active between 08:00-08:59 - with 
 
 
 
-Since 2022-06-16 08:35:50 -0700 PDT, I've been most active in openconfig/public, with 41 events.
+Since 2022-06-16 09:30:48 -0700 PDT, I've been most active in openconfig/public, with 36 events.
 
 ```
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2022-07-07 04:32:31.643774404 -0700 PDT
+Last Updated: 2022-07-07 04:45:55.721334039 -0700 PDT
