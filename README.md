@@ -42,13 +42,13 @@ Since 2022-06-17 13:18:30 -0700 PDT, I'm most active between 13:00-13:59 - with 
 
 
 ```
-                                                        |###
- openconfig/lemming                                     |###
-                                                        |###
-
                                                         |###########################
  openconfig/public                                      |###########################
                                                         |###########################
+
+                                                        |#############
+ openconfig/gribi                                       |#############
+                                                        |#############
 
                                                         |######################
  openconfig/reference                                   |######################
@@ -74,14 +74,6 @@ Since 2022-06-17 13:18:30 -0700 PDT, I'm most active between 13:00-13:59 - with 
  gchq/BoilingFrogs                                      |#
                                                         |#
 
-                                                        |#
- openconfig/kne                                         |#
-                                                        |#
-
-                                                        |#############
- openconfig/gribi                                       |#############
-                                                        |#############
-
                                                         |########
  openconfig/goyang                                      |########
                                                         |########
@@ -89,6 +81,14 @@ Since 2022-06-17 13:18:30 -0700 PDT, I'm most active between 13:00-13:59 - with 
                                                         |####
  openconfig/ygot                                        |####
                                                         |####
+
+                                                        |###
+ openconfig/lemming                                     |###
+                                                        |###
+
+                                                        |#
+ openconfig/kne                                         |#
+                                                        |#
 
                                                         |#
  robshakir/public                                       |#
@@ -102,4 +102,4 @@ Since 2022-06-17 13:18:30 -0700 PDT, I've been most active in openconfig/public,
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2022-07-13 12:45:59.033326652 -0700 PDT
+Last Updated: 2022-07-13 13:01:19.781489756 -0700 PDT
