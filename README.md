@@ -42,26 +42,6 @@ Since 2022-06-17 13:44:31 -0700 PDT, I'm most active between 04:00-04:59 - with 
 
 
 ```
-                                                        |####
- openconfig/ygot                                        |####
-                                                        |####
-
-                                                        |######################
- openconfig/reference                                   |######################
-                                                        |######################
-
-                                                        |####
- mikehelmick/go-vestaboard                              |####
-                                                        |####
-
-                                                        |###
- openconfig/lemming                                     |###
-                                                        |###
-
-                                                        |#
- openconfig/gnsi                                        |#
-                                                        |#
-
                                                         |########
  openconfig/goyang                                      |########
                                                         |########
@@ -70,32 +50,52 @@ Since 2022-06-17 13:44:31 -0700 PDT, I'm most active between 04:00-04:59 - with 
  robshakir/go-vestaboard                                |##
                                                         |##
 
-                                                        |#
- EngineOwningSoftware/Vestaboard-Reverse-Engineering    |#
-                                                        |#
-
                                                         |###########################
  openconfig/public                                      |###########################
                                                         |###########################
 
-                                                        |#############
- openconfig/featureprofiles                             |#############
-                                                        |#############
+                                                        |####
+ mikehelmick/go-vestaboard                              |####
+                                                        |####
 
                                                         |#
- openconfig/kne                                         |#
+ EngineOwningSoftware/Vestaboard-Reverse-Engineering    |#
                                                         |#
-
-                                                        |############
- openconfig/gribi                                       |############
-                                                        |############
 
                                                         |#
  gchq/BoilingFrogs                                      |#
                                                         |#
 
+                                                        |###
+ openconfig/lemming                                     |###
+                                                        |###
+
+                                                        |####
+ openconfig/ygot                                        |####
+                                                        |####
+
                                                         |#
  robshakir/public                                       |#
+                                                        |#
+
+                                                        |#############
+ openconfig/featureprofiles                             |#############
+                                                        |#############
+
+                                                        |############
+ openconfig/gribi                                       |############
+                                                        |############
+
+                                                        |######################
+ openconfig/reference                                   |######################
+                                                        |######################
+
+                                                        |#
+ openconfig/kne                                         |#
+                                                        |#
+
+                                                        |#
+ openconfig/gnsi                                        |#
                                                         |#
 
 
@@ -106,4 +106,4 @@ Since 2022-06-17 13:44:31 -0700 PDT, I've been most active in openconfig/public,
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2022-07-17 18:32:54.838238603 -0700 PDT
+Last Updated: 2022-07-17 19:31:33.85581121 -0700 PDT
