@@ -42,42 +42,6 @@ Since 2022-06-17 13:52:39 -0700 PDT, I'm most active between 04:00-04:59 - with 
 
 
 ```
-                                                        |########
- openconfig/goyang                                      |########
-                                                        |########
-
-                                                        |####
- mikehelmick/go-vestaboard                              |####
-                                                        |####
-
-                                                        |##
- robshakir/go-vestaboard                                |##
-                                                        |##
-
-                                                        |#
- EngineOwningSoftware/Vestaboard-Reverse-Engineering    |#
-                                                        |#
-
-                                                        |#
- gchq/BoilingFrogs                                      |#
-                                                        |#
-
-                                                        |##############
- openconfig/featureprofiles                             |##############
-                                                        |##############
-
-                                                        |###########################
- openconfig/public                                      |###########################
-                                                        |###########################
-
-                                                        |####
- openconfig/ygot                                        |####
-                                                        |####
-
-                                                        |######################
- openconfig/reference                                   |######################
-                                                        |######################
-
                                                         |###
  openconfig/lemming                                     |###
                                                         |###
@@ -90,9 +54,45 @@ Since 2022-06-17 13:52:39 -0700 PDT, I'm most active between 04:00-04:59 - with 
  openconfig/gnsi                                        |#
                                                         |#
 
+                                                        |####
+ openconfig/ygot                                        |####
+                                                        |####
+
+                                                        |######################
+ openconfig/reference                                   |######################
+                                                        |######################
+
+                                                        |#
+ EngineOwningSoftware/Vestaboard-Reverse-Engineering    |#
+                                                        |#
+
+                                                        |#
+ gchq/BoilingFrogs                                      |#
+                                                        |#
+
+                                                        |##
+ robshakir/go-vestaboard                                |##
+                                                        |##
+
+                                                        |##############
+ openconfig/featureprofiles                             |##############
+                                                        |##############
+
+                                                        |###########################
+ openconfig/public                                      |###########################
+                                                        |###########################
+
                                                         |############
  openconfig/gribi                                       |############
                                                         |############
+
+                                                        |########
+ openconfig/goyang                                      |########
+                                                        |########
+
+                                                        |####
+ mikehelmick/go-vestaboard                              |####
+                                                        |####
 
 
 
@@ -102,4 +102,4 @@ Since 2022-06-17 13:52:39 -0700 PDT, I've been most active in openconfig/public,
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2022-07-20 14:01:22.942480817 -0700 PDT
+Last Updated: 2022-07-20 14:19:48.55058282 -0700 PDT
