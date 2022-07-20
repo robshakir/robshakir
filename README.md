@@ -1,5 +1,6 @@
 ### 🍞 Bread Crumbs
 
+ * 🔍: Reviewed a pull request in  `openconfig/ygot` at 2022-07-20 16:10:09 -0700 PDT
  * 😃: Commented on an issue in `openconfig/featureprofiles` at 2022-07-19 08:09:38 -0700 PDT
  * 👉: Prodded at the collaborators for `openconfig/gnsi` at 2022-07-13 12:18:56 -0700 PDT
  * 💬: Commented on a PR in  `openconfig/public` at 2022-07-11 13:58:54 -0700 PDT
@@ -9,20 +10,19 @@
  * 🔍: Reviewed a pull request in  `openconfig/public` at 2022-07-11 13:59:03 -0700 PDT
  * 🔍: Reviewed a pull request in  `openconfig/public` at 2022-07-11 13:59:02 -0700 PDT
  * 🔍: Reviewed a pull request in  `openconfig/gribi` at 2022-07-11 13:51:22 -0700 PDT
- * 👀: Worked on an issue in `openconfig/goyang` at 2022-07-11 13:46:52 -0700 PDT
 
 ### 🕘 Recent Activity
 ```
- 15 ┼                ╭╮                                     ╭╮
- 14 ┤                │╰╮                                    ││
+ 15 ┼                ╭╮
+ 14 ┤                │╰╮                                    ╭╮
  13 ┤                │ ╰╮             ╭╮                    │╰╮
- 12 ┤                │  │             │╰╮                  ╭╯ ╰╮
- 11 ┤               ╭╯  ╰╮           ╭╯ │                  │   ╰╮
- 10 ┤               │    │           │  │                  │    │
-  9 ┤               │    ╰╮         ╭╯  ╰╮                ╭╯    ╰╮
-  8 ┤              ╭╯     │        ╭╯    │                │      ╰╮
-  7 ┤              │      ╰╮       │     │         ╭─╮    │       ╰╮     ╭─╮
-  6 ┤              │       ╰╮     ╭╯     ╰╮        │ │    │        ╰╮  ╭─╯ ╰──╮
+ 12 ┤                │  │             │╰╮                   │ │
+ 11 ┤               ╭╯  ╰╮           ╭╯ │                  ╭╯ ╰╮
+ 10 ┤               │    │           │  │                  │   ╰╮
+  9 ┤               │    ╰╮         ╭╯  ╰╮                 │    ╰╮
+  8 ┤              ╭╯     │        ╭╯    │                ╭╯     ╰╮      ╭╮
+  7 ┤              │      ╰╮       │     │         ╭─╮    │       ╰╮    ╭╯╰─╮
+  6 ┤              │       ╰╮     ╭╯     ╰╮        │ │    │        ╰╮  ╭╯   ╰─╮
   5 ┤              │        │    ╭╯       │       ╭╯ ╰╮  ╭╯         ╰╮╭╯      ╰╮
   4 ┤             ╭╯        ╰╮  ╭╯        │      ╭╯   ╰╮ │           ╰╯        │
   3 ┤             │          ╰╮╭╯         │      │     │ │                     ╰╮                  ╭╮
@@ -35,20 +35,44 @@
 						Commits by Hour of Day
 
 
-Since 2022-06-17 13:52:39 -0700 PDT, I'm most active between 04:00-04:59 - with 16 events in that hour.
+Since 2022-06-17 13:52:40 -0700 PDT, I'm most active between 04:00-04:59 - with 16 events in that hour.
 
 ```
 
 
 
 ```
-                                                        |###########################
- openconfig/public                                      |###########################
-                                                        |###########################
+                                                        |##############
+ openconfig/featureprofiles                             |##############
+                                                        |##############
+
+                                                        |##########################
+ openconfig/public                                      |##########################
+                                                        |##########################
 
                                                         |########
  openconfig/goyang                                      |########
                                                         |########
+
+                                                        |####
+ mikehelmick/go-vestaboard                              |####
+                                                        |####
+
+                                                        |#####
+ openconfig/ygot                                        |#####
+                                                        |#####
+
+                                                        |############
+ openconfig/gribi                                       |############
+                                                        |############
+
+                                                        |######################
+ openconfig/reference                                   |######################
+                                                        |######################
+
+                                                        |##
+ robshakir/go-vestaboard                                |##
+                                                        |##
 
                                                         |#
  EngineOwningSoftware/Vestaboard-Reverse-Engineering    |#
@@ -58,26 +82,6 @@ Since 2022-06-17 13:52:39 -0700 PDT, I'm most active between 04:00-04:59 - with 
  gchq/BoilingFrogs                                      |#
                                                         |#
 
-                                                        |##############
- openconfig/featureprofiles                             |##############
-                                                        |##############
-
-                                                        |#
- openconfig/gnsi                                        |#
-                                                        |#
-
-                                                        |######################
- openconfig/reference                                   |######################
-                                                        |######################
-
-                                                        |####
- mikehelmick/go-vestaboard                              |####
-                                                        |####
-
-                                                        |##
- robshakir/go-vestaboard                                |##
-                                                        |##
-
                                                         |###
  openconfig/lemming                                     |###
                                                         |###
@@ -86,20 +90,16 @@ Since 2022-06-17 13:52:39 -0700 PDT, I'm most active between 04:00-04:59 - with 
  openconfig/kne                                         |#
                                                         |#
 
-                                                        |############
- openconfig/gribi                                       |############
-                                                        |############
-
-                                                        |####
- openconfig/ygot                                        |####
-                                                        |####
+                                                        |#
+ openconfig/gnsi                                        |#
+                                                        |#
 
 
 
-Since 2022-06-17 13:52:39 -0700 PDT, I've been most active in openconfig/public, with 27 events.
+Since 2022-06-17 13:52:40 -0700 PDT, I've been most active in openconfig/public, with 26 events.
 
 ```
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2022-07-20 16:01:16.419264416 -0700 PDT
+Last Updated: 2022-07-20 16:20:34.218161213 -0700 PDT
