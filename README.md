@@ -42,34 +42,6 @@ Since 2022-06-22 04:54:39 -0700 PDT, I'm most active between 08:00-08:59 - with 
 
 
 ```
-                                                        |#####
- openconfig/ygot                                        |#####
-                                                        |#####
-
-                                                        |###################
- openconfig/reference                                   |###################
-                                                        |###################
-
-                                                        |####
- mikehelmick/go-vestaboard                              |####
-                                                        |####
-
-                                                        |#
- EngineOwningSoftware/Vestaboard-Reverse-Engineering    |#
-                                                        |#
-
-                                                        |#
- gchq/BoilingFrogs                                      |#
-                                                        |#
-
-                                                        |#################
- openconfig/featureprofiles                             |#################
-                                                        |#################
-
-                                                        |########################
- openconfig/public                                      |########################
-                                                        |########################
-
                                                         |#############
  openconfig/gribi                                       |#############
                                                         |#############
@@ -82,12 +54,40 @@ Since 2022-06-22 04:54:39 -0700 PDT, I'm most active between 08:00-08:59 - with 
  openconfig/goyang                                      |########
                                                         |########
 
+                                                        |###################
+ openconfig/reference                                   |###################
+                                                        |###################
+
+                                                        |#
+ gchq/BoilingFrogs                                      |#
+                                                        |#
+
+                                                        |#################
+ openconfig/featureprofiles                             |#################
+                                                        |#################
+
+                                                        |#####
+ openconfig/gribigo                                     |#####
+                                                        |#####
+
+                                                        |####
+ mikehelmick/go-vestaboard                              |####
+                                                        |####
+
                                                         |##
  robshakir/go-vestaboard                                |##
                                                         |##
 
+                                                        |#
+ EngineOwningSoftware/Vestaboard-Reverse-Engineering    |#
+                                                        |#
+
+                                                        |########################
+ openconfig/public                                      |########################
+                                                        |########################
+
                                                         |#####
- openconfig/gribigo                                     |#####
+ openconfig/ygot                                        |#####
                                                         |#####
 
 
@@ -98,4 +98,4 @@ Since 2022-06-22 04:54:39 -0700 PDT, I've been most active in openconfig/public,
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2022-07-23 12:01:03.48052783 -0700 PDT
+Last Updated: 2022-07-23 12:19:29.913248221 -0700 PDT
