@@ -42,25 +42,9 @@ Since 2022-06-22 04:54:39 -0700 PDT, I'm most active between 08:00-08:59 - with 
 
 
 ```
-                                                        |#
- EngineOwningSoftware/Vestaboard-Reverse-Engineering    |#
-                                                        |#
-
-                                                        |#################
- openconfig/featureprofiles                             |#################
-                                                        |#################
-
                                                         |#####
  openconfig/gribigo                                     |#####
                                                         |#####
-
-                                                        |########################
- openconfig/public                                      |########################
-                                                        |########################
-
-                                                        |#############
- openconfig/gribi                                       |#############
-                                                        |#############
 
                                                         |#####
  openconfig/ygot                                        |#####
@@ -70,25 +54,41 @@ Since 2022-06-22 04:54:39 -0700 PDT, I'm most active between 08:00-08:59 - with 
  openconfig/gnsi                                        |#
                                                         |#
 
+                                                        |########
+ openconfig/goyang                                      |########
+                                                        |########
+
+                                                        |####
+ mikehelmick/go-vestaboard                              |####
+                                                        |####
+
                                                         |##
  robshakir/go-vestaboard                                |##
                                                         |##
 
-                                                        |#
- gchq/BoilingFrogs                                      |#
-                                                        |#
+                                                        |#################
+ openconfig/featureprofiles                             |#################
+                                                        |#################
 
-                                                        |########
- openconfig/goyang                                      |########
-                                                        |########
+                                                        |########################
+ openconfig/public                                      |########################
+                                                        |########################
+
+                                                        |#############
+ openconfig/gribi                                       |#############
+                                                        |#############
 
                                                         |###################
  openconfig/reference                                   |###################
                                                         |###################
 
-                                                        |####
- mikehelmick/go-vestaboard                              |####
-                                                        |####
+                                                        |#
+ EngineOwningSoftware/Vestaboard-Reverse-Engineering    |#
+                                                        |#
+
+                                                        |#
+ gchq/BoilingFrogs                                      |#
+                                                        |#
 
 
 
@@ -98,4 +98,4 @@ Since 2022-06-22 04:54:39 -0700 PDT, I've been most active in openconfig/public,
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2022-07-23 00:20:18.887956085 -0700 PDT
+Last Updated: 2022-07-23 00:32:21.441709177 -0700 PDT
