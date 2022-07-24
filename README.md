@@ -42,21 +42,9 @@ Since 2022-06-22 04:54:39 -0700 PDT, I'm most active between 08:00-08:59 - with 
 
 
 ```
-                                                        |#####
- openconfig/ygot                                        |#####
-                                                        |#####
-
-                                                        |#
- openconfig/gnsi                                        |#
-                                                        |#
-
-                                                        |###################
- openconfig/reference                                   |###################
-                                                        |###################
-
-                                                        |####
- mikehelmick/go-vestaboard                              |####
-                                                        |####
+                                                        |#################
+ openconfig/featureprofiles                             |#################
+                                                        |#################
 
                                                         |#####
  openconfig/gribigo                                     |#####
@@ -65,14 +53,6 @@ Since 2022-06-22 04:54:39 -0700 PDT, I'm most active between 08:00-08:59 - with 
                                                         |########################
  openconfig/public                                      |########################
                                                         |########################
-
-                                                        |#############
- openconfig/gribi                                       |#############
-                                                        |#############
-
-                                                        |########
- openconfig/goyang                                      |########
-                                                        |########
 
                                                         |##
  robshakir/go-vestaboard                                |##
@@ -86,9 +66,29 @@ Since 2022-06-22 04:54:39 -0700 PDT, I'm most active between 08:00-08:59 - with 
  gchq/BoilingFrogs                                      |#
                                                         |#
 
-                                                        |#################
- openconfig/featureprofiles                             |#################
-                                                        |#################
+                                                        |#############
+ openconfig/gribi                                       |#############
+                                                        |#############
+
+                                                        |#####
+ openconfig/ygot                                        |#####
+                                                        |#####
+
+                                                        |#
+ openconfig/gnsi                                        |#
+                                                        |#
+
+                                                        |########
+ openconfig/goyang                                      |########
+                                                        |########
+
+                                                        |###################
+ openconfig/reference                                   |###################
+                                                        |###################
+
+                                                        |####
+ mikehelmick/go-vestaboard                              |####
+                                                        |####
 
 
 
@@ -98,4 +98,4 @@ Since 2022-06-22 04:54:39 -0700 PDT, I've been most active in openconfig/public,
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2022-07-24 07:01:05.650495136 -0700 PDT
+Last Updated: 2022-07-24 07:20:01.772221246 -0700 PDT
