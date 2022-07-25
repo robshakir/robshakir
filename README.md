@@ -42,10 +42,6 @@ Since 2022-06-22 04:54:39 -0700 PDT, I'm most active between 08:00-08:59 - with 
 
 
 ```
-                                                        |########################
- openconfig/public                                      |########################
-                                                        |########################
-
                                                         |#############
  openconfig/gribi                                       |#############
                                                         |#############
@@ -53,6 +49,14 @@ Since 2022-06-22 04:54:39 -0700 PDT, I'm most active between 08:00-08:59 - with 
                                                         |#####
  openconfig/ygot                                        |#####
                                                         |#####
+
+                                                        |#
+ openconfig/gnsi                                        |#
+                                                        |#
+
+                                                        |########
+ openconfig/goyang                                      |########
+                                                        |########
 
                                                         |###################
  openconfig/reference                                   |###################
@@ -66,9 +70,9 @@ Since 2022-06-22 04:54:39 -0700 PDT, I'm most active between 08:00-08:59 - with 
  gchq/BoilingFrogs                                      |#
                                                         |#
 
-                                                        |#################
- openconfig/featureprofiles                             |#################
-                                                        |#################
+                                                        |########################
+ openconfig/public                                      |########################
+                                                        |########################
 
                                                         |#####
  openconfig/gribigo                                     |#####
@@ -82,13 +86,9 @@ Since 2022-06-22 04:54:39 -0700 PDT, I'm most active between 08:00-08:59 - with 
  EngineOwningSoftware/Vestaboard-Reverse-Engineering    |#
                                                         |#
 
-                                                        |#
- openconfig/gnsi                                        |#
-                                                        |#
-
-                                                        |########
- openconfig/goyang                                      |########
-                                                        |########
+                                                        |#################
+ openconfig/featureprofiles                             |#################
+                                                        |#################
 
 
 
@@ -98,4 +98,4 @@ Since 2022-06-22 04:54:39 -0700 PDT, I've been most active in openconfig/public,
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2022-07-25 03:35:59.296359187 -0700 PDT
+Last Updated: 2022-07-25 03:48:06.115785214 -0700 PDT
