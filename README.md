@@ -42,29 +42,21 @@ Since 2022-06-27 08:06:33 -0700 PDT, I'm most active between 08:00-08:59 - with 
 
 
 ```
-                               |##########
- openconfig/featureprofiles    |##########
-                               |##########
-
-                               |#################
- openconfig/gribigo            |#################
-                               |#################
-
                                |#######################
  openconfig/public             |#######################
                                |#######################
 
-                               |#
- openconfig/gnsi               |#
-                               |#
+                               |##########
+ openconfig/featureprofiles    |##########
+                               |##########
 
                                |##################
  openconfig/ygot               |##################
                                |##################
 
-                               |####
- openconfig/gribi              |####
-                               |####
+                               |#
+ openconfig/gnsi               |#
+                               |#
 
                                |########
  openconfig/goyang             |########
@@ -78,6 +70,14 @@ Since 2022-06-27 08:06:33 -0700 PDT, I'm most active between 08:00-08:59 - with 
  mikehelmick/go-vestaboard     |##
                                |##
 
+                               |#################
+ openconfig/gribigo            |#################
+                               |#################
+
+                               |####
+ openconfig/gribi              |####
+                               |####
+
 
 
 Since 2022-06-27 08:06:33 -0700 PDT, I've been most active in openconfig/public, with 23 events.
@@ -86,4 +86,4 @@ Since 2022-06-27 08:06:33 -0700 PDT, I've been most active in openconfig/public,
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2022-07-25 15:20:15.248556203 -0700 PDT
+Last Updated: 2022-07-25 15:33:17.750903866 -0700 PDT
