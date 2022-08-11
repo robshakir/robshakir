@@ -42,10 +42,6 @@ Since 2022-07-30 10:16:04 -0700 PDT, I'm most active between 11:00-11:59 - with 
 
 
 ```
-                               |########################
- openconfig/featureprofiles    |########################
-                               |########################
-
                                |#
  openconfig/gribi              |#
                                |#
@@ -74,6 +70,10 @@ Since 2022-07-30 10:16:04 -0700 PDT, I'm most active between 11:00-11:59 - with 
  robshakir/fizzbuzz            |#####################
                                |#####################
 
+                               |########################
+ openconfig/featureprofiles    |########################
+                               |########################
+
 
 
 Since 2022-07-30 10:16:04 -0700 PDT, I've been most active in openconfig/public, with 24 events.
@@ -82,4 +82,4 @@ Since 2022-07-30 10:16:04 -0700 PDT, I've been most active in openconfig/public,
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2022-08-11 05:01:31.896117562 -0700 PDT
+Last Updated: 2022-08-11 05:22:31.542851756 -0700 PDT
