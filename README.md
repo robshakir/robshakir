@@ -76,10 +76,10 @@ Since 2022-07-30 10:16:04 -0700 PDT, I'm most active between 11:00-11:59 - with 
 
 
 
-Since 2022-07-30 10:16:04 -0700 PDT, I've been most active in openconfig/public, with 24 events.
+Since 2022-07-30 10:16:04 -0700 PDT, I've been most active in openconfig/featureprofiles, with 24 events.
 
 ```
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2022-08-10 21:21:52.893193998 -0700 PDT
+Last Updated: 2022-08-10 21:38:52.870662606 -0700 PDT
