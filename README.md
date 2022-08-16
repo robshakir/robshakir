@@ -42,18 +42,6 @@ Since 2022-08-01 10:35:40 -0700 PDT, I'm most active between 11:00-11:59 - with 
 
 
 ```
-                               |##########
- openconfig/lemming            |##########
-                               |##########
-
-                               |######
- openconfig/gribigo            |######
-                               |######
-
-                               |##########################
- openconfig/public             |##########################
-                               |##########################
-
                                |#########
  openconfig/magna              |#########
                                |#########
@@ -74,6 +62,18 @@ Since 2022-08-01 10:35:40 -0700 PDT, I'm most active between 11:00-11:59 - with 
  openconfig/ygot               |#####
                                |#####
 
+                               |##########
+ openconfig/lemming            |##########
+                               |##########
+
+                               |######
+ openconfig/gribigo            |######
+                               |######
+
+                               |##########################
+ openconfig/public             |##########################
+                               |##########################
+
 
 
 Since 2022-08-01 10:35:40 -0700 PDT, I've been most active in openconfig/public, with 26 events.
@@ -82,4 +82,4 @@ Since 2022-08-01 10:35:40 -0700 PDT, I've been most active in openconfig/public,
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2022-08-16 01:01:17.488149589 -0700 PDT
+Last Updated: 2022-08-16 01:20:48.757191902 -0700 PDT
