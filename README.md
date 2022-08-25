@@ -60,10 +60,10 @@ Since 2022-07-22 08:52:06 -0700 PDT, I'm most active between 08:00-08:59 - with 
 
 
 
-Since 2022-07-22 08:52:06 -0700 PDT, I've been most active in openconfig/magna, with 35 events.
+Since 2022-07-22 08:52:06 -0700 PDT, I've been most active in openconfig/public, with 35 events.
 
 ```
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2022-08-25 10:35:07.982232306 -0700 PDT
+Last Updated: 2022-08-25 10:46:33.031982555 -0700 PDT
