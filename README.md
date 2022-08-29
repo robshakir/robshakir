@@ -42,6 +42,14 @@ Since 2022-08-23 08:07:38 -0700 PDT, I'm most active between 11:00-11:59 - with 
 
 
 ```
+                               |########################################################
+ openconfig/magna              |########################################################
+                               |########################################################
+
+                               |########
+ openconfig/featureprofiles    |########
+                               |########
+
                                |##
  openconfig/gribigo            |##
                                |##
@@ -50,9 +58,9 @@ Since 2022-08-23 08:07:38 -0700 PDT, I'm most active between 11:00-11:59 - with 
  robshakir/featureprofiles     |####
                                |####
 
-                               |########################################################
- openconfig/magna              |########################################################
-                               |########################################################
+                               |#
+ openconfig/goyang             |#
+                               |#
 
                                |#####
  openconfig/gnsi               |#####
@@ -70,14 +78,6 @@ Since 2022-08-23 08:07:38 -0700 PDT, I'm most active between 11:00-11:59 - with 
  openconfig/ygot               |####
                                |####
 
-                               |########
- openconfig/featureprofiles    |########
-                               |########
-
-                               |#
- openconfig/goyang             |#
-                               |#
-
 
 
 Since 2022-08-23 08:07:38 -0700 PDT, I've been most active in openconfig/magna, with 56 events.
@@ -86,4 +86,4 @@ Since 2022-08-23 08:07:38 -0700 PDT, I've been most active in openconfig/magna, 
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2022-08-29 10:21:34.88186479 -0700 PDT
+Last Updated: 2022-08-29 10:36:08.087901765 -0700 PDT
