@@ -42,17 +42,9 @@ Since 2022-08-23 08:04:04 -0700 PDT, I'm most active between 11:00-11:59 - with 
 
 
 ```
-                               |#####
- openconfig/gnsi               |#####
-                               |#####
-
                                |########
  openconfig/featureprofiles    |########
                                |########
-
-                               |####
- robshakir/featureprofiles     |####
-                               |####
 
                                |#
  openconfig/gribigo            |#
@@ -62,13 +54,13 @@ Since 2022-08-23 08:04:04 -0700 PDT, I'm most active between 11:00-11:59 - with 
  openconfig/goyang             |#
                                |#
 
-                               |#############
- openconfig/public             |#############
-                               |#############
+                               |#####
+ openconfig/gnsi               |#####
+                               |#####
 
-                               |##########
- openconfig/lemming            |##########
-                               |##########
+                               |####
+ robshakir/featureprofiles     |####
+                               |####
 
                                |##
  openconfig/ygot               |##
@@ -78,6 +70,14 @@ Since 2022-08-23 08:04:04 -0700 PDT, I'm most active between 11:00-11:59 - with 
  openconfig/magna              |########################################################
                                |########################################################
 
+                               |#############
+ openconfig/public             |#############
+                               |#############
+
+                               |##########
+ openconfig/lemming            |##########
+                               |##########
+
 
 
 Since 2022-08-23 08:04:04 -0700 PDT, I've been most active in openconfig/magna, with 56 events.
@@ -86,4 +86,4 @@ Since 2022-08-23 08:04:04 -0700 PDT, I've been most active in openconfig/magna, 
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2022-08-29 01:21:13.82721493 -0700 PDT
+Last Updated: 2022-08-29 01:37:28.92621869 -0700 PDT
