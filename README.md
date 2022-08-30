@@ -46,6 +46,14 @@ Since 2022-08-23 07:57:00 -0700 PDT, I'm most active between 11:00-11:59 - with 
  openconfig/public             |##############
                                |##############
 
+                               |####
+ openconfig/ygot               |####
+                               |####
+
+                               |##
+ openconfig/gribigo            |##
+                               |##
+
                                |########
  openconfig/featureprofiles    |########
                                |########
@@ -54,21 +62,9 @@ Since 2022-08-23 07:57:00 -0700 PDT, I'm most active between 11:00-11:59 - with 
  openconfig/goyang             |#
                                |#
 
-                               |######
- openconfig/lemming            |######
-                               |######
-
                                |#####
  openconfig/gnsi               |#####
                                |#####
-
-                               |####
- openconfig/ygot               |####
-                               |####
-
-                               |##
- openconfig/gribigo            |##
-                               |##
 
                                |####
  robshakir/featureprofiles     |####
@@ -78,6 +74,10 @@ Since 2022-08-23 07:57:00 -0700 PDT, I'm most active between 11:00-11:59 - with 
  openconfig/magna              |########################################################
                                |########################################################
 
+                               |######
+ openconfig/lemming            |######
+                               |######
+
 
 
 Since 2022-08-23 07:57:00 -0700 PDT, I've been most active in openconfig/magna, with 56 events.
@@ -86,4 +86,4 @@ Since 2022-08-23 07:57:00 -0700 PDT, I've been most active in openconfig/magna, 
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2022-08-30 09:01:38.210484277 -0700 PDT
+Last Updated: 2022-08-30 09:21:34.955950436 -0700 PDT
