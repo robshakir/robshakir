@@ -42,33 +42,13 @@ Since 2022-08-23 07:57:00 -0700 PDT, I'm most active between 11:00-11:59 - with 
 
 
 ```
-                               |##############
- openconfig/public             |##############
-                               |##############
-
-                               |########
- openconfig/featureprofiles    |########
-                               |########
-
-                               |#
- openconfig/goyang             |#
-                               |#
-
-                               |########################################################
- openconfig/magna              |########################################################
-                               |########################################################
-
                                |#####
  openconfig/gnsi               |#####
                                |#####
 
-                               |######
- openconfig/lemming            |######
-                               |######
-
-                               |####
- openconfig/ygot               |####
-                               |####
+                               |##############
+ openconfig/public             |##############
+                               |##############
 
                                |##
  openconfig/gribigo            |##
@@ -78,6 +58,26 @@ Since 2022-08-23 07:57:00 -0700 PDT, I'm most active between 11:00-11:59 - with 
  robshakir/featureprofiles     |####
                                |####
 
+                               |#
+ openconfig/goyang             |#
+                               |#
+
+                               |######
+ openconfig/lemming            |######
+                               |######
+
+                               |####
+ openconfig/ygot               |####
+                               |####
+
+                               |########
+ openconfig/featureprofiles    |########
+                               |########
+
+                               |########################################################
+ openconfig/magna              |########################################################
+                               |########################################################
+
 
 
 Since 2022-08-23 07:57:00 -0700 PDT, I've been most active in openconfig/magna, with 56 events.
@@ -86,4 +86,4 @@ Since 2022-08-23 07:57:00 -0700 PDT, I've been most active in openconfig/magna, 
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2022-08-30 03:35:21.819892372 -0700 PDT
+Last Updated: 2022-08-30 03:47:36.634951361 -0700 PDT
