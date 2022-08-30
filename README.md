@@ -50,6 +50,10 @@ Since 2022-08-23 07:57:00 -0700 PDT, I'm most active between 11:00-11:59 - with 
  openconfig/ygot               |####
                                |####
 
+                               |##
+ openconfig/gribigo            |##
+                               |##
+
                                |########
  openconfig/featureprofiles    |########
                                |########
@@ -58,17 +62,13 @@ Since 2022-08-23 07:57:00 -0700 PDT, I'm most active between 11:00-11:59 - with 
  robshakir/featureprofiles     |####
                                |####
 
-                               |#
- openconfig/goyang             |#
-                               |#
-
-                               |##
- openconfig/gribigo            |##
-                               |##
-
                                |########################################################
  openconfig/magna              |########################################################
                                |########################################################
+
+                               |#
+ openconfig/goyang             |#
+                               |#
 
                                |#####
  openconfig/gnsi               |#####
@@ -86,4 +86,4 @@ Since 2022-08-23 07:57:00 -0700 PDT, I've been most active in openconfig/magna, 
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2022-08-30 07:03:01.127404437 -0700 PDT
+Last Updated: 2022-08-30 07:20:44.563109832 -0700 PDT
