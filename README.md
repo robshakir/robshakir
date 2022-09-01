@@ -42,6 +42,10 @@ Since 2022-08-23 14:13:50 -0700 PDT, I'm most active between 11:00-11:59 - with 
 
 
 ```
+                               |##############
+ openconfig/public             |##############
+                               |##############
+
                                |##
  openconfig/gribigo            |##
                                |##
@@ -50,21 +54,9 @@ Since 2022-08-23 14:13:50 -0700 PDT, I'm most active between 11:00-11:59 - with 
  robshakir/featureprofiles     |####
                                |####
 
-                               |#
- openconfig/goyang             |#
-                               |#
-
                                |#####
  openconfig/gnsi               |#####
                                |#####
-
-                               |##############
- openconfig/public             |##############
-                               |##############
-
-                               |####
- openconfig/ygot               |####
-                               |####
 
                                |#####
  openconfig/lemming            |#####
@@ -74,9 +66,17 @@ Since 2022-08-23 14:13:50 -0700 PDT, I'm most active between 11:00-11:59 - with 
  openconfig/featureprofiles    |#########
                                |#########
 
+                               |####
+ openconfig/ygot               |####
+                               |####
+
                                |########################################################
  openconfig/magna              |########################################################
                                |########################################################
+
+                               |#
+ openconfig/goyang             |#
+                               |#
 
 
 
@@ -86,4 +86,4 @@ Since 2022-08-23 14:13:50 -0700 PDT, I've been most active in openconfig/magna, 
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2022-09-01 09:01:12.745506201 -0700 PDT
+Last Updated: 2022-09-01 09:21:34.223737325 -0700 PDT
