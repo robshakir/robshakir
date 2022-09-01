@@ -42,6 +42,10 @@ Since 2022-08-23 14:13:50 -0700 PDT, I'm most active between 11:00-11:59 - with 
 
 
 ```
+                               |####
+ openconfig/ygot               |####
+                               |####
+
                                |########################################################
  openconfig/magna              |########################################################
                                |########################################################
@@ -49,14 +53,6 @@ Since 2022-08-23 14:13:50 -0700 PDT, I'm most active between 11:00-11:59 - with 
                                |#####
  openconfig/gnsi               |#####
                                |#####
-
-                               |#####
- openconfig/lemming            |#####
-                               |#####
-
-                               |#
- openconfig/goyang             |#
-                               |#
 
                                |#########
  openconfig/featureprofiles    |#########
@@ -66,10 +62,6 @@ Since 2022-08-23 14:13:50 -0700 PDT, I'm most active between 11:00-11:59 - with 
  openconfig/public             |##############
                                |##############
 
-                               |####
- openconfig/ygot               |####
-                               |####
-
                                |##
  openconfig/gribigo            |##
                                |##
@@ -77,6 +69,14 @@ Since 2022-08-23 14:13:50 -0700 PDT, I'm most active between 11:00-11:59 - with 
                                |####
  robshakir/featureprofiles     |####
                                |####
+
+                               |#
+ openconfig/goyang             |#
+                               |#
+
+                               |#####
+ openconfig/lemming            |#####
+                               |#####
 
 
 
@@ -86,4 +86,4 @@ Since 2022-08-23 14:13:50 -0700 PDT, I've been most active in openconfig/magna, 
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2022-09-01 15:01:24.377994609 -0700 PDT
+Last Updated: 2022-09-01 15:20:27.690798966 -0700 PDT
