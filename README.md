@@ -42,21 +42,9 @@ Since 2022-08-25 08:27:24 -0700 PDT, I'm most active between 11:00-11:59 - with 
 
 
 ```
-                               |####
- robshakir/featureprofiles     |####
-                               |####
-
-                               |########################################################
- openconfig/magna              |########################################################
-                               |########################################################
-
                                |#####
  openconfig/gnsi               |#####
                                |#####
-
-                               |#
- openconfig/lemming            |#
-                               |#
 
                                |########
  openconfig/featureprofiles    |########
@@ -70,6 +58,10 @@ Since 2022-08-25 08:27:24 -0700 PDT, I'm most active between 11:00-11:59 - with 
  openconfig/gribigo            |##
                                |##
 
+                               |########################################################
+ openconfig/magna              |########################################################
+                               |########################################################
+
                                |#
  openconfig/goyang             |#
                                |#
@@ -77,6 +69,14 @@ Since 2022-08-25 08:27:24 -0700 PDT, I'm most active between 11:00-11:59 - with 
                                |#########
  openconfig/ygot               |#########
                                |#########
+
+                               |####
+ robshakir/featureprofiles     |####
+                               |####
+
+                               |#
+ openconfig/lemming            |#
+                               |#
 
 
 
@@ -86,4 +86,4 @@ Since 2022-08-25 08:27:24 -0700 PDT, I've been most active in openconfig/magna, 
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2022-09-01 17:02:40.257232898 -0700 PDT
+Last Updated: 2022-09-01 17:28:38.31399058 -0700 PDT
