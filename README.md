@@ -43,16 +43,16 @@ Since 2022-08-25 08:27:24 -0700 PDT, I'm most active between 11:00-11:59 - with 
 
 ```
                                |#
- openconfig/goyang             |#
+ openconfig/lemming            |#
                                |#
-
-                               |#########
- openconfig/ygot               |#########
-                               |#########
 
                                |########
  openconfig/featureprofiles    |########
                                |########
+
+                               |##############
+ openconfig/public             |##############
+                               |##############
 
                                |####
  robshakir/featureprofiles     |####
@@ -62,9 +62,13 @@ Since 2022-08-25 08:27:24 -0700 PDT, I'm most active between 11:00-11:59 - with 
  openconfig/magna              |########################################################
                                |########################################################
 
-                               |##############
- openconfig/public             |##############
-                               |##############
+                               |#
+ openconfig/goyang             |#
+                               |#
+
+                               |#########
+ openconfig/ygot               |#########
+                               |#########
 
                                |##
  openconfig/gribigo            |##
@@ -74,10 +78,6 @@ Since 2022-08-25 08:27:24 -0700 PDT, I'm most active between 11:00-11:59 - with 
  openconfig/gnsi               |#####
                                |#####
 
-                               |#
- openconfig/lemming            |#
-                               |#
-
 
 
 Since 2022-08-25 08:27:24 -0700 PDT, I've been most active in openconfig/magna, with 56 events.
@@ -86,4 +86,4 @@ Since 2022-08-25 08:27:24 -0700 PDT, I've been most active in openconfig/magna, 
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2022-09-07 00:03:51.718533683 -0700 PDT
+Last Updated: 2022-09-07 00:28:14.52530893 -0700 PDT
