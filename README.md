@@ -42,21 +42,13 @@ Since 2022-08-28 17:47:05 -0700 PDT, I'm most active between 16:00-16:59 - with 
 
 
 ```
-                               |##################
- openconfig/public             |##################
-                               |##################
+                               |##########################
+ openconfig/magna              |##########################
+                               |##########################
 
-                               |########
- openconfig/gnsi               |########
-                               |########
-
-                               |##
- openconfig/gnoi               |##
-                               |##
-
-                               |##############
- openconfig/featureprofiles    |##############
-                               |##############
+                               |#####################
+ openconfig/ygot               |#####################
+                               |#####################
 
                                |#
  nadrad/h-m-m                  |#
@@ -70,13 +62,21 @@ Since 2022-08-28 17:47:05 -0700 PDT, I'm most active between 16:00-16:59 - with 
  robshakir/featureprofiles     |#
                                |#
 
-                               |##########################
- openconfig/magna              |##########################
-                               |##########################
+                               |##
+ openconfig/gnoi               |##
+                               |##
 
-                               |#####################
- openconfig/ygot               |#####################
-                               |#####################
+                               |##############
+ openconfig/featureprofiles    |##############
+                               |##############
+
+                               |##################
+ openconfig/public             |##################
+                               |##################
+
+                               |########
+ openconfig/gnsi               |########
+                               |########
 
 
 
@@ -86,4 +86,4 @@ Since 2022-08-28 17:47:05 -0700 PDT, I've been most active in openconfig/magna, 
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2022-09-21 16:21:14.992532528 -0700 PDT
+Last Updated: 2022-09-21 16:36:13.902624668 -0700 PDT
