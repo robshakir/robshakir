@@ -42,25 +42,9 @@ Since 2022-09-08 15:35:01 -0700 PDT, I'm most active between 16:00-16:59 - with 
 
 
 ```
-                               |#################################
- openconfig/magna              |#################################
-                               |#################################
-
                                |###
  openconfig/gribi              |###
                                |###
-
-                               |############
- openconfig/featureprofiles    |############
-                               |############
-
-                               |#
- nadrad/h-m-m                  |#
-                               |#
-
-                               |#################
- openconfig/public             |#################
-                               |#################
 
                                |####################
  openconfig/ygot               |####################
@@ -70,9 +54,25 @@ Since 2022-09-08 15:35:01 -0700 PDT, I'm most active between 16:00-16:59 - with 
  openconfig/gnoi               |##
                                |##
 
+                               |############
+ openconfig/featureprofiles    |############
+                               |############
+
+                               |#
+ nadrad/h-m-m                  |#
+                               |#
+
                                |#######
  openconfig/gribigo            |#######
                                |#######
+
+                               |#################################
+ openconfig/magna              |#################################
+                               |#################################
+
+                               |#################
+ openconfig/public             |#################
+                               |#################
 
                                |#####
  openconfig/gnsi               |#####
@@ -86,4 +86,4 @@ Since 2022-09-08 15:35:01 -0700 PDT, I've been most active in openconfig/magna, 
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2022-09-29 15:49:22.295703735 -0700 PDT
+Last Updated: 2022-09-29 16:01:25.993368986 -0700 PDT
