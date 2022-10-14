@@ -43,6 +43,10 @@ Since 2022-09-30 11:47:29 -0700 PDT, I'm most active between 11:00-11:59 - with 
 
 ```
                                |#
+ openconfig/gnmi               |#
+                               |#
+
+                               |#
  Jack000/Expose                |#
                                |#
 
@@ -66,10 +70,6 @@ Since 2022-09-30 11:47:29 -0700 PDT, I'm most active between 11:00-11:59 - with 
  openconfig/magna              |####################
                                |####################
 
-                               |#
- openconfig/gnmi               |#
-                               |#
-
 
 
 Since 2022-09-30 11:47:29 -0700 PDT, I've been most active in openconfig/gribi, with 44 events.
@@ -78,4 +78,4 @@ Since 2022-09-30 11:47:29 -0700 PDT, I've been most active in openconfig/gribi, 
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2022-10-14 10:39:58.791896636 -0700 PDT
+Last Updated: 2022-10-14 10:52:30.194145073 -0700 PDT
