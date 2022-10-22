@@ -42,29 +42,33 @@ Since 2022-09-30 11:51:27 -0700 PDT, I'm most active between 13:00-13:59 - with 
 
 
 ```
+                               |#
+ openconfig/public             |#
+                               |#
+
                                |####################
  openconfig/magna              |####################
                                |####################
 
                                |#
- openconfig/gnmi               |#
+ Jack000/Expose                |#
                                |#
-
-                               |#
- openconfig/public             |#
-                               |#
-
-                               |##############
- openconfig/replayer           |##############
-                               |##############
 
                                |#########################################
  openconfig/featureprofiles    |#########################################
                                |#########################################
 
+                               |#
+ openconfig/gnmi               |#
+                               |#
+
                                |#################
  openconfig/gribi              |#################
                                |#################
+
+                               |##############
+ openconfig/replayer           |##############
+                               |##############
 
                                |####
  openconfig/gribigo            |####
@@ -72,10 +76,6 @@ Since 2022-09-30 11:51:27 -0700 PDT, I'm most active between 13:00-13:59 - with 
 
                                |#
  openconfig/ygot               |#
-                               |#
-
-                               |#
- Jack000/Expose                |#
                                |#
 
 
@@ -86,4 +86,4 @@ Since 2022-09-30 11:51:27 -0700 PDT, I've been most active in openconfig/feature
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2022-10-22 07:48:57.512902949 -0700 PDT
+Last Updated: 2022-10-22 08:01:02.550870586 -0700 PDT
