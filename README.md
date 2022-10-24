@@ -43,6 +43,10 @@ Since 2022-09-30 13:43:45 -0700 PDT, I'm most active between 13:00-13:59 - with 
 
 ```
                                |#
+ openconfig/ygot               |#
+                               |#
+
+                               |#
  openconfig/gnmi               |#
                                |#
 
@@ -54,29 +58,25 @@ Since 2022-09-30 13:43:45 -0700 PDT, I'm most active between 13:00-13:59 - with 
  openconfig/gribi              |################
                                |################
 
-                               |#
- openconfig/ygot               |#
-                               |#
-
-                               |####################
- openconfig/magna              |####################
-                               |####################
+                               |##
+ openconfig/public             |##
+                               |##
 
                                |####
  openconfig/gribigo            |####
                                |####
 
-                               |#########################################
- openconfig/featureprofiles    |#########################################
-                               |#########################################
-
-                               |##
- openconfig/public             |##
-                               |##
+                               |####################
+ openconfig/magna              |####################
+                               |####################
 
                                |##############
  openconfig/replayer           |##############
                                |##############
+
+                               |#########################################
+ openconfig/featureprofiles    |#########################################
+                               |#########################################
 
 
 
@@ -86,4 +86,4 @@ Since 2022-09-30 13:43:45 -0700 PDT, I've been most active in openconfig/feature
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2022-10-24 14:20:47.06303421 -0700 PDT
+Last Updated: 2022-10-24 14:36:03.374048982 -0700 PDT
