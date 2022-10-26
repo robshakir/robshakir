@@ -42,13 +42,17 @@ Since 2022-09-30 13:43:45 -0700 PDT, I'm most active between 13:00-13:59 - with 
 
 
 ```
+                               |##
+ openconfig/public             |##
+                               |##
+
                                |##############
  openconfig/replayer           |##############
                                |##############
 
-                               |####
- openconfig/gribigo            |####
-                               |####
+                               |#
+ openconfig/ygot               |#
+                               |#
 
                                |#########################################
  openconfig/featureprofiles    |#########################################
@@ -58,25 +62,21 @@ Since 2022-09-30 13:43:45 -0700 PDT, I'm most active between 13:00-13:59 - with 
  openconfig/magna              |####################
                                |####################
 
+                               |####
+ openconfig/gribigo            |####
+                               |####
+
                                |#
  openconfig/gnmi               |#
                                |#
-
-                               |################
- openconfig/gribi              |################
-                               |################
-
-                               |##
- openconfig/public             |##
-                               |##
 
                                |#
  Jack000/Expose                |#
                                |#
 
-                               |#
- openconfig/ygot               |#
-                               |#
+                               |################
+ openconfig/gribi              |################
+                               |################
 
 
 
@@ -86,4 +86,4 @@ Since 2022-09-30 13:43:45 -0700 PDT, I've been most active in openconfig/feature
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2022-10-26 13:20:44.689877408 -0700 PDT
+Last Updated: 2022-10-26 13:35:25.72597872 -0700 PDT
