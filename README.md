@@ -42,6 +42,22 @@ Since 2022-09-30 13:43:45 -0700 PDT, I'm most active between 13:00-13:59 - with 
 
 
 ```
+                               |################
+ openconfig/gribi              |################
+                               |################
+
+                               |##############
+ openconfig/replayer           |##############
+                               |##############
+
+                               |####################
+ openconfig/magna              |####################
+                               |####################
+
+                               |#
+ openconfig/ygot               |#
+                               |#
+
                                |#########################################
  openconfig/featureprofiles    |#########################################
                                |#########################################
@@ -58,25 +74,9 @@ Since 2022-09-30 13:43:45 -0700 PDT, I'm most active between 13:00-13:59 - with 
  openconfig/public             |##
                                |##
 
-                               |##############
- openconfig/replayer           |##############
-                               |##############
-
-                               |####################
- openconfig/magna              |####################
-                               |####################
-
-                               |################
- openconfig/gribi              |################
-                               |################
-
                                |####
  openconfig/gribigo            |####
                                |####
-
-                               |#
- openconfig/ygot               |#
-                               |#
 
 
 
@@ -86,4 +86,4 @@ Since 2022-09-30 13:43:45 -0700 PDT, I've been most active in openconfig/feature
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2022-10-27 07:15:25.143576896 -0700 PDT
+Last Updated: 2022-10-27 07:28:26.815371832 -0700 PDT
