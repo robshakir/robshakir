@@ -42,6 +42,22 @@ Since 2022-09-30 13:43:45 -0700 PDT, I'm most active between 13:00-13:59 - with 
 
 
 ```
+                               |################
+ openconfig/gribi              |################
+                               |################
+
+                               |##
+ openconfig/public             |##
+                               |##
+
+                               |####################
+ openconfig/magna              |####################
+                               |####################
+
+                               |#
+ openconfig/ygot               |#
+                               |#
+
                                |#########################################
  openconfig/featureprofiles    |#########################################
                                |#########################################
@@ -50,25 +66,9 @@ Since 2022-09-30 13:43:45 -0700 PDT, I'm most active between 13:00-13:59 - with 
  openconfig/gnmi               |#
                                |#
 
-                               |################
- openconfig/gribi              |################
-                               |################
-
-                               |#
- openconfig/ygot               |#
-                               |#
-
-                               |####################
- openconfig/magna              |####################
-                               |####################
-
                                |#
  Jack000/Expose                |#
                                |#
-
-                               |##
- openconfig/public             |##
-                               |##
 
                                |##############
  openconfig/replayer           |##############
@@ -86,4 +86,4 @@ Since 2022-09-30 13:43:45 -0700 PDT, I've been most active in openconfig/feature
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2022-10-27 21:31:02.577697052 -0700 PDT
+Last Updated: 2022-10-27 21:59:08.975039039 -0700 PDT
