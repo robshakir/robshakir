@@ -42,9 +42,9 @@ Since 2022-09-30 13:43:45 -0700 PDT, I'm most active between 13:00-13:59 - with 
 
 
 ```
-                               |####################
- openconfig/magna              |####################
-                               |####################
+                               |##############
+ openconfig/replayer           |##############
+                               |##############
 
                                |#
  openconfig/gnmi               |#
@@ -53,6 +53,14 @@ Since 2022-09-30 13:43:45 -0700 PDT, I'm most active between 13:00-13:59 - with 
                                |#
  Jack000/Expose                |#
                                |#
+
+                               |################
+ openconfig/gribi              |################
+                               |################
+
+                               |##
+ openconfig/public             |##
+                               |##
 
                                |####
  openconfig/gribigo            |####
@@ -66,17 +74,9 @@ Since 2022-09-30 13:43:45 -0700 PDT, I'm most active between 13:00-13:59 - with 
  openconfig/featureprofiles    |#########################################
                                |#########################################
 
-                               |##
- openconfig/public             |##
-                               |##
-
-                               |##############
- openconfig/replayer           |##############
-                               |##############
-
-                               |################
- openconfig/gribi              |################
-                               |################
+                               |####################
+ openconfig/magna              |####################
+                               |####################
 
 
 
@@ -86,4 +86,4 @@ Since 2022-09-30 13:43:45 -0700 PDT, I've been most active in openconfig/feature
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2022-10-30 18:52:06.12815572 -0700 PDT
+Last Updated: 2022-10-30 19:50:36.766577974 -0700 PDT
