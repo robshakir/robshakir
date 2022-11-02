@@ -42,29 +42,9 @@ Since 2022-09-30 13:52:53 -0700 PDT, I'm most active between 13:00-13:59 - with 
 
 
 ```
-                               |##
- openconfig/gnoi               |##
-                               |##
-
-                               |##
- openconfig/public             |##
-                               |##
-
-                               |##############
- openconfig/replayer           |##############
-                               |##############
-
                                |####
  openconfig/gribigo            |####
                                |####
-
-                               |#
- openconfig/gnmi               |#
-                               |#
-
-                               |##############
- openconfig/gribi              |##############
-                               |##############
 
                                |#
  openconfig/ygot               |#
@@ -79,8 +59,28 @@ Since 2022-09-30 13:52:53 -0700 PDT, I'm most active between 13:00-13:59 - with 
                                |####################
 
                                |#
+ openconfig/gnmi               |#
+                               |#
+
+                               |##
+ openconfig/gnoi               |##
+                               |##
+
+                               |##
+ openconfig/public             |##
+                               |##
+
+                               |##############
+ openconfig/replayer           |##############
+                               |##############
+
+                               |#
  Jack000/Expose                |#
                                |#
+
+                               |##############
+ openconfig/gribi              |##############
+                               |##############
 
 
 
@@ -90,4 +90,4 @@ Since 2022-09-30 13:52:53 -0700 PDT, I've been most active in openconfig/feature
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2022-11-01 20:41:20.523419987 -0700 PDT
+Last Updated: 2022-11-01 21:11:20.267938778 -0700 PDT
