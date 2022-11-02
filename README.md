@@ -42,28 +42,12 @@ Since 2022-09-30 13:52:53 -0700 PDT, I'm most active between 13:00-13:59 - with 
 
 
 ```
-                               |####################
- openconfig/magna              |####################
-                               |####################
-
-                               |##
- openconfig/public             |##
-                               |##
-
-                               |####
- openconfig/gribigo            |####
-                               |####
-
                                |#########################################
  openconfig/featureprofiles    |#########################################
                                |#########################################
 
                                |#
  openconfig/gnmi               |#
-                               |#
-
-                               |#
- Jack000/Expose                |#
                                |#
 
                                |##############
@@ -78,9 +62,25 @@ Since 2022-09-30 13:52:53 -0700 PDT, I'm most active between 13:00-13:59 - with 
  openconfig/replayer           |##############
                                |##############
 
+                               |####
+ openconfig/gribigo            |####
+                               |####
+
                                |#
  openconfig/ygot               |#
                                |#
+
+                               |####################
+ openconfig/magna              |####################
+                               |####################
+
+                               |#
+ Jack000/Expose                |#
+                               |#
+
+                               |##
+ openconfig/public             |##
+                               |##
 
 
 
@@ -90,4 +90,4 @@ Since 2022-09-30 13:52:53 -0700 PDT, I've been most active in openconfig/feature
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2022-11-02 03:01:34.280338495 -0700 PDT
+Last Updated: 2022-11-02 03:21:52.133018064 -0700 PDT
