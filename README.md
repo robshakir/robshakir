@@ -42,21 +42,29 @@ Since 2022-09-30 13:52:53 -0700 PDT, I'm most active between 13:00-13:59 - with 
 
 
 ```
+                               |##
+ openconfig/gnoi               |##
+                               |##
+
                                |##############
  openconfig/replayer           |##############
                                |##############
+
+                               |####
+ openconfig/gribigo            |####
+                               |####
+
+                               |####################
+ openconfig/magna              |####################
+                               |####################
 
                                |##############
  openconfig/gribi              |##############
                                |##############
 
                                |##
- openconfig/gnoi               |##
+ openconfig/public             |##
                                |##
-
-                               |####
- openconfig/gribigo            |####
-                               |####
 
                                |#
  openconfig/ygot               |#
@@ -66,10 +74,6 @@ Since 2022-09-30 13:52:53 -0700 PDT, I'm most active between 13:00-13:59 - with 
  openconfig/featureprofiles    |#########################################
                                |#########################################
 
-                               |####################
- openconfig/magna              |####################
-                               |####################
-
                                |#
  openconfig/gnmi               |#
                                |#
@@ -77,10 +81,6 @@ Since 2022-09-30 13:52:53 -0700 PDT, I'm most active between 13:00-13:59 - with 
                                |#
  Jack000/Expose                |#
                                |#
-
-                               |##
- openconfig/public             |##
-                               |##
 
 
 
@@ -90,4 +90,4 @@ Since 2022-09-30 13:52:53 -0700 PDT, I've been most active in openconfig/feature
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2022-11-02 01:50:24.5111882 -0700 PDT
+Last Updated: 2022-11-02 02:01:16.889951754 -0700 PDT
