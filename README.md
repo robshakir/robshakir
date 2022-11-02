@@ -42,16 +42,8 @@ Since 2022-09-30 13:52:53 -0700 PDT, I'm most active between 13:00-13:59 - with 
 
 
 ```
-                               |##
- openconfig/public             |##
-                               |##
-
-                               |#########################################
- openconfig/featureprofiles    |#########################################
-                               |#########################################
-
                                |##############
- openconfig/gribi              |##############
+ openconfig/replayer           |##############
                                |##############
 
                                |#
@@ -66,10 +58,6 @@ Since 2022-09-30 13:52:53 -0700 PDT, I'm most active between 13:00-13:59 - with 
  openconfig/gnoi               |##
                                |##
 
-                               |##############
- openconfig/replayer           |##############
-                               |##############
-
                                |####
  openconfig/gribigo            |####
                                |####
@@ -78,9 +66,21 @@ Since 2022-09-30 13:52:53 -0700 PDT, I'm most active between 13:00-13:59 - with 
  openconfig/ygot               |#
                                |#
 
+                               |#########################################
+ openconfig/featureprofiles    |#########################################
+                               |#########################################
+
                                |####################
  openconfig/magna              |####################
                                |####################
+
+                               |##############
+ openconfig/gribi              |##############
+                               |##############
+
+                               |##
+ openconfig/public             |##
+                               |##
 
 
 
@@ -90,4 +90,4 @@ Since 2022-09-30 13:52:53 -0700 PDT, I've been most active in openconfig/feature
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2022-11-01 23:40:28.188180926 -0700 PDT
+Last Updated: 2022-11-01 23:52:14.540265902 -0700 PDT
