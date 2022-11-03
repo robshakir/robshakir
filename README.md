@@ -42,17 +42,13 @@ Since 2022-09-30 16:09:44 -0700 PDT, I'm most active between 11:00-11:59 - with 
 
 
 ```
+                               |##########
+ openconfig/gnoi               |##########
+                               |##########
+
                                |####
  openconfig/gribigo            |####
                                |####
-
-                               |#
- openconfig/gnmi               |#
-                               |#
-
-                               |##############
- openconfig/gribi              |##############
-                               |##############
 
                                |#########################################
  openconfig/featureprofiles    |#########################################
@@ -63,12 +59,12 @@ Since 2022-09-30 16:09:44 -0700 PDT, I'm most active between 11:00-11:59 - with 
                                |############
 
                                |#
- Jack000/Expose                |#
+ openconfig/gnmi               |#
                                |#
 
-                               |##########
- openconfig/gnoi               |##########
-                               |##########
+                               |##############
+ openconfig/gribi              |##############
+                               |##############
 
                                |##
  openconfig/public             |##
@@ -82,6 +78,10 @@ Since 2022-09-30 16:09:44 -0700 PDT, I'm most active between 11:00-11:59 - with 
  openconfig/ygot               |#
                                |#
 
+                               |#
+ Jack000/Expose                |#
+                               |#
+
 
 
 Since 2022-09-30 16:09:44 -0700 PDT, I've been most active in openconfig/featureprofiles, with 41 events.
@@ -90,4 +90,4 @@ Since 2022-09-30 16:09:44 -0700 PDT, I've been most active in openconfig/feature
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2022-11-02 17:32:04.731093153 -0700 PDT
+Last Updated: 2022-11-02 18:07:55.866206304 -0700 PDT
