@@ -42,9 +42,17 @@ Since 2022-09-30 16:09:44 -0700 PDT, I'm most active between 11:00-11:59 - with 
 
 
 ```
-                               |##
- openconfig/public             |##
-                               |##
+                               |##############
+ openconfig/gribi              |##############
+                               |##############
+
+                               |####
+ openconfig/gribigo            |####
+                               |####
+
+                               |#########################################
+ openconfig/featureprofiles    |#########################################
+                               |#########################################
 
                                |#
  openconfig/gnmi               |#
@@ -58,29 +66,21 @@ Since 2022-09-30 16:09:44 -0700 PDT, I'm most active between 11:00-11:59 - with 
  openconfig/magna              |############
                                |############
 
-                               |##############
- openconfig/gribi              |##############
-                               |##############
-
                                |##########
  openconfig/gnoi               |##########
                                |##########
+
+                               |##
+ openconfig/public             |##
+                               |##
 
                                |##############
  openconfig/replayer           |##############
                                |##############
 
-                               |####
- openconfig/gribigo            |####
-                               |####
-
                                |#
  openconfig/ygot               |#
                                |#
-
-                               |#########################################
- openconfig/featureprofiles    |#########################################
-                               |#########################################
 
 
 
@@ -90,4 +90,4 @@ Since 2022-09-30 16:09:44 -0700 PDT, I've been most active in openconfig/feature
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2022-11-03 01:21:58.996185279 -0700 PDT
+Last Updated: 2022-11-03 01:38:07.106632979 -0700 PDT
