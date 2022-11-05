@@ -42,37 +42,17 @@ Since 2022-10-03 13:37:25 -0700 PDT, I'm most active between 11:00-11:59 - with 
 
 
 ```
-                               |##
- openconfig/public             |##
-                               |##
-
                                |####
  openconfig/gribigo            |####
                                |####
 
-                               |######################################
- openconfig/featureprofiles    |######################################
-                               |######################################
-
-                               |#
- openconfig/gnmi               |#
-                               |#
-
-                               |#########
- openconfig/gribi              |#########
-                               |#########
-
-                               |###################
- openconfig/gnoi               |###################
-                               |###################
-
-                               |##############
- openconfig/replayer           |##############
-                               |##############
-
                                |#
  openconfig/ygot               |#
                                |#
+
+                               |######################################
+ openconfig/featureprofiles    |######################################
+                               |######################################
 
                                |###########
  openconfig/magna              |###########
@@ -82,6 +62,26 @@ Since 2022-10-03 13:37:25 -0700 PDT, I'm most active between 11:00-11:59 - with 
  Jack000/Expose                |#
                                |#
 
+                               |###################
+ openconfig/gnoi               |###################
+                               |###################
+
+                               |##
+ openconfig/public             |##
+                               |##
+
+                               |##############
+ openconfig/replayer           |##############
+                               |##############
+
+                               |#
+ openconfig/gnmi               |#
+                               |#
+
+                               |#########
+ openconfig/gribi              |#########
+                               |#########
+
 
 
 Since 2022-10-03 13:37:25 -0700 PDT, I've been most active in openconfig/featureprofiles, with 38 events.
@@ -90,4 +90,4 @@ Since 2022-10-03 13:37:25 -0700 PDT, I've been most active in openconfig/feature
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2022-11-05 11:35:37.85102077 -0700 PDT
+Last Updated: 2022-11-05 11:48:04.110331259 -0700 PDT
