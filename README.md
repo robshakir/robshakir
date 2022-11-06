@@ -42,10 +42,6 @@ Since 2022-10-03 13:37:25 -0700 PDT, I'm most active between 11:00-11:59 - with 
 
 
 ```
-                               |###########
- openconfig/magna              |###########
-                               |###########
-
                                |#
  Jack000/Expose                |#
                                |#
@@ -53,10 +49,6 @@ Since 2022-10-03 13:37:25 -0700 PDT, I'm most active between 11:00-11:59 - with 
                                |#########
  openconfig/gribi              |#########
                                |#########
-
-                               |##############
- openconfig/replayer           |##############
-                               |##############
 
                                |####
  openconfig/gribigo            |####
@@ -70,9 +62,9 @@ Since 2022-10-03 13:37:25 -0700 PDT, I'm most active between 11:00-11:59 - with 
  openconfig/featureprofiles    |######################################
                                |######################################
 
-                               |#
- openconfig/gnmi               |#
-                               |#
+                               |###########
+ openconfig/magna              |###########
+                               |###########
 
                                |###################
  openconfig/gnoi               |###################
@@ -82,6 +74,14 @@ Since 2022-10-03 13:37:25 -0700 PDT, I'm most active between 11:00-11:59 - with 
  openconfig/public             |##
                                |##
 
+                               |##############
+ openconfig/replayer           |##############
+                               |##############
+
+                               |#
+ openconfig/gnmi               |#
+                               |#
+
 
 
 Since 2022-10-03 13:37:25 -0700 PDT, I've been most active in openconfig/featureprofiles, with 38 events.
@@ -90,4 +90,4 @@ Since 2022-10-03 13:37:25 -0700 PDT, I've been most active in openconfig/feature
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2022-11-06 13:32:04.22789756 -0800 PST
+Last Updated: 2022-11-06 13:45:58.694153357 -0800 PST
