@@ -42,21 +42,9 @@ Since 2022-10-03 13:37:25 -0700 PDT, I'm most active between 11:00-11:59 - with 
 
 
 ```
-                               |###################
- openconfig/gnoi               |###################
-                               |###################
-
-                               |##############
- openconfig/replayer           |##############
-                               |##############
-
-                               |######################################
- openconfig/featureprofiles    |######################################
-                               |######################################
-
-                               |#
- openconfig/gnmi               |#
-                               |#
+                               |###########
+ openconfig/magna              |###########
+                               |###########
 
                                |#
  Jack000/Expose                |#
@@ -66,6 +54,10 @@ Since 2022-10-03 13:37:25 -0700 PDT, I'm most active between 11:00-11:59 - with 
  openconfig/public             |##
                                |##
 
+                               |######################################
+ openconfig/featureprofiles    |######################################
+                               |######################################
+
                                |####
  openconfig/gribigo            |####
                                |####
@@ -74,13 +66,21 @@ Since 2022-10-03 13:37:25 -0700 PDT, I'm most active between 11:00-11:59 - with 
  openconfig/ygot               |#
                                |#
 
-                               |###########
- openconfig/magna              |###########
-                               |###########
+                               |#
+ openconfig/gnmi               |#
+                               |#
 
                                |#########
  openconfig/gribi              |#########
                                |#########
+
+                               |###################
+ openconfig/gnoi               |###################
+                               |###################
+
+                               |##############
+ openconfig/replayer           |##############
+                               |##############
 
 
 
@@ -90,4 +90,4 @@ Since 2022-10-03 13:37:25 -0700 PDT, I've been most active in openconfig/feature
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2022-11-06 14:34:32.552929379 -0800 PST
+Last Updated: 2022-11-06 14:46:39.806260345 -0800 PST
