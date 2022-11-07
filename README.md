@@ -46,18 +46,6 @@ Since 2022-10-03 13:37:25 -0700 PDT, I'm most active between 11:00-11:59 - with 
  openconfig/public             |##
                                |##
 
-                               |######################################
- openconfig/featureprofiles    |######################################
-                               |######################################
-
-                               |#
- openconfig/gnmi               |#
-                               |#
-
-                               |###################
- openconfig/gnoi               |###################
-                               |###################
-
                                |##############
  openconfig/replayer           |##############
                                |##############
@@ -69,6 +57,14 @@ Since 2022-10-03 13:37:25 -0700 PDT, I'm most active between 11:00-11:59 - with 
                                |#
  openconfig/ygot               |#
                                |#
+
+                               |#
+ openconfig/gnmi               |#
+                               |#
+
+                               |###################
+ openconfig/gnoi               |###################
+                               |###################
 
                                |###########
  openconfig/magna              |###########
@@ -82,6 +78,10 @@ Since 2022-10-03 13:37:25 -0700 PDT, I'm most active between 11:00-11:59 - with 
  openconfig/gribi              |#########
                                |#########
 
+                               |######################################
+ openconfig/featureprofiles    |######################################
+                               |######################################
+
 
 
 Since 2022-10-03 13:37:25 -0700 PDT, I've been most active in openconfig/featureprofiles, with 38 events.
@@ -90,4 +90,4 @@ Since 2022-10-03 13:37:25 -0700 PDT, I've been most active in openconfig/feature
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2022-11-07 09:22:11.401784562 -0800 PST
+Last Updated: 2022-11-07 09:38:13.000843999 -0800 PST
