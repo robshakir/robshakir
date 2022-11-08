@@ -42,17 +42,13 @@ Since 2022-10-06 19:47:11 -0700 PDT, I'm most active between 17:00-17:59 - with 
 
 
 ```
-                               |##
- openconfig/public             |##
-                               |##
+                               |##########################
+ openconfig/gnoi               |##########################
+                               |##########################
 
-                               |##############
- openconfig/replayer           |##############
-                               |##############
-
-                               |####
- openconfig/gribigo            |####
-                               |####
+                               |#
+ openconfig/ygot               |#
+                               |#
 
                                |#########
  openconfig/magna              |#########
@@ -70,13 +66,17 @@ Since 2022-10-06 19:47:11 -0700 PDT, I'm most active between 17:00-17:59 - with 
  openconfig/featureprofiles    |##########################################
                                |##########################################
 
-                               |##########################
- openconfig/gnoi               |##########################
-                               |##########################
+                               |##############
+ openconfig/replayer           |##############
+                               |##############
 
-                               |#
- openconfig/ygot               |#
-                               |#
+                               |####
+ openconfig/gribigo            |####
+                               |####
+
+                               |##
+ openconfig/public             |##
+                               |##
 
 
 
@@ -86,4 +86,4 @@ Since 2022-10-06 19:47:11 -0700 PDT, I've been most active in openconfig/feature
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2022-11-07 19:06:52.11159268 -0800 PST
+Last Updated: 2022-11-07 19:42:03.130769032 -0800 PST
