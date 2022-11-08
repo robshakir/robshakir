@@ -43,8 +43,20 @@ Since 2022-10-06 19:43:01 -0700 PDT, I'm most active between 17:00-17:59 - with 
 
 ```
                                |#
+ Jack000/Expose                |#
+                               |#
+
+                               |##############
+ openconfig/replayer           |##############
+                               |##############
+
+                               |#
  openconfig/gnmi               |#
                                |#
+
+                               |##########################
+ openconfig/gnoi               |##########################
+                               |##########################
 
                                |####
  openconfig/gribigo            |####
@@ -58,10 +70,6 @@ Since 2022-10-06 19:43:01 -0700 PDT, I'm most active between 17:00-17:59 - with 
  openconfig/magna              |#########
                                |#########
 
-                               |#
- Jack000/Expose                |#
-                               |#
-
                                |####
  openconfig/public             |####
                                |####
@@ -69,14 +77,6 @@ Since 2022-10-06 19:43:01 -0700 PDT, I'm most active between 17:00-17:59 - with 
                                |########################################
  openconfig/featureprofiles    |########################################
                                |########################################
-
-                               |##########################
- openconfig/gnoi               |##########################
-                               |##########################
-
-                               |##############
- openconfig/replayer           |##############
-                               |##############
 
 
 
@@ -86,4 +86,4 @@ Since 2022-10-06 19:43:01 -0700 PDT, I've been most active in openconfig/feature
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2022-11-08 08:01:27.719189219 -0800 PST
+Last Updated: 2022-11-08 08:21:41.242445461 -0800 PST
