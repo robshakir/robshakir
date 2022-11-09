@@ -42,22 +42,6 @@ Since 2022-10-10 06:46:47 -0700 PDT, I'm most active between 17:00-17:59 - with 
 
 
 ```
-                               |##
- openconfig/ygot               |##
-                               |##
-
-                               |#########
- openconfig/public             |#########
-                               |#########
-
-                               |###################################
- openconfig/featureprofiles    |###################################
-                               |###################################
-
-                               |##########################
- openconfig/gnoi               |##########################
-                               |##########################
-
                                |##############
  openconfig/replayer           |##############
                                |##############
@@ -74,6 +58,22 @@ Since 2022-10-10 06:46:47 -0700 PDT, I'm most active between 17:00-17:59 - with 
  openconfig/gnmi               |#
                                |#
 
+                               |##
+ openconfig/ygot               |##
+                               |##
+
+                               |#########
+ openconfig/public             |#########
+                               |#########
+
+                               |###################################
+ openconfig/featureprofiles    |###################################
+                               |###################################
+
+                               |##########################
+ openconfig/gnoi               |##########################
+                               |##########################
+
 
 
 Since 2022-10-10 06:46:47 -0700 PDT, I've been most active in openconfig/featureprofiles, with 35 events.
@@ -82,4 +82,4 @@ Since 2022-10-10 06:46:47 -0700 PDT, I've been most active in openconfig/feature
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2022-11-09 07:36:05.336591304 -0800 PST
+Last Updated: 2022-11-09 07:48:27.676792241 -0800 PST
