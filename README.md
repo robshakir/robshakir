@@ -1,5 +1,8 @@
 ### 🍞 Bread Crumbs
 
+ * 🔍: Reviewed a pull request in  `openconfig/gnoi` at 2022-11-10 09:22:54 -0800 PST
+ * 💬: Commented on a PR in  `openconfig/gnoi` at 2022-11-10 09:22:53 -0800 PST
+ * 🚢: Pushed some commits to `openconfig/gnoi` at 2022-11-10 09:22:20 -0800 PST
  * 😃: Commented on an issue in `openconfig/public` at 2022-11-10 09:16:44 -0800 PST
  * 🚢: Pushed some commits to `openconfig/public` at 2022-11-10 09:15:52 -0800 PST
  * 💬: Commented on a PR in  `openconfig/gnoi` at 2022-11-09 17:06:34 -0800 PST
@@ -7,9 +10,6 @@
  * 🚢: Pushed some commits to `openconfig/public` at 2022-11-09 16:52:41 -0800 PST
  * 💥: Created a branch in `openconfig/public` at 2022-11-09 16:39:51 -0800 PST
  * ✍🏼: Created a pull request in `openconfig/public` at 2022-11-09 16:39:50 -0800 PST
- * 😃: Commented on an issue in `openconfig/ygot` at 2022-11-08 18:59:59 -0800 PST
- * 🔍: Reviewed a pull request in  `openconfig/public` at 2022-11-08 11:55:44 -0800 PST
- * 💬: Commented on a PR in  `openconfig/public` at 2022-11-08 11:51:43 -0800 PST
 
 ### 🕘 Recent Activity
 ```
@@ -21,11 +21,11 @@
  16 ┤                                             │  │                      │  ╰╮
  14 ┤                                            ╭╯  │                     ╭╯   │
  13 ┤                                            │   ╰╮                    │    │
- 11 ┤                                           ╭╯    │                    │    ╰╮
- 10 ┤                                          ╭╯     │     ╭╮             │     │
-  8 ┤                                         ╭╯      ╰╮    │╰╮           ╭╯     │
-  6 ┤                         ╭──────╮      ╭─╯        │   ╭╯ ╰╮          │      │
-  5 ┤                        ╭╯      ╰──────╯          │  ╭╯   ╰╮         │      ╰╮
+ 11 ┤                                            │    │                    │    ╰╮
+ 10 ┤                                           ╭╯    │     ╭╮             │     │
+  8 ┤                                     ╭────╮│     ╰╮    │╰╮           ╭╯     │
+  6 ┤                           ╭────╮   ╭╯    ╰╯      │   ╭╯ ╰╮          │      │
+  5 ┤                        ╭──╯    ╰───╯             │  ╭╯   ╰╮         │      ╰╮
   3 ┤                       ╭╯                         ╰╮╭╯     ╰──╮   ╭──╯       ╰╮
   2 ┤                      ╭╯                           ││         ╰───╯           ╰─╮    ╭─────╮
   0 ┼──────────────────────╯                            ╰╯                           ╰────╯     ╰───────
@@ -35,32 +35,28 @@
 						Commits by Hour of Day
 
 
-Since 2022-10-10 10:10:28 -0700 PDT, I'm most active between 17:00-17:59 - with 25 events in that hour.
+Since 2022-10-11 11:51:28 -0700 PDT, I'm most active between 17:00-17:59 - with 25 events in that hour.
 
 ```
 
 
 
 ```
-                               |#
- openconfig/gnmi               |#
-                               |#
+                               |###############################
+ openconfig/gnoi               |###############################
+                               |###############################
 
                                |##############
  openconfig/public             |##############
                                |##############
 
-                               |############################
- openconfig/gnoi               |############################
-                               |############################
-
                                |##
  openconfig/ygot               |##
                                |##
 
-                               |############################
- openconfig/featureprofiles    |############################
-                               |############################
+                               |##########################
+ openconfig/featureprofiles    |##########################
+                               |##########################
 
                                |##############
  openconfig/replayer           |##############
@@ -76,10 +72,10 @@ Since 2022-10-10 10:10:28 -0700 PDT, I'm most active between 17:00-17:59 - with 
 
 
 
-Since 2022-10-10 10:10:28 -0700 PDT, I've been most active in openconfig/featureprofiles, with 28 events.
+Since 2022-10-11 11:51:28 -0700 PDT, I've been most active in openconfig/gnoi, with 31 events.
 
 ```
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2022-11-10 09:20:47.800118908 -0800 PST
+Last Updated: 2022-11-10 09:35:46.90214663 -0800 PST
