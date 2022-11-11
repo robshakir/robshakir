@@ -42,18 +42,6 @@ Since 2022-10-17 13:50:45 -0700 PDT, I'm most active between 17:00-17:59 - with 
 
 
 ```
-                               |#
- oxidecomputer/p4              |#
-                               |#
-
-                               |#########
- openconfig/reference          |#########
-                               |#########
-
-                               |########
- openconfig/replayer           |########
-                               |########
-
                                |#########
  openconfig/gnsi               |#########
                                |#########
@@ -62,13 +50,25 @@ Since 2022-10-17 13:50:45 -0700 PDT, I'm most active between 17:00-17:59 - with 
  openconfig/featureprofiles    |########################
                                |########################
 
-                               |###############################
- openconfig/gnoi               |###############################
-                               |###############################
-
                                |##############
  openconfig/public             |##############
                                |##############
+
+                               |########
+ openconfig/replayer           |########
+                               |########
+
+                               |#
+ oxidecomputer/p4              |#
+                               |#
+
+                               |#########
+ openconfig/reference          |#########
+                               |#########
+
+                               |###############################
+ openconfig/gnoi               |###############################
+                               |###############################
 
                                |##
  openconfig/ygot               |##
@@ -86,4 +86,4 @@ Since 2022-10-17 13:50:45 -0700 PDT, I've been most active in openconfig/gnoi, w
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2022-11-11 07:35:14.545599423 -0800 PST
+Last Updated: 2022-11-11 07:48:13.751841327 -0800 PST
