@@ -42,9 +42,13 @@ Since 2022-10-18 17:01:40 -0700 PDT, I'm most active between 17:00-17:59 - with 
 
 
 ```
-                               |#################
- openconfig/public             |#################
-                               |#################
+                               |#########
+ openconfig/reference          |#########
+                               |#########
+
+                               |##
+ openconfig/gribigo            |##
+                               |##
 
                                |#
  oxidecomputer/p4              |#
@@ -58,14 +62,6 @@ Since 2022-10-18 17:01:40 -0700 PDT, I'm most active between 17:00-17:59 - with 
  openconfig/featureprofiles    |#######################
                                |#######################
 
-                               |#################################
- openconfig/gnoi               |#################################
-                               |#################################
-
-                               |#########
- openconfig/reference          |#########
-                               |#########
-
                                |#
  openconfig/ygot               |#
                                |#
@@ -74,9 +70,13 @@ Since 2022-10-18 17:01:40 -0700 PDT, I'm most active between 17:00-17:59 - with 
  openconfig/replayer           |#####
                                |#####
 
-                               |##
- openconfig/gribigo            |##
-                               |##
+                               |#################
+ openconfig/public             |#################
+                               |#################
+
+                               |#################################
+ openconfig/gnoi               |#################################
+                               |#################################
 
 
 
@@ -86,4 +86,4 @@ Since 2022-10-18 17:01:40 -0700 PDT, I've been most active in openconfig/gnoi, w
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2022-11-11 22:21:03.515933102 -0800 PST
+Last Updated: 2022-11-11 22:36:32.018241878 -0800 PST
