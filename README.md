@@ -42,13 +42,29 @@ Since 2022-10-18 17:01:40 -0700 PDT, I'm most active between 17:00-17:59 - with 
 
 
 ```
+                               |#################
+ openconfig/public             |#################
+                               |#################
+
+                               |#################################
+ openconfig/gnoi               |#################################
+                               |#################################
+
                                |#
  oxidecomputer/p4              |#
                                |#
 
+                               |#########
+ openconfig/gnsi               |#########
+                               |#########
+
                                |#
  openconfig/ygot               |#
                                |#
+
+                               |#####
+ openconfig/replayer           |#####
+                               |#####
 
                                |#########
  openconfig/reference          |#########
@@ -58,25 +74,9 @@ Since 2022-10-18 17:01:40 -0700 PDT, I'm most active between 17:00-17:59 - with 
  openconfig/featureprofiles    |#######################
                                |#######################
 
-                               |#####
- openconfig/replayer           |#####
-                               |#####
-
                                |##
  openconfig/gribigo            |##
                                |##
-
-                               |#################
- openconfig/public             |#################
-                               |#################
-
-                               |#################################
- openconfig/gnoi               |#################################
-                               |#################################
-
-                               |#########
- openconfig/gnsi               |#########
-                               |#########
 
 
 
@@ -86,4 +86,4 @@ Since 2022-10-18 17:01:40 -0700 PDT, I've been most active in openconfig/gnoi, w
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2022-11-12 03:01:14.575144918 -0800 PST
+Last Updated: 2022-11-12 03:19:37.842890187 -0800 PST
