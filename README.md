@@ -42,9 +42,17 @@ Since 2022-10-18 17:01:40 -0700 PDT, I'm most active between 17:00-17:59 - with 
 
 
 ```
-                               |#######################
- openconfig/featureprofiles    |#######################
-                               |#######################
+                               |#########
+ openconfig/gnsi               |#########
+                               |#########
+
+                               |#########
+ openconfig/reference          |#########
+                               |#########
+
+                               |##
+ openconfig/gribigo            |##
+                               |##
 
                                |#
  openconfig/ygot               |#
@@ -53,10 +61,6 @@ Since 2022-10-18 17:01:40 -0700 PDT, I'm most active between 17:00-17:59 - with 
                                |#####
  openconfig/replayer           |#####
                                |#####
-
-                               |##
- openconfig/gribigo            |##
-                               |##
 
                                |#################
  openconfig/public             |#################
@@ -70,13 +74,9 @@ Since 2022-10-18 17:01:40 -0700 PDT, I'm most active between 17:00-17:59 - with 
  oxidecomputer/p4              |#
                                |#
 
-                               |#########
- openconfig/gnsi               |#########
-                               |#########
-
-                               |#########
- openconfig/reference          |#########
-                               |#########
+                               |#######################
+ openconfig/featureprofiles    |#######################
+                               |#######################
 
 
 
@@ -86,4 +86,4 @@ Since 2022-10-18 17:01:40 -0700 PDT, I've been most active in openconfig/gnoi, w
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2022-11-12 08:39:06.218517099 -0800 PST
+Last Updated: 2022-11-12 08:51:45.890402473 -0800 PST
