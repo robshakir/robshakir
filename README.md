@@ -42,17 +42,17 @@ Since 2022-10-18 17:01:40 -0700 PDT, I'm most active between 17:00-17:59 - with 
 
 
 ```
-                               |#################################
- openconfig/gnoi               |#################################
-                               |#################################
-
-                               |#
- oxidecomputer/p4              |#
-                               |#
+                               |#########
+ openconfig/reference          |#########
+                               |#########
 
                                |#######################
  openconfig/featureprofiles    |#######################
                                |#######################
+
+                               |#
+ openconfig/ygot               |#
+                               |#
 
                                |#####
  openconfig/replayer           |#####
@@ -66,17 +66,17 @@ Since 2022-10-18 17:01:40 -0700 PDT, I'm most active between 17:00-17:59 - with 
  openconfig/public             |#################
                                |#################
 
+                               |#
+ oxidecomputer/p4              |#
+                               |#
+
                                |#########
  openconfig/gnsi               |#########
                                |#########
 
-                               |#########
- openconfig/reference          |#########
-                               |#########
-
-                               |#
- openconfig/ygot               |#
-                               |#
+                               |#################################
+ openconfig/gnoi               |#################################
+                               |#################################
 
 
 
@@ -86,4 +86,4 @@ Since 2022-10-18 17:01:40 -0700 PDT, I've been most active in openconfig/gnoi, w
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2022-11-13 04:01:43.080668174 -0800 PST
+Last Updated: 2022-11-13 04:22:06.706649891 -0800 PST
