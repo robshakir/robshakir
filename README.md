@@ -42,12 +42,16 @@ Since 2022-10-18 17:01:40 -0700 PDT, I'm most active between 17:00-17:59 - with 
 
 
 ```
-                               |##
- openconfig/gribigo            |##
-                               |##
+                               |#
+ oxidecomputer/p4              |#
+                               |#
 
                                |#########
  openconfig/gnsi               |#########
+                               |#########
+
+                               |#########
+ openconfig/reference          |#########
                                |#########
 
                                |#
@@ -58,14 +62,6 @@ Since 2022-10-18 17:01:40 -0700 PDT, I'm most active between 17:00-17:59 - with 
  openconfig/replayer           |#####
                                |#####
 
-                               |#########
- openconfig/reference          |#########
-                               |#########
-
-                               |#######################
- openconfig/featureprofiles    |#######################
-                               |#######################
-
                                |#################
  openconfig/public             |#################
                                |#################
@@ -74,9 +70,13 @@ Since 2022-10-18 17:01:40 -0700 PDT, I'm most active between 17:00-17:59 - with 
  openconfig/gnoi               |#################################
                                |#################################
 
-                               |#
- oxidecomputer/p4              |#
-                               |#
+                               |#######################
+ openconfig/featureprofiles    |#######################
+                               |#######################
+
+                               |##
+ openconfig/gribigo            |##
+                               |##
 
 
 
@@ -86,4 +86,4 @@ Since 2022-10-18 17:01:40 -0700 PDT, I've been most active in openconfig/gnoi, w
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2022-11-13 03:01:06.851789677 -0800 PST
+Last Updated: 2022-11-13 03:19:37.894561491 -0800 PST
