@@ -42,26 +42,6 @@ Since 2022-10-18 17:01:40 -0700 PDT, I'm most active between 17:00-17:59 - with 
 
 
 ```
-                               |#
- oxidecomputer/p4              |#
-                               |#
-
-                               |#########
- openconfig/reference          |#########
-                               |#########
-
-                               |#
- openconfig/ygot               |#
-                               |#
-
-                               |#################
- openconfig/public             |#################
-                               |#################
-
-                               |#########
- openconfig/gnsi               |#########
-                               |#########
-
                                |#######################
  openconfig/featureprofiles    |#######################
                                |#######################
@@ -74,9 +54,29 @@ Since 2022-10-18 17:01:40 -0700 PDT, I'm most active between 17:00-17:59 - with 
  openconfig/gribigo            |##
                                |##
 
+                               |#################
+ openconfig/public             |#################
+                               |#################
+
                                |#################################
  openconfig/gnoi               |#################################
                                |#################################
+
+                               |#
+ oxidecomputer/p4              |#
+                               |#
+
+                               |#########
+ openconfig/reference          |#########
+                               |#########
+
+                               |#########
+ openconfig/gnsi               |#########
+                               |#########
+
+                               |#
+ openconfig/ygot               |#
+                               |#
 
 
 
@@ -86,4 +86,4 @@ Since 2022-10-18 17:01:40 -0700 PDT, I've been most active in openconfig/gnoi, w
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2022-11-14 02:01:31.989292547 -0800 PST
+Last Updated: 2022-11-14 02:20:56.664821764 -0800 PST
