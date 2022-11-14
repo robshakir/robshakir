@@ -42,25 +42,9 @@ Since 2022-10-18 17:01:40 -0700 PDT, I'm most active between 17:00-17:59 - with 
 
 
 ```
-                               |#########
- openconfig/reference          |#########
-                               |#########
-
-                               |##
- openconfig/gribigo            |##
-                               |##
-
-                               |#####
- openconfig/replayer           |#####
-                               |#####
-
                                |#################
  openconfig/public             |#################
                                |#################
-
-                               |#################################
- openconfig/gnoi               |#################################
-                               |#################################
 
                                |#
  oxidecomputer/p4              |#
@@ -74,6 +58,22 @@ Since 2022-10-18 17:01:40 -0700 PDT, I'm most active between 17:00-17:59 - with 
  openconfig/featureprofiles    |#######################
                                |#######################
 
+                               |#####
+ openconfig/replayer           |#####
+                               |#####
+
+                               |##
+ openconfig/gribigo            |##
+                               |##
+
+                               |#################################
+ openconfig/gnoi               |#################################
+                               |#################################
+
+                               |#########
+ openconfig/reference          |#########
+                               |#########
+
                                |#
  openconfig/ygot               |#
                                |#
@@ -86,4 +86,4 @@ Since 2022-10-18 17:01:40 -0700 PDT, I've been most active in openconfig/gnoi, w
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2022-11-14 03:01:16.4043794 -0800 PST
+Last Updated: 2022-11-14 03:20:09.668640936 -0800 PST
