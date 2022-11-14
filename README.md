@@ -42,25 +42,25 @@ Since 2022-10-18 17:01:40 -0700 PDT, I'm most active between 17:00-17:59 - with 
 
 
 ```
-                               |#####
- openconfig/replayer           |#####
-                               |#####
-
                                |#################
  openconfig/public             |#################
                                |#################
 
-                               |#########
- openconfig/gnsi               |#########
-                               |#########
-
-                               |#########
- openconfig/reference          |#########
-                               |#########
-
                                |#######################
  openconfig/featureprofiles    |#######################
                                |#######################
+
+                               |#
+ openconfig/ygot               |#
+                               |#
+
+                               |#####
+ openconfig/replayer           |#####
+                               |#####
+
+                               |##
+ openconfig/gribigo            |##
+                               |##
 
                                |#################################
  openconfig/gnoi               |#################################
@@ -70,13 +70,13 @@ Since 2022-10-18 17:01:40 -0700 PDT, I'm most active between 17:00-17:59 - with 
  oxidecomputer/p4              |#
                                |#
 
-                               |#
- openconfig/ygot               |#
-                               |#
+                               |#########
+ openconfig/gnsi               |#########
+                               |#########
 
-                               |##
- openconfig/gribigo            |##
-                               |##
+                               |#########
+ openconfig/reference          |#########
+                               |#########
 
 
 
@@ -86,4 +86,4 @@ Since 2022-10-18 17:01:40 -0700 PDT, I've been most active in openconfig/gnoi, w
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2022-11-14 01:34:05.506630053 -0800 PST
+Last Updated: 2022-11-14 01:47:00.847256568 -0800 PST
