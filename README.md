@@ -42,29 +42,9 @@ Since 2022-10-18 17:49:51 -0700 PDT, I'm most active between 17:00-17:59 - with 
 
 
 ```
-                               |#########
- openconfig/reference          |#########
-                               |#########
-
-                               |#
- openconfig/ygot               |#
-                               |#
-
                                |#
  openconfig/gribigo            |#
                                |#
-
-                               |#
- oxidecomputer/p4              |#
-                               |#
-
-                               |#########
- openconfig/gnsi               |#########
-                               |#########
-
-                               |##
- openconfig/replayer           |##
-                               |##
 
                                |###########################
  openconfig/featureprofiles    |###########################
@@ -74,9 +54,29 @@ Since 2022-10-18 17:49:51 -0700 PDT, I'm most active between 17:00-17:59 - with 
  openconfig/public             |#################
                                |#################
 
+                               |#########
+ openconfig/gnsi               |#########
+                               |#########
+
+                               |#########
+ openconfig/reference          |#########
+                               |#########
+
+                               |#
+ openconfig/ygot               |#
+                               |#
+
+                               |##
+ openconfig/replayer           |##
+                               |##
+
                                |#################################
  openconfig/gnoi               |#################################
                                |#################################
+
+                               |#
+ oxidecomputer/p4              |#
+                               |#
 
 
 
@@ -86,4 +86,4 @@ Since 2022-10-18 17:49:51 -0700 PDT, I've been most active in openconfig/gnoi, w
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2022-11-15 14:33:20.005979679 -0800 PST
+Last Updated: 2022-11-15 14:45:52.251188206 -0800 PST
