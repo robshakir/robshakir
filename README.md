@@ -42,6 +42,26 @@ Since 2022-10-18 17:49:51 -0700 PDT, I'm most active between 17:00-17:59 - with 
 
 
 ```
+                               |#########
+ openconfig/gnsi               |#########
+                               |#########
+
+                               |#########
+ openconfig/reference          |#########
+                               |#########
+
+                               |#
+ openconfig/ygot               |#
+                               |#
+
+                               |##
+ openconfig/replayer           |##
+                               |##
+
+                               |#
+ openconfig/gribigo            |#
+                               |#
+
                                |###########################
  openconfig/featureprofiles    |###########################
                                |###########################
@@ -54,29 +74,9 @@ Since 2022-10-18 17:49:51 -0700 PDT, I'm most active between 17:00-17:59 - with 
  openconfig/gnoi               |#################################
                                |#################################
 
-                               |#########
- openconfig/gnsi               |#########
-                               |#########
-
-                               |#########
- openconfig/reference          |#########
-                               |#########
-
-                               |#
- openconfig/gribigo            |#
-                               |#
-
                                |#
  oxidecomputer/p4              |#
                                |#
-
-                               |#
- openconfig/ygot               |#
-                               |#
-
-                               |##
- openconfig/replayer           |##
-                               |##
 
 
 
@@ -86,4 +86,4 @@ Since 2022-10-18 17:49:51 -0700 PDT, I've been most active in openconfig/gnoi, w
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2022-11-15 03:31:03.021451842 -0800 PST
+Last Updated: 2022-11-15 03:45:58.135696994 -0800 PST
