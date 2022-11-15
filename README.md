@@ -42,25 +42,13 @@ Since 2022-10-18 17:49:51 -0700 PDT, I'm most active between 17:00-17:59 - with 
 
 
 ```
-                               |#################################
- openconfig/gnoi               |#################################
-                               |#################################
-
-                               |#
- oxidecomputer/p4              |#
-                               |#
-
-                               |#########
- openconfig/gnsi               |#########
-                               |#########
-
-                               |#
- openconfig/ygot               |#
-                               |#
-
                                |##
  openconfig/replayer           |##
                                |##
+
+                               |#
+ openconfig/gribigo            |#
+                               |#
 
                                |###########################
  openconfig/featureprofiles    |###########################
@@ -70,12 +58,24 @@ Since 2022-10-18 17:49:51 -0700 PDT, I'm most active between 17:00-17:59 - with 
  openconfig/public             |#################
                                |#################
 
+                               |#
+ oxidecomputer/p4              |#
+                               |#
+
+                               |#########
+ openconfig/gnsi               |#########
+                               |#########
+
+                               |#################################
+ openconfig/gnoi               |#################################
+                               |#################################
+
                                |#########
  openconfig/reference          |#########
                                |#########
 
                                |#
- openconfig/gribigo            |#
+ openconfig/ygot               |#
                                |#
 
 
@@ -86,4 +86,4 @@ Since 2022-10-18 17:49:51 -0700 PDT, I've been most active in openconfig/gnoi, w
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2022-11-14 21:46:26.562388358 -0800 PST
+Last Updated: 2022-11-14 22:01:09.091274956 -0800 PST
