@@ -43,10 +43,6 @@ Since 2022-11-07 17:20:26 -0800 PST, I'm most active between 07:00-07:59 - with 
 
 ```
                                |##########
- openconfig/gnoi               |##########
-                               |##########
-
-                               |##########
  openconfig/reference          |##########
                                |##########
 
@@ -70,6 +66,10 @@ Since 2022-11-07 17:20:26 -0800 PST, I'm most active between 07:00-07:59 - with 
  openconfig/featureprofiles    |######################################################
                                |######################################################
 
+                               |##########
+ openconfig/gnoi               |##########
+                               |##########
+
 
 
 Since 2022-11-07 17:20:26 -0800 PST, I've been most active in openconfig/featureprofiles, with 54 events.
@@ -78,4 +78,4 @@ Since 2022-11-07 17:20:26 -0800 PST, I've been most active in openconfig/feature
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2022-11-17 08:01:21.405781066 -0800 PST
+Last Updated: 2022-11-17 08:21:30.755880169 -0800 PST
