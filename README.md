@@ -42,10 +42,6 @@ Since 2022-11-07 17:34:42 -0800 PST, I'm most active between 07:00-07:59 - with 
 
 
 ```
-                               |#########
- openconfig/gnsi               |#########
-                               |#########
-
                                |#
  openconfig/ygot               |#
                                |#
@@ -70,6 +66,10 @@ Since 2022-11-07 17:34:42 -0800 PST, I'm most active between 07:00-07:59 - with 
  oxidecomputer/p4              |#
                                |#
 
+                               |#########
+ openconfig/gnsi               |#########
+                               |#########
+
 
 
 Since 2022-11-07 17:34:42 -0800 PST, I've been most active in openconfig/featureprofiles, with 53 events.
@@ -78,4 +78,4 @@ Since 2022-11-07 17:34:42 -0800 PST, I've been most active in openconfig/feature
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2022-11-22 17:55:09.145872314 -0800 PST
+Last Updated: 2022-11-22 18:30:08.974906088 -0800 PST
