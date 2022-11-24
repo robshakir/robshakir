@@ -42,18 +42,6 @@ Since 2022-11-09 16:39:50 -0800 PST, I'm most active between 07:00-07:59 - with 
 
 
 ```
-                               |####
- openconfig/gribigo            |####
-                               |####
-
-                               |##
- openconfig/gribi              |##
-                               |##
-
-                               |#########
- openconfig/ygot               |#########
-                               |#########
-
                                |##############################################
  openconfig/featureprofiles    |##############################################
                                |##############################################
@@ -62,13 +50,17 @@ Since 2022-11-09 16:39:50 -0800 PST, I'm most active between 07:00-07:59 - with 
  openconfig/public             |##########
                                |##########
 
-                               |#########
- openconfig/gnoi               |#########
-                               |#########
-
                                |##########
  openconfig/reference          |##########
                                |##########
+
+                               |####
+ openconfig/gribigo            |####
+                               |####
+
+                               |##
+ openconfig/gribi              |##
+                               |##
 
                                |#
  oxidecomputer/p4              |#
@@ -76,6 +68,14 @@ Since 2022-11-09 16:39:50 -0800 PST, I'm most active between 07:00-07:59 - with 
 
                                |#########
  openconfig/gnsi               |#########
+                               |#########
+
+                               |#########
+ openconfig/ygot               |#########
+                               |#########
+
+                               |#########
+ openconfig/gnoi               |#########
                                |#########
 
 
@@ -86,4 +86,4 @@ Since 2022-11-09 16:39:50 -0800 PST, I've been most active in openconfig/feature
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2022-11-24 05:11:48.10047219 -0800 PST
+Last Updated: 2022-11-24 05:24:00.214102414 -0800 PST
