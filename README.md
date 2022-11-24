@@ -42,6 +42,18 @@ Since 2022-11-08 18:59:59 -0800 PST, I'm most active between 07:00-07:59 - with 
 
 
 ```
+                               |##########
+ openconfig/public             |##########
+                               |##########
+
+                               |#
+ oxidecomputer/p4              |#
+                               |#
+
+                               |#########
+ openconfig/gnsi               |#########
+                               |#########
+
                                |###
  openconfig/gribigo            |###
                                |###
@@ -49,14 +61,6 @@ Since 2022-11-08 18:59:59 -0800 PST, I'm most active between 07:00-07:59 - with 
                                |##########
  openconfig/ygot               |##########
                                |##########
-
-                               |##########
- openconfig/public             |##########
-                               |##########
-
-                               |##
- openconfig/gribi              |##
-                               |##
 
                                |##############################################
  openconfig/featureprofiles    |##############################################
@@ -70,13 +74,9 @@ Since 2022-11-08 18:59:59 -0800 PST, I'm most active between 07:00-07:59 - with 
  openconfig/reference          |##########
                                |##########
 
-                               |#
- oxidecomputer/p4              |#
-                               |#
-
-                               |#########
- openconfig/gnsi               |#########
-                               |#########
+                               |##
+ openconfig/gribi              |##
+                               |##
 
 
 
@@ -86,4 +86,4 @@ Since 2022-11-08 18:59:59 -0800 PST, I've been most active in openconfig/feature
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2022-11-23 18:08:24.89531059 -0800 PST
+Last Updated: 2022-11-23 18:39:07.606399591 -0800 PST
