@@ -42,10 +42,6 @@ Since 2022-11-09 16:39:50 -0800 PST, I'm most active between 07:00-07:59 - with 
 
 
 ```
-                               |#########
- openconfig/gnsi               |#########
-                               |#########
-
                                |####
  openconfig/gribigo            |####
                                |####
@@ -54,17 +50,9 @@ Since 2022-11-09 16:39:50 -0800 PST, I'm most active between 07:00-07:59 - with 
  openconfig/gribi              |##
                                |##
 
-                               |#########
- openconfig/ygot               |#########
-                               |#########
-
                                |##############################################
  openconfig/featureprofiles    |##############################################
                                |##############################################
-
-                               |#
- oxidecomputer/p4              |#
-                               |#
 
                                |##########
  openconfig/public             |##########
@@ -74,9 +62,21 @@ Since 2022-11-09 16:39:50 -0800 PST, I'm most active between 07:00-07:59 - with 
  openconfig/gnoi               |#########
                                |#########
 
+                               |#########
+ openconfig/gnsi               |#########
+                               |#########
+
+                               |#########
+ openconfig/ygot               |#########
+                               |#########
+
                                |##########
  openconfig/reference          |##########
                                |##########
+
+                               |#
+ oxidecomputer/p4              |#
+                               |#
 
 
 
@@ -86,4 +86,4 @@ Since 2022-11-09 16:39:50 -0800 PST, I've been most active in openconfig/feature
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2022-11-25 11:46:02.887167566 -0800 PST
+Last Updated: 2022-11-25 12:01:16.123624932 -0800 PST
