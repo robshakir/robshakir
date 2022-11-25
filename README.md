@@ -47,12 +47,20 @@ Since 2022-11-09 16:39:50 -0800 PST, I'm most active between 07:00-07:59 - with 
                                |#########
 
                                |##########
- openconfig/public             |##########
-                               |##########
-
-                               |##########
  openconfig/reference          |##########
                                |##########
+
+                               |####
+ openconfig/gribigo            |####
+                               |####
+
+                               |##
+ openconfig/gribi              |##
+                               |##
+
+                               |#########
+ openconfig/gnoi               |#########
+                               |#########
 
                                |#
  oxidecomputer/p4              |#
@@ -62,21 +70,13 @@ Since 2022-11-09 16:39:50 -0800 PST, I'm most active between 07:00-07:59 - with 
  openconfig/gnsi               |#########
                                |#########
 
-                               |####
- openconfig/gribigo            |####
-                               |####
-
                                |##############################################
  openconfig/featureprofiles    |##############################################
                                |##############################################
 
-                               |#########
- openconfig/gnoi               |#########
-                               |#########
-
-                               |##
- openconfig/gribi              |##
-                               |##
+                               |##########
+ openconfig/public             |##########
+                               |##########
 
 
 
@@ -86,4 +86,4 @@ Since 2022-11-09 16:39:50 -0800 PST, I've been most active in openconfig/feature
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2022-11-25 01:01:25.444206375 -0800 PST
+Last Updated: 2022-11-25 01:19:59.593314878 -0800 PST
