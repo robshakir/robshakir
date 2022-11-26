@@ -42,29 +42,9 @@ Since 2022-11-09 16:39:50 -0800 PST, I'm most active between 07:00-07:59 - with 
 
 
 ```
-                               |####
- openconfig/gribigo            |####
-                               |####
-
-                               |##
- openconfig/gribi              |##
-                               |##
-
                                |#########
  openconfig/ygot               |#########
                                |#########
-
-                               |##########
- openconfig/public             |##########
-                               |##########
-
-                               |##########
- openconfig/reference          |##########
-                               |##########
-
-                               |#
- oxidecomputer/p4              |#
-                               |#
 
                                |##############################################
  openconfig/featureprofiles    |##############################################
@@ -74,9 +54,29 @@ Since 2022-11-09 16:39:50 -0800 PST, I'm most active between 07:00-07:59 - with 
  openconfig/gnoi               |#########
                                |#########
 
+                               |##########
+ openconfig/reference          |##########
+                               |##########
+
+                               |#
+ oxidecomputer/p4              |#
+                               |#
+
+                               |##
+ openconfig/gribi              |##
+                               |##
+
+                               |##########
+ openconfig/public             |##########
+                               |##########
+
                                |#########
  openconfig/gnsi               |#########
                                |#########
+
+                               |####
+ openconfig/gribigo            |####
+                               |####
 
 
 
@@ -86,4 +86,4 @@ Since 2022-11-09 16:39:50 -0800 PST, I've been most active in openconfig/feature
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2022-11-25 20:47:09.879201449 -0800 PST
+Last Updated: 2022-11-25 21:01:05.683808516 -0800 PST
