@@ -46,18 +46,6 @@ Since 2022-11-09 16:39:50 -0800 PST, I'm most active between 07:00-07:59 - with 
  openconfig/gribigo            |####
                                |####
 
-                               |##############################################
- openconfig/featureprofiles    |##############################################
-                               |##############################################
-
-                               |#########
- openconfig/gnoi               |#########
-                               |#########
-
-                               |#########
- openconfig/gnsi               |#########
-                               |#########
-
                                |##
  openconfig/gribi              |##
                                |##
@@ -66,17 +54,29 @@ Since 2022-11-09 16:39:50 -0800 PST, I'm most active between 07:00-07:59 - with 
  openconfig/ygot               |#########
                                |#########
 
+                               |#
+ oxidecomputer/p4              |#
+                               |#
+
+                               |##############################################
+ openconfig/featureprofiles    |##############################################
+                               |##############################################
+
                                |##########
  openconfig/public             |##########
                                |##########
+
+                               |#########
+ openconfig/gnoi               |#########
+                               |#########
 
                                |##########
  openconfig/reference          |##########
                                |##########
 
-                               |#
- oxidecomputer/p4              |#
-                               |#
+                               |#########
+ openconfig/gnsi               |#########
+                               |#########
 
 
 
@@ -86,4 +86,4 @@ Since 2022-11-09 16:39:50 -0800 PST, I've been most active in openconfig/feature
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2022-11-26 05:21:14.219475619 -0800 PST
+Last Updated: 2022-11-26 05:33:15.860175452 -0800 PST
