@@ -42,6 +42,18 @@ Since 2022-11-09 16:39:50 -0800 PST, I'm most active between 07:00-07:59 - with 
 
 
 ```
+                               |##########
+ openconfig/public             |##########
+                               |##########
+
+                               |#
+ oxidecomputer/p4              |#
+                               |#
+
+                               |####
+ openconfig/gribigo            |####
+                               |####
+
                                |##
  openconfig/gribi              |##
                                |##
@@ -54,29 +66,17 @@ Since 2022-11-09 16:39:50 -0800 PST, I'm most active between 07:00-07:59 - with 
  openconfig/featureprofiles    |##############################################
                                |##############################################
 
-                               |##########
- openconfig/public             |##########
-                               |##########
-
                                |#########
  openconfig/gnoi               |#########
                                |#########
 
-                               |#########
- openconfig/gnsi               |#########
-                               |#########
-
-                               |####
- openconfig/gribigo            |####
-                               |####
-
-                               |#
- oxidecomputer/p4              |#
-                               |#
-
                                |##########
  openconfig/reference          |##########
                                |##########
+
+                               |#########
+ openconfig/gnsi               |#########
+                               |#########
 
 
 
@@ -86,4 +86,4 @@ Since 2022-11-09 16:39:50 -0800 PST, I've been most active in openconfig/feature
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2022-11-27 05:21:12.96873112 -0800 PST
+Last Updated: 2022-11-27 05:33:25.646931411 -0800 PST
