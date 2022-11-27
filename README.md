@@ -42,13 +42,25 @@ Since 2022-11-09 16:39:50 -0800 PST, I'm most active between 07:00-07:59 - with 
 
 
 ```
-                               |##
- openconfig/gribi              |##
-                               |##
+                               |####
+ openconfig/gribigo            |####
+                               |####
 
                                |#########
  openconfig/ygot               |#########
                                |#########
+
+                               |##########
+ openconfig/public             |##########
+                               |##########
+
+                               |#########
+ openconfig/gnsi               |#########
+                               |#########
+
+                               |##
+ openconfig/gribi              |##
+                               |##
 
                                |##############################################
  openconfig/featureprofiles    |##############################################
@@ -58,25 +70,13 @@ Since 2022-11-09 16:39:50 -0800 PST, I'm most active between 07:00-07:59 - with 
  openconfig/gnoi               |#########
                                |#########
 
-                               |#
- oxidecomputer/p4              |#
-                               |#
-
-                               |####
- openconfig/gribigo            |####
-                               |####
-
-                               |##########
- openconfig/public             |##########
-                               |##########
-
                                |##########
  openconfig/reference          |##########
                                |##########
 
-                               |#########
- openconfig/gnsi               |#########
-                               |#########
+                               |#
+ oxidecomputer/p4              |#
+                               |#
 
 
 
@@ -86,4 +86,4 @@ Since 2022-11-09 16:39:50 -0800 PST, I've been most active in openconfig/feature
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2022-11-27 12:20:06.06546128 -0800 PST
+Last Updated: 2022-11-27 12:31:26.864169177 -0800 PST
