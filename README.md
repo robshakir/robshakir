@@ -42,13 +42,25 @@ Since 2022-11-09 16:39:50 -0800 PST, I'm most active between 07:00-07:59 - with 
 
 
 ```
-                               |####
- openconfig/gribigo            |####
-                               |####
+                               |#########
+ openconfig/ygot               |#########
+                               |#########
+
+                               |#########
+ openconfig/gnoi               |#########
+                               |#########
 
                                |#
  oxidecomputer/p4              |#
                                |#
+
+                               |####
+ openconfig/gribigo            |####
+                               |####
+
+                               |##
+ openconfig/gribi              |##
+                               |##
 
                                |##############################################
  openconfig/featureprofiles    |##############################################
@@ -58,24 +70,12 @@ Since 2022-11-09 16:39:50 -0800 PST, I'm most active between 07:00-07:59 - with 
  openconfig/public             |##########
                                |##########
 
-                               |#########
- openconfig/gnoi               |#########
-                               |#########
-
                                |##########
  openconfig/reference          |##########
                                |##########
 
                                |#########
  openconfig/gnsi               |#########
-                               |#########
-
-                               |##
- openconfig/gribi              |##
-                               |##
-
-                               |#########
- openconfig/ygot               |#########
                                |#########
 
 
@@ -86,4 +86,4 @@ Since 2022-11-09 16:39:50 -0800 PST, I've been most active in openconfig/feature
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2022-11-28 04:01:20.019950638 -0800 PST
+Last Updated: 2022-11-28 04:22:04.723782637 -0800 PST
