@@ -42,25 +42,9 @@ Since 2022-11-09 17:06:35 -0800 PST, I'm most active between 07:00-07:59 - with 
 
 
 ```
-                               |####
- openconfig/gribigo            |####
-                               |####
-
-                               |##############################################
- openconfig/featureprofiles    |##############################################
-                               |##############################################
-
-                               |#
- oxidecomputer/p4              |#
-                               |#
-
                                |#####
  openconfig/gribi              |#####
                                |#####
-
-                               |#########
- openconfig/ygot               |#########
-                               |#########
 
                                |#######
  openconfig/public             |#######
@@ -74,6 +58,22 @@ Since 2022-11-09 17:06:35 -0800 PST, I'm most active between 07:00-07:59 - with 
  openconfig/reference          |##########
                                |##########
 
+                               |####
+ openconfig/gribigo            |####
+                               |####
+
+                               |#########
+ openconfig/ygot               |#########
+                               |#########
+
+                               |##############################################
+ openconfig/featureprofiles    |##############################################
+                               |##############################################
+
+                               |#
+ oxidecomputer/p4              |#
+                               |#
+
                                |#########
  openconfig/gnsi               |#########
                                |#########
@@ -86,4 +86,4 @@ Since 2022-11-09 17:06:35 -0800 PST, I've been most active in openconfig/feature
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2022-11-29 05:46:33.720162801 -0800 PST
+Last Updated: 2022-11-29 06:01:06.193013715 -0800 PST
