@@ -46,9 +46,25 @@ Since 2022-11-09 17:06:35 -0800 PST, I'm most active between 07:00-07:59 - with 
  openconfig/gribi              |#####
                                |#####
 
+                               |##############################################
+ openconfig/featureprofiles    |##############################################
+                               |##############################################
+
+                               |#########
+ openconfig/gnoi               |#########
+                               |#########
+
+                               |#########
+ openconfig/gnsi               |#########
+                               |#########
+
                                |####
  openconfig/gribigo            |####
                                |####
+
+                               |#########
+ openconfig/ygot               |#########
+                               |#########
 
                                |#######
  openconfig/public             |#######
@@ -62,22 +78,6 @@ Since 2022-11-09 17:06:35 -0800 PST, I'm most active between 07:00-07:59 - with 
  oxidecomputer/p4              |#
                                |#
 
-                               |#########
- openconfig/ygot               |#########
-                               |#########
-
-                               |##############################################
- openconfig/featureprofiles    |##############################################
-                               |##############################################
-
-                               |#########
- openconfig/gnoi               |#########
-                               |#########
-
-                               |#########
- openconfig/gnsi               |#########
-                               |#########
-
 
 
 Since 2022-11-09 17:06:35 -0800 PST, I've been most active in openconfig/featureprofiles, with 46 events.
@@ -86,4 +86,4 @@ Since 2022-11-09 17:06:35 -0800 PST, I've been most active in openconfig/feature
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2022-11-28 23:01:20.774822605 -0800 PST
+Last Updated: 2022-11-28 23:19:34.370837342 -0800 PST
