@@ -42,6 +42,18 @@ Since 2022-11-10 11:00:18 -0800 PST, I'm most active between 07:00-07:59 - with 
 
 
 ```
+                               |#########
+ openconfig/ygot               |#########
+                               |#########
+
+                               |##########
+ openconfig/reference          |##########
+                               |##########
+
+                               |#########
+ openconfig/gnsi               |#########
+                               |#########
+
                                |######
  openconfig/gribigo            |######
                                |######
@@ -58,29 +70,17 @@ Since 2022-11-10 11:00:18 -0800 PST, I'm most active between 07:00-07:59 - with 
  openconfig/gribi              |#####
                                |#####
 
-                               |#
- oxidecomputer/p4              |#
-                               |#
-
                                |############################################
  openconfig/featureprofiles    |############################################
                                |############################################
-
-                               |#########
- openconfig/ygot               |#########
-                               |#########
 
                                |####
  openconfig/gnoi               |####
                                |####
 
-                               |##########
- openconfig/reference          |##########
-                               |##########
-
-                               |#########
- openconfig/gnsi               |#########
-                               |#########
+                               |#
+ oxidecomputer/p4              |#
+                               |#
 
 
 
@@ -90,4 +90,4 @@ Since 2022-11-10 11:00:18 -0800 PST, I've been most active in openconfig/feature
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2022-11-30 08:51:01.029385191 -0800 PST
+Last Updated: 2022-11-30 09:01:38.087891813 -0800 PST
