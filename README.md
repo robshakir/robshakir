@@ -42,25 +42,13 @@ Since 2022-11-10 11:00:18 -0800 PST, I'm most active between 07:00-07:59 - with 
 
 
 ```
-                               |######
- openconfig/gribigo            |######
-                               |######
-
                                |############################################
  openconfig/featureprofiles    |############################################
                                |############################################
 
-                               |########
- openconfig/public             |########
-                               |########
-
-                               |#####
- openconfig/gribi              |#####
-                               |#####
-
-                               |#########
- openconfig/ygot               |#########
-                               |#########
+                               |####
+ openconfig/oc-pyang           |####
+                               |####
 
                                |####
  openconfig/gnoi               |####
@@ -74,13 +62,25 @@ Since 2022-11-10 11:00:18 -0800 PST, I'm most active between 07:00-07:59 - with 
  oxidecomputer/p4              |#
                                |#
 
+                               |######
+ openconfig/gribigo            |######
+                               |######
+
+                               |########
+ openconfig/public             |########
+                               |########
+
+                               |#####
+ openconfig/gribi              |#####
+                               |#####
+
+                               |#########
+ openconfig/ygot               |#########
+                               |#########
+
                                |#########
  openconfig/gnsi               |#########
                                |#########
-
-                               |####
- openconfig/oc-pyang           |####
-                               |####
 
 
 
@@ -90,4 +90,4 @@ Since 2022-11-10 11:00:18 -0800 PST, I've been most active in openconfig/feature
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2022-11-30 05:47:28.248383694 -0800 PST
+Last Updated: 2022-11-30 06:01:08.028881219 -0800 PST
