@@ -42,24 +42,28 @@ Since 2022-11-10 19:37:18 -0800 PST, I'm most active between 07:00-07:59 - with 
 
 
 ```
+                               |###############
+ openconfig/ygot               |###############
+                               |###############
+
                                |########
  openconfig/gribi              |########
                                |########
 
-                               |####
- openconfig/oc-pyang           |####
-                               |####
+                               |#########
+ openconfig/public             |#########
+                               |#########
+
+                               |#
+ openconfig/reference          |#
+                               |#
 
                                |#
  oxidecomputer/p4              |#
                                |#
 
-                               |###############
- openconfig/ygot               |###############
-                               |###############
-
                                |#########
- openconfig/public             |#########
+ openconfig/gnsi               |#########
                                |#########
 
                                |#######################################
@@ -71,16 +75,12 @@ Since 2022-11-10 19:37:18 -0800 PST, I'm most active between 07:00-07:59 - with 
                                |##########
 
                                |####
- openconfig/gnoi               |####
+ openconfig/oc-pyang           |####
                                |####
 
-                               |#
- openconfig/reference          |#
-                               |#
-
-                               |#########
- openconfig/gnsi               |#########
-                               |#########
+                               |####
+ openconfig/gnoi               |####
+                               |####
 
 
 
@@ -90,4 +90,4 @@ Since 2022-11-10 19:37:18 -0800 PST, I've been most active in openconfig/feature
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2022-12-03 15:19:41.644548329 -0800 PST
+Last Updated: 2022-12-03 15:31:12.12132804 -0800 PST
