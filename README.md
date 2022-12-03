@@ -46,26 +46,6 @@ Since 2022-11-10 19:37:18 -0800 PST, I'm most active between 07:00-07:59 - with 
  openconfig/ygot               |###############
                                |###############
 
-                               |########
- openconfig/gribi              |########
-                               |########
-
-                               |####
- openconfig/oc-pyang           |####
-                               |####
-
-                               |#########
- openconfig/gnsi               |#########
-                               |#########
-
-                               |#
- openconfig/reference          |#
-                               |#
-
-                               |#
- oxidecomputer/p4              |#
-                               |#
-
                                |#########
  openconfig/public             |#########
                                |#########
@@ -79,8 +59,28 @@ Since 2022-11-10 19:37:18 -0800 PST, I'm most active between 07:00-07:59 - with 
                                |##########
 
                                |####
+ openconfig/oc-pyang           |####
+                               |####
+
+                               |####
  openconfig/gnoi               |####
                                |####
+
+                               |########
+ openconfig/gribi              |########
+                               |########
+
+                               |#
+ openconfig/reference          |#
+                               |#
+
+                               |#
+ oxidecomputer/p4              |#
+                               |#
+
+                               |#########
+ openconfig/gnsi               |#########
+                               |#########
 
 
 
@@ -90,4 +90,4 @@ Since 2022-11-10 19:37:18 -0800 PST, I've been most active in openconfig/feature
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2022-12-02 23:18:23.507947367 -0800 PST
+Last Updated: 2022-12-02 23:31:19.406774523 -0800 PST
