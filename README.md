@@ -42,9 +42,25 @@ Since 2022-11-10 19:37:18 -0800 PST, I'm most active between 07:00-07:59 - with 
 
 
 ```
+                               |########
+ openconfig/gribi              |########
+                               |########
+
+                               |####
+ openconfig/oc-pyang           |####
+                               |####
+
+                               |####
+ openconfig/gnoi               |####
+                               |####
+
                                |#########
  openconfig/gnsi               |#########
                                |#########
+
+                               |###############
+ openconfig/ygot               |###############
+                               |###############
 
                                |#########
  openconfig/public             |#########
@@ -58,28 +74,12 @@ Since 2022-11-10 19:37:18 -0800 PST, I'm most active between 07:00-07:59 - with 
  openconfig/gribigo            |##########
                                |##########
 
-                               |####
- openconfig/oc-pyang           |####
-                               |####
+                               |#
+ openconfig/reference          |#
+                               |#
 
                                |#
  oxidecomputer/p4              |#
-                               |#
-
-                               |###############
- openconfig/ygot               |###############
-                               |###############
-
-                               |########
- openconfig/gribi              |########
-                               |########
-
-                               |####
- openconfig/gnoi               |####
-                               |####
-
-                               |#
- openconfig/reference          |#
                                |#
 
 
@@ -90,4 +90,4 @@ Since 2022-11-10 19:37:18 -0800 PST, I've been most active in openconfig/feature
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2022-12-04 19:32:06.46013684 -0800 PST
+Last Updated: 2022-12-04 19:45:53.718485526 -0800 PST
