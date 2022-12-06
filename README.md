@@ -42,29 +42,17 @@ Since 2022-11-10 19:37:18 -0800 PST, I'm most active between 07:00-07:59 - with 
 
 
 ```
-                               |###############
- openconfig/ygot               |###############
-                               |###############
-
-                               |########
- openconfig/gribi              |########
-                               |########
+                               |#
+ oxidecomputer/p4              |#
+                               |#
 
                                |#########
- openconfig/public             |#########
+ openconfig/gnsi               |#########
                                |#########
 
                                |#######################################
  openconfig/featureprofiles    |#######################################
                                |#######################################
-
-                               |#
- openconfig/reference          |#
-                               |#
-
-                               |#
- oxidecomputer/p4              |#
-                               |#
 
                                |##########
  openconfig/gribigo            |##########
@@ -78,8 +66,20 @@ Since 2022-11-10 19:37:18 -0800 PST, I'm most active between 07:00-07:59 - with 
  openconfig/gnoi               |####
                                |####
 
+                               |#
+ openconfig/reference          |#
+                               |#
+
+                               |###############
+ openconfig/ygot               |###############
+                               |###############
+
+                               |########
+ openconfig/gribi              |########
+                               |########
+
                                |#########
- openconfig/gnsi               |#########
+ openconfig/public             |#########
                                |#########
 
 
@@ -90,4 +90,4 @@ Since 2022-11-10 19:37:18 -0800 PST, I've been most active in openconfig/feature
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2022-12-06 11:01:12.49506965 -0800 PST
+Last Updated: 2022-12-06 11:18:13.23217834 -0800 PST
