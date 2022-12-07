@@ -42,6 +42,10 @@ Since 2022-11-10 19:37:18 -0800 PST, I'm most active between 07:00-07:59 - with 
 
 
 ```
+                               |#########
+ openconfig/public             |#########
+                               |#########
+
                                |##########
  openconfig/gribigo            |##########
                                |##########
@@ -50,25 +54,9 @@ Since 2022-11-10 19:37:18 -0800 PST, I'm most active between 07:00-07:59 - with 
  openconfig/oc-pyang           |####
                                |####
 
-                               |####
- openconfig/gnoi               |####
-                               |####
-
                                |#
  openconfig/reference          |#
                                |#
-
-                               |########
- openconfig/gribi              |########
-                               |########
-
-                               |#########
- openconfig/public             |#########
-                               |#########
-
-                               |#######################################
- openconfig/featureprofiles    |#######################################
-                               |#######################################
 
                                |#
  oxidecomputer/p4              |#
@@ -82,6 +70,18 @@ Since 2022-11-10 19:37:18 -0800 PST, I'm most active between 07:00-07:59 - with 
  openconfig/ygot               |###############
                                |###############
 
+                               |#######################################
+ openconfig/featureprofiles    |#######################################
+                               |#######################################
+
+                               |####
+ openconfig/gnoi               |####
+                               |####
+
+                               |########
+ openconfig/gribi              |########
+                               |########
+
 
 
 Since 2022-11-10 19:37:18 -0800 PST, I've been most active in openconfig/featureprofiles, with 39 events.
@@ -90,4 +90,4 @@ Since 2022-11-10 19:37:18 -0800 PST, I've been most active in openconfig/feature
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2022-12-07 05:33:57.443375837 -0800 PST
+Last Updated: 2022-12-07 05:45:50.299375875 -0800 PST
