@@ -42,9 +42,13 @@ Since 2022-11-10 19:37:18 -0800 PST, I'm most active between 07:00-07:59 - with 
 
 
 ```
-                               |#########
- openconfig/public             |#########
-                               |#########
+                               |###############
+ openconfig/ygot               |###############
+                               |###############
+
+                               |########
+ openconfig/gribi              |########
+                               |########
 
                                |##########
  openconfig/gribigo            |##########
@@ -54,6 +58,18 @@ Since 2022-11-10 19:37:18 -0800 PST, I'm most active between 07:00-07:59 - with 
  openconfig/oc-pyang           |####
                                |####
 
+                               |####
+ openconfig/gnoi               |####
+                               |####
+
+                               |#########
+ openconfig/public             |#########
+                               |#########
+
+                               |#######################################
+ openconfig/featureprofiles    |#######################################
+                               |#######################################
+
                                |#
  openconfig/reference          |#
                                |#
@@ -62,25 +78,9 @@ Since 2022-11-10 19:37:18 -0800 PST, I'm most active between 07:00-07:59 - with 
  oxidecomputer/p4              |#
                                |#
 
-                               |########
- openconfig/gribi              |########
-                               |########
-
-                               |#######################################
- openconfig/featureprofiles    |#######################################
-                               |#######################################
-
-                               |####
- openconfig/gnoi               |####
-                               |####
-
                                |#########
  openconfig/gnsi               |#########
                                |#########
-
-                               |###############
- openconfig/ygot               |###############
-                               |###############
 
 
 
@@ -90,4 +90,4 @@ Since 2022-11-10 19:37:18 -0800 PST, I've been most active in openconfig/feature
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2022-12-09 01:33:51.876845386 -0800 PST
+Last Updated: 2022-12-09 01:47:53.99092051 -0800 PST
