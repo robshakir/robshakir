@@ -42,22 +42,6 @@ Since 2022-11-16 07:17:01 -0800 PST, I'm most active between 07:00-07:59 - with 
 
 
 ```
-                               |#################################################
- openconfig/featureprofiles    |#################################################
-                               |#################################################
-
-                               |###############
- openconfig/ygot               |###############
-                               |###############
-
-                               |########
- openconfig/gribi              |########
-                               |########
-
-                               |####
- openconfig/oc-pyang           |####
-                               |####
-
                                |##########
  openconfig/public             |##########
                                |##########
@@ -66,17 +50,33 @@ Since 2022-11-16 07:17:01 -0800 PST, I'm most active between 07:00-07:59 - with 
  openconfig/gnsi               |#
                                |#
 
+                               |###############
+ openconfig/ygot               |###############
+                               |###############
+
                                |##########
  openconfig/gribigo            |##########
                                |##########
 
-                               |##
- openconfig/gnoi               |##
-                               |##
+                               |####
+ openconfig/oc-pyang           |####
+                               |####
 
                                |#
  openconfig/reference          |#
                                |#
+
+                               |#################################################
+ openconfig/featureprofiles    |#################################################
+                               |#################################################
+
+                               |########
+ openconfig/gribi              |########
+                               |########
+
+                               |##
+ openconfig/gnoi               |##
+                               |##
 
 
 
@@ -86,4 +86,4 @@ Since 2022-11-16 07:17:01 -0800 PST, I've been most active in openconfig/feature
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2022-12-10 05:20:44.893405235 -0800 PST
+Last Updated: 2022-12-10 05:32:03.131949132 -0800 PST
