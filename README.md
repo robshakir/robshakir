@@ -42,6 +42,18 @@ Since 2022-11-16 07:17:01 -0800 PST, I'm most active between 07:00-07:59 - with 
 
 
 ```
+                               |#
+ openconfig/gnsi               |#
+                               |#
+
+                               |########
+ openconfig/gribi              |########
+                               |########
+
+                               |#
+ openconfig/reference          |#
+                               |#
+
                                |#################################################
  openconfig/featureprofiles    |#################################################
                                |#################################################
@@ -49,10 +61,6 @@ Since 2022-11-16 07:17:01 -0800 PST, I'm most active between 07:00-07:59 - with 
                                |##########
  openconfig/public             |##########
                                |##########
-
-                               |#
- openconfig/gnsi               |#
-                               |#
 
                                |###############
  openconfig/ygot               |###############
@@ -62,10 +70,6 @@ Since 2022-11-16 07:17:01 -0800 PST, I'm most active between 07:00-07:59 - with 
  openconfig/gribigo            |##########
                                |##########
 
-                               |########
- openconfig/gribi              |########
-                               |########
-
                                |####
  openconfig/oc-pyang           |####
                                |####
@@ -73,10 +77,6 @@ Since 2022-11-16 07:17:01 -0800 PST, I'm most active between 07:00-07:59 - with 
                                |##
  openconfig/gnoi               |##
                                |##
-
-                               |#
- openconfig/reference          |#
-                               |#
 
 
 
@@ -86,4 +86,4 @@ Since 2022-11-16 07:17:01 -0800 PST, I've been most active in openconfig/feature
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2022-12-09 20:20:35.564230956 -0800 PST
+Last Updated: 2022-12-09 20:34:11.55548531 -0800 PST
