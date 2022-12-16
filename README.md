@@ -46,6 +46,18 @@ Since 2022-11-23 10:59:19 -0800 PST, I'm most active between 16:00-16:59 - with 
  openconfig/public             |#############
                                |#############
 
+                               |######
+ openconfig/oc-pyang           |######
+                               |######
+
+                               |#
+ openconfig/gnoi               |#
+                               |#
+
+                               |###########
+ openconfig/ygot               |###########
+                               |###########
+
                                |#######
  openconfig/gribi              |#######
                                |#######
@@ -53,14 +65,6 @@ Since 2022-11-23 10:59:19 -0800 PST, I'm most active between 16:00-16:59 - with 
                                |##########
  openconfig/gribigo            |##########
                                |##########
-
-                               |#
- openconfig/gnsi               |#
-                               |#
-
-                               |###########
- openconfig/ygot               |###########
-                               |###########
 
                                |########################################
  openconfig/featureprofiles    |########################################
@@ -70,12 +74,8 @@ Since 2022-11-23 10:59:19 -0800 PST, I'm most active between 16:00-16:59 - with 
  openconfig/reference          |###########
                                |###########
 
-                               |######
- openconfig/oc-pyang           |######
-                               |######
-
                                |#
- openconfig/gnoi               |#
+ openconfig/gnsi               |#
                                |#
 
 
@@ -86,4 +86,4 @@ Since 2022-11-23 10:59:19 -0800 PST, I've been most active in openconfig/feature
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2022-12-15 18:17:57.925806168 -0800 PST
+Last Updated: 2022-12-15 18:38:40.587794339 -0800 PST
