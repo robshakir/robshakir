@@ -42,25 +42,33 @@ Since 2022-11-23 12:24:14 -0800 PST, I'm most active between 16:00-16:59 - with 
 
 
 ```
-                               |##############
- openconfig/reference          |##############
-                               |##############
-
                                |########################################
  openconfig/featureprofiles    |########################################
                                |########################################
+
+                               |#
+ openconfig/gnsi               |#
+                               |#
+
+                               |##############
+ openconfig/reference          |##############
+                               |##############
 
                                |######
  openconfig/oc-pyang           |######
                                |######
 
                                |#
- openconfig/gnsi               |#
+ openconfig/gnoi               |#
                                |#
 
                                |##########
  openconfig/gribigo            |##########
                                |##########
+
+                               |#######
+ openconfig/gribi              |#######
+                               |#######
 
                                |#######
  openconfig/ygot               |#######
@@ -70,14 +78,6 @@ Since 2022-11-23 12:24:14 -0800 PST, I'm most active between 16:00-16:59 - with 
  openconfig/public             |##############
                                |##############
 
-                               |#######
- openconfig/gribi              |#######
-                               |#######
-
-                               |#
- openconfig/gnoi               |#
-                               |#
-
 
 
 Since 2022-11-23 12:24:14 -0800 PST, I've been most active in openconfig/featureprofiles, with 40 events.
@@ -86,4 +86,4 @@ Since 2022-11-23 12:24:14 -0800 PST, I've been most active in openconfig/feature
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2022-12-19 10:33:13.730681442 -0800 PST
+Last Updated: 2022-12-19 10:46:12.673299327 -0800 PST
