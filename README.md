@@ -42,16 +42,12 @@ Since 2022-12-01 17:13:42 -0800 PST, I'm most active between 16:00-16:59 - with 
 
 
 ```
-                               |#
- openconfig/magna              |#
-                               |#
-
-                               |##############
- openconfig/reference          |##############
-                               |##############
+                               |###############
+ openconfig/ygot               |###############
+                               |###############
 
                                |#
- openconfig/gnoi               |#
+ openconfig/gnsi               |#
                                |#
 
                                |###################
@@ -66,6 +62,10 @@ Since 2022-12-01 17:13:42 -0800 PST, I'm most active between 16:00-16:59 - with 
  openconfig/public             |##########
                                |##########
 
+                               |##############
+ openconfig/reference          |##############
+                               |##############
+
                                |####################################
  openconfig/featureprofiles    |####################################
                                |####################################
@@ -75,12 +75,12 @@ Since 2022-12-01 17:13:42 -0800 PST, I'm most active between 16:00-16:59 - with 
                                |##
 
                                |#
- openconfig/gnsi               |#
+ openconfig/gnoi               |#
                                |#
 
-                               |###############
- openconfig/ygot               |###############
-                               |###############
+                               |#
+ openconfig/magna              |#
+                               |#
 
 
 
@@ -90,4 +90,4 @@ Since 2022-12-01 17:13:42 -0800 PST, I've been most active in openconfig/feature
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2022-12-22 08:36:12.057567144 -0800 PST
+Last Updated: 2022-12-22 08:48:31.54060419 -0800 PST
