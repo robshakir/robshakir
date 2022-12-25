@@ -42,9 +42,17 @@ Since 2022-12-01 17:13:42 -0800 PST, I'm most active between 16:00-16:59 - with 
 
 
 ```
-                               |###################
- openconfig/gribigo            |###################
-                               |###################
+                               |##
+ openconfig/oc-pyang           |##
+                               |##
+
+                               |#
+ openconfig/gnoi               |#
+                               |#
+
+                               |#
+ openconfig/gnsi               |#
+                               |#
 
                                |#
  openconfig/magna              |#
@@ -54,13 +62,17 @@ Since 2022-12-01 17:13:42 -0800 PST, I'm most active between 16:00-16:59 - with 
  openconfig/gribi              |#
                                |#
 
-                               |##
- openconfig/oc-pyang           |##
-                               |##
+                               |####################################
+ openconfig/featureprofiles    |####################################
+                               |####################################
 
-                               |#
- openconfig/gnoi               |#
-                               |#
+                               |##############
+ openconfig/reference          |##############
+                               |##############
+
+                               |###################
+ openconfig/gribigo            |###################
+                               |###################
 
                                |###############
  openconfig/ygot               |###############
@@ -70,18 +82,6 @@ Since 2022-12-01 17:13:42 -0800 PST, I'm most active between 16:00-16:59 - with 
  openconfig/public             |##########
                                |##########
 
-                               |##############
- openconfig/reference          |##############
-                               |##############
-
-                               |####################################
- openconfig/featureprofiles    |####################################
-                               |####################################
-
-                               |#
- openconfig/gnsi               |#
-                               |#
-
 
 
 Since 2022-12-01 17:13:42 -0800 PST, I've been most active in openconfig/featureprofiles, with 36 events.
@@ -90,4 +90,4 @@ Since 2022-12-01 17:13:42 -0800 PST, I've been most active in openconfig/feature
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2022-12-25 08:01:18.575456056 -0800 PST
+Last Updated: 2022-12-25 08:20:52.646920077 -0800 PST
