@@ -46,6 +46,10 @@ Since 2022-12-01 17:16:36 -0800 PST, I'm most active between 16:00-16:59 - with 
  openconfig/gnsi               |#
                                |#
 
+                               |#####################################
+ openconfig/featureprofiles    |#####################################
+                               |#####################################
+
                                |###################
  openconfig/gribigo            |###################
                                |###################
@@ -58,29 +62,25 @@ Since 2022-12-01 17:16:36 -0800 PST, I'm most active between 16:00-16:59 - with 
  openconfig/magna              |#
                                |#
 
-                               |##########
- openconfig/public             |##########
-                               |##########
-
                                |##
  openconfig/oc-pyang           |##
                                |##
 
-                               |#####################################
- openconfig/featureprofiles    |#####################################
-                               |#####################################
+                               |#
+ openconfig/gnoi               |#
+                               |#
 
                                |#
  openconfig/gribi              |#
                                |#
 
+                               |##########
+ openconfig/public             |##########
+                               |##########
+
                                |##############
  openconfig/reference          |##############
                                |##############
-
-                               |#
- openconfig/gnoi               |#
-                               |#
 
 
 
@@ -90,4 +90,4 @@ Since 2022-12-01 17:16:36 -0800 PST, I've been most active in openconfig/feature
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2023-01-05 19:46:03.834521203 -0800 PST
+Last Updated: 2023-01-05 20:01:17.855742023 -0800 PST
