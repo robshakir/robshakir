@@ -42,41 +42,41 @@ Since 2022-12-09 08:12:35 -0800 PST, I'm most active between 16:00-16:59 - with 
 
 
 ```
-                               |##
- openconfig/oc-pyang           |##
-                               |##
-
-                               |#
- openconfig/gnoi               |#
-                               |#
-
-                               |###################
- openconfig/gribigo            |###################
-                               |###################
-
                                |#
  openconfig/magna              |#
                                |#
 
-                               |##########
- openconfig/public             |##########
-                               |##########
+                               |#
+ openconfig/gribi              |#
+                               |#
 
                                |##############
  openconfig/reference          |##############
                                |##############
 
+                               |#
+ openconfig/gnoi               |#
+                               |#
+
                                |######################################
  openconfig/featureprofiles    |######################################
                                |######################################
+
+                               |###################
+ openconfig/gribigo            |###################
+                               |###################
 
                                |#############
  openconfig/ygot               |#############
                                |#############
 
-                               |#
- openconfig/gribi              |#
-                               |#
+                               |##########
+ openconfig/public             |##########
+                               |##########
+
+                               |##
+ openconfig/oc-pyang           |##
+                               |##
 
                                |#
  openconfig/gnsi               |#
@@ -90,4 +90,4 @@ Since 2022-12-09 08:12:35 -0800 PST, I've been most active in openconfig/feature
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2023-01-06 13:45:50.032305633 -0800 PST
+Last Updated: 2023-01-06 14:01:11.252243609 -0800 PST
