@@ -43,12 +43,8 @@ Since 2022-12-10 10:04:04 -0800 PST, I'm most active between 13:00-13:59 - with 
 
 ```
                                |#
- arduino/setup-protoc          |#
+ openconfig/magna              |#
                                |#
-
-                               |###################
- openconfig/gribigo            |###################
-                               |###################
 
                                |######
  openconfig/public             |######
@@ -57,14 +53,6 @@ Since 2022-12-10 10:04:04 -0800 PST, I'm most active between 13:00-13:59 - with 
                                |##
  openconfig/oc-pyang           |##
                                |##
-
-                               |#
- openconfig/gnoi               |#
-                               |#
-
-                               |#################################
- openconfig/ygot               |#################################
-                               |#################################
 
                                |######
  openconfig/gribi              |######
@@ -78,13 +66,25 @@ Since 2022-12-10 10:04:04 -0800 PST, I'm most active between 13:00-13:59 - with 
  openconfig/featureprofiles    |###########
                                |###########
 
+                               |###################
+ openconfig/gribigo            |###################
+                               |###################
+
+                               |#################################
+ openconfig/ygot               |#################################
+                               |#################################
+
                                |#
- openconfig/magna              |#
+ arduino/setup-protoc          |#
                                |#
 
                                |##############
  openconfig/reference          |##############
                                |##############
+
+                               |#
+ openconfig/gnoi               |#
+                               |#
 
 
 
@@ -94,4 +94,4 @@ Since 2022-12-10 10:04:04 -0800 PST, I've been most active in openconfig/ygot, w
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2023-01-09 14:19:47.492622897 -0800 PST
+Last Updated: 2023-01-09 14:31:15.319508421 -0800 PST
