@@ -46,6 +46,14 @@ Since 2022-12-09 08:12:35 -0800 PST, I'm most active between 16:00-16:59 - with 
  openconfig/featureprofiles    |######################################
                                |######################################
 
+                               |###################
+ openconfig/gribigo            |###################
+                               |###################
+
+                               |#############
+ openconfig/ygot               |#############
+                               |#############
+
                                |#
  openconfig/magna              |#
                                |#
@@ -58,28 +66,20 @@ Since 2022-12-09 08:12:35 -0800 PST, I'm most active between 16:00-16:59 - with 
  openconfig/public             |##########
                                |##########
 
+                               |#
+ openconfig/gnsi               |#
+                               |#
+
                                |##############
  openconfig/reference          |##############
                                |##############
-
-                               |#
- openconfig/gnoi               |#
-                               |#
-
-                               |###################
- openconfig/gribigo            |###################
-                               |###################
-
-                               |#############
- openconfig/ygot               |#############
-                               |#############
 
                                |##
  openconfig/oc-pyang           |##
                                |##
 
                                |#
- openconfig/gnsi               |#
+ openconfig/gnoi               |#
                                |#
 
 
@@ -90,4 +90,4 @@ Since 2022-12-09 08:12:35 -0800 PST, I've been most active in openconfig/feature
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2023-01-08 19:01:29.146182458 -0800 PST
+Last Updated: 2023-01-08 19:19:59.967475706 -0800 PST
