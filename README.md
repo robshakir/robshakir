@@ -42,6 +42,10 @@ Since 2022-12-20 13:04:00 -0800 PST, I'm most active between 13:00-13:59 - with 
 
 
 ```
+                               |##
+ openconfig/featureprofiles    |##
+                               |##
+
                                |##############
  openconfig/gribigo            |##############
                                |##############
@@ -62,10 +66,6 @@ Since 2022-12-20 13:04:00 -0800 PST, I'm most active between 13:00-13:59 - with 
  arduino/setup-protoc          |#
                                |#
 
-                               |##
- openconfig/featureprofiles    |##
-                               |##
-
 
 
 Since 2022-12-20 13:04:00 -0800 PST, I've been most active in openconfig/ygot, with 72 events.
@@ -74,4 +74,4 @@ Since 2022-12-20 13:04:00 -0800 PST, I've been most active in openconfig/ygot, w
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2023-01-10 07:21:22.673849422 -0800 PST
+Last Updated: 2023-01-10 07:35:20.865475436 -0800 PST
