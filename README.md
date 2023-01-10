@@ -42,24 +42,8 @@ Since 2022-12-15 16:29:35 -0800 PST, I'm most active between 13:00-13:59 - with 
 
 
 ```
-                               |####################################################
- openconfig/ygot               |####################################################
-                               |####################################################
-
-                               |######
- robshakir/setup-protoc        |######
-                               |######
-
-                               |###################
- openconfig/gribigo            |###################
-                               |###################
-
                                |######
  openconfig/public             |######
-                               |######
-
-                               |######
- openconfig/gribi              |######
                                |######
 
                                |#
@@ -70,9 +54,25 @@ Since 2022-12-15 16:29:35 -0800 PST, I'm most active between 13:00-13:59 - with 
  openconfig/featureprofiles    |#####
                                |#####
 
+                               |###################
+ openconfig/gribigo            |###################
+                               |###################
+
                                |#
  openconfig/magna              |#
                                |#
+
+                               |####################################################
+ openconfig/ygot               |####################################################
+                               |####################################################
+
+                               |######
+ openconfig/gribi              |######
+                               |######
+
+                               |######
+ robshakir/setup-protoc        |######
+                               |######
 
                                |####
  openconfig/reference          |####
@@ -86,4 +86,4 @@ Since 2022-12-15 16:29:35 -0800 PST, I've been most active in openconfig/ygot, w
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2023-01-09 15:45:55.46517987 -0800 PST
+Last Updated: 2023-01-09 16:02:55.110499364 -0800 PST
