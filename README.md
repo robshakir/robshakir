@@ -42,22 +42,6 @@ Since 2023-01-09 18:06:52 -0800 PST, I'm most active between 09:00-09:59 - with 
 
 
 ```
-                               |##########
- openconfig/public             |##########
-                               |##########
-
-                               |##################
- openconfig/replayer           |##################
-                               |##################
-
-                               |##############################
- openconfig/gribigo            |##############################
-                               |##############################
-
-                               |#################
- openconfig/ygot               |#################
-                               |#################
-
                                |################
  openconfig/gribi              |################
                                |################
@@ -74,6 +58,22 @@ Since 2023-01-09 18:06:52 -0800 PST, I'm most active between 09:00-09:59 - with 
  openconfig/featureprofiles    |######
                                |######
 
+                               |##########
+ openconfig/public             |##########
+                               |##########
+
+                               |##################
+ openconfig/replayer           |##################
+                               |##################
+
+                               |##############################
+ openconfig/gribigo            |##############################
+                               |##############################
+
+                               |#################
+ openconfig/ygot               |#################
+                               |#################
+
 
 
 Since 2023-01-09 18:06:52 -0800 PST, I've been most active in openconfig/gribigo, with 30 events.
@@ -82,4 +82,4 @@ Since 2023-01-09 18:06:52 -0800 PST, I've been most active in openconfig/gribigo
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2023-01-13 09:01:03.73303496 -0800 PST
+Last Updated: 2023-01-13 09:19:16.143051169 -0800 PST
