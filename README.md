@@ -42,25 +42,13 @@ Since 2023-01-09 18:18:09 -0800 PST, I'm most active between 09:00-09:59 - with 
 
 
 ```
-                               |##########
- openconfig/public             |##########
-                               |##########
-
-                               |#############
- openconfig/ygot               |#############
-                               |#############
+                               |##################
+ openconfig/replayer           |##################
+                               |##################
 
                                |################
  openconfig/gribi              |################
                                |################
-
-                               |####
- openconfig/gnoi               |####
-                               |####
-
-                               |######
- openconfig/featureprofiles    |######
-                               |######
 
                                |#
  robshakir/protobuf            |#
@@ -70,9 +58,21 @@ Since 2023-01-09 18:18:09 -0800 PST, I'm most active between 09:00-09:59 - with 
  protocolbuffers/protobuf      |##
                                |##
 
-                               |##################
- openconfig/replayer           |##################
-                               |##################
+                               |######
+ openconfig/featureprofiles    |######
+                               |######
+
+                               |##########
+ openconfig/public             |##########
+                               |##########
+
+                               |#############
+ openconfig/ygot               |#############
+                               |#############
+
+                               |####
+ openconfig/gnoi               |####
+                               |####
 
                                |##############################
  openconfig/gribigo            |##############################
@@ -86,4 +86,4 @@ Since 2023-01-09 18:18:09 -0800 PST, I've been most active in openconfig/gribigo
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2023-01-13 23:45:51.310829441 -0800 PST
+Last Updated: 2023-01-14 00:01:10.83031781 -0800 PST
