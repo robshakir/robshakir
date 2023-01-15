@@ -42,6 +42,10 @@ Since 2023-01-09 18:18:09 -0800 PST, I'm most active between 09:00-09:59 - with 
 
 
 ```
+                               |####
+ openconfig/gnoi               |####
+                               |####
+
                                |##########
  openconfig/public             |##########
                                |##########
@@ -54,22 +58,6 @@ Since 2023-01-09 18:18:09 -0800 PST, I'm most active between 09:00-09:59 - with 
  openconfig/gribigo            |##############################
                                |##############################
 
-                               |#############
- openconfig/ygot               |#############
-                               |#############
-
-                               |##
- protocolbuffers/protobuf      |##
-                               |##
-
-                               |####
- openconfig/gnoi               |####
-                               |####
-
-                               |######
- openconfig/featureprofiles    |######
-                               |######
-
                                |################
  openconfig/gribi              |################
                                |################
@@ -77,6 +65,18 @@ Since 2023-01-09 18:18:09 -0800 PST, I'm most active between 09:00-09:59 - with 
                                |#
  robshakir/protobuf            |#
                                |#
+
+                               |##
+ protocolbuffers/protobuf      |##
+                               |##
+
+                               |######
+ openconfig/featureprofiles    |######
+                               |######
+
+                               |#############
+ openconfig/ygot               |#############
+                               |#############
 
 
 
@@ -86,4 +86,4 @@ Since 2023-01-09 18:18:09 -0800 PST, I've been most active in openconfig/gribigo
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2023-01-15 12:45:53.202318281 -0800 PST
+Last Updated: 2023-01-15 13:01:12.840520555 -0800 PST
