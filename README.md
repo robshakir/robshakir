@@ -42,13 +42,25 @@ Since 2023-01-09 18:18:09 -0800 PST, I'm most active between 09:00-09:59 - with 
 
 
 ```
-                               |####
- openconfig/gnoi               |####
-                               |####
-
                                |######
  openconfig/featureprofiles    |######
                                |######
+
+                               |##############################
+ openconfig/gribigo            |##############################
+                               |##############################
+
+                               |################
+ openconfig/gribi              |################
+                               |################
+
+                               |##
+ protocolbuffers/protobuf      |##
+                               |##
+
+                               |####
+ openconfig/gnoi               |####
+                               |####
 
                                |##########
  openconfig/public             |##########
@@ -62,21 +74,9 @@ Since 2023-01-09 18:18:09 -0800 PST, I'm most active between 09:00-09:59 - with 
  openconfig/ygot               |#############
                                |#############
 
-                               |################
- openconfig/gribi              |################
-                               |################
-
-                               |##############################
- openconfig/gribigo            |##############################
-                               |##############################
-
                                |#
  robshakir/protobuf            |#
                                |#
-
-                               |##
- protocolbuffers/protobuf      |##
-                               |##
 
 
 
@@ -86,4 +86,4 @@ Since 2023-01-09 18:18:09 -0800 PST, I've been most active in openconfig/gribigo
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2023-01-16 11:31:00.355631076 -0800 PST
+Last Updated: 2023-01-16 11:45:51.67114915 -0800 PST
