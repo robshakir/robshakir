@@ -42,13 +42,25 @@ Since 2023-01-09 18:18:09 -0800 PST, I'm most active between 09:00-09:59 - with 
 
 
 ```
+                               |##################
+ openconfig/replayer           |##################
+                               |##################
+
+                               |#############
+ openconfig/ygot               |#############
+                               |#############
+
                                |####
  openconfig/gnoi               |####
                                |####
 
-                               |##################
- openconfig/replayer           |##################
-                               |##################
+                               |##########
+ openconfig/public             |##########
+                               |##########
+
+                               |################
+ openconfig/gribi              |################
+                               |################
 
                                |#
  robshakir/protobuf            |#
@@ -62,21 +74,9 @@ Since 2023-01-09 18:18:09 -0800 PST, I'm most active between 09:00-09:59 - with 
  openconfig/featureprofiles    |######
                                |######
 
-                               |##########
- openconfig/public             |##########
-                               |##########
-
                                |##############################
  openconfig/gribigo            |##############################
                                |##############################
-
-                               |#############
- openconfig/ygot               |#############
-                               |#############
-
-                               |################
- openconfig/gribi              |################
-                               |################
 
 
 
@@ -86,4 +86,4 @@ Since 2023-01-09 18:18:09 -0800 PST, I've been most active in openconfig/gribigo
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2023-01-15 21:30:54.259784119 -0800 PST
+Last Updated: 2023-01-15 21:45:55.836615772 -0800 PST
