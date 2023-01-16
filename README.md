@@ -42,30 +42,6 @@ Since 2023-01-09 18:18:09 -0800 PST, I'm most active between 09:00-09:59 - with 
 
 
 ```
-                               |####
- openconfig/gnoi               |####
-                               |####
-
-                               |#############
- openconfig/ygot               |#############
-                               |#############
-
-                               |################
- openconfig/gribi              |################
-                               |################
-
-                               |#
- robshakir/protobuf            |#
-                               |#
-
-                               |##
- protocolbuffers/protobuf      |##
-                               |##
-
-                               |######
- openconfig/featureprofiles    |######
-                               |######
-
                                |##########
  openconfig/public             |##########
                                |##########
@@ -74,9 +50,33 @@ Since 2023-01-09 18:18:09 -0800 PST, I'm most active between 09:00-09:59 - with 
  openconfig/replayer           |##################
                                |##################
 
+                               |################
+ openconfig/gribi              |################
+                               |################
+
+                               |##
+ protocolbuffers/protobuf      |##
+                               |##
+
+                               |####
+ openconfig/gnoi               |####
+                               |####
+
+                               |######
+ openconfig/featureprofiles    |######
+                               |######
+
+                               |#
+ robshakir/protobuf            |#
+                               |#
+
                                |##############################
  openconfig/gribigo            |##############################
                                |##############################
+
+                               |#############
+ openconfig/ygot               |#############
+                               |#############
 
 
 
@@ -86,4 +86,4 @@ Since 2023-01-09 18:18:09 -0800 PST, I've been most active in openconfig/gribigo
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2023-01-16 08:01:26.078999553 -0800 PST
+Last Updated: 2023-01-16 08:20:56.323749479 -0800 PST
