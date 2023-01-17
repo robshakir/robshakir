@@ -42,6 +42,10 @@ Since 2023-01-09 18:18:09 -0800 PST, I'm most active between 09:00-09:59 - with 
 
 
 ```
+                               |######
+ openconfig/featureprofiles    |######
+                               |######
+
                                |##########
  openconfig/public             |##########
                                |##########
@@ -54,22 +58,6 @@ Since 2023-01-09 18:18:09 -0800 PST, I'm most active between 09:00-09:59 - with 
  openconfig/ygot               |#############
                                |#############
 
-                               |####
- openconfig/gnoi               |####
-                               |####
-
-                               |######
- openconfig/featureprofiles    |######
-                               |######
-
-                               |##############################
- openconfig/gribigo            |##############################
-                               |##############################
-
-                               |################
- openconfig/gribi              |################
-                               |################
-
                                |#
  robshakir/protobuf            |#
                                |#
@@ -77,6 +65,18 @@ Since 2023-01-09 18:18:09 -0800 PST, I'm most active between 09:00-09:59 - with 
                                |##
  protocolbuffers/protobuf      |##
                                |##
+
+                               |####
+ openconfig/gnoi               |####
+                               |####
+
+                               |################
+ openconfig/gribi              |################
+                               |################
+
+                               |##############################
+ openconfig/gribigo            |##############################
+                               |##############################
 
 
 
@@ -86,4 +86,4 @@ Since 2023-01-09 18:18:09 -0800 PST, I've been most active in openconfig/gribigo
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2023-01-17 11:01:24.853134344 -0800 PST
+Last Updated: 2023-01-17 11:17:40.013220376 -0800 PST
