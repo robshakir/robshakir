@@ -42,6 +42,14 @@ Since 2023-01-09 18:18:09 -0800 PST, I'm most active between 09:00-09:59 - with 
 
 
 ```
+                               |#############
+ openconfig/ygot               |#############
+                               |#############
+
+                               |####
+ openconfig/gnoi               |####
+                               |####
+
                                |######
  openconfig/featureprofiles    |######
                                |######
@@ -49,22 +57,6 @@ Since 2023-01-09 18:18:09 -0800 PST, I'm most active between 09:00-09:59 - with 
                                |##########
  openconfig/public             |##########
                                |##########
-
-                               |#############
- openconfig/ygot               |#############
-                               |#############
-
-                               |################
- openconfig/gribi              |################
-                               |################
-
-                               |##
- protocolbuffers/protobuf      |##
-                               |##
-
-                               |####
- openconfig/gnoi               |####
-                               |####
 
                                |##################
  openconfig/replayer           |##################
@@ -74,9 +66,17 @@ Since 2023-01-09 18:18:09 -0800 PST, I'm most active between 09:00-09:59 - with 
  openconfig/gribigo            |##############################
                                |##############################
 
+                               |################
+ openconfig/gribi              |################
+                               |################
+
                                |#
  robshakir/protobuf            |#
                                |#
+
+                               |##
+ protocolbuffers/protobuf      |##
+                               |##
 
 
 
@@ -86,4 +86,4 @@ Since 2023-01-09 18:18:09 -0800 PST, I've been most active in openconfig/gribigo
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2023-01-17 04:22:21.381252402 -0800 PST
+Last Updated: 2023-01-17 04:41:42.147452263 -0800 PST
