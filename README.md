@@ -42,18 +42,6 @@ Since 2023-01-09 18:18:09 -0800 PST, I'm most active between 09:00-09:59 - with 
 
 
 ```
-                               |##
- protocolbuffers/protobuf      |##
-                               |##
-
-                               |####
- openconfig/gnoi               |####
-                               |####
-
-                               |##########
- openconfig/public             |##########
-                               |##########
-
                                |##############################
  openconfig/gribigo            |##############################
                                |##############################
@@ -62,9 +50,17 @@ Since 2023-01-09 18:18:09 -0800 PST, I'm most active between 09:00-09:59 - with 
  openconfig/gribi              |################
                                |################
 
-                               |######
- openconfig/featureprofiles    |######
-                               |######
+                               |#
+ robshakir/protobuf            |#
+                               |#
+
+                               |##
+ protocolbuffers/protobuf      |##
+                               |##
+
+                               |####
+ openconfig/gnoi               |####
+                               |####
 
                                |##################
  openconfig/replayer           |##################
@@ -74,9 +70,13 @@ Since 2023-01-09 18:18:09 -0800 PST, I'm most active between 09:00-09:59 - with 
  openconfig/ygot               |#############
                                |#############
 
-                               |#
- robshakir/protobuf            |#
-                               |#
+                               |######
+ openconfig/featureprofiles    |######
+                               |######
+
+                               |##########
+ openconfig/public             |##########
+                               |##########
 
 
 
@@ -86,4 +86,4 @@ Since 2023-01-09 18:18:09 -0800 PST, I've been most active in openconfig/gribigo
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2023-01-17 10:01:19.336889884 -0800 PST
+Last Updated: 2023-01-17 10:20:30.812068802 -0800 PST
