@@ -42,13 +42,17 @@ Since 2023-01-10 07:49:24 -0800 PST, I'm most active between 09:00-09:59 - with 
 
 
 ```
-                               |##############
- openconfig/ygot               |##############
-                               |##############
+                               |#############
+ openconfig/public             |#############
+                               |#############
 
                                |####
  openconfig/gnoi               |####
                                |####
+
+                               |##########################
+ openconfig/gribigo            |##########################
+                               |##########################
 
                                |################
  openconfig/gribi              |################
@@ -62,9 +66,9 @@ Since 2023-01-10 07:49:24 -0800 PST, I'm most active between 09:00-09:59 - with 
  protocolbuffers/protobuf      |##
                                |##
 
-                               |#############
- openconfig/public             |#############
-                               |#############
+                               |##############
+ openconfig/ygot               |##############
+                               |##############
 
                                |######
  openconfig/featureprofiles    |######
@@ -74,10 +78,6 @@ Since 2023-01-10 07:49:24 -0800 PST, I'm most active between 09:00-09:59 - with 
  openconfig/replayer           |##################
                                |##################
 
-                               |##########################
- openconfig/gribigo            |##########################
-                               |##########################
-
 
 
 Since 2023-01-10 07:49:24 -0800 PST, I've been most active in openconfig/gribigo, with 26 events.
@@ -86,4 +86,4 @@ Since 2023-01-10 07:49:24 -0800 PST, I've been most active in openconfig/gribigo
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2023-01-22 10:31:54.687716023 -0800 PST
+Last Updated: 2023-01-22 10:45:58.6343963 -0800 PST
