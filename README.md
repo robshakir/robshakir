@@ -42,18 +42,6 @@ Since 2023-01-10 07:49:24 -0800 PST, I'm most active between 09:00-09:59 - with 
 
 
 ```
-                               |#############
- openconfig/public             |#############
-                               |#############
-
-                               |##############
- openconfig/ygot               |##############
-                               |##############
-
-                               |##################
- openconfig/replayer           |##################
-                               |##################
-
                                |##########################
  openconfig/gribigo            |##########################
                                |##########################
@@ -66,13 +54,25 @@ Since 2023-01-10 07:49:24 -0800 PST, I'm most active between 09:00-09:59 - with 
  robshakir/protobuf            |#
                                |#
 
-                               |####
- openconfig/gnoi               |####
-                               |####
+                               |#############
+ openconfig/public             |#############
+                               |#############
+
+                               |##############
+ openconfig/ygot               |##############
+                               |##############
 
                                |######
  openconfig/featureprofiles    |######
                                |######
+
+                               |####
+ openconfig/gnoi               |####
+                               |####
+
+                               |##################
+ openconfig/replayer           |##################
+                               |##################
 
                                |##
  protocolbuffers/protobuf      |##
@@ -86,4 +86,4 @@ Since 2023-01-10 07:49:24 -0800 PST, I've been most active in openconfig/gribigo
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2023-01-22 08:01:23.863915605 -0800 PST
+Last Updated: 2023-01-22 08:20:33.618119386 -0800 PST
