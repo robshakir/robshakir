@@ -42,17 +42,13 @@ Since 2023-01-10 07:49:24 -0800 PST, I'm most active between 09:00-09:59 - with 
 
 
 ```
-                               |##############
- openconfig/ygot               |##############
-                               |##############
-
-                               |####
- openconfig/gnoi               |####
-                               |####
-
                                |##################
  openconfig/replayer           |##################
                                |##################
+
+                               |##########################
+ openconfig/gribigo            |##########################
+                               |##########################
 
                                |#
  robshakir/protobuf            |#
@@ -62,9 +58,13 @@ Since 2023-01-10 07:49:24 -0800 PST, I'm most active between 09:00-09:59 - with 
  openconfig/public             |#############
                                |#############
 
-                               |##########################
- openconfig/gribigo            |##########################
-                               |##########################
+                               |####
+ openconfig/gnoi               |####
+                               |####
+
+                               |######
+ openconfig/featureprofiles    |######
+                               |######
 
                                |################
  openconfig/gribi              |################
@@ -74,9 +74,9 @@ Since 2023-01-10 07:49:24 -0800 PST, I'm most active between 09:00-09:59 - with 
  protocolbuffers/protobuf      |##
                                |##
 
-                               |######
- openconfig/featureprofiles    |######
-                               |######
+                               |##############
+ openconfig/ygot               |##############
+                               |##############
 
 
 
@@ -86,4 +86,4 @@ Since 2023-01-10 07:49:24 -0800 PST, I've been most active in openconfig/gribigo
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2023-01-22 23:19:15.090913143 -0800 PST
+Last Updated: 2023-01-22 23:31:00.033726481 -0800 PST
