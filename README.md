@@ -42,10 +42,6 @@ Since 2023-01-26 20:33:45 -0800 PST, I'm most active between 16:00-16:59 - with 
 
 
 ```
-                               |###
- openconfig/gribigo            |###
-                               |###
-
                                |######
  openconfig/ygot               |######
                                |######
@@ -62,6 +58,10 @@ Since 2023-01-26 20:33:45 -0800 PST, I'm most active between 16:00-16:59 - with 
  openconfig/public             |###################################################################################
                                |###################################################################################
 
+                               |###
+ openconfig/gribigo            |###
+                               |###
+
 
 
 Since 2023-01-26 20:33:45 -0800 PST, I've been most active in openconfig/public, with 83 events.
@@ -70,4 +70,4 @@ Since 2023-01-26 20:33:45 -0800 PST, I've been most active in openconfig/public,
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2023-02-07 02:20:08.798470157 -0800 PST
+Last Updated: 2023-02-07 02:32:35.928459321 -0800 PST
