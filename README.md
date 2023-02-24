@@ -42,25 +42,13 @@ Since 2023-02-07 15:09:15 -0800 PST, I'm most active between 16:00-16:59 - with 
 
 
 ```
-                               |#######
- openconfig/gnmi               |#######
-                               |#######
-
-                               |##########################################
- openconfig/public             |##########################################
-                               |##########################################
-
-                               |#
- openconfig/gnpsi              |#
-                               |#
+                               |###############
+ openconfig/featureprofiles    |###############
+                               |###############
 
                                |###########
  openconfig/gribigo            |###########
                                |###########
-
-                               |#############
- openconfig/ygot               |#############
-                               |#############
 
                                |##
  openconfig/reference          |##
@@ -70,9 +58,21 @@ Since 2023-02-07 15:09:15 -0800 PST, I'm most active between 16:00-16:59 - with 
  openconfig/replayer           |#######
                                |#######
 
-                               |###############
- openconfig/featureprofiles    |###############
-                               |###############
+                               |#######
+ openconfig/gnmi               |#######
+                               |#######
+
+                               |#############
+ openconfig/ygot               |#############
+                               |#############
+
+                               |##########################################
+ openconfig/public             |##########################################
+                               |##########################################
+
+                               |#
+ openconfig/gnpsi              |#
+                               |#
 
                                |##
  earies/openconfig-public      |##
@@ -86,4 +86,4 @@ Since 2023-02-07 15:09:15 -0800 PST, I've been most active in openconfig/public,
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2023-02-24 01:45:50.607171918 -0800 PST
+Last Updated: 2023-02-24 02:01:21.844315398 -0800 PST
