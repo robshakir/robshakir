@@ -42,10 +42,6 @@ Since 2023-02-07 15:09:15 -0800 PST, I'm most active between 16:00-16:59 - with 
 
 
 ```
-                               |#######
- openconfig/gnmi               |#######
-                               |#######
-
                                |##########################################
  openconfig/public             |##########################################
                                |##########################################
@@ -54,17 +50,17 @@ Since 2023-02-07 15:09:15 -0800 PST, I'm most active between 16:00-16:59 - with 
  openconfig/featureprofiles    |###############
                                |###############
 
-                               |##
- openconfig/reference          |##
-                               |##
+                               |#############
+ openconfig/ygot               |#############
+                               |#############
 
                                |#######
  openconfig/replayer           |#######
                                |#######
 
-                               |#
- openconfig/gnpsi              |#
-                               |#
+                               |#######
+ openconfig/gnmi               |#######
+                               |#######
 
                                |###########
  openconfig/gribigo            |###########
@@ -74,9 +70,13 @@ Since 2023-02-07 15:09:15 -0800 PST, I'm most active between 16:00-16:59 - with 
  earies/openconfig-public      |##
                                |##
 
-                               |#############
- openconfig/ygot               |#############
-                               |#############
+                               |##
+ openconfig/reference          |##
+                               |##
+
+                               |#
+ openconfig/gnpsi              |#
+                               |#
 
 
 
@@ -86,4 +86,4 @@ Since 2023-02-07 15:09:15 -0800 PST, I've been most active in openconfig/public,
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2023-02-24 02:45:47.284264488 -0800 PST
+Last Updated: 2023-02-24 03:01:19.157115724 -0800 PST
