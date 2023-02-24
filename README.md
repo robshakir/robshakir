@@ -42,14 +42,6 @@ Since 2023-02-07 15:09:15 -0800 PST, I'm most active between 16:00-16:59 - with 
 
 
 ```
-                               |###############
- openconfig/featureprofiles    |###############
-                               |###############
-
-                               |#
- openconfig/gnpsi              |#
-                               |#
-
                                |###########
  openconfig/gribigo            |###########
                                |###########
@@ -57,6 +49,10 @@ Since 2023-02-07 15:09:15 -0800 PST, I'm most active between 16:00-16:59 - with 
                                |##
  earies/openconfig-public      |##
                                |##
+
+                               |#############
+ openconfig/ygot               |#############
+                               |#############
 
                                |##
  openconfig/reference          |##
@@ -66,6 +62,10 @@ Since 2023-02-07 15:09:15 -0800 PST, I'm most active between 16:00-16:59 - with 
  openconfig/replayer           |#######
                                |#######
 
+                               |#
+ openconfig/gnpsi              |#
+                               |#
+
                                |#######
  openconfig/gnmi               |#######
                                |#######
@@ -74,9 +74,9 @@ Since 2023-02-07 15:09:15 -0800 PST, I'm most active between 16:00-16:59 - with 
  openconfig/public             |##########################################
                                |##########################################
 
-                               |#############
- openconfig/ygot               |#############
-                               |#############
+                               |###############
+ openconfig/featureprofiles    |###############
+                               |###############
 
 
 
@@ -86,4 +86,4 @@ Since 2023-02-07 15:09:15 -0800 PST, I've been most active in openconfig/public,
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2023-02-23 21:31:08.392099529 -0800 PST
+Last Updated: 2023-02-23 21:45:46.396387737 -0800 PST
