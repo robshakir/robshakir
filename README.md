@@ -42,13 +42,17 @@ Since 2023-02-08 00:21:39 -0800 PST, I'm most active between 16:00-16:59 - with 
 
 
 ```
-                               |##
- openconfig/reference          |##
-                               |##
+                               |#######
+ openconfig/gnmi               |#######
+                               |#######
 
-                               |#######
- openconfig/replayer           |#######
-                               |#######
+                               |##########################################
+ openconfig/public             |##########################################
+                               |##########################################
+
+                               |#
+ openconfig/gnpsi              |#
+                               |#
 
                                |########
  openconfig/gribigo            |########
@@ -66,17 +70,13 @@ Since 2023-02-08 00:21:39 -0800 PST, I'm most active between 16:00-16:59 - with 
  openconfig/featureprofiles    |#######################
                                |#######################
 
-                               |#######
- openconfig/gnmi               |#######
-                               |#######
+                               |##
+ openconfig/reference          |##
+                               |##
 
-                               |##########################################
- openconfig/public             |##########################################
-                               |##########################################
-
-                               |#
- openconfig/gnpsi              |#
-                               |#
+                               |#######
+ openconfig/replayer           |#######
+                               |#######
 
 
 
@@ -86,4 +86,4 @@ Since 2023-02-08 00:21:39 -0800 PST, I've been most active in openconfig/public,
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2023-02-24 10:20:47.356576314 -0800 PST
+Last Updated: 2023-02-24 10:34:03.266510327 -0800 PST
