@@ -42,17 +42,13 @@ Since 2023-02-08 00:09:31 -0800 PST, I'm most active between 16:00-16:59 - with 
 
 
 ```
+                               |########################
+ openconfig/featureprofiles    |########################
+                               |########################
+
                                |#######
  openconfig/replayer           |#######
                                |#######
-
-                               |#
- openconfig/gnpsi              |#
-                               |#
-
-                               |########
- openconfig/gribigo            |########
-                               |########
 
                                |#######
  openconfig/gnmi               |#######
@@ -62,6 +58,14 @@ Since 2023-02-08 00:09:31 -0800 PST, I'm most active between 16:00-16:59 - with 
  openconfig/public             |##########################################
                                |##########################################
 
+                               |#
+ openconfig/gnpsi              |#
+                               |#
+
+                               |########
+ openconfig/gribigo            |########
+                               |########
+
                                |##
  earies/openconfig-public      |##
                                |##
@@ -69,10 +73,6 @@ Since 2023-02-08 00:09:31 -0800 PST, I'm most active between 16:00-16:59 - with 
                                |#######
  openconfig/ygot               |#######
                                |#######
-
-                               |########################
- openconfig/featureprofiles    |########################
-                               |########################
 
                                |##
  openconfig/reference          |##
@@ -86,4 +86,4 @@ Since 2023-02-08 00:09:31 -0800 PST, I've been most active in openconfig/public,
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2023-02-25 11:45:58.052656998 -0800 PST
+Last Updated: 2023-02-25 12:01:26.696139328 -0800 PST
