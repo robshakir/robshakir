@@ -42,21 +42,9 @@ Since 2023-02-08 06:37:07 -0800 PST, I'm most active between 16:00-16:59 - with 
 
 
 ```
-                               |##
- openconfig/reference          |##
-                               |##
-
-                               |#######
- openconfig/replayer           |#######
-                               |#######
-
-                               |#######
- openconfig/gnmi               |#######
-                               |#######
-
-                               |########
- openconfig/gribigo            |########
-                               |########
+                               |#
+ openconfig/gnpsi              |#
+                               |#
 
                                |##
  earies/openconfig-public      |##
@@ -70,13 +58,25 @@ Since 2023-02-08 06:37:07 -0800 PST, I'm most active between 16:00-16:59 - with 
  openconfig/ygot               |#
                                |#
 
+                               |##
+ openconfig/reference          |##
+                               |##
+
+                               |########
+ openconfig/gribigo            |########
+                               |########
+
+                               |#######
+ openconfig/replayer           |#######
+                               |#######
+
+                               |#######
+ openconfig/gnmi               |#######
+                               |#######
+
                                |########################################
  openconfig/public             |########################################
                                |########################################
-
-                               |#
- openconfig/gnpsi              |#
-                               |#
 
 
 
@@ -86,4 +86,4 @@ Since 2023-02-08 06:37:07 -0800 PST, I've been most active in openconfig/public,
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2023-02-26 03:18:09.389320403 -0800 PST
+Last Updated: 2023-02-26 03:31:12.648378353 -0800 PST
