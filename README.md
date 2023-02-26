@@ -42,22 +42,6 @@ Since 2023-02-08 06:37:07 -0800 PST, I'm most active between 16:00-16:59 - with 
 
 
 ```
-                               |################################
- openconfig/featureprofiles    |################################
-                               |################################
-
-                               |########################################
- openconfig/public             |########################################
-                               |########################################
-
-                               |##
- earies/openconfig-public      |##
-                               |##
-
-                               |#
- openconfig/ygot               |#
-                               |#
-
                                |##
  openconfig/reference          |##
                                |##
@@ -70,13 +54,29 @@ Since 2023-02-08 06:37:07 -0800 PST, I'm most active between 16:00-16:59 - with 
  openconfig/gnmi               |#######
                                |#######
 
+                               |########################################
+ openconfig/public             |########################################
+                               |########################################
+
                                |#
  openconfig/gnpsi              |#
+                               |#
+
+                               |################################
+ openconfig/featureprofiles    |################################
+                               |################################
+
+                               |#
+ openconfig/ygot               |#
                                |#
 
                                |########
  openconfig/gribigo            |########
                                |########
+
+                               |##
+ earies/openconfig-public      |##
+                               |##
 
 
 
@@ -86,4 +86,4 @@ Since 2023-02-08 06:37:07 -0800 PST, I've been most active in openconfig/public,
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2023-02-26 12:30:59.179296234 -0800 PST
+Last Updated: 2023-02-26 12:45:55.609202455 -0800 PST
