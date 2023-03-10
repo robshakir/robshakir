@@ -42,18 +42,6 @@ Since 2023-02-16 18:38:33 -0800 PST, I'm most active between 09:00-09:59 - with 
 
 
 ```
-                               |#######
- openconfig/replayer           |#######
-                               |#######
-
-                               |######
- openconfig/gnmi               |######
-                               |######
-
-                               |#
- openconfig/gnpsi              |#
-                               |#
-
                                |################################
  openconfig/public             |################################
                                |################################
@@ -74,6 +62,18 @@ Since 2023-02-16 18:38:33 -0800 PST, I'm most active between 09:00-09:59 - with 
  openconfig/reference          |##
                                |##
 
+                               |#######
+ openconfig/replayer           |#######
+                               |#######
+
+                               |######
+ openconfig/gnmi               |######
+                               |######
+
+                               |#
+ openconfig/gnpsi              |#
+                               |#
+
 
 
 Since 2023-02-16 18:38:33 -0800 PST, I've been most active in openconfig/public, with 32 events.
@@ -82,4 +82,4 @@ Since 2023-02-16 18:38:33 -0800 PST, I've been most active in openconfig/public,
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2023-03-10 11:31:05.685177009 -0800 PST
+Last Updated: 2023-03-10 11:45:55.307207879 -0800 PST
