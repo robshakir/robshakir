@@ -42,22 +42,6 @@ Since 2023-02-22 15:10:16 -0800 PST, I'm most active between 09:00-09:59 - with 
 
 
 ```
-                               |###########################################
- openconfig/public             |###########################################
-                               |###########################################
-
-                               |#
- openconfig/gnmi               |#
-                               |#
-
-                               |##
- robshakir/Expose              |##
-                               |##
-
-                               |#
- Jack000/Expose                |#
-                               |#
-
                                |########################
  openconfig/featureprofiles    |########################
                                |########################
@@ -74,9 +58,25 @@ Since 2023-02-22 15:10:16 -0800 PST, I'm most active between 09:00-09:59 - with 
  openconfig/reference          |##
                                |##
 
+                               |#
+ openconfig/gnmi               |#
+                               |#
+
+                               |###########################################
+ openconfig/public             |###########################################
+                               |###########################################
+
+                               |#
+ Jack000/Expose                |#
+                               |#
+
                                |#######
  openconfig/replayer           |#######
                                |#######
+
+                               |##
+ robshakir/Expose              |##
+                               |##
 
 
 
@@ -86,4 +86,4 @@ Since 2023-02-22 15:10:16 -0800 PST, I've been most active in openconfig/public,
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2023-05-10 21:20:12.272951191 -0700 PDT
+Last Updated: 2023-05-10 21:31:25.312461775 -0700 PDT
