@@ -42,10 +42,6 @@ Since 2023-02-24 09:40:02 -0800 PST, I'm most active between 09:00-09:59 - with 
 
 
 ```
-                               |#
- robshakir/kne                 |#
-                               |#
-
                                |##
  openconfig/kne                |##
                                |##
@@ -58,17 +54,9 @@ Since 2023-02-24 09:40:02 -0800 PST, I'm most active between 09:00-09:59 - with 
  robshakir/Expose              |##
                                |##
 
-                               |###################################
- openconfig/public             |###################################
-                               |###################################
-
                                |########################
  openconfig/featureprofiles    |########################
                                |########################
-
-                               |##
- openconfig/magna              |##
-                               |##
 
                                |###################
  openconfig/ygot               |###################
@@ -77,6 +65,18 @@ Since 2023-02-24 09:40:02 -0800 PST, I'm most active between 09:00-09:59 - with 
                                |#
  openconfig/gribigo            |#
                                |#
+
+                               |##
+ openconfig/magna              |##
+                               |##
+
+                               |#
+ robshakir/kne                 |#
+                               |#
+
+                               |###################################
+ openconfig/public             |###################################
+                               |###################################
 
                                |#
  Jack000/Expose                |#
@@ -90,4 +90,4 @@ Since 2023-02-24 09:40:02 -0800 PST, I've been most active in openconfig/public,
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2023-05-24 08:01:46.665733071 -0700 PDT
+Last Updated: 2023-05-24 08:19:32.937845807 -0700 PDT
