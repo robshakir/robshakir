@@ -67,7 +67,7 @@ func events(ctx context.Context, client *github.Client) (*Events, error) {
 		e.Hours = append(e.Hours, float64(hours[i]))
 	}
 
-	e.Start = pacific(*ghevents[len(*ghevents)-1].CreatedAt)
+	e.Start = pacific(*ghevents[len(ghevents)-1].CreatedAt)
 	e.Breadcrumbs = ghevents[0:10]
 
 	return e, nil
