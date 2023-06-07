@@ -42,14 +42,6 @@ Since 2023-03-10 09:31:47 -0800 PST, I'm most active between 17:00-17:59 - with 
 
 
 ```
-                               |###########
- openconfig/magna              |###########
-                               |###########
-
-                               |#########################
- openconfig/public             |#########################
-                               |#########################
-
                                |#######
  openconfig/featureprofiles    |#######
                                |#######
@@ -58,21 +50,13 @@ Since 2023-03-10 09:31:47 -0800 PST, I'm most active between 17:00-17:59 - with 
  robshakir/Expose              |##
                                |##
 
-                               |######
- openconfig/lsdbparse          |######
-                               |######
-
-                               |#
- Jack000/Expose                |#
-                               |#
-
-                               |################
- openconfig/kne                |################
-                               |################
-
                                |##########################
  openconfig/reference          |##########################
                                |##########################
+
+                               |#########################
+ openconfig/public             |#########################
+                               |#########################
 
                                |###
  openconfig/ondatra            |###
@@ -86,6 +70,22 @@ Since 2023-03-10 09:31:47 -0800 PST, I'm most active between 17:00-17:59 - with 
  robshakir/kne                 |#
                                |#
 
+                               |######
+ openconfig/lsdbparse          |######
+                               |######
+
+                               |#
+ Jack000/Expose                |#
+                               |#
+
+                               |################
+ openconfig/kne                |################
+                               |################
+
+                               |###########
+ openconfig/magna              |###########
+                               |###########
+
 
 
 Since 2023-03-10 09:31:47 -0800 PST, I've been most active in openconfig/reference, with 26 events.
@@ -94,4 +94,4 @@ Since 2023-03-10 09:31:47 -0800 PST, I've been most active in openconfig/referen
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2023-06-06 22:46:12.405337064 -0700 PDT
+Last Updated: 2023-06-06 23:01:43.108318325 -0700 PDT
