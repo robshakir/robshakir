@@ -42,14 +42,6 @@ Since 2023-03-29 15:20:25 -0700 PDT, I'm most active between 17:00-17:59 - with 
 
 
 ```
-                               |########################
- openconfig/kne                |########################
-                               |########################
-
-                               |########
- openconfig/public             |########
-                               |########
-
                                |###
  openconfig/ondatra            |###
                                |###
@@ -70,9 +62,17 @@ Since 2023-03-29 15:20:25 -0700 PDT, I'm most active between 17:00-17:59 - with 
  robshakir/Expose              |##
                                |##
 
-                               |######################
- openconfig/magna              |######################
-                               |######################
+                               |##########################
+ openconfig/reference          |##########################
+                               |##########################
+
+                               |########################
+ openconfig/kne                |########################
+                               |########################
+
+                               |########
+ openconfig/public             |########
+                               |########
 
                                |#####
  openconfig/featureprofiles    |#####
@@ -82,9 +82,9 @@ Since 2023-03-29 15:20:25 -0700 PDT, I'm most active between 17:00-17:59 - with 
  Jack000/Expose                |#
                                |#
 
-                               |##########################
- openconfig/reference          |##########################
-                               |##########################
+                               |######################
+ openconfig/magna              |######################
+                               |######################
 
 
 
@@ -94,4 +94,4 @@ Since 2023-03-29 15:20:25 -0700 PDT, I've been most active in openconfig/referen
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2023-06-08 03:01:51.958809571 -0700 PDT
+Last Updated: 2023-06-08 03:19:55.782563355 -0700 PDT
