@@ -42,6 +42,14 @@ Since 2023-06-07 09:49:35 -0700 PDT, I'm most active between 14:00-14:59 - with 
 
 
 ```
+                             |####################################################################
+ openconfig/magna            |####################################################################
+                             |####################################################################
+
+                             |#
+ openconfig/entity-naming    |#
+                             |#
+
                              |##################
  openconfig/reference        |##################
                              |##################
@@ -54,14 +62,6 @@ Since 2023-06-07 09:49:35 -0700 PDT, I'm most active between 14:00-14:59 - with 
  openconfig/ygot             |##
                              |##
 
-                             |####################################################################
- openconfig/magna            |####################################################################
-                             |####################################################################
-
-                             |#
- openconfig/entity-naming    |#
-                             |#
-
 
 
 Since 2023-06-07 09:49:35 -0700 PDT, I've been most active in openconfig/magna, with 68 events.
@@ -70,4 +70,4 @@ Since 2023-06-07 09:49:35 -0700 PDT, I've been most active in openconfig/magna, 
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2023-06-12 19:02:07.38426051 -0700 PDT
+Last Updated: 2023-06-12 19:33:47.314342967 -0700 PDT
