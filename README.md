@@ -42,6 +42,14 @@ Since 2023-06-08 14:11:00 -0700 PDT, I'm most active between 10:00-10:59 - with 
 
 
 ```
+                               |############################################################
+ openconfig/magna              |############################################################
+                               |############################################################
+
+                               |###
+ openconfig/featureprofiles    |###
+                               |###
+
                                |#####################
  openconfig/reference          |#####################
                                |#####################
@@ -62,14 +70,6 @@ Since 2023-06-08 14:11:00 -0700 PDT, I'm most active between 10:00-10:59 - with 
  openconfig/gribigo            |###
                                |###
 
-                               |############################################################
- openconfig/magna              |############################################################
-                               |############################################################
-
-                               |###
- openconfig/featureprofiles    |###
-                               |###
-
 
 
 Since 2023-06-08 14:11:00 -0700 PDT, I've been most active in openconfig/magna, with 60 events.
@@ -78,4 +78,4 @@ Since 2023-06-08 14:11:00 -0700 PDT, I've been most active in openconfig/magna, 
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2023-06-28 14:01:44.608606526 -0700 PDT
+Last Updated: 2023-06-28 14:18:52.505931652 -0700 PDT
