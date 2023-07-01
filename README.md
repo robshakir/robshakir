@@ -42,10 +42,6 @@ Since 2023-06-09 12:39:32 -0700 PDT, I'm most active between 16:00-16:59 - with 
 
 
 ```
-                               |##
- robshakir/pyangbind           |##
-                               |##
-
                                |#####################################################################
  openconfig/magna              |#####################################################################
                                |#####################################################################
@@ -74,6 +70,10 @@ Since 2023-06-09 12:39:32 -0700 PDT, I'm most active between 16:00-16:59 - with 
  openconfig/entity-naming      |#
                                |#
 
+                               |##
+ robshakir/pyangbind           |##
+                               |##
+
 
 
 Since 2023-06-09 12:39:32 -0700 PDT, I've been most active in openconfig/magna, with 69 events.
@@ -82,4 +82,4 @@ Since 2023-06-09 12:39:32 -0700 PDT, I've been most active in openconfig/magna, 
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2023-06-30 22:01:25.974854872 -0700 PDT
+Last Updated: 2023-06-30 22:19:35.634456021 -0700 PDT
