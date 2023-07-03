@@ -42,6 +42,10 @@ Since 2023-06-09 15:37:54 -0700 PDT, I'm most active between 16:00-16:59 - with 
 
 
 ```
+                               |#####
+ openconfig/gnoi               |#####
+                               |#####
+
                                |##
  robshakir/pyangbind           |##
                                |##
@@ -70,10 +74,6 @@ Since 2023-06-09 15:37:54 -0700 PDT, I'm most active between 16:00-16:59 - with 
  openconfig/entity-naming      |#
                                |#
 
-                               |#####
- openconfig/gnoi               |#####
-                               |#####
-
 
 
 Since 2023-06-09 15:37:54 -0700 PDT, I've been most active in openconfig/magna, with 67 events.
@@ -82,4 +82,4 @@ Since 2023-06-09 15:37:54 -0700 PDT, I've been most active in openconfig/magna, 
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2023-07-03 13:31:21.345210096 -0700 PDT
+Last Updated: 2023-07-03 13:46:21.305122486 -0700 PDT
