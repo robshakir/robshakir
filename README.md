@@ -42,26 +42,6 @@ Since 2023-06-13 14:36:35 -0700 PDT, I'm most active between 16:00-16:59 - with 
 
 
 ```
-                               |######
- openconfig/gnoi               |######
-                               |######
-
-                               |#
- robshakir/ondatra             |#
-                               |#
-
-                               |###
- openconfig/ondatra            |###
-                               |###
-
-                               |###############################################################
- openconfig/magna              |###############################################################
-                               |###############################################################
-
-                               |##
- robshakir/pyangbind           |##
-                               |##
-
                                |################
  openconfig/public             |################
                                |################
@@ -78,6 +58,26 @@ Since 2023-06-13 14:36:35 -0700 PDT, I'm most active between 16:00-16:59 - with 
  openconfig/reference          |###
                                |###
 
+                               |######
+ openconfig/gnoi               |######
+                               |######
+
+                               |###
+ openconfig/ondatra            |###
+                               |###
+
+                               |###############################################################
+ openconfig/magna              |###############################################################
+                               |###############################################################
+
+                               |#
+ robshakir/ondatra             |#
+                               |#
+
+                               |##
+ robshakir/pyangbind           |##
+                               |##
+
 
 
 Since 2023-06-13 14:36:35 -0700 PDT, I've been most active in openconfig/magna, with 63 events.
@@ -86,4 +86,4 @@ Since 2023-06-13 14:36:35 -0700 PDT, I've been most active in openconfig/magna, 
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2023-07-05 01:21:19.436866512 -0700 PDT
+Last Updated: 2023-07-05 01:34:35.536827963 -0700 PDT
