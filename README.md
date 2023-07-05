@@ -42,25 +42,9 @@ Since 2023-06-13 14:36:35 -0700 PDT, I'm most active between 16:00-16:59 - with 
 
 
 ```
-                               |###
- openconfig/featureprofiles    |###
-                               |###
-
-                               |################
- openconfig/public             |################
-                               |################
-
-                               |###
- openconfig/ondatra            |###
-                               |###
-
                                |###############################################################
  openconfig/magna              |###############################################################
                                |###############################################################
-
-                               |#
- robshakir/ondatra             |#
-                               |#
 
                                |##
  robshakir/pyangbind           |##
@@ -71,8 +55,24 @@ Since 2023-06-13 14:36:35 -0700 PDT, I'm most active between 16:00-16:59 - with 
                                |###
 
                                |###
+ openconfig/featureprofiles    |###
+                               |###
+
+                               |###
  openconfig/reference          |###
                                |###
+
+                               |###
+ openconfig/ondatra            |###
+                               |###
+
+                               |#
+ robshakir/ondatra             |#
+                               |#
+
+                               |################
+ openconfig/public             |################
+                               |################
 
                                |######
  openconfig/gnoi               |######
@@ -86,4 +86,4 @@ Since 2023-06-13 14:36:35 -0700 PDT, I've been most active in openconfig/magna, 
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2023-07-05 09:01:47.349675079 -0700 PDT
+Last Updated: 2023-07-05 09:21:18.731338042 -0700 PDT
