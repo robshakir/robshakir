@@ -42,17 +42,9 @@ Since 2023-06-28 16:29:44 -0700 PDT, I'm most active between 16:00-16:59 - with 
 
 
 ```
-                               |###
- openconfig/ygot               |###
-                               |###
-
                                |####################################################
  openconfig/magna              |####################################################
                                |####################################################
-
-                               |######
- openconfig/featureprofiles    |######
-                               |######
 
                                |######
  robshakir/pyangbind           |######
@@ -62,21 +54,29 @@ Since 2023-06-28 16:29:44 -0700 PDT, I'm most active between 16:00-16:59 - with 
  openconfig/gribigo            |###
                                |###
 
-                               |#######
- openconfig/gnoi               |#######
-                               |#######
+                               |#
+ robshakir/ondatra             |#
+                               |#
+
+                               |###
+ openconfig/ygot               |###
+                               |###
 
                                |#################
  openconfig/public             |#################
                                |#################
 
+                               |######
+ openconfig/featureprofiles    |######
+                               |######
+
                                |#####
  openconfig/ondatra            |#####
                                |#####
 
-                               |#
- robshakir/ondatra             |#
-                               |#
+                               |#######
+ openconfig/gnoi               |#######
+                               |#######
 
 
 
@@ -86,4 +86,4 @@ Since 2023-06-28 16:29:44 -0700 PDT, I've been most active in openconfig/magna, 
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2023-07-08 16:46:06.660949498 -0700 PDT
+Last Updated: 2023-07-08 17:03:59.874703132 -0700 PDT
