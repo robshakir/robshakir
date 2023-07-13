@@ -42,9 +42,17 @@ Since 2023-06-28 16:31:37 -0700 PDT, I'm most active between 16:00-16:59 - with 
 
 
 ```
+                               |########
+ openconfig/featureprofiles    |########
+                               |########
+
                                |###
  openconfig/ygot               |###
                                |###
+
+                               |################################################
+ openconfig/magna              |################################################
+                               |################################################
 
                                |###
  openconfig/gribigo            |###
@@ -62,9 +70,9 @@ Since 2023-06-28 16:31:37 -0700 PDT, I'm most active between 16:00-16:59 - with 
  openconfig/bootz              |#
                                |#
 
-                               |########
- openconfig/featureprofiles    |########
-                               |########
+                               |#
+ openconfig/gnmi               |#
+                               |#
 
                                |#################
  openconfig/public             |#################
@@ -78,14 +86,6 @@ Since 2023-06-28 16:31:37 -0700 PDT, I'm most active between 16:00-16:59 - with 
  robshakir/ondatra             |#
                                |#
 
-                               |#
- openconfig/gnmi               |#
-                               |#
-
-                               |################################################
- openconfig/magna              |################################################
-                               |################################################
-
 
 
 Since 2023-06-28 16:31:37 -0700 PDT, I've been most active in openconfig/magna, with 48 events.
@@ -94,4 +94,4 @@ Since 2023-06-28 16:31:37 -0700 PDT, I've been most active in openconfig/magna, 
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2023-07-13 03:20:06.7286481 -0700 PDT
+Last Updated: 2023-07-13 03:32:58.33510515 -0700 PDT
