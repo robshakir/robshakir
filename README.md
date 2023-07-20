@@ -42,17 +42,25 @@ Since 2023-07-03 16:36:26 -0700 PDT, I'm most active between 05:00-05:59 - with 
 
 
 ```
+                               |#
+ openconfig/gnmi               |#
+                               |#
+
+                               |#######
+ openconfig/magna              |#######
+                               |#######
+
                                |####
- openconfig/ondatra            |####
+ robshakir/pyangbind           |####
                                |####
 
-                               |################################################
- openconfig/public             |################################################
-                               |################################################
+                               |###
+ openconfig/gnoi               |###
+                               |###
 
-                               |#########
- openconfig/ygot               |#########
-                               |#########
+                               |##
+ openconfig/reference          |##
+                               |##
 
                                |###
  openconfig/models-ci          |###
@@ -66,29 +74,21 @@ Since 2023-07-03 16:36:26 -0700 PDT, I'm most active between 05:00-05:59 - with 
  openconfig/bootz              |#
                                |#
 
-                               |####
- robshakir/pyangbind           |####
-                               |####
+                               |################################################
+ openconfig/public             |################################################
+                               |################################################
+
+                               |#########
+ openconfig/ygot               |#########
+                               |#########
 
                                |###
  openconfig/gribigo            |###
                                |###
 
-                               |###
- openconfig/gnoi               |###
-                               |###
-
-                               |##
- openconfig/reference          |##
-                               |##
-
-                               |#
- openconfig/gnmi               |#
-                               |#
-
-                               |#######
- openconfig/magna              |#######
-                               |#######
+                               |####
+ openconfig/ondatra            |####
+                               |####
 
 
 
@@ -98,4 +98,4 @@ Since 2023-07-03 16:36:26 -0700 PDT, I've been most active in openconfig/public,
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2023-07-20 04:17:35.75265998 -0700 PDT
+Last Updated: 2023-07-20 04:31:13.44387384 -0700 PDT
