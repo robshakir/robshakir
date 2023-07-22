@@ -42,6 +42,22 @@ Since 2023-07-06 11:11:22 -0700 PDT, I'm most active between 05:00-05:59 - with 
 
 
 ```
+                               |###
+ openconfig/models-ci          |###
+                               |###
+
+                               |####
+ robshakir/pyangbind           |####
+                               |####
+
+                               |###
+ openconfig/gribigo            |###
+                               |###
+
+                               |#
+ openconfig/gnmi               |#
+                               |#
+
                                |#####################
  openconfig/magna              |#####################
                                |#####################
@@ -49,10 +65,6 @@ Since 2023-07-06 11:11:22 -0700 PDT, I'm most active between 05:00-05:59 - with 
                                |####
  openconfig/reference          |####
                                |####
-
-                               |###
- openconfig/models-ci          |###
-                               |###
 
                                |############################################
  openconfig/public             |############################################
@@ -70,18 +82,6 @@ Since 2023-07-06 11:11:22 -0700 PDT, I'm most active between 05:00-05:59 - with 
  openconfig/bootz              |#
                                |#
 
-                               |#
- openconfig/gnmi               |#
-                               |#
-
-                               |####
- robshakir/pyangbind           |####
-                               |####
-
-                               |###
- openconfig/gribigo            |###
-                               |###
-
 
 
 Since 2023-07-06 11:11:22 -0700 PDT, I've been most active in openconfig/public, with 44 events.
@@ -90,4 +90,4 @@ Since 2023-07-06 11:11:22 -0700 PDT, I've been most active in openconfig/public,
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2023-07-22 10:46:23.823983239 -0700 PDT
+Last Updated: 2023-07-22 11:01:41.370207897 -0700 PDT
