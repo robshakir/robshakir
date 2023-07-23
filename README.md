@@ -42,6 +42,14 @@ Since 2023-07-06 11:11:22 -0700 PDT, I'm most active between 05:00-05:59 - with 
 
 
 ```
+                               |#####################
+ openconfig/magna              |#####################
+                               |#####################
+
+                               |#########
+ openconfig/ygot               |#########
+                               |#########
+
                                |##########
  openconfig/featureprofiles    |##########
                                |##########
@@ -51,36 +59,28 @@ Since 2023-07-06 11:11:22 -0700 PDT, I'm most active between 05:00-05:59 - with 
                                |#
 
                                |####
- robshakir/pyangbind           |####
-                               |####
-
-                               |#####################
- openconfig/magna              |#####################
-                               |#####################
-
-                               |###
- openconfig/models-ci          |###
-                               |###
-
-                               |#########
- openconfig/ygot               |#########
-                               |#########
-
-                               |#
- openconfig/bootz              |#
-                               |#
-
-                               |###
- openconfig/gribigo            |###
-                               |###
-
-                               |####
  openconfig/reference          |####
                                |####
 
                                |############################################
  openconfig/public             |############################################
                                |############################################
+
+                               |###
+ openconfig/models-ci          |###
+                               |###
+
+                               |#
+ openconfig/bootz              |#
+                               |#
+
+                               |####
+ robshakir/pyangbind           |####
+                               |####
+
+                               |###
+ openconfig/gribigo            |###
+                               |###
 
 
 
@@ -90,4 +90,4 @@ Since 2023-07-06 11:11:22 -0700 PDT, I've been most active in openconfig/public,
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2023-07-23 12:46:20.147625778 -0700 PDT
+Last Updated: 2023-07-23 13:01:29.249261118 -0700 PDT
