@@ -42,22 +42,6 @@ Since 2023-07-06 11:11:22 -0700 PDT, I'm most active between 05:00-05:59 - with 
 
 
 ```
-                               |####
- openconfig/reference          |####
-                               |####
-
-                               |############################################
- openconfig/public             |############################################
-                               |############################################
-
-                               |#########
- openconfig/ygot               |#########
-                               |#########
-
-                               |##########
- openconfig/featureprofiles    |##########
-                               |##########
-
                                |#
  openconfig/bootz              |#
                                |#
@@ -70,17 +54,33 @@ Since 2023-07-06 11:11:22 -0700 PDT, I'm most active between 05:00-05:59 - with 
  robshakir/pyangbind           |####
                                |####
 
+                               |###
+ openconfig/gribigo            |###
+                               |###
+
                                |#####################
  openconfig/magna              |#####################
                                |#####################
+
+                               |############################################
+ openconfig/public             |############################################
+                               |############################################
 
                                |###
  openconfig/models-ci          |###
                                |###
 
-                               |###
- openconfig/gribigo            |###
-                               |###
+                               |##########
+ openconfig/featureprofiles    |##########
+                               |##########
+
+                               |####
+ openconfig/reference          |####
+                               |####
+
+                               |#########
+ openconfig/ygot               |#########
+                               |#########
 
 
 
@@ -90,4 +90,4 @@ Since 2023-07-06 11:11:22 -0700 PDT, I've been most active in openconfig/public,
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2023-07-23 21:46:08.551700014 -0700 PDT
+Last Updated: 2023-07-23 22:01:53.673146055 -0700 PDT
