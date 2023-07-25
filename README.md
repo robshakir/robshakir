@@ -50,21 +50,13 @@ Since 2023-07-06 15:36:33 -0700 PDT, I'm most active between 05:00-05:59 - with 
  openconfig/gnmi               |#
                                |#
 
-                               |################################################
- openconfig/public             |################################################
-                               |################################################
-
-                               |###########
- openconfig/ygot               |###########
-                               |###########
+                               |#
+ robshakir/pyangbind           |#
+                               |#
 
                                |####
  openconfig/reference          |####
                                |####
-
-                               |###
- openconfig/models-ci          |###
-                               |###
 
                                |##########
  openconfig/featureprofiles    |##########
@@ -74,9 +66,17 @@ Since 2023-07-06 15:36:33 -0700 PDT, I'm most active between 05:00-05:59 - with 
  openconfig/magna              |#####################
                                |#####################
 
-                               |#
- robshakir/pyangbind           |#
-                               |#
+                               |###
+ openconfig/models-ci          |###
+                               |###
+
+                               |################################################
+ openconfig/public             |################################################
+                               |################################################
+
+                               |###########
+ openconfig/ygot               |###########
+                               |###########
 
 
 
@@ -86,4 +86,4 @@ Since 2023-07-06 15:36:33 -0700 PDT, I've been most active in openconfig/public,
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2023-07-24 23:01:34.811612989 -0700 PDT
+Last Updated: 2023-07-24 23:20:43.817012486 -0700 PDT
