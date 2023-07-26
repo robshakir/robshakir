@@ -42,10 +42,6 @@ Since 2023-07-06 15:36:33 -0700 PDT, I'm most active between 05:00-05:59 - with 
 
 
 ```
-                               |#
- robshakir/pyangbind           |#
-                               |#
-
                                |###########
  openconfig/ygot               |###########
                                |###########
@@ -54,17 +50,13 @@ Since 2023-07-06 15:36:33 -0700 PDT, I'm most active between 05:00-05:59 - with 
  openconfig/magna              |#####################
                                |#####################
 
-                               |###
- openconfig/models-ci          |###
-                               |###
+                               |####
+ openconfig/reference          |####
+                               |####
 
                                |##########
  openconfig/featureprofiles    |##########
                                |##########
-
-                               |#
- openconfig/bootz              |#
-                               |#
 
                                |#
  openconfig/gnmi               |#
@@ -74,9 +66,17 @@ Since 2023-07-06 15:36:33 -0700 PDT, I'm most active between 05:00-05:59 - with 
  openconfig/public             |################################################
                                |################################################
 
-                               |####
- openconfig/reference          |####
-                               |####
+                               |###
+ openconfig/models-ci          |###
+                               |###
+
+                               |#
+ openconfig/bootz              |#
+                               |#
+
+                               |#
+ robshakir/pyangbind           |#
+                               |#
 
 
 
@@ -86,4 +86,4 @@ Since 2023-07-06 15:36:33 -0700 PDT, I've been most active in openconfig/public,
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2023-07-26 07:31:24.393347384 -0700 PDT
+Last Updated: 2023-07-26 07:46:11.264870872 -0700 PDT
