@@ -46,9 +46,9 @@ Since 2023-07-06 15:36:33 -0700 PDT, I'm most active between 05:00-05:59 - with 
  openconfig/public             |################################################
                                |################################################
 
-                               |###########
- openconfig/ygot               |###########
-                               |###########
+                               |#####################
+ openconfig/magna              |#####################
+                               |#####################
 
                                |####
  openconfig/reference          |####
@@ -58,6 +58,14 @@ Since 2023-07-06 15:36:33 -0700 PDT, I'm most active between 05:00-05:59 - with 
  openconfig/models-ci          |###
                                |###
 
+                               |###########
+ openconfig/ygot               |###########
+                               |###########
+
+                               |##########
+ openconfig/featureprofiles    |##########
+                               |##########
+
                                |#
  openconfig/bootz              |#
                                |#
@@ -65,14 +73,6 @@ Since 2023-07-06 15:36:33 -0700 PDT, I'm most active between 05:00-05:59 - with 
                                |#
  openconfig/gnmi               |#
                                |#
-
-                               |#####################
- openconfig/magna              |#####################
-                               |#####################
-
-                               |##########
- openconfig/featureprofiles    |##########
-                               |##########
 
                                |#
  robshakir/pyangbind           |#
@@ -86,4 +86,4 @@ Since 2023-07-06 15:36:33 -0700 PDT, I've been most active in openconfig/public,
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2023-07-26 13:46:07.352457448 -0700 PDT
+Last Updated: 2023-07-26 14:01:23.185579592 -0700 PDT
