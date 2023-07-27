@@ -42,29 +42,9 @@ Since 2023-07-06 17:02:40 -0700 PDT, I'm most active between 05:00-05:59 - with 
 
 
 ```
-                               |#
- openconfig/gnmi               |#
-                               |#
-
-                               |############
- openconfig/ygot               |############
-                               |############
-
                                |#####################
  openconfig/magna              |#####################
                                |#####################
-
-                               |####
- openconfig/reference          |####
-                               |####
-
-                               |##########
- openconfig/featureprofiles    |##########
-                               |##########
-
-                               |#
- openconfig/bootz              |#
-                               |#
 
                                |###
  openconfig/ygnmi              |###
@@ -78,6 +58,26 @@ Since 2023-07-06 17:02:40 -0700 PDT, I'm most active between 05:00-05:59 - with 
  openconfig/public             |###########################################
                                |###########################################
 
+                               |##########
+ openconfig/featureprofiles    |##########
+                               |##########
+
+                               |#
+ openconfig/bootz              |#
+                               |#
+
+                               |#
+ openconfig/gnmi               |#
+                               |#
+
+                               |############
+ openconfig/ygot               |############
+                               |############
+
+                               |####
+ openconfig/reference          |####
+                               |####
+
                                |###
  openconfig/models-ci          |###
                                |###
@@ -90,4 +90,4 @@ Since 2023-07-06 17:02:40 -0700 PDT, I've been most active in openconfig/public,
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2023-07-27 03:19:33.95838945 -0700 PDT
+Last Updated: 2023-07-27 03:31:20.462336441 -0700 PDT
