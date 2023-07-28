@@ -42,10 +42,6 @@ Since 2023-07-13 15:32:21 -0700 PDT, I'm most active between 05:00-05:59 - with 
 
 
 ```
-                               |####
- openconfig/featureprofiles    |####
-                               |####
-
                                |####################
  openconfig/ygnmi              |####################
                                |####################
@@ -74,6 +70,10 @@ Since 2023-07-13 15:32:21 -0700 PDT, I'm most active between 05:00-05:59 - with 
  openconfig/models-ci          |###
                                |###
 
+                               |####
+ openconfig/featureprofiles    |####
+                               |####
+
 
 
 Since 2023-07-13 15:32:21 -0700 PDT, I've been most active in openconfig/public, with 42 events.
@@ -82,4 +82,4 @@ Since 2023-07-13 15:32:21 -0700 PDT, I've been most active in openconfig/public,
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2023-07-28 01:01:58.827990506 -0700 PDT
+Last Updated: 2023-07-28 01:20:25.939980072 -0700 PDT
