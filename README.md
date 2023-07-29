@@ -42,6 +42,10 @@ Since 2023-07-13 16:55:28 -0700 PDT, I'm most active between 05:00-05:59 - with 
 
 
 ```
+                               |#
+ openconfig/featureprofiles    |#
+                               |#
+
                                |###########################################
  openconfig/public             |###########################################
                                |###########################################
@@ -50,21 +54,21 @@ Since 2023-07-13 16:55:28 -0700 PDT, I'm most active between 05:00-05:59 - with 
  openconfig/reference          |#####
                                |#####
 
-                               |####################
- openconfig/ygnmi              |####################
-                               |####################
-
                                |####
  robshakir/ygnmi               |####
                                |####
+
+                               |#########
+ openconfig/ygot               |#########
+                               |#########
 
                                |#
  robshakir/pyangbind           |#
                                |#
 
-                               |#########
- openconfig/ygot               |#########
-                               |#########
+                               |####################
+ openconfig/ygnmi              |####################
+                               |####################
 
                                |##############
  openconfig/magna              |##############
@@ -74,10 +78,6 @@ Since 2023-07-13 16:55:28 -0700 PDT, I'm most active between 05:00-05:59 - with 
  openconfig/models-ci          |###
                                |###
 
-                               |#
- openconfig/featureprofiles    |#
-                               |#
-
 
 
 Since 2023-07-13 16:55:28 -0700 PDT, I've been most active in openconfig/public, with 43 events.
@@ -86,4 +86,4 @@ Since 2023-07-13 16:55:28 -0700 PDT, I've been most active in openconfig/public,
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2023-07-28 18:27:06.153831585 -0700 PDT
+Last Updated: 2023-07-28 18:49:26.48267031 -0700 PDT
