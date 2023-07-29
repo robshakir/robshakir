@@ -43,8 +43,24 @@ Since 2023-07-13 16:55:28 -0700 PDT, I'm most active between 05:00-05:59 - with 
 
 ```
                                |#
+ robshakir/pyangbind           |#
+                               |#
+
+                               |###
+ openconfig/models-ci          |###
+                               |###
+
+                               |#
  openconfig/featureprofiles    |#
                                |#
+
+                               |#########
+ openconfig/ygot               |#########
+                               |#########
+
+                               |##############
+ openconfig/magna              |##############
+                               |##############
 
                                |###########################################
  openconfig/public             |###########################################
@@ -54,18 +70,6 @@ Since 2023-07-13 16:55:28 -0700 PDT, I'm most active between 05:00-05:59 - with 
  openconfig/reference          |#####
                                |#####
 
-                               |#
- robshakir/pyangbind           |#
-                               |#
-
-                               |#########
- openconfig/ygot               |#########
-                               |#########
-
-                               |###
- openconfig/models-ci          |###
-                               |###
-
                                |####################
  openconfig/ygnmi              |####################
                                |####################
@@ -73,10 +77,6 @@ Since 2023-07-13 16:55:28 -0700 PDT, I'm most active between 05:00-05:59 - with 
                                |####
  robshakir/ygnmi               |####
                                |####
-
-                               |##############
- openconfig/magna              |##############
-                               |##############
 
 
 
@@ -86,4 +86,4 @@ Since 2023-07-13 16:55:28 -0700 PDT, I've been most active in openconfig/public,
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2023-07-29 16:01:17.980981911 -0700 PDT
+Last Updated: 2023-07-29 16:17:50.714186332 -0700 PDT
