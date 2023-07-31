@@ -42,21 +42,9 @@ Since 2023-07-13 16:55:28 -0700 PDT, I'm most active between 05:00-05:59 - with 
 
 
 ```
-                               |###
- openconfig/models-ci          |###
-                               |###
-
-                               |#
- openconfig/featureprofiles    |#
-                               |#
-
                                |###########################################
  openconfig/public             |###########################################
                                |###########################################
-
-                               |#####
- openconfig/reference          |#####
-                               |#####
 
                                |#
  robshakir/pyangbind           |#
@@ -66,17 +54,29 @@ Since 2023-07-13 16:55:28 -0700 PDT, I'm most active between 05:00-05:59 - with 
  openconfig/ygnmi              |####################
                                |####################
 
-                               |#########
- openconfig/ygot               |#########
-                               |#########
+                               |####
+ robshakir/ygnmi               |####
+                               |####
 
                                |##############
  openconfig/magna              |##############
                                |##############
 
-                               |####
- robshakir/ygnmi               |####
-                               |####
+                               |#
+ openconfig/featureprofiles    |#
+                               |#
+
+                               |#####
+ openconfig/reference          |#####
+                               |#####
+
+                               |#########
+ openconfig/ygot               |#########
+                               |#########
+
+                               |###
+ openconfig/models-ci          |###
+                               |###
 
 
 
@@ -86,4 +86,4 @@ Since 2023-07-13 16:55:28 -0700 PDT, I've been most active in openconfig/public,
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2023-07-31 05:52:33.532480705 -0700 PDT
+Last Updated: 2023-07-31 06:04:28.352241842 -0700 PDT
