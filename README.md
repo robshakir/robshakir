@@ -42,10 +42,6 @@ Since 2023-07-13 23:33:13 -0700 PDT, I'm most active between 05:00-05:59 - with 
 
 
 ```
-                         |#########
- openconfig/ygot         |#########
-                         |#########
-
                          |##############
  openconfig/magna        |##############
                          |##############
@@ -70,6 +66,10 @@ Since 2023-07-13 23:33:13 -0700 PDT, I'm most active between 05:00-05:59 - with 
  robshakir/pyangbind     |#
                          |#
 
+                         |#########
+ openconfig/ygot         |#########
+                         |#########
+
 
 
 Since 2023-07-13 23:33:13 -0700 PDT, I've been most active in openconfig/public, with 43 events.
@@ -78,4 +78,4 @@ Since 2023-07-13 23:33:13 -0700 PDT, I've been most active in openconfig/public,
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2023-08-01 12:31:03.204978961 -0700 PDT
+Last Updated: 2023-08-01 12:46:03.259494521 -0700 PDT
