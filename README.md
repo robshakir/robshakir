@@ -42,25 +42,17 @@ Since 2023-07-14 16:18:47 -0700 PDT, I'm most active between 14:00-14:59 - with 
 
 
 ```
-                          |######
- openconfig/models-ci     |######
-                          |######
+                          |#################################
+ openconfig/public        |#################################
+                          |#################################
 
                           |#####
  openconfig/reference     |#####
                           |#####
 
-                          |##############
- openconfig/magna         |##############
-                          |##############
-
                           |#
- openconfig/grpctunnel    |#
+ robshakir/pyangbind      |#
                           |#
-
-                          |#########################
- openconfig/ygnmi         |#########################
-                          |#########################
 
                           |##########
  openconfig/ygot          |##########
@@ -70,13 +62,21 @@ Since 2023-07-14 16:18:47 -0700 PDT, I'm most active between 14:00-14:59 - with 
  robshakir/ygnmi          |#####
                           |#####
 
-                          |#################################
- openconfig/public        |#################################
-                          |#################################
+                          |#########################
+ openconfig/ygnmi         |#########################
+                          |#########################
+
+                          |##############
+ openconfig/magna         |##############
+                          |##############
 
                           |#
- robshakir/pyangbind      |#
+ openconfig/grpctunnel    |#
                           |#
+
+                          |######
+ openconfig/models-ci     |######
+                          |######
 
 
 
@@ -86,4 +86,4 @@ Since 2023-07-14 16:18:47 -0700 PDT, I've been most active in openconfig/public,
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2023-08-03 15:31:09.326729352 -0700 PDT
+Last Updated: 2023-08-03 15:46:05.651729849 -0700 PDT
