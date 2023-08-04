@@ -43,28 +43,8 @@ Since 2023-07-15 17:51:50 -0700 PDT, I'm most active between 14:00-14:59 - with 
 
 ```
                           |######
- robshakir/ygnmi          |######
-                          |######
-
-                          |#####
- openconfig/grpctunnel    |#####
-                          |#####
-
-                          |######
  openconfig/models-ci     |######
                           |######
-
-                          |#####
- openconfig/reference     |#####
-                          |#####
-
-                          |##############
- openconfig/magna         |##############
-                          |##############
-
-                          |###########################
- openconfig/ygnmi         |###########################
-                          |###########################
 
                           |######
  openconfig/ygot          |######
@@ -74,9 +54,29 @@ Since 2023-07-15 17:51:50 -0700 PDT, I'm most active between 14:00-14:59 - with 
  openconfig/public        |##############################
                           |##############################
 
+                          |#####
+ openconfig/reference     |#####
+                          |#####
+
+                          |###########################
+ openconfig/ygnmi         |###########################
+                          |###########################
+
+                          |######
+ robshakir/ygnmi          |######
+                          |######
+
+                          |#####
+ openconfig/grpctunnel    |#####
+                          |#####
+
                           |#
  robshakir/pyangbind      |#
                           |#
+
+                          |##############
+ openconfig/magna         |##############
+                          |##############
 
 
 
@@ -86,4 +86,4 @@ Since 2023-07-15 17:51:50 -0700 PDT, I've been most active in openconfig/public,
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2023-08-04 04:16:48.400098714 -0700 PDT
+Last Updated: 2023-08-04 04:31:22.041463558 -0700 PDT
