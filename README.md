@@ -42,32 +42,16 @@ Since 2023-07-15 17:51:50 -0700 PDT, I'm most active between 14:00-14:59 - with 
 
 
 ```
+                          |##############
+ openconfig/magna         |##############
+                          |##############
+
                           |###########################
  openconfig/ygnmi         |###########################
                           |###########################
 
                           |######
- robshakir/ygnmi          |######
-                          |######
-
-                          |######
  openconfig/ygot          |######
-                          |######
-
-                          |#
- robshakir/pyangbind      |#
-                          |#
-
-                          |##############
- openconfig/magna         |##############
-                          |##############
-
-                          |#####
- openconfig/grpctunnel    |#####
-                          |#####
-
-                          |######
- openconfig/models-ci     |######
                           |######
 
                           |##############################
@@ -78,6 +62,22 @@ Since 2023-07-15 17:51:50 -0700 PDT, I'm most active between 14:00-14:59 - with 
  openconfig/reference     |#####
                           |#####
 
+                          |######
+ robshakir/ygnmi          |######
+                          |######
+
+                          |#####
+ openconfig/grpctunnel    |#####
+                          |#####
+
+                          |######
+ openconfig/models-ci     |######
+                          |######
+
+                          |#
+ robshakir/pyangbind      |#
+                          |#
+
 
 
 Since 2023-07-15 17:51:50 -0700 PDT, I've been most active in openconfig/public, with 30 events.
@@ -86,4 +86,4 @@ Since 2023-07-15 17:51:50 -0700 PDT, I've been most active in openconfig/public,
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2023-08-04 06:02:46.315752476 -0700 PDT
+Last Updated: 2023-08-04 06:20:00.800857323 -0700 PDT
