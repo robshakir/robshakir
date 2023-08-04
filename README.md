@@ -42,14 +42,6 @@ Since 2023-07-15 17:51:50 -0700 PDT, I'm most active between 14:00-14:59 - with 
 
 
 ```
-                          |###########################
- openconfig/ygnmi         |###########################
-                          |###########################
-
-                          |######
- robshakir/ygnmi          |######
-                          |######
-
                           |#####
  openconfig/grpctunnel    |#####
                           |#####
@@ -58,9 +50,25 @@ Since 2023-07-15 17:51:50 -0700 PDT, I'm most active between 14:00-14:59 - with 
  openconfig/ygot          |######
                           |######
 
+                          |##############################
+ openconfig/public        |##############################
+                          |##############################
+
                           |#####
  openconfig/reference     |#####
                           |#####
+
+                          |###########################
+ openconfig/ygnmi         |###########################
+                          |###########################
+
+                          |######
+ robshakir/ygnmi          |######
+                          |######
+
+                          |######
+ openconfig/models-ci     |######
+                          |######
 
                           |#
  robshakir/pyangbind      |#
@@ -70,14 +78,6 @@ Since 2023-07-15 17:51:50 -0700 PDT, I'm most active between 14:00-14:59 - with 
  openconfig/magna         |##############
                           |##############
 
-                          |######
- openconfig/models-ci     |######
-                          |######
-
-                          |##############################
- openconfig/public        |##############################
-                          |##############################
-
 
 
 Since 2023-07-15 17:51:50 -0700 PDT, I've been most active in openconfig/public, with 30 events.
@@ -86,4 +86,4 @@ Since 2023-07-15 17:51:50 -0700 PDT, I've been most active in openconfig/public,
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2023-08-03 23:31:16.773959479 -0700 PDT
+Last Updated: 2023-08-03 23:46:07.667755374 -0700 PDT
