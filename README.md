@@ -42,9 +42,21 @@ Since 2023-07-20 19:42:55 -0700 PDT, I'm most active between 14:00-14:59 - with 
 
 
 ```
+                          |#################################
+ openconfig/ygnmi         |#################################
+                          |#################################
+
+                          |########
+ robshakir/ygnmi          |########
+                          |########
+
                           |########
  openconfig/models-ci     |########
                           |########
+
+                          |##############
+ openconfig/gnoi          |##############
+                          |##############
 
                           |#########
  openconfig/grpctunnel    |#########
@@ -58,22 +70,6 @@ Since 2023-07-20 19:42:55 -0700 PDT, I'm most active between 14:00-14:59 - with 
  openconfig/public        |##########
                           |##########
 
-                          |############
- openconfig/magna         |############
-                          |############
-
-                          |#################################
- openconfig/ygnmi         |#################################
-                          |#################################
-
-                          |########
- robshakir/ygnmi          |########
-                          |########
-
-                          |##############
- openconfig/gnoi          |##############
-                          |##############
-
                           |#
  openconfig/reference     |#
                           |#
@@ -81,6 +77,10 @@ Since 2023-07-20 19:42:55 -0700 PDT, I'm most active between 14:00-14:59 - with 
                           |#
  robshakir/pyangbind      |#
                           |#
+
+                          |############
+ openconfig/magna         |############
+                          |############
 
 
 
@@ -90,4 +90,4 @@ Since 2023-07-20 19:42:55 -0700 PDT, I've been most active in openconfig/ygnmi, 
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2023-08-04 16:31:08.306199407 -0700 PDT
+Last Updated: 2023-08-04 16:46:05.516224498 -0700 PDT
