@@ -42,17 +42,9 @@ Since 2023-07-20 19:42:55 -0700 PDT, I'm most active between 14:00-14:59 - with 
 
 
 ```
-                          |#
- robshakir/pyangbind      |#
-                          |#
-
                           |#################################
  openconfig/ygnmi         |#################################
                           |#################################
-
-                          |#########
- openconfig/grpctunnel    |#########
-                          |#########
 
                           |##############
  openconfig/gnoi          |##############
@@ -62,9 +54,9 @@ Since 2023-07-20 19:42:55 -0700 PDT, I'm most active between 14:00-14:59 - with 
  openconfig/ygot          |####
                           |####
 
-                          |#
- openconfig/reference     |#
-                          |#
+                          |############
+ openconfig/magna         |############
+                          |############
 
                           |########
  robshakir/ygnmi          |########
@@ -74,13 +66,21 @@ Since 2023-07-20 19:42:55 -0700 PDT, I'm most active between 14:00-14:59 - with 
  openconfig/models-ci     |########
                           |########
 
+                          |#########
+ openconfig/grpctunnel    |#########
+                          |#########
+
                           |##########
  openconfig/public        |##########
                           |##########
 
-                          |############
- openconfig/magna         |############
-                          |############
+                          |#
+ openconfig/reference     |#
+                          |#
+
+                          |#
+ robshakir/pyangbind      |#
+                          |#
 
 
 
@@ -90,4 +90,4 @@ Since 2023-07-20 19:42:55 -0700 PDT, I've been most active in openconfig/ygnmi, 
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2023-08-04 23:46:22.626902713 -0700 PDT
+Last Updated: 2023-08-05 00:01:19.762952758 -0700 PDT
