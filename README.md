@@ -42,29 +42,9 @@ Since 2023-07-20 19:42:55 -0700 PDT, I'm most active between 14:00-14:59 - with 
 
 
 ```
-                          |############
- openconfig/magna         |############
-                          |############
-
-                          |#################################
- openconfig/ygnmi         |#################################
-                          |#################################
-
                           |########
  robshakir/ygnmi          |########
                           |########
-
-                          |########
- openconfig/models-ci     |########
-                          |########
-
-                          |##########
- openconfig/public        |##########
-                          |##########
-
-                          |#
- openconfig/reference     |#
-                          |#
 
                           |#########
  openconfig/grpctunnel    |#########
@@ -79,8 +59,28 @@ Since 2023-07-20 19:42:55 -0700 PDT, I'm most active between 14:00-14:59 - with 
                           |####
 
                           |#
+ openconfig/reference     |#
+                          |#
+
+                          |#
  robshakir/pyangbind      |#
                           |#
+
+                          |#################################
+ openconfig/ygnmi         |#################################
+                          |#################################
+
+                          |########
+ openconfig/models-ci     |########
+                          |########
+
+                          |##########
+ openconfig/public        |##########
+                          |##########
+
+                          |############
+ openconfig/magna         |############
+                          |############
 
 
 
@@ -90,4 +90,4 @@ Since 2023-07-20 19:42:55 -0700 PDT, I've been most active in openconfig/ygnmi, 
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2023-08-04 17:26:41.13645048 -0700 PDT
+Last Updated: 2023-08-04 17:46:59.839401781 -0700 PDT
