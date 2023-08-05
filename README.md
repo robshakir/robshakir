@@ -42,6 +42,10 @@ Since 2023-07-20 19:42:55 -0700 PDT, I'm most active between 14:00-14:59 - with 
 
 
 ```
+                          |########
+ openconfig/models-ci     |########
+                          |########
+
                           |##############
  openconfig/gnoi          |##############
                           |##############
@@ -50,37 +54,33 @@ Since 2023-07-20 19:42:55 -0700 PDT, I'm most active between 14:00-14:59 - with 
  openconfig/ygot          |####
                           |####
 
-                          |#################################
- openconfig/ygnmi         |#################################
-                          |#################################
-
-                          |########
- openconfig/models-ci     |########
-                          |########
-
-                          |#########
- openconfig/grpctunnel    |#########
-                          |#########
-
                           |#
- robshakir/pyangbind      |#
+ openconfig/reference     |#
                           |#
 
                           |############
  openconfig/magna         |############
                           |############
 
+                          |#################################
+ openconfig/ygnmi         |#################################
+                          |#################################
+
                           |########
  robshakir/ygnmi          |########
                           |########
 
+                          |#
+ robshakir/pyangbind      |#
+                          |#
+
+                          |#########
+ openconfig/grpctunnel    |#########
+                          |#########
+
                           |##########
  openconfig/public        |##########
                           |##########
-
-                          |#
- openconfig/reference     |#
-                          |#
 
 
 
@@ -90,4 +90,4 @@ Since 2023-07-20 19:42:55 -0700 PDT, I've been most active in openconfig/ygnmi, 
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2023-08-05 15:31:18.106478772 -0700 PDT
+Last Updated: 2023-08-05 15:46:07.542705054 -0700 PDT
