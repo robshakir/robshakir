@@ -50,6 +50,22 @@ Since 2023-07-20 19:42:55 -0700 PDT, I'm most active between 14:00-14:59 - with 
  openconfig/models-ci     |########
                           |########
 
+                          |##########
+ openconfig/public        |##########
+                          |##########
+
+                          |############
+ openconfig/magna         |############
+                          |############
+
+                          |#################################
+ openconfig/ygnmi         |#################################
+                          |#################################
+
+                          |##############
+ openconfig/gnoi          |##############
+                          |##############
+
                           |####
  openconfig/ygot          |####
                           |####
@@ -62,25 +78,9 @@ Since 2023-07-20 19:42:55 -0700 PDT, I'm most active between 14:00-14:59 - with 
  robshakir/pyangbind      |#
                           |#
 
-                          |#################################
- openconfig/ygnmi         |#################################
-                          |#################################
-
                           |#########
  openconfig/grpctunnel    |#########
                           |#########
-
-                          |##############
- openconfig/gnoi          |##############
-                          |##############
-
-                          |##########
- openconfig/public        |##########
-                          |##########
-
-                          |############
- openconfig/magna         |############
-                          |############
 
 
 
@@ -90,4 +90,4 @@ Since 2023-07-20 19:42:55 -0700 PDT, I've been most active in openconfig/ygnmi, 
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2023-08-05 11:46:13.941102395 -0700 PDT
+Last Updated: 2023-08-05 12:01:24.173681096 -0700 PDT
