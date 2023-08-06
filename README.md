@@ -42,25 +42,21 @@ Since 2023-07-20 19:42:55 -0700 PDT, I'm most active between 14:00-14:59 - with 
 
 
 ```
-                          |##########
- openconfig/public        |##########
-                          |##########
-
                           |#################################
  openconfig/ygnmi         |#################################
                           |#################################
-
-                          |########
- openconfig/models-ci     |########
-                          |########
 
                           |#########
  openconfig/grpctunnel    |#########
                           |#########
 
-                          |#
- openconfig/reference     |#
-                          |#
+                          |##############
+ openconfig/gnoi          |##############
+                          |##############
+
+                          |####
+ openconfig/ygot          |####
+                          |####
 
                           |#
  robshakir/pyangbind      |#
@@ -74,13 +70,17 @@ Since 2023-07-20 19:42:55 -0700 PDT, I'm most active between 14:00-14:59 - with 
  robshakir/ygnmi          |########
                           |########
 
-                          |##############
- openconfig/gnoi          |##############
-                          |##############
+                          |########
+ openconfig/models-ci     |########
+                          |########
 
-                          |####
- openconfig/ygot          |####
-                          |####
+                          |##########
+ openconfig/public        |##########
+                          |##########
+
+                          |#
+ openconfig/reference     |#
+                          |#
 
 
 
@@ -90,4 +90,4 @@ Since 2023-07-20 19:42:55 -0700 PDT, I've been most active in openconfig/ygnmi, 
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2023-08-05 20:18:39.508820113 -0700 PDT
+Last Updated: 2023-08-05 20:31:34.431632319 -0700 PDT
