@@ -42,6 +42,14 @@ Since 2023-07-20 19:42:55 -0700 PDT, I'm most active between 14:00-14:59 - with 
 
 
 ```
+                          |############
+ openconfig/magna         |############
+                          |############
+
+                          |#########
+ openconfig/grpctunnel    |#########
+                          |#########
+
                           |##############
  openconfig/gnoi          |##############
                           |##############
@@ -54,6 +62,10 @@ Since 2023-07-20 19:42:55 -0700 PDT, I'm most active between 14:00-14:59 - with 
  openconfig/reference     |#
                           |#
 
+                          |#
+ robshakir/pyangbind      |#
+                          |#
+
                           |#################################
  openconfig/ygnmi         |#################################
                           |#################################
@@ -61,14 +73,6 @@ Since 2023-07-20 19:42:55 -0700 PDT, I'm most active between 14:00-14:59 - with 
                           |########
  robshakir/ygnmi          |########
                           |########
-
-                          |#########
- openconfig/grpctunnel    |#########
-                          |#########
-
-                          |############
- openconfig/magna         |############
-                          |############
 
                           |########
  openconfig/models-ci     |########
@@ -78,10 +82,6 @@ Since 2023-07-20 19:42:55 -0700 PDT, I'm most active between 14:00-14:59 - with 
  openconfig/ygot          |####
                           |####
 
-                          |#
- robshakir/pyangbind      |#
-                          |#
-
 
 
 Since 2023-07-20 19:42:55 -0700 PDT, I've been most active in openconfig/ygnmi, with 33 events.
@@ -90,4 +90,4 @@ Since 2023-07-20 19:42:55 -0700 PDT, I've been most active in openconfig/ygnmi, 
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2023-08-06 12:16:02.677766028 -0700 PDT
+Last Updated: 2023-08-06 12:31:08.030541876 -0700 PDT
