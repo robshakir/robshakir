@@ -42,25 +42,13 @@ Since 2023-07-20 19:42:55 -0700 PDT, I'm most active between 14:00-14:59 - with 
 
 
 ```
-                          |#################################
- openconfig/ygnmi         |#################################
-                          |#################################
+                          |############
+ openconfig/magna         |############
+                          |############
 
                           |########
  robshakir/ygnmi          |########
                           |########
-
-                          |####
- openconfig/ygot          |####
-                          |####
-
-                          |#
- openconfig/reference     |#
-                          |#
-
-                          |#
- robshakir/pyangbind      |#
-                          |#
 
                           |########
  openconfig/models-ci     |########
@@ -74,13 +62,25 @@ Since 2023-07-20 19:42:55 -0700 PDT, I'm most active between 14:00-14:59 - with 
  openconfig/gnoi          |##############
                           |##############
 
+                          |#
+ openconfig/reference     |#
+                          |#
+
+                          |#################################
+ openconfig/ygnmi         |#################################
+                          |#################################
+
+                          |####
+ openconfig/ygot          |####
+                          |####
+
                           |##########
  openconfig/public        |##########
                           |##########
 
-                          |############
- openconfig/magna         |############
-                          |############
+                          |#
+ robshakir/pyangbind      |#
+                          |#
 
 
 
@@ -90,4 +90,4 @@ Since 2023-07-20 19:42:55 -0700 PDT, I've been most active in openconfig/ygnmi, 
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2023-08-06 20:31:21.083984014 -0700 PDT
+Last Updated: 2023-08-06 20:46:07.539844736 -0700 PDT
