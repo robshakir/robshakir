@@ -43,18 +43,6 @@ Since 2023-07-20 20:02:46 -0700 PDT, I'm most active between 14:00-14:59 - with 
 
 ```
                           |#
- openconfig/goyang        |#
-                          |#
-
-                          |#########
- openconfig/grpctunnel    |#########
-                          |#########
-
-                          |##############
- openconfig/gnoi          |##############
-                          |##############
-
-                          |#
  openconfig/reference     |#
                           |#
 
@@ -63,12 +51,8 @@ Since 2023-07-20 20:02:46 -0700 PDT, I'm most active between 14:00-14:59 - with 
                           |######
 
                           |#
- robshakir/pyangbind      |#
+ openconfig/goyang        |#
                           |#
-
-                          |###############
- openconfig/public        |###############
-                          |###############
 
                           |#################################
  openconfig/ygnmi         |#################################
@@ -82,9 +66,25 @@ Since 2023-07-20 20:02:46 -0700 PDT, I'm most active between 14:00-14:59 - with 
  openconfig/models-ci     |########
                           |########
 
+                          |#########
+ openconfig/grpctunnel    |#########
+                          |#########
+
+                          |###############
+ openconfig/public        |###############
+                          |###############
+
+                          |##############
+ openconfig/gnoi          |##############
+                          |##############
+
                           |####
  openconfig/ygot          |####
                           |####
+
+                          |#
+ robshakir/pyangbind      |#
+                          |#
 
 
 
@@ -94,4 +94,4 @@ Since 2023-07-20 20:02:46 -0700 PDT, I've been most active in openconfig/ygnmi, 
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2023-08-09 07:19:30.684679987 -0700 PDT
+Last Updated: 2023-08-09 07:32:34.257812936 -0700 PDT
