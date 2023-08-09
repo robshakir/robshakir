@@ -42,16 +42,32 @@ Since 2023-07-20 20:02:46 -0700 PDT, I'm most active between 14:00-14:59 - with 
 
 
 ```
+                          |###############
+ openconfig/public        |###############
+                          |###############
+
+                          |#################################
+ openconfig/ygnmi         |#################################
+                          |#################################
+
                           |########
- openconfig/models-ci     |########
+ robshakir/ygnmi          |########
                           |########
 
                           |#
  openconfig/reference     |#
                           |#
 
+                          |#
+ robshakir/pyangbind      |#
+                          |#
+
+                          |#
+ openconfig/goyang        |#
+                          |#
+
                           |########
- robshakir/ygnmi          |########
+ openconfig/models-ci     |########
                           |########
 
                           |#########
@@ -66,22 +82,6 @@ Since 2023-07-20 20:02:46 -0700 PDT, I'm most active between 14:00-14:59 - with 
  openconfig/ygot          |####
                           |####
 
-                          |#
- robshakir/pyangbind      |#
-                          |#
-
-                          |###############
- openconfig/public        |###############
-                          |###############
-
-                          |#
- openconfig/goyang        |#
-                          |#
-
-                          |#################################
- openconfig/ygnmi         |#################################
-                          |#################################
-
                           |######
  openconfig/magna         |######
                           |######
@@ -94,4 +94,4 @@ Since 2023-07-20 20:02:46 -0700 PDT, I've been most active in openconfig/ygnmi, 
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2023-08-09 01:20:42.301134121 -0700 PDT
+Last Updated: 2023-08-09 01:32:00.485756462 -0700 PDT
