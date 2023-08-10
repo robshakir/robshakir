@@ -42,20 +42,8 @@ Since 2023-07-20 20:02:46 -0700 PDT, I'm most active between 14:00-14:59 - with 
 
 
 ```
-                          |#########
- openconfig/grpctunnel    |#########
-                          |#########
-
-                          |####
- openconfig/ygot          |####
-                          |####
-
-                          |######
- openconfig/magna         |######
-                          |######
-
                           |#
- openconfig/goyang        |#
+ robshakir/pyangbind      |#
                           |#
 
                           |#################################
@@ -70,21 +58,33 @@ Since 2023-07-20 20:02:46 -0700 PDT, I'm most active between 14:00-14:59 - with 
  openconfig/models-ci     |########
                           |########
 
-                          |##############
- openconfig/gnoi          |##############
-                          |##############
+                          |####
+ openconfig/ygot          |####
+                          |####
 
                           |#
  openconfig/reference     |#
                           |#
 
-                          |#
- robshakir/pyangbind      |#
-                          |#
+                          |######
+ openconfig/magna         |######
+                          |######
 
                           |###############
  openconfig/public        |###############
                           |###############
+
+                          |#
+ openconfig/goyang        |#
+                          |#
+
+                          |#########
+ openconfig/grpctunnel    |#########
+                          |#########
+
+                          |##############
+ openconfig/gnoi          |##############
+                          |##############
 
 
 
@@ -94,4 +94,4 @@ Since 2023-07-20 20:02:46 -0700 PDT, I've been most active in openconfig/ygnmi, 
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2023-08-10 07:19:28.233318865 -0700 PDT
+Last Updated: 2023-08-10 07:32:10.501619107 -0700 PDT
