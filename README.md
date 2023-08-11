@@ -1,74 +1,58 @@
 ### 🍞 Bread Crumbs
 
- * 🔍: Reviewed a pull request in  `openconfig/public` at 2023-08-08 13:08:32 -0700 PDT
- * 🔍: Reviewed a pull request in  `openconfig/public` at 2023-08-08 13:08:22 -0700 PDT
- * 💬: Commented on a PR in  `openconfig/public` at 2023-08-08 13:07:11 -0700 PDT
- * 🔍: Reviewed a pull request in  `openconfig/public` at 2023-08-08 13:08:13 -0700 PDT
- * 🔍: Reviewed a pull request in  `openconfig/public` at 2023-08-08 13:08:13 -0700 PDT
- * 👉: Prodded at the collaborators for `openconfig/goyang` at 2023-08-07 14:01:06 -0700 PDT
- * 🐿: Created a release in `openconfig/ygnmi` at 2023-08-04 13:59:13 -0700 PDT
- * 💥: Created a branch in `openconfig/ygnmi` at 2023-08-04 13:58:59 -0700 PDT
- * 🚢: Pushed some commits to `openconfig/ygnmi` at 2023-08-04 13:56:19 -0700 PDT
- * ✍🏼: Created a pull request in `openconfig/ygnmi` at 2023-08-04 13:56:19 -0700 PDT
+ * 💬: Commented on a PR in  `openconfig/bootz` at 2023-08-11 12:25:22 -0700 PDT
+ * 💬: Commented on a PR in  `openconfig/bootz` at 2023-08-11 10:25:56 -0700 PDT
+ * 💬: Commented on a PR in  `openconfig/bootz` at 2023-08-11 12:27:53 -0700 PDT
+ * 💬: Commented on a PR in  `openconfig/bootz` at 2023-08-11 12:28:25 -0700 PDT
+ * 💬: Commented on a PR in  `openconfig/bootz` at 2023-08-11 12:30:03 -0700 PDT
+ * 💬: Commented on a PR in  `openconfig/bootz` at 2023-08-11 12:26:19 -0700 PDT
+ * 💬: Commented on a PR in  `openconfig/bootz` at 2023-08-11 12:27:05 -0700 PDT
+ * 💬: Commented on a PR in  `openconfig/bootz` at 2023-08-11 12:23:41 -0700 PDT
+ * 💬: Commented on a PR in  `openconfig/bootz` at 2023-08-11 12:25:06 -0700 PDT
+ * 💬: Commented on a PR in  `openconfig/bootz` at 2023-08-11 10:31:05 -0700 PDT
 
 ### 🕘 Recent Activity
 ```
  23 ┼                                                           ╭╮
- 22 ┤                                                           │╰╮
- 20 ┤                                                          ╭╯ ╰╮
- 19 ┤                                                          │   │
- 17 ┤                                                         ╭╯   ╰╮
- 16 ┤                                                        ╭╯     ╰╮
- 14 ┤                                                        │       │
- 12 ┤                                                       ╭╯       ╰╮
- 11 ┤                                                       │         │
-  9 ┤                         ╭╮                           ╭╯         ╰╮
-  8 ┤                        ╭╯╰╮      ╭─────╮            ╭╯           │
-  6 ┤                        │  ╰─╮ ╭──╯     ╰─╮          │            ╰╮
-  5 ┤                       ╭╯    ╰─╯          ╰────╮    ╭╯             │         ╭╮      ╭╮
-  3 ┤                      ╭╯                       ╰─╮  │              ╰╮      ╭─╯╰──────╯╰╮
-  2 ┤                     ╭╯                          ╰──╯               │     ╭╯           ╰─╮
-  0 ┼─────────────────────╯                                              ╰─────╯              ╰─────────
+ 22 ┤                                                           ││
+ 20 ┤                                                          ╭╯╰╮
+ 19 ┤                                                          │  │
+ 17 ┤                                                         ╭╯  ╰╮
+ 16 ┤                                                        ╭╯    │
+ 14 ┤                                                        │     │
+ 12 ┤                                                   ╭────╯     ╰╮
+ 11 ┤                                                  ╭╯           │
+  9 ┤                         ╭╮                      ╭╯            │
+  8 ┤                        ╭╯╰╮          ╭─────╮   ╭╯             ╰╮
+  6 ┤                        │  ╰─╮      ╭─╯     ╰╮  │               │
+  5 ┤                       ╭╯    ╰─╮   ╭╯        ╰──╯               ╰─╮
+  3 ┤                      ╭╯       ╰─╮╭╯                              ╰──╮      ╭──────╮
+  2 ┤                     ╭╯          ╰╯                                  ╰──╮ ╭─╯      ╰───╮
+  0 ┼─────────────────────╯                                                  ╰─╯            ╰───────────
     +───────+───────+───────+───────+───────+───────+───────+───────+───────+───────+───────+───────+────
   00:00   02:00   04:00   06:00   08:00   10:00   12:00   14:00   16:00   18:00   20:00   22:00   00:00   
 
 						Commits by Hour of Day
 
 
-Since 2023-07-20 20:02:46 -0700 PDT, I'm most active between 14:00-14:59 - with 24 events in that hour.
+Since 2023-07-26 18:31:22 -0700 PDT, I'm most active between 14:00-14:59 - with 24 events in that hour.
 
 ```
 
 
 
 ```
-                          |###############
- openconfig/public        |###############
-                          |###############
-
-                          |#
- openconfig/goyang        |#
-                          |#
-
-                          |#########
- openconfig/grpctunnel    |#########
-                          |#########
-
-                          |####
- openconfig/ygot          |####
-                          |####
-
-                          |#################################
- openconfig/ygnmi         |#################################
-                          |#################################
-
-                          |########
- robshakir/ygnmi          |########
-                          |########
+                          |################################
+ openconfig/ygnmi         |################################
+                          |################################
 
                           |########
  openconfig/models-ci     |########
                           |########
+
+                          |#########
+ openconfig/grpctunnel    |#########
+                          |#########
 
                           |##############
  openconfig/gnoi          |##############
@@ -78,20 +62,36 @@ Since 2023-07-20 20:02:46 -0700 PDT, I'm most active between 14:00-14:59 - with 
  openconfig/reference     |#
                           |#
 
+                          |##################
+ openconfig/bootz         |##################
+                          |##################
+
+                          |#######
+ openconfig/public        |#######
+                          |#######
+
+                          |#
+ openconfig/goyang        |#
+                          |#
+
+                          |########
+ robshakir/ygnmi          |########
+                          |########
+
+                          |#
+ openconfig/ygot          |#
+                          |#
+
                           |#
  robshakir/pyangbind      |#
                           |#
 
-                          |######
- openconfig/magna         |######
-                          |######
 
 
-
-Since 2023-07-20 20:02:46 -0700 PDT, I've been most active in openconfig/ygnmi, with 33 events.
+Since 2023-07-26 18:31:22 -0700 PDT, I've been most active in openconfig/ygnmi, with 32 events.
 
 ```
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2023-08-11 12:31:05.369485622 -0700 PDT
+Last Updated: 2023-08-11 12:46:00.137959941 -0700 PDT
