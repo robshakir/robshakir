@@ -42,6 +42,10 @@ Since 2023-07-27 09:47:58 -0700 PDT, I'm most active between 14:00-14:59 - with 
 
 
 ```
+                          |#
+ openconfig/goyang        |#
+                          |#
+
                           |########
  openconfig/models-ci     |########
                           |########
@@ -55,16 +59,20 @@ Since 2023-07-27 09:47:58 -0700 PDT, I'm most active between 14:00-14:59 - with 
                           |##############
 
                           |#
- openconfig/ygot          |#
+ openconfig/reference     |#
                           |#
 
-                          |##
- openconfig/gribigo       |##
-                          |##
+                          |#
+ robshakir/pyangbind      |#
+                          |#
 
-                          |#
- openconfig/goyang        |#
-                          |#
+                          |#######
+ openconfig/public        |#######
+                          |#######
+
+                          |####################
+ openconfig/bootz         |####################
+                          |####################
 
                           |##############################
  openconfig/ygnmi         |##############################
@@ -75,20 +83,12 @@ Since 2023-07-27 09:47:58 -0700 PDT, I'm most active between 14:00-14:59 - with 
                           |######
 
                           |#
- openconfig/reference     |#
+ openconfig/ygot          |#
                           |#
 
-                          |#
- robshakir/pyangbind      |#
-                          |#
-
-                          |####################
- openconfig/bootz         |####################
-                          |####################
-
-                          |#######
- openconfig/public        |#######
-                          |#######
+                          |##
+ openconfig/gribigo       |##
+                          |##
 
 
 
@@ -98,4 +98,4 @@ Since 2023-07-27 09:47:58 -0700 PDT, I've been most active in openconfig/ygnmi, 
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2023-08-12 07:01:23.512034768 -0700 PDT
+Last Updated: 2023-08-12 07:17:44.87526009 -0700 PDT
