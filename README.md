@@ -42,45 +42,13 @@ Since 2023-07-27 14:48:50 -0700 PDT, I'm most active between 14:00-14:59 - with 
 
 
 ```
-                          |#######
- openconfig/public        |#######
-                          |#######
-
-                          |#########
- openconfig/grpctunnel    |#########
-                          |#########
-
-                          |#
- openconfig/ygot          |#
-                          |#
-
-                          |#
- openconfig/reference     |#
-                          |#
-
-                          |###
- openconfig/gribi         |###
-                          |###
-
                           |#
  openconfig/goyang        |#
                           |#
 
-                          |################
- openconfig/ygnmi         |################
-                          |################
-
                           |####
  robshakir/ygnmi          |####
                           |####
-
-                          |####################
- openconfig/bootz         |####################
-                          |####################
-
-                          |##############
- openconfig/gnoi          |##############
-                          |##############
 
                           |#
  robshakir/pyangbind      |#
@@ -90,13 +58,45 @@ Since 2023-07-27 14:48:50 -0700 PDT, I'm most active between 14:00-14:59 - with 
  openconfig/gribigo       |##############
                           |##############
 
+                          |#######
+ openconfig/public        |#######
+                          |#######
+
+                          |#
+ openconfig/reference     |#
+                          |#
+
                           |#
  openconfig/lemming       |#
                           |#
 
+                          |####################
+ openconfig/bootz         |####################
+                          |####################
+
+                          |#########
+ openconfig/grpctunnel    |#########
+                          |#########
+
+                          |##############
+ openconfig/gnoi          |##############
+                          |##############
+
+                          |###
+ openconfig/gribi         |###
+                          |###
+
+                          |################
+ openconfig/ygnmi         |################
+                          |################
+
                           |########
  openconfig/models-ci     |########
                           |########
+
+                          |#
+ openconfig/ygot          |#
+                          |#
 
 
 
@@ -106,4 +106,4 @@ Since 2023-07-27 14:48:50 -0700 PDT, I've been most active in openconfig/bootz, 
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2023-08-13 06:01:20.000199238 -0700 PDT
+Last Updated: 2023-08-13 06:18:55.48428216 -0700 PDT
