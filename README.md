@@ -42,8 +42,32 @@ Since 2023-07-27 09:53:27 -0700 PDT, I'm most active between 14:00-14:59 - with 
 
 
 ```
+                          |#####
+ openconfig/gribigo       |#####
+                          |#####
+
+                          |####################
+ openconfig/bootz         |####################
+                          |####################
+
+                          |###########################
+ openconfig/ygnmi         |###########################
+                          |###########################
+
+                          |#
+ openconfig/ygot          |#
+                          |#
+
                           |#
  openconfig/reference     |#
+                          |#
+
+                          |#######
+ openconfig/public        |#######
+                          |#######
+
+                          |#
+ openconfig/goyang        |#
                           |#
 
                           |######
@@ -62,32 +86,8 @@ Since 2023-07-27 09:53:27 -0700 PDT, I'm most active between 14:00-14:59 - with 
  openconfig/gnoi          |##############
                           |##############
 
-                          |###########################
- openconfig/ygnmi         |###########################
-                          |###########################
-
-                          |#
- openconfig/ygot          |#
-                          |#
-
                           |#
  robshakir/pyangbind      |#
-                          |#
-
-                          |#####
- openconfig/gribigo       |#####
-                          |#####
-
-                          |####################
- openconfig/bootz         |####################
-                          |####################
-
-                          |#######
- openconfig/public        |#######
-                          |#######
-
-                          |#
- openconfig/goyang        |#
                           |#
 
 
@@ -98,4 +98,4 @@ Since 2023-07-27 09:53:27 -0700 PDT, I've been most active in openconfig/ygnmi, 
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2023-08-13 01:46:10.180548837 -0700 PDT
+Last Updated: 2023-08-13 02:01:11.342648706 -0700 PDT
