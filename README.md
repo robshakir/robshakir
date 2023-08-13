@@ -42,10 +42,6 @@ Since 2023-07-27 09:53:27 -0700 PDT, I'm most active between 14:00-14:59 - with 
 
 
 ```
-                          |#
- openconfig/goyang        |#
-                          |#
-
                           |#####
  openconfig/gribigo       |#####
                           |#####
@@ -57,6 +53,30 @@ Since 2023-07-27 09:53:27 -0700 PDT, I'm most active between 14:00-14:59 - with 
                           |#######
  openconfig/public        |#######
                           |#######
+
+                          |######
+ robshakir/ygnmi          |######
+                          |######
+
+                          |#
+ openconfig/reference     |#
+                          |#
+
+                          |#
+ robshakir/pyangbind      |#
+                          |#
+
+                          |#
+ openconfig/goyang        |#
+                          |#
+
+                          |###########################
+ openconfig/ygnmi         |###########################
+                          |###########################
+
+                          |########
+ openconfig/models-ci     |########
+                          |########
 
                           |#########
  openconfig/grpctunnel    |#########
@@ -70,26 +90,6 @@ Since 2023-07-27 09:53:27 -0700 PDT, I'm most active between 14:00-14:59 - with 
  openconfig/ygot          |#
                           |#
 
-                          |#
- openconfig/reference     |#
-                          |#
-
-                          |#
- robshakir/pyangbind      |#
-                          |#
-
-                          |###########################
- openconfig/ygnmi         |###########################
-                          |###########################
-
-                          |######
- robshakir/ygnmi          |######
-                          |######
-
-                          |########
- openconfig/models-ci     |########
-                          |########
-
 
 
 Since 2023-07-27 09:53:27 -0700 PDT, I've been most active in openconfig/ygnmi, with 27 events.
@@ -98,4 +98,4 @@ Since 2023-07-27 09:53:27 -0700 PDT, I've been most active in openconfig/ygnmi, 
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2023-08-12 20:31:09.699939544 -0700 PDT
+Last Updated: 2023-08-12 20:46:10.828440455 -0700 PDT
