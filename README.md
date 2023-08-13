@@ -42,14 +42,6 @@ Since 2023-07-27 09:53:27 -0700 PDT, I'm most active between 14:00-14:59 - with 
 
 
 ```
-                          |##############
- openconfig/gnoi          |##############
-                          |##############
-
-                          |####################
- openconfig/bootz         |####################
-                          |####################
-
                           |#######
  openconfig/public        |#######
                           |#######
@@ -70,17 +62,17 @@ Since 2023-07-27 09:53:27 -0700 PDT, I'm most active between 14:00-14:59 - with 
  openconfig/models-ci     |########
                           |########
 
-                          |#########
- openconfig/grpctunnel    |#########
-                          |#########
+                          |#
+ openconfig/ygot          |#
+                          |#
 
                           |#####
  openconfig/gribigo       |#####
                           |#####
 
-                          |#
- openconfig/ygot          |#
-                          |#
+                          |####################
+ openconfig/bootz         |####################
+                          |####################
 
                           |#
  openconfig/reference     |#
@@ -90,6 +82,14 @@ Since 2023-07-27 09:53:27 -0700 PDT, I'm most active between 14:00-14:59 - with 
  robshakir/pyangbind      |#
                           |#
 
+                          |#########
+ openconfig/grpctunnel    |#########
+                          |#########
+
+                          |##############
+ openconfig/gnoi          |##############
+                          |##############
+
 
 
 Since 2023-07-27 09:53:27 -0700 PDT, I've been most active in openconfig/ygnmi, with 27 events.
@@ -98,4 +98,4 @@ Since 2023-07-27 09:53:27 -0700 PDT, I've been most active in openconfig/ygnmi, 
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2023-08-13 00:01:28.129592729 -0700 PDT
+Last Updated: 2023-08-13 00:16:50.566733148 -0700 PDT
