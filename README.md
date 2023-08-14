@@ -42,17 +42,25 @@ Since 2023-08-04 10:35:30 -0700 PDT, I'm most active between 12:00-12:59 - with 
 
 
 ```
+                         |###
+ openconfig/gribi        |###
+                         |###
+
+                         |#
+ openconfig/goyang       |#
+                         |#
+
                          |#
  openconfig/models-ci    |#
                          |#
 
+                         |#############################
+ openconfig/bootz        |#############################
+                         |#############################
+
                          |#########################################
  openconfig/gribigo      |#########################################
                          |#########################################
-
-                         |######
- openconfig/public       |######
-                         |######
 
                          |###
  openconfig/ygot         |###
@@ -62,25 +70,17 @@ Since 2023-08-04 10:35:30 -0700 PDT, I'm most active between 12:00-12:59 - with 
  robshakir/lemming       |##
                          |##
 
-                         |#
- openconfig/goyang       |#
-                         |#
-
-                         |######
- openconfig/ygnmi        |######
-                         |######
-
-                         |#############################
- openconfig/bootz        |#############################
-                         |#############################
-
                          |######
  openconfig/lemming      |######
                          |######
 
-                         |###
- openconfig/gribi        |###
-                         |###
+                         |######
+ openconfig/public       |######
+                         |######
+
+                         |######
+ openconfig/ygnmi        |######
+                         |######
 
                          |##
  robshakir/ygnmi         |##
@@ -94,4 +94,4 @@ Since 2023-08-04 10:35:30 -0700 PDT, I've been most active in openconfig/gribigo
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2023-08-14 16:17:49.039056917 -0700 PDT
+Last Updated: 2023-08-14 16:31:09.855879123 -0700 PDT
