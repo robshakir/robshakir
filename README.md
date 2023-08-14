@@ -42,30 +42,6 @@ Since 2023-08-04 07:02:09 -0700 PDT, I'm most active between 12:00-12:59 - with 
 
 
 ```
-                          |######
- openconfig/ygnmi         |######
-                          |######
-
-                          |##
- robshakir/ygnmi          |##
-                          |##
-
-                          |##
- openconfig/models-ci     |##
-                          |##
-
-                          |###################################
- openconfig/gribigo       |###################################
-                          |###################################
-
-                          |##
- robshakir/lemming        |##
-                          |##
-
-                          |#
- openconfig/goyang        |#
-                          |#
-
                           |###
  openconfig/ygot          |###
                           |###
@@ -74,17 +50,13 @@ Since 2023-08-04 07:02:09 -0700 PDT, I'm most active between 12:00-12:59 - with 
  openconfig/gribi         |###
                           |###
 
-                          |####
- openconfig/grpctunnel    |####
-                          |####
-
                           |##
- openconfig/gnoi          |##
+ robshakir/ygnmi          |##
                           |##
 
-                          |############################
- openconfig/bootz         |############################
-                          |############################
+                          |###################################
+ openconfig/gribigo       |###################################
+                          |###################################
 
                           |######
  openconfig/lemming       |######
@@ -94,6 +66,34 @@ Since 2023-08-04 07:02:09 -0700 PDT, I'm most active between 12:00-12:59 - with 
  openconfig/public        |######
                           |######
 
+                          |##
+ robshakir/lemming        |##
+                          |##
+
+                          |#
+ openconfig/goyang        |#
+                          |#
+
+                          |######
+ openconfig/ygnmi         |######
+                          |######
+
+                          |##
+ openconfig/models-ci     |##
+                          |##
+
+                          |####
+ openconfig/grpctunnel    |####
+                          |####
+
+                          |############################
+ openconfig/bootz         |############################
+                          |############################
+
+                          |##
+ openconfig/gnoi          |##
+                          |##
+
 
 
 Since 2023-08-04 07:02:09 -0700 PDT, I've been most active in openconfig/gribigo, with 35 events.
@@ -102,4 +102,4 @@ Since 2023-08-04 07:02:09 -0700 PDT, I've been most active in openconfig/gribigo
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2023-08-14 10:18:45.341086619 -0700 PDT
+Last Updated: 2023-08-14 10:31:07.437851175 -0700 PDT
