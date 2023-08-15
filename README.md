@@ -42,16 +42,24 @@ Since 2023-08-04 13:56:19 -0700 PDT, I'm most active between 12:00-12:59 - with 
 
 
 ```
-                         |############################################
- openconfig/gribigo      |############################################
-                         |############################################
+                         |####
+ openconfig/ygnmi        |####
+                         |####
 
-                         |#
- openconfig/lsdbparse    |#
-                         |#
+                         |##
+ openconfig/goyang       |##
+                         |##
 
                          |######
  openconfig/lemming      |######
+                         |######
+
+                         |###
+ openconfig/gribi        |###
+                         |###
+
+                         |######
+ openconfig/public       |######
                          |######
 
                          |###
@@ -62,25 +70,17 @@ Since 2023-08-04 13:56:19 -0700 PDT, I'm most active between 12:00-12:59 - with 
  robshakir/lemming       |##
                          |##
 
-                         |####
- openconfig/ygnmi        |####
-                         |####
+                         |############################################
+ openconfig/gribigo      |############################################
+                         |############################################
 
-                         |##
- openconfig/goyang       |##
-                         |##
+                         |#
+ openconfig/lsdbparse    |#
+                         |#
 
                          |#############################
  openconfig/bootz        |#############################
                          |#############################
-
-                         |######
- openconfig/public       |######
-                         |######
-
-                         |###
- openconfig/gribi        |###
-                         |###
 
 
 
@@ -90,4 +90,4 @@ Since 2023-08-04 13:56:19 -0700 PDT, I've been most active in openconfig/gribigo
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2023-08-15 09:20:28.137400981 -0700 PDT
+Last Updated: 2023-08-15 09:32:38.005393533 -0700 PDT
