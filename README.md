@@ -42,33 +42,21 @@ Since 2023-08-04 13:56:19 -0700 PDT, I'm most active between 12:00-12:59 - with 
 
 
 ```
-                         |######
- openconfig/public       |######
-                         |######
-
-                         |###
- openconfig/ygot         |###
-                         |###
-
-                         |##
- robshakir/lemming       |##
-                         |##
-
-                         |###
- openconfig/gribi        |###
-                         |###
-
-                         |##
- openconfig/goyang       |##
-                         |##
-
                          |#############################
  openconfig/bootz        |#############################
                          |#############################
 
                          |######
- openconfig/lemming      |######
+ openconfig/public       |######
                          |######
+
+                         |##
+ robshakir/lemming       |##
+                         |##
+
+                         |####
+ openconfig/ygnmi        |####
+                         |####
 
                          |############################################
  openconfig/gribigo      |############################################
@@ -78,9 +66,21 @@ Since 2023-08-04 13:56:19 -0700 PDT, I'm most active between 12:00-12:59 - with 
  openconfig/lsdbparse    |#
                          |#
 
-                         |####
- openconfig/ygnmi        |####
-                         |####
+                         |######
+ openconfig/lemming      |######
+                         |######
+
+                         |###
+ openconfig/ygot         |###
+                         |###
+
+                         |###
+ openconfig/gribi        |###
+                         |###
+
+                         |##
+ openconfig/goyang       |##
+                         |##
 
 
 
@@ -90,4 +90,4 @@ Since 2023-08-04 13:56:19 -0700 PDT, I've been most active in openconfig/gribigo
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2023-08-14 19:05:54.868486834 -0700 PDT
+Last Updated: 2023-08-14 19:20:15.811538244 -0700 PDT
