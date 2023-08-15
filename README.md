@@ -42,6 +42,18 @@ Since 2023-08-04 13:56:19 -0700 PDT, I'm most active between 12:00-12:59 - with 
 
 
 ```
+                         |######
+ openconfig/public       |######
+                         |######
+
+                         |##
+ robshakir/lemming       |##
+                         |##
+
+                         |###
+ openconfig/gribi        |###
+                         |###
+
                          |##
  openconfig/goyang       |##
                          |##
@@ -54,29 +66,17 @@ Since 2023-08-04 13:56:19 -0700 PDT, I'm most active between 12:00-12:59 - with 
  openconfig/bootz        |#############################
                          |#############################
 
-                         |###
- openconfig/gribi        |###
-                         |###
+                         |######
+ openconfig/lemming      |######
+                         |######
 
                          |############################################
  openconfig/gribigo      |############################################
                          |############################################
 
-                         |######
- openconfig/lemming      |######
-                         |######
-
-                         |######
- openconfig/public       |######
-                         |######
-
                          |###
  openconfig/ygot         |###
                          |###
-
-                         |##
- robshakir/lemming       |##
-                         |##
 
                          |####
  openconfig/ygnmi        |####
@@ -90,4 +90,4 @@ Since 2023-08-04 13:56:19 -0700 PDT, I've been most active in openconfig/gribigo
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2023-08-15 14:17:21.491591876 -0700 PDT
+Last Updated: 2023-08-15 14:31:10.877977155 -0700 PDT
