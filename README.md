@@ -42,6 +42,22 @@ Since 2023-08-04 13:56:19 -0700 PDT, I'm most active between 12:00-12:59 - with 
 
 
 ```
+                         |#######
+ openconfig/lemming      |#######
+                         |#######
+
+                         |##
+ openconfig/goyang       |##
+                         |##
+
+                         |######
+ openconfig/public       |######
+                         |######
+
+                         |###
+ openconfig/ygnmi        |###
+                         |###
+
                          |############################################
  openconfig/gribigo      |############################################
                          |############################################
@@ -54,17 +70,9 @@ Since 2023-08-04 13:56:19 -0700 PDT, I'm most active between 12:00-12:59 - with 
  openconfig/bootz        |#############################
                          |#############################
 
-                         |######
- openconfig/public       |######
-                         |######
-
                          |###
  openconfig/ygot         |###
                          |###
-
-                         |#######
- openconfig/lemming      |#######
-                         |#######
 
                          |##
  robshakir/lemming       |##
@@ -74,14 +82,6 @@ Since 2023-08-04 13:56:19 -0700 PDT, I'm most active between 12:00-12:59 - with 
  openconfig/gribi        |###
                          |###
 
-                         |###
- openconfig/ygnmi        |###
-                         |###
-
-                         |##
- openconfig/goyang       |##
-                         |##
-
 
 
 Since 2023-08-04 13:56:19 -0700 PDT, I've been most active in openconfig/gribigo, with 44 events.
@@ -90,4 +90,4 @@ Since 2023-08-04 13:56:19 -0700 PDT, I've been most active in openconfig/gribigo
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2023-08-15 19:46:11.14215888 -0700 PDT
+Last Updated: 2023-08-15 20:01:27.359921027 -0700 PDT
