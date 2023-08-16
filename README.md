@@ -42,6 +42,26 @@ Since 2023-08-07 14:01:06 -0700 PDT, I'm most active between 12:00-12:59 - with 
 
 
 ```
+                         |#######
+ openconfig/lemming      |#######
+                         |#######
+
+                         |##
+ openconfig/goyang       |##
+                         |##
+
+                         |#
+ openconfig/lsdbparse    |#
+                         |#
+
+                         |##
+ robshakir/lemming       |##
+                         |##
+
+                         |###############################################
+ openconfig/gribigo      |###############################################
+                         |###############################################
+
                          |#############################
  openconfig/bootz        |#############################
                          |#############################
@@ -54,29 +74,9 @@ Since 2023-08-07 14:01:06 -0700 PDT, I'm most active between 12:00-12:59 - with 
  openconfig/ygot         |###
                          |###
 
-                         |##
- robshakir/lemming       |##
-                         |##
-
-                         |###############################################
- openconfig/gribigo      |###############################################
-                         |###############################################
-
-                         |##
- openconfig/goyang       |##
-                         |##
-
-                         |#
- openconfig/lsdbparse    |#
-                         |#
-
                          |###
  openconfig/gribi        |###
                          |###
-
-                         |#######
- openconfig/lemming      |#######
-                         |#######
 
 
 
@@ -86,4 +86,4 @@ Since 2023-08-07 14:01:06 -0700 PDT, I've been most active in openconfig/gribigo
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2023-08-16 14:31:05.042894596 -0700 PDT
+Last Updated: 2023-08-16 14:46:03.708435799 -0700 PDT
