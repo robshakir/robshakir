@@ -42,25 +42,9 @@ Since 2023-08-07 14:01:06 -0700 PDT, I'm most active between 12:00-12:59 - with 
 
 
 ```
-                         |###############################################
- openconfig/gribigo      |###############################################
-                         |###############################################
-
-                         |#######
- openconfig/lemming      |#######
-                         |#######
-
-                         |#
- openconfig/lsdbparse    |#
-                         |#
-
                          |##
  robshakir/lemming       |##
                          |##
-
-                         |###
- openconfig/gribi        |###
-                         |###
 
                          |##
  openconfig/goyang       |##
@@ -70,6 +54,10 @@ Since 2023-08-07 14:01:06 -0700 PDT, I'm most active between 12:00-12:59 - with 
  openconfig/bootz        |#############################
                          |#############################
 
+                         |#
+ openconfig/lsdbparse    |#
+                         |#
+
                          |######
  openconfig/public       |######
                          |######
@@ -77,6 +65,18 @@ Since 2023-08-07 14:01:06 -0700 PDT, I'm most active between 12:00-12:59 - with 
                          |###
  openconfig/ygot         |###
                          |###
+
+                         |###
+ openconfig/gribi        |###
+                         |###
+
+                         |###############################################
+ openconfig/gribigo      |###############################################
+                         |###############################################
+
+                         |#######
+ openconfig/lemming      |#######
+                         |#######
 
 
 
@@ -86,4 +86,4 @@ Since 2023-08-07 14:01:06 -0700 PDT, I've been most active in openconfig/gribigo
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2023-08-16 22:46:07.613808418 -0700 PDT
+Last Updated: 2023-08-16 23:01:53.310387394 -0700 PDT
