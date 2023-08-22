@@ -42,29 +42,13 @@ Since 2023-08-11 12:25:22 -0700 PDT, I'm most active between 09:00-09:59 - with 
 
 
 ```
+                                   |############
+ openconfig/bootz                  |############
+                                   |############
+
                                    |###
- openconfig/goyang                 |###
+ openconfig/ygot                   |###
                                    |###
-
-                                   |##################################################
- openconfig/gribigo                |##################################################
-                                   |##################################################
-
-                                   |#
- openconfig/gnoi                   |#
-                                   |#
-
-                                   |#
- openconfig/models-ci              |#
-                                   |#
-
-                                   |#######
- openconfig/lemming                |#######
-                                   |#######
-
-                                   |#
- openconfig/lsdbparse              |#
-                                   |#
 
                                    |########
  openconfig/magna                  |########
@@ -74,25 +58,41 @@ Since 2023-08-11 12:25:22 -0700 PDT, I'm most active between 09:00-09:59 - with 
  openconfig/pattern-regex-tests    |#
                                    |#
 
+                                   |##################################################
+ openconfig/gribigo                |##################################################
+                                   |##################################################
+
+                                   |#
+ openconfig/models-ci              |#
+                                   |#
+
+                                   |#######
+ openconfig/lemming                |#######
+                                   |#######
+
                                    |###
  openconfig/gribi                  |###
                                    |###
-
-                                   |############
- openconfig/bootz                  |############
-                                   |############
-
-                                   |##
- robshakir/lemming                 |##
-                                   |##
 
                                    |########
  openconfig/public                 |########
                                    |########
 
                                    |###
- openconfig/ygot                   |###
+ openconfig/goyang                 |###
                                    |###
+
+                                   |#
+ openconfig/gnoi                   |#
+                                   |#
+
+                                   |#
+ openconfig/lsdbparse              |#
+                                   |#
+
+                                   |##
+ robshakir/lemming                 |##
+                                   |##
 
 
 
@@ -102,4 +102,4 @@ Since 2023-08-11 12:25:22 -0700 PDT, I've been most active in openconfig/gribigo
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2023-08-22 11:20:14.459844998 -0700 PDT
+Last Updated: 2023-08-22 11:31:07.38615463 -0700 PDT
