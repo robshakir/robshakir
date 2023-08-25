@@ -54,29 +54,17 @@ Since 2023-08-13 05:17:11 -0700 PDT, I'm most active between 09:00-09:59 - with 
  openconfig/magna                  |##########################
                                    |##########################
 
-                                   |##
- openconfig/featureprofiles        |##
-                                   |##
-
-                                   |########
- openconfig/public                 |########
-                                   |########
-
                                    |#
  openconfig/pattern-regex-tests    |#
                                    |#
 
-                                   |#####################################
- openconfig/gribigo                |#####################################
-                                   |#####################################
-
-                                   |##
- robshakir/lemming                 |##
-                                   |##
-
                                    |###
  openconfig/goyang                 |###
                                    |###
+
+                                   |#####################################
+ openconfig/gribigo                |#####################################
+                                   |#####################################
 
                                    |#
  openconfig/gnoi                   |#
@@ -85,6 +73,18 @@ Since 2023-08-13 05:17:11 -0700 PDT, I'm most active between 09:00-09:59 - with 
                                    |#
  openconfig/models-ci              |#
                                    |#
+
+                                   |##
+ robshakir/lemming                 |##
+                                   |##
+
+                                   |##
+ openconfig/featureprofiles        |##
+                                   |##
+
+                                   |########
+ openconfig/public                 |########
+                                   |########
 
                                    |#
  openconfig/lsdbparse              |#
@@ -102,4 +102,4 @@ Since 2023-08-13 05:17:11 -0700 PDT, I've been most active in openconfig/gribigo
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2023-08-25 04:01:14.436185249 -0700 PDT
+Last Updated: 2023-08-25 04:16:50.926887526 -0700 PDT
