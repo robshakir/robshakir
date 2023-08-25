@@ -42,17 +42,9 @@ Since 2023-08-13 05:17:11 -0700 PDT, I'm most active between 09:00-09:59 - with 
 
 
 ```
-                                   |########
- openconfig/public                 |########
-                                   |########
-
-                                   |#
- openconfig/pattern-regex-tests    |#
-                                   |#
-
-                                   |#####################################
- openconfig/gribigo                |#####################################
-                                   |#####################################
+                                   |###
+ openconfig/goyang                 |###
+                                   |###
 
                                    |#
  openconfig/models-ci              |#
@@ -70,22 +62,6 @@ Since 2023-08-13 05:17:11 -0700 PDT, I'm most active between 09:00-09:59 - with 
  openconfig/bootz                  |#########
                                    |#########
 
-                                   |##########################
- openconfig/magna                  |##########################
-                                   |##########################
-
-                                   |##
- openconfig/featureprofiles        |##
-                                   |##
-
-                                   |###
- openconfig/goyang                 |###
-                                   |###
-
-                                   |#
- openconfig/gnoi                   |#
-                                   |#
-
                                    |###
  openconfig/ygot                   |###
                                    |###
@@ -93,6 +69,30 @@ Since 2023-08-13 05:17:11 -0700 PDT, I'm most active between 09:00-09:59 - with 
                                    |##
  robshakir/lemming                 |##
                                    |##
+
+                                   |#
+ openconfig/pattern-regex-tests    |#
+                                   |#
+
+                                   |##
+ openconfig/featureprofiles        |##
+                                   |##
+
+                                   |########
+ openconfig/public                 |########
+                                   |########
+
+                                   |#####################################
+ openconfig/gribigo                |#####################################
+                                   |#####################################
+
+                                   |#
+ openconfig/gnoi                   |#
+                                   |#
+
+                                   |##########################
+ openconfig/magna                  |##########################
+                                   |##########################
 
 
 
@@ -102,4 +102,4 @@ Since 2023-08-13 05:17:11 -0700 PDT, I've been most active in openconfig/gribigo
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2023-08-24 22:01:32.380935191 -0700 PDT
+Last Updated: 2023-08-24 22:18:30.87491685 -0700 PDT
