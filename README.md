@@ -42,6 +42,10 @@ Since 2023-08-13 09:41:48 -0700 PDT, I'm most active between 12:00-12:59 - with 
 
 
 ```
+                                   |#############
+ openconfig/public                 |#############
+                                   |#############
+
                                    |##############################
  openconfig/magna                  |##############################
                                    |##############################
@@ -54,17 +58,13 @@ Since 2023-08-13 09:41:48 -0700 PDT, I'm most active between 12:00-12:59 - with 
  openconfig/goyang                 |###
                                    |###
 
-                                   |#
- openconfig/models-ci              |#
-                                   |#
-
                                    |######
  openconfig/lemming                |######
                                    |######
 
-                                   |#############
- openconfig/public                 |#############
-                                   |#############
+                                   |#
+ openconfig/lsdbparse              |#
+                                   |#
 
                                    |##
  openconfig/featureprofiles        |##
@@ -79,7 +79,7 @@ Since 2023-08-13 09:41:48 -0700 PDT, I'm most active between 12:00-12:59 - with 
                                    |#
 
                                    |#
- openconfig/lsdbparse              |#
+ openconfig/models-ci              |#
                                    |#
 
                                    |#########
@@ -102,4 +102,4 @@ Since 2023-08-13 09:41:48 -0700 PDT, I've been most active in openconfig/magna, 
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2023-08-28 16:18:00.236245751 -0700 PDT
+Last Updated: 2023-08-28 16:40:02.361863049 -0700 PDT
