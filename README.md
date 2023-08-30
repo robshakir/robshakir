@@ -42,22 +42,6 @@ Since 2023-08-13 09:41:48 -0700 PDT, I'm most active between 12:00-12:59 - with 
 
 
 ```
-                                   |#########
- openconfig/bootz                  |#########
-                                   |#########
-
-                                   |#
- openconfig/lsdbparse              |#
-                                   |#
-
-                                   |##############################
- openconfig/magna                  |##############################
-                                   |##############################
-
-                                   |##
- openconfig/featureprofiles        |##
-                                   |##
-
                                    |#
  openconfig/pattern-regex-tests    |#
                                    |#
@@ -78,21 +62,37 @@ Since 2023-08-13 09:41:48 -0700 PDT, I'm most active between 12:00-12:59 - with 
  openconfig/models-ci              |#
                                    |#
 
-                                   |#############
- openconfig/public                 |#############
-                                   |#############
+                                   |######
+ openconfig/lemming                |######
+                                   |######
 
-                                   |###
- openconfig/ygot                   |###
-                                   |###
+                                   |##############################
+ openconfig/magna                  |##############################
+                                   |##############################
+
+                                   |##
+ openconfig/featureprofiles        |##
+                                   |##
+
+                                   |#
+ openconfig/lsdbparse              |#
+                                   |#
 
                                    |##
  robshakir/lemming                 |##
                                    |##
 
-                                   |######
- openconfig/lemming                |######
-                                   |######
+                                   |###
+ openconfig/ygot                   |###
+                                   |###
+
+                                   |#############
+ openconfig/public                 |#############
+                                   |#############
+
+                                   |#########
+ openconfig/bootz                  |#########
+                                   |#########
 
 
 
@@ -102,4 +102,4 @@ Since 2023-08-13 09:41:48 -0700 PDT, I've been most active in openconfig/magna, 
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2023-08-30 11:31:24.130633129 -0700 PDT
+Last Updated: 2023-08-30 11:46:20.759713995 -0700 PDT
