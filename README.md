@@ -42,9 +42,13 @@ Since 2023-08-13 09:41:48 -0700 PDT, I'm most active between 12:00-12:59 - with 
 
 
 ```
-                                   |###
- openconfig/goyang                 |###
-                                   |###
+                                   |#############
+ openconfig/public                 |#############
+                                   |#############
+
+                                   |#
+ openconfig/pattern-regex-tests    |#
+                                   |#
 
                                    |#
  openconfig/gnoi                   |#
@@ -66,17 +70,21 @@ Since 2023-08-13 09:41:48 -0700 PDT, I'm most active between 12:00-12:59 - with 
  openconfig/ygot                   |###
                                    |###
 
-                                   |#############
- openconfig/public                 |#############
-                                   |#############
+                                   |##
+ robshakir/lemming                 |##
+                                   |##
 
                                    |##############################
  openconfig/magna                  |##############################
                                    |##############################
 
                                    |##
- robshakir/lemming                 |##
+ openconfig/featureprofiles        |##
                                    |##
+
+                                   |###
+ openconfig/goyang                 |###
+                                   |###
 
                                    |############################
  openconfig/gribigo                |############################
@@ -84,14 +92,6 @@ Since 2023-08-13 09:41:48 -0700 PDT, I'm most active between 12:00-12:59 - with 
 
                                    |#
  openconfig/lsdbparse              |#
-                                   |#
-
-                                   |##
- openconfig/featureprofiles        |##
-                                   |##
-
-                                   |#
- openconfig/pattern-regex-tests    |#
                                    |#
 
 
@@ -102,4 +102,4 @@ Since 2023-08-13 09:41:48 -0700 PDT, I've been most active in openconfig/magna, 
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2023-08-30 07:19:12.584251883 -0700 PDT
+Last Updated: 2023-08-30 07:31:16.850388247 -0700 PDT
