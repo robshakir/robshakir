@@ -42,6 +42,22 @@ Since 2023-08-13 13:00:48 -0700 PDT, I'm most active between 09:00-09:59 - with 
 
 
 ```
+                                   |#
+ openconfig/ygot                   |#
+                                   |#
+
+                                   |######################
+ openconfig/gribigo                |######################
+                                   |######################
+
+                                   |#####
+ openconfig/lemming                |#####
+                                   |#####
+
+                                   |#####
+ openconfig/gnsi                   |#####
+                                   |#####
+
                                    |##############################
  openconfig/magna                  |##############################
                                    |##############################
@@ -50,21 +66,29 @@ Since 2023-08-13 13:00:48 -0700 PDT, I'm most active between 09:00-09:59 - with 
  openconfig/featureprofiles        |##
                                    |##
 
+                                   |###
+ openconfig/reference              |###
+                                   |###
+
                                    |#
  openconfig/pattern-regex-tests    |#
                                    |#
-
-                                   |#####
- openconfig/gnsi                   |#####
-                                   |#####
 
                                    |#
  openconfig/models-ci              |#
                                    |#
 
-                                   |######################
- openconfig/gribigo                |######################
-                                   |######################
+                                   |##
+ robshakir/lemming                 |##
+                                   |##
+
+                                   |#
+ openconfig/gnoi                   |#
+                                   |#
+
+                                   |#
+ openconfig/lsdbparse              |#
+                                   |#
 
                                    |##############
  openconfig/public                 |##############
@@ -74,33 +98,9 @@ Since 2023-08-13 13:00:48 -0700 PDT, I'm most active between 09:00-09:59 - with 
  openconfig/goyang                 |###
                                    |###
 
-                                   |#
- openconfig/gnoi                   |#
-                                   |#
-
                                    |#########
  openconfig/bootz                  |#########
                                    |#########
-
-                                   |#
- openconfig/ygot                   |#
-                                   |#
-
-                                   |#####
- openconfig/lemming                |#####
-                                   |#####
-
-                                   |##
- robshakir/lemming                 |##
-                                   |##
-
-                                   |###
- openconfig/reference              |###
-                                   |###
-
-                                   |#
- openconfig/lsdbparse              |#
-                                   |#
 
 
 
@@ -110,4 +110,4 @@ Since 2023-08-13 13:00:48 -0700 PDT, I've been most active in openconfig/magna, 
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2023-09-10 08:01:24.134022986 -0700 PDT
+Last Updated: 2023-09-10 08:17:51.362078298 -0700 PDT
