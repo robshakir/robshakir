@@ -42,54 +42,6 @@ Since 2023-08-13 13:00:48 -0700 PDT, I'm most active between 09:00-09:59 - with 
 
 
 ```
-                                   |##############
- openconfig/public                 |##############
-                                   |##############
-
-                                   |##
- openconfig/featureprofiles        |##
-                                   |##
-
-                                   |#
- openconfig/gnoi                   |#
-                                   |#
-
-                                   |######################
- openconfig/gribigo                |######################
-                                   |######################
-
-                                   |##
- robshakir/lemming                 |##
-                                   |##
-
-                                   |##############################
- openconfig/magna                  |##############################
-                                   |##############################
-
-                                   |#
- openconfig/models-ci              |#
-                                   |#
-
-                                   |#
- openconfig/ygot                   |#
-                                   |#
-
-                                   |#####
- openconfig/lemming                |#####
-                                   |#####
-
-                                   |#####
- openconfig/gnsi                   |#####
-                                   |#####
-
-                                   |###
- openconfig/reference              |###
-                                   |###
-
-                                   |#########
- openconfig/bootz                  |#########
-                                   |#########
-
                                    |#
  openconfig/pattern-regex-tests    |#
                                    |#
@@ -99,7 +51,55 @@ Since 2023-08-13 13:00:48 -0700 PDT, I'm most active between 09:00-09:59 - with 
                                    |###
 
                                    |#
+ openconfig/models-ci              |#
+                                   |#
+
+                                   |#
+ openconfig/ygot                   |#
+                                   |#
+
+                                   |######################
+ openconfig/gribigo                |######################
+                                   |######################
+
+                                   |###
+ openconfig/reference              |###
+                                   |###
+
+                                   |##############
+ openconfig/public                 |##############
+                                   |##############
+
+                                   |##
+ robshakir/lemming                 |##
+                                   |##
+
+                                   |#
  openconfig/lsdbparse              |#
+                                   |#
+
+                                   |##############################
+ openconfig/magna                  |##############################
+                                   |##############################
+
+                                   |##
+ openconfig/featureprofiles        |##
+                                   |##
+
+                                   |#########
+ openconfig/bootz                  |#########
+                                   |#########
+
+                                   |#####
+ openconfig/lemming                |#####
+                                   |#####
+
+                                   |#####
+ openconfig/gnsi                   |#####
+                                   |#####
+
+                                   |#
+ openconfig/gnoi                   |#
                                    |#
 
 
@@ -110,4 +110,4 @@ Since 2023-08-13 13:00:48 -0700 PDT, I've been most active in openconfig/magna, 
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2023-09-13 09:01:28.323293517 -0700 PDT
+Last Updated: 2023-09-13 09:20:48.07233935 -0700 PDT
