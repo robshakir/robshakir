@@ -42,33 +42,13 @@ Since 2023-08-18 06:10:40 -0700 PDT, I'm most active between 11:00-11:59 - with 
 
 
 ```
-                               |##############################
- openconfig/magna              |##############################
-                               |##############################
-
-                               |############################
- openconfig/public             |############################
-                               |############################
-
-                               |#############
- openconfig/gribigo            |#############
-                               |#############
-
                                |##########
  openconfig/featureprofiles    |##########
                                |##########
 
-                               |#####
- openconfig/gnsi               |#####
-                               |#####
-
                                |###
  robshakir/lemming             |###
                                |###
-
-                               |######
- openconfig/lemming            |######
-                               |######
 
                                |##
  openconfig/gnmi               |##
@@ -78,6 +58,26 @@ Since 2023-08-18 06:10:40 -0700 PDT, I'm most active between 11:00-11:59 - with 
  openconfig/reference          |###
                                |###
 
+                               |##############################
+ openconfig/magna              |##############################
+                               |##############################
+
+                               |############################
+ openconfig/public             |############################
+                               |############################
+
+                               |######
+ openconfig/lemming            |######
+                               |######
+
+                               |#####
+ openconfig/gnsi               |#####
+                               |#####
+
+                               |#############
+ openconfig/gribigo            |#############
+                               |#############
+
 
 
 Since 2023-08-18 06:10:40 -0700 PDT, I've been most active in openconfig/magna, with 30 events.
@@ -86,4 +86,4 @@ Since 2023-08-18 06:10:40 -0700 PDT, I've been most active in openconfig/magna, 
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2023-09-15 15:31:12.855549243 -0700 PDT
+Last Updated: 2023-09-15 15:46:02.685856527 -0700 PDT
