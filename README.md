@@ -42,6 +42,22 @@ Since 2023-08-17 14:21:27 -0700 PDT, I'm most active between 11:00-11:59 - with 
 
 
 ```
+                                   |##############################
+ openconfig/magna                  |##############################
+                                   |##############################
+
+                                   |#
+ openconfig/pattern-regex-tests    |#
+                                   |#
+
+                                   |#############
+ openconfig/gribigo                |#############
+                                   |#############
+
+                                   |###########################
+ openconfig/public                 |###########################
+                                   |###########################
+
                                    |##########
  openconfig/featureprofiles        |##########
                                    |##########
@@ -49,10 +65,6 @@ Since 2023-08-17 14:21:27 -0700 PDT, I'm most active between 11:00-11:59 - with 
                                    |###
  robshakir/lemming                 |###
                                    |###
-
-                                   |######
- openconfig/lemming                |######
-                                   |######
 
                                    |##
  openconfig/gnmi                   |##
@@ -62,25 +74,13 @@ Since 2023-08-17 14:21:27 -0700 PDT, I'm most active between 11:00-11:59 - with 
  openconfig/gnsi                   |#####
                                    |#####
 
+                                   |######
+ openconfig/lemming                |######
+                                   |######
+
                                    |###
  openconfig/reference              |###
                                    |###
-
-                                   |#############
- openconfig/gribigo                |#############
-                                   |#############
-
-                                   |##############################
- openconfig/magna                  |##############################
-                                   |##############################
-
-                                   |#
- openconfig/pattern-regex-tests    |#
-                                   |#
-
-                                   |###########################
- openconfig/public                 |###########################
-                                   |###########################
 
 
 
@@ -90,4 +90,4 @@ Since 2023-08-17 14:21:27 -0700 PDT, I've been most active in openconfig/magna, 
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2023-09-15 11:31:11.215304587 -0700 PDT
+Last Updated: 2023-09-15 11:46:20.414550604 -0700 PDT
