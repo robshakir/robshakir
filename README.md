@@ -42,17 +42,9 @@ Since 2023-08-18 06:18:20 -0700 PDT, I'm most active between 11:00-11:59 - with 
 
 
 ```
-                               |#################
- openconfig/gribigo            |#################
-                               |#################
-
                                |#####
  openconfig/gnsi               |#####
                                |#####
-
-                               |##
- openconfig/gnmi               |##
-                               |##
 
                                |###
  openconfig/reference          |###
@@ -62,6 +54,22 @@ Since 2023-08-18 06:18:20 -0700 PDT, I'm most active between 11:00-11:59 - with 
  openconfig/magna              |##############################
                                |##############################
 
+                               |#################
+ openconfig/gribigo            |#################
+                               |#################
+
+                               |######
+ openconfig/lemming            |######
+                               |######
+
+                               |###
+ robshakir/lemming             |###
+                               |###
+
+                               |##
+ openconfig/gnmi               |##
+                               |##
+
                                |########################
  openconfig/public             |########################
                                |########################
@@ -69,14 +77,6 @@ Since 2023-08-18 06:18:20 -0700 PDT, I'm most active between 11:00-11:59 - with 
                                |##########
  openconfig/featureprofiles    |##########
                                |##########
-
-                               |###
- robshakir/lemming             |###
-                               |###
-
-                               |######
- openconfig/lemming            |######
-                               |######
 
 
 
@@ -86,4 +86,4 @@ Since 2023-08-18 06:18:20 -0700 PDT, I've been most active in openconfig/magna, 
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2023-09-16 00:16:50.465596245 -0700 PDT
+Last Updated: 2023-09-16 00:31:17.916902649 -0700 PDT
