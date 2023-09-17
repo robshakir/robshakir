@@ -42,6 +42,10 @@ Since 2023-08-18 06:18:20 -0700 PDT, I'm most active between 11:00-11:59 - with 
 
 
 ```
+                               |###
+ openconfig/reference          |###
+                               |###
+
                                |#################
  openconfig/gribigo            |#################
                                |#################
@@ -53,14 +57,6 @@ Since 2023-08-18 06:18:20 -0700 PDT, I'm most active between 11:00-11:59 - with 
                                |###
  robshakir/lemming             |###
                                |###
-
-                               |###
- openconfig/reference          |###
-                               |###
-
-                               |########################
- openconfig/public             |########################
-                               |########################
 
                                |######
  openconfig/lemming            |######
@@ -74,6 +70,10 @@ Since 2023-08-18 06:18:20 -0700 PDT, I'm most active between 11:00-11:59 - with 
  openconfig/gnsi               |#####
                                |#####
 
+                               |########################
+ openconfig/public             |########################
+                               |########################
+
                                |##############################
  openconfig/magna              |##############################
                                |##############################
@@ -86,4 +86,4 @@ Since 2023-08-18 06:18:20 -0700 PDT, I've been most active in openconfig/magna, 
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2023-09-17 10:01:19.666534533 -0700 PDT
+Last Updated: 2023-09-17 10:17:58.653919571 -0700 PDT
