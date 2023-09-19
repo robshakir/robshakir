@@ -42,21 +42,13 @@ Since 2023-08-22 06:45:54 -0700 PDT, I'm most active between 11:00-11:59 - with 
 
 
 ```
-                               |###
- robshakir/lemming             |###
-                               |###
-
-                               |###
- openconfig/reference          |###
-                               |###
-
                                |##########
  openconfig/featureprofiles    |##########
                                |##########
 
-                               |######
- openconfig/lemming            |######
-                               |######
+                               |###
+ robshakir/lemming             |###
+                               |###
 
                                |##
  openconfig/gnmi               |##
@@ -66,9 +58,9 @@ Since 2023-08-22 06:45:54 -0700 PDT, I'm most active between 11:00-11:59 - with 
  openconfig/gnsi               |#####
                                |#####
 
-                               |########################
- openconfig/magna              |########################
-                               |########################
+                               |###
+ openconfig/reference          |###
+                               |###
 
                                |########################
  openconfig/gribigo            |########################
@@ -78,12 +70,20 @@ Since 2023-08-22 06:45:54 -0700 PDT, I'm most active between 11:00-11:59 - with 
  openconfig/public             |#######################
                                |#######################
 
+                               |######
+ openconfig/lemming            |######
+                               |######
+
+                               |########################
+ openconfig/magna              |########################
+                               |########################
 
 
-Since 2023-08-22 06:45:54 -0700 PDT, I've been most active in openconfig/gribigo, with 24 events.
+
+Since 2023-08-22 06:45:54 -0700 PDT, I've been most active in openconfig/magna, with 24 events.
 
 ```
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2023-09-18 17:44:52.254391426 -0700 PDT
+Last Updated: 2023-09-18 18:11:43.609540615 -0700 PDT
