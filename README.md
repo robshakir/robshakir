@@ -42,13 +42,9 @@ Since 2023-08-22 06:45:54 -0700 PDT, I'm most active between 11:00-11:59 - with 
 
 
 ```
-                               |##
- openconfig/gnmi               |##
-                               |##
-
-                               |###
- openconfig/reference          |###
-                               |###
+                               |########################
+ openconfig/gribigo            |########################
+                               |########################
 
                                |#######################
  openconfig/public             |#######################
@@ -62,28 +58,32 @@ Since 2023-08-22 06:45:54 -0700 PDT, I'm most active between 11:00-11:59 - with 
  openconfig/lemming            |######
                                |######
 
-                               |########################
- openconfig/magna              |########################
-                               |########################
+                               |##
+ openconfig/gnmi               |##
+                               |##
+
+                               |#####
+ openconfig/gnsi               |#####
+                               |#####
 
                                |########################
- openconfig/gribigo            |########################
+ openconfig/magna              |########################
                                |########################
 
                                |##########
  openconfig/featureprofiles    |##########
                                |##########
 
-                               |#####
- openconfig/gnsi               |#####
-                               |#####
+                               |###
+ openconfig/reference          |###
+                               |###
 
 
 
-Since 2023-08-22 06:45:54 -0700 PDT, I've been most active in openconfig/magna, with 24 events.
+Since 2023-08-22 06:45:54 -0700 PDT, I've been most active in openconfig/gribigo, with 24 events.
 
 ```
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2023-09-19 07:01:25.763906487 -0700 PDT
+Last Updated: 2023-09-19 07:19:11.58177502 -0700 PDT
