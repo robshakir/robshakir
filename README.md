@@ -42,29 +42,25 @@ Since 2023-08-22 06:45:54 -0700 PDT, I'm most active between 11:00-11:59 - with 
 
 
 ```
+                               |#######################
+ openconfig/public             |#######################
+                               |#######################
+
                                |###
  robshakir/lemming             |###
                                |###
+
+                               |##
+ openconfig/gnmi               |##
+                               |##
 
                                |###
  openconfig/reference          |###
                                |###
 
-                               |#####
- openconfig/gnsi               |#####
-                               |#####
-
-                               |########################
- openconfig/magna              |########################
-                               |########################
-
                                |########################
  openconfig/gribigo            |########################
                                |########################
-
-                               |#######################
- openconfig/public             |#######################
-                               |#######################
 
                                |##########
  openconfig/featureprofiles    |##########
@@ -74,16 +70,20 @@ Since 2023-08-22 06:45:54 -0700 PDT, I'm most active between 11:00-11:59 - with 
  openconfig/lemming            |######
                                |######
 
-                               |##
- openconfig/gnmi               |##
-                               |##
+                               |#####
+ openconfig/gnsi               |#####
+                               |#####
+
+                               |########################
+ openconfig/magna              |########################
+                               |########################
 
 
 
-Since 2023-08-22 06:45:54 -0700 PDT, I've been most active in openconfig/magna, with 24 events.
+Since 2023-08-22 06:45:54 -0700 PDT, I've been most active in openconfig/gribigo, with 24 events.
 
 ```
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2023-09-20 09:20:42.38941806 -0700 PDT
+Last Updated: 2023-09-20 09:33:33.474888292 -0700 PDT
