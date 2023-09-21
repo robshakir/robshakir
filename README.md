@@ -42,21 +42,17 @@ Since 2023-08-22 12:21:42 -0700 PDT, I'm most active between 11:00-11:59 - with 
 
 
 ```
-                               |##########
- openconfig/featureprofiles    |##########
-                               |##########
+                               |######
+ openconfig/lemming            |######
+                               |######
 
-                               |###
- robshakir/lemming             |###
-                               |###
+                               |##
+ openconfig/gnmi               |##
+                               |##
 
                                |#####
  openconfig/gnsi               |#####
                                |#####
-
-                               |######################
- openconfig/magna              |######################
-                               |######################
 
                                |############################
  openconfig/gribigo            |############################
@@ -67,16 +63,20 @@ Since 2023-08-22 12:21:42 -0700 PDT, I'm most active between 11:00-11:59 - with 
                                |#####################
 
                                |###
+ robshakir/lemming             |###
+                               |###
+
+                               |##########
+ openconfig/featureprofiles    |##########
+                               |##########
+
+                               |###
  openconfig/reference          |###
                                |###
 
-                               |######
- openconfig/lemming            |######
-                               |######
-
-                               |##
- openconfig/gnmi               |##
-                               |##
+                               |######################
+ openconfig/magna              |######################
+                               |######################
 
 
 
@@ -86,4 +86,4 @@ Since 2023-08-22 12:21:42 -0700 PDT, I've been most active in openconfig/gribigo
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2023-09-21 15:01:33.834530622 -0700 PDT
+Last Updated: 2023-09-21 15:18:44.824074265 -0700 PDT
