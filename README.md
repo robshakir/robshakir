@@ -42,6 +42,30 @@ Since 2023-09-01 13:56:43 -0700 PDT, I'm most active between 11:00-11:59 - with 
 
 
 ```
+                               |##
+ openconfig/gnsi               |##
+                               |##
+
+                               |##########
+ openconfig/ygot               |##########
+                               |##########
+
+                               |#
+ robshakir/ygot                |#
+                               |#
+
+                               |###
+ robshakir/lemming             |###
+                               |###
+
+                               |##
+ openconfig/gnmi               |##
+                               |##
+
+                               |######
+ openconfig/lemming            |######
+                               |######
+
                                |##########################
  openconfig/featureprofiles    |##########################
                                |##########################
@@ -51,36 +75,12 @@ Since 2023-09-01 13:56:43 -0700 PDT, I'm most active between 11:00-11:59 - with 
                                |##################################
 
                                |#
- robshakir/ygot                |#
+ openconfig/reference          |#
                                |#
 
                                |###############
  openconfig/public             |###############
                                |###############
-
-                               |##
- openconfig/gnmi               |##
-                               |##
-
-                               |##########
- openconfig/ygot               |##########
-                               |##########
-
-                               |#
- openconfig/reference          |#
-                               |#
-
-                               |###
- robshakir/lemming             |###
-                               |###
-
-                               |######
- openconfig/lemming            |######
-                               |######
-
-                               |##
- openconfig/gnsi               |##
-                               |##
 
 
 
@@ -90,4 +90,4 @@ Since 2023-09-01 13:56:43 -0700 PDT, I've been most active in openconfig/gribigo
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2023-09-23 12:31:17.302105218 -0700 PDT
+Last Updated: 2023-09-23 12:46:00.804632398 -0700 PDT
