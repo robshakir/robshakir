@@ -42,33 +42,25 @@ Since 2023-09-01 13:56:43 -0700 PDT, I'm most active between 11:00-11:59 - with 
 
 
 ```
-                               |##
- openconfig/gnmi               |##
-                               |##
-
-                               |##
- openconfig/gnsi               |##
-                               |##
-
-                               |##########################
- openconfig/featureprofiles    |##########################
-                               |##########################
-
                                |#
  robshakir/ygot                |#
                                |#
-
-                               |###
- robshakir/lemming             |###
-                               |###
 
                                |###############
  openconfig/public             |###############
                                |###############
 
+                               |###
+ robshakir/lemming             |###
+                               |###
+
                                |######
  openconfig/lemming            |######
                                |######
+
+                               |##########################
+ openconfig/featureprofiles    |##########################
+                               |##########################
 
                                |##########
  openconfig/ygot               |##########
@@ -82,6 +74,14 @@ Since 2023-09-01 13:56:43 -0700 PDT, I'm most active between 11:00-11:59 - with 
  openconfig/reference          |#
                                |#
 
+                               |##
+ openconfig/gnmi               |##
+                               |##
+
+                               |##
+ openconfig/gnsi               |##
+                               |##
+
 
 
 Since 2023-09-01 13:56:43 -0700 PDT, I've been most active in openconfig/gribigo, with 34 events.
@@ -90,4 +90,4 @@ Since 2023-09-01 13:56:43 -0700 PDT, I've been most active in openconfig/gribigo
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2023-09-23 06:18:49.539506724 -0700 PDT
+Last Updated: 2023-09-23 06:31:09.449492307 -0700 PDT
