@@ -1,5 +1,6 @@
 ### 🍞 Bread Crumbs
 
+ * 😃: Commented on an issue in `openconfig/gnoi` at 2023-09-25 08:34:36 -0700 PDT
  * 🚢: Pushed some commits to `openconfig/ygot` at 2023-09-23 17:05:44 -0700 PDT
  * ✍🏼: Created a pull request in `openconfig/ygot` at 2023-09-23 17:05:44 -0700 PDT
  * 😃: Commented on an issue in `openconfig/ygot` at 2023-09-23 17:05:29 -0700 PDT
@@ -9,7 +10,6 @@
  * 💬: Commented on a PR in  `openconfig/ygot` at 2023-09-23 16:45:06 -0700 PDT
  * 🔍: Reviewed a pull request in  `openconfig/ygot` at 2023-09-23 16:45:07 -0700 PDT
  * 💬: Commented on a PR in  `openconfig/ygot` at 2023-09-23 16:41:30 -0700 PDT
- * 🔍: Reviewed a pull request in  `openconfig/ygot` at 2023-09-23 16:41:31 -0700 PDT
 
 ### 🕘 Recent Activity
 ```
@@ -27,21 +27,29 @@
   9 ┤                                                         ╭─╯            ╰╮
   7 ┤                                                       ╭─╯               ╰─╮
   5 ┼╮                                    ╭──╮            ╭─╯                   ╰─╮
-  2 ┤╰──╮                               ╭─╯  ╰─╮  ╭────╮╭─╯                       ╰──╮
-  0 ┤   ╰───────────────────────────────╯      ╰──╯    ╰╯                            ╰──────────────────
+  2 ┤╰──╮                              ╭──╯  ╰─╮        ╭─╯                       ╰──╮
+  0 ┤   ╰──────────────────────────────╯       ╰────────╯                            ╰──────────────────
     +───────+───────+───────+───────+───────+───────+───────+───────+───────+───────+───────+───────+────
   00:00   02:00   04:00   06:00   08:00   10:00   12:00   14:00   16:00   18:00   20:00   22:00   00:00   
 
 						Commits by Hour of Day
 
 
-Since 2023-09-15 11:48:21 -0700 PDT, I'm most active between 16:00-16:59 - with 36 events in that hour.
+Since 2023-09-15 16:36:38 -0700 PDT, I'm most active between 16:00-16:59 - with 36 events in that hour.
 
 ```
 
 
 
 ```
+                               |#
+ openconfig/reference          |#
+                               |#
+
+                               |#
+ openconfig/gnoi               |#
+                               |#
+
                                |####################################
  openconfig/ygot               |####################################
                                |####################################
@@ -58,20 +66,12 @@ Since 2023-09-15 11:48:21 -0700 PDT, I'm most active between 16:00-16:59 - with 
  openconfig/gribigo            |#####################
                                |#####################
 
-                               |#
- openconfig/reference          |#
-                               |#
-
-                               |#
- openconfig/public             |#
-                               |#
 
 
-
-Since 2023-09-15 11:48:21 -0700 PDT, I've been most active in openconfig/featureprofiles, with 38 events.
+Since 2023-09-15 16:36:38 -0700 PDT, I've been most active in openconfig/featureprofiles, with 38 events.
 
 ```
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2023-09-25 08:31:14.986911826 -0700 PDT
+Last Updated: 2023-09-25 08:46:03.810640446 -0700 PDT
