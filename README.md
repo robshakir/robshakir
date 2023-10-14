@@ -42,6 +42,14 @@ Since 2023-09-23 15:30:35 -0700 PDT, I'm most active between 16:00-16:59 - with 
 
 
 ```
+                               |################################
+ openconfig/featureprofiles    |################################
+                               |################################
+
+                               |#####
+ openconfig/models-ci          |#####
+                               |#####
+
                                |########
  openconfig/gribigo            |########
                                |########
@@ -62,20 +70,12 @@ Since 2023-09-23 15:30:35 -0700 PDT, I'm most active between 16:00-16:59 - with 
  openconfig/gnoi               |#########
                                |#########
 
-                               |################################
- openconfig/featureprofiles    |################################
-                               |################################
-
-                               |#####
- openconfig/models-ci          |#####
-                               |#####
 
 
-
-Since 2023-09-23 15:30:35 -0700 PDT, I've been most active in openconfig/ygot, with 32 events.
+Since 2023-09-23 15:30:35 -0700 PDT, I've been most active in openconfig/featureprofiles, with 32 events.
 
 ```
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2023-10-13 23:46:11.591737215 -0700 PDT
+Last Updated: 2023-10-14 00:01:14.603907833 -0700 PDT
