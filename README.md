@@ -46,10 +46,6 @@ Since 2023-10-30 13:43:11 -0700 PDT, I'm most active between 13:00-13:59 - with 
  openconfig/oc-pyang              |#
                                   |#
 
-                                  |#
- openconfig/reference             |#
-                                  |#
-
                                   |##############################
  openconfig/gribigo               |##############################
                                   |##############################
@@ -58,25 +54,29 @@ Since 2023-10-30 13:43:11 -0700 PDT, I'm most active between 13:00-13:59 - with 
  openconfig/gribi                 |####
                                   |####
 
-                                  |#############
- openconfig/magna                 |#############
-                                  |#############
+                                  |#########################
+ openconfig/featureprofiles       |#########################
+                                  |#########################
 
                                   |###############
  openconfig/gnoi                  |###############
                                   |###############
 
+                                  |#
+ openconfig/reference             |#
+                                  |#
+
                                   |#########
  openconfig/ygot                  |#########
                                   |#########
 
+                                  |#############
+ openconfig/magna                 |#############
+                                  |#############
+
                                   |##
  robshakir/robshakir.github.io    |##
                                   |##
-
-                                  |#########################
- openconfig/featureprofiles       |#########################
-                                  |#########################
 
 
 
@@ -86,4 +86,4 @@ Since 2023-10-30 13:43:11 -0700 PDT, I've been most active in openconfig/gribigo
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2023-11-04 09:46:07.293039402 -0700 PDT
+Last Updated: 2023-11-04 10:01:16.144700807 -0700 PDT
