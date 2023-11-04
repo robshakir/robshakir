@@ -42,6 +42,14 @@ Since 2023-10-30 13:43:14 -0700 PDT, I'm most active between 13:00-13:59 - with 
 
 
 ```
+                                  |###########
+ openconfig/ygot                  |###########
+                                  |###########
+
+                                  |#
+ openconfig/oc-pyang              |#
+                                  |#
+
                                   |#
  openconfig/reference             |#
                                   |#
@@ -62,14 +70,6 @@ Since 2023-10-30 13:43:14 -0700 PDT, I'm most active between 13:00-13:59 - with 
  openconfig/featureprofiles       |#######################
                                   |#######################
 
-                                  |###########
- openconfig/ygot                  |###########
-                                  |###########
-
-                                  |#
- openconfig/oc-pyang              |#
-                                  |#
-
                                   |###############
  openconfig/gnoi                  |###############
                                   |###############
@@ -86,4 +86,4 @@ Since 2023-10-30 13:43:14 -0700 PDT, I've been most active in openconfig/gribigo
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2023-11-04 11:20:17.590244123 -0700 PDT
+Last Updated: 2023-11-04 11:31:12.215755333 -0700 PDT
