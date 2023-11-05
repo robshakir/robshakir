@@ -46,12 +46,24 @@ Since 2023-10-31 07:04:40 -0700 PDT, I'm most active between 10:00-10:59 - with 
  openconfig/gribigo               |##############################################
                                   |##############################################
 
-                                  |#
- openconfig/oc-pyang              |#
-                                  |#
+                                  |###############
+ openconfig/gnoi                  |###############
+                                  |###############
 
                                   |#
  openconfig/reference             |#
+                                  |#
+
+                                  |##
+ openconfig/featureprofiles       |##
+                                  |##
+
+                                  |################
+ openconfig/ygot                  |################
+                                  |################
+
+                                  |#
+ openconfig/oc-pyang              |#
                                   |#
 
                                   |####
@@ -62,20 +74,8 @@ Since 2023-10-31 07:04:40 -0700 PDT, I'm most active between 10:00-10:59 - with 
  openconfig/magna                 |#############
                                   |#############
 
-                                  |################
- openconfig/ygot                  |################
-                                  |################
-
-                                  |###############
- openconfig/gnoi                  |###############
-                                  |###############
-
                                   |##
  robshakir/robshakir.github.io    |##
-                                  |##
-
-                                  |##
- openconfig/featureprofiles       |##
                                   |##
 
 
@@ -86,4 +86,4 @@ Since 2023-10-31 07:04:40 -0700 PDT, I've been most active in openconfig/gribigo
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2023-11-05 00:30:55.962632626 -0700 PDT
+Last Updated: 2023-11-05 00:46:00.730692114 -0700 PDT
