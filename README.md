@@ -42,17 +42,9 @@ Since 2023-10-31 07:04:45 -0700 PDT, I'm most active between 10:00-10:59 - with 
 
 
 ```
-                                  |#
- runfinch/finch                   |#
-                                  |#
-
                                   |#############################################
  openconfig/gribigo               |#############################################
                                   |#############################################
-
-                                  |###############
- openconfig/gnoi                  |###############
-                                  |###############
 
                                   |################
  openconfig/ygot                  |################
@@ -61,6 +53,18 @@ Since 2023-10-31 07:04:45 -0700 PDT, I'm most active between 10:00-10:59 - with 
                                   |#
  openconfig/oc-pyang              |#
                                   |#
+
+                                  |##
+ openconfig/featureprofiles       |##
+                                  |##
+
+                                  |#
+ runfinch/finch                   |#
+                                  |#
+
+                                  |###############
+ openconfig/gnoi                  |###############
+                                  |###############
 
                                   |#
  openconfig/reference             |#
@@ -78,10 +82,6 @@ Since 2023-10-31 07:04:45 -0700 PDT, I'm most active between 10:00-10:59 - with 
  robshakir/robshakir.github.io    |##
                                   |##
 
-                                  |##
- openconfig/featureprofiles       |##
-                                  |##
-
 
 
 Since 2023-10-31 07:04:45 -0700 PDT, I've been most active in openconfig/gribigo, with 45 events.
@@ -90,4 +90,4 @@ Since 2023-10-31 07:04:45 -0700 PDT, I've been most active in openconfig/gribigo
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2023-11-05 14:30:57.054419109 -0800 PST
+Last Updated: 2023-11-05 14:46:09.455970809 -0800 PST
