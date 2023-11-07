@@ -42,22 +42,6 @@ Since 2023-11-03 07:52:08 -0700 PDT, I'm most active between 17:00-17:59 - with 
 
 
 ```
-                               |#############################################
- openconfig/ygot               |#############################################
-                               |#############################################
-
-                               |####
- openconfig/featureprofiles    |####
-                               |####
-
-                               |#
- runfinch/finch                |#
-                               |#
-
-                               |###############################
- openconfig/gribigo            |###############################
-                               |###############################
-
                                |#
  openconfig/oc-pyang           |#
                                |#
@@ -74,6 +58,22 @@ Since 2023-11-03 07:52:08 -0700 PDT, I'm most active between 17:00-17:59 - with 
  openconfig/gribi              |####
                                |####
 
+                               |#############################################
+ openconfig/ygot               |#############################################
+                               |#############################################
+
+                               |####
+ openconfig/featureprofiles    |####
+                               |####
+
+                               |#
+ runfinch/finch                |#
+                               |#
+
+                               |###############################
+ openconfig/gribigo            |###############################
+                               |###############################
+
 
 
 Since 2023-11-03 07:52:08 -0700 PDT, I've been most active in openconfig/ygot, with 45 events.
@@ -82,4 +82,4 @@ Since 2023-11-03 07:52:08 -0700 PDT, I've been most active in openconfig/ygot, w
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2023-11-07 10:31:25.300534261 -0800 PST
+Last Updated: 2023-11-07 10:45:55.855286954 -0800 PST
