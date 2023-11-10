@@ -43,22 +43,6 @@ Since 2023-11-03 10:05:24 -0700 PDT, I'm most active between 17:00-17:59 - with 
 
 ```
                                |#
- openconfig/models-ci          |#
-                               |#
-
-                               |#############################
- openconfig/gribigo            |#############################
-                               |#############################
-
-                               |#######################################################
- openconfig/ygot               |#######################################################
-                               |#######################################################
-
-                               |#
- runfinch/finch                |#
-                               |#
-
-                               |#
  openconfig/oc-pyang           |#
                                |#
 
@@ -74,6 +58,22 @@ Since 2023-11-03 10:05:24 -0700 PDT, I'm most active between 17:00-17:59 - with 
  openconfig/featureprofiles    |########
                                |########
 
+                               |#
+ openconfig/models-ci          |#
+                               |#
+
+                               |#############################
+ openconfig/gribigo            |#############################
+                               |#############################
+
+                               |#######################################################
+ openconfig/ygot               |#######################################################
+                               |#######################################################
+
+                               |#
+ runfinch/finch                |#
+                               |#
+
 
 
 Since 2023-11-03 10:05:24 -0700 PDT, I've been most active in openconfig/ygot, with 55 events.
@@ -82,4 +82,4 @@ Since 2023-11-03 10:05:24 -0700 PDT, I've been most active in openconfig/ygot, w
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2023-11-10 12:31:04.824356524 -0800 PST
+Last Updated: 2023-11-10 12:45:59.229258579 -0800 PST
