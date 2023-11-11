@@ -1,15 +1,15 @@
 ### 🍞 Bread Crumbs
 
- * 💬: Commented on a PR in  `openconfig/featureprofiles` at 2023-11-10 11:48:15 -0800 PST
- * 💬: Commented on a PR in  `openconfig/featureprofiles` at 2023-11-10 11:51:24 -0800 PST
- * 🔍: Reviewed a pull request in  `openconfig/featureprofiles` at 2023-11-10 11:59:26 -0800 PST
- * 🔍: Reviewed a pull request in  `openconfig/featureprofiles` at 2023-11-10 11:59:26 -0800 PST
- * 😃: Commented on an issue in `openconfig/models-ci` at 2023-11-10 11:40:01 -0800 PST
- * 💬: Commented on a PR in  `openconfig/gribigo` at 2023-11-09 14:50:11 -0800 PST
- * 🔍: Reviewed a pull request in  `openconfig/gribigo` at 2023-11-09 14:50:12 -0800 PST
- * 👀: Worked on an issue in `openconfig/gribigo` at 2023-11-09 14:49:59 -0800 PST
- * 💬: Commented on a PR in  `openconfig/gribigo` at 2023-11-09 14:42:38 -0800 PST
- * 🔍: Reviewed a pull request in  `openconfig/gribigo` at 2023-11-09 14:42:39 -0800 PST
+ * 🗑: Deleted a branch in `openconfig/gribigo` at 2023-11-10 22:00:13 -0800 PST
+ * 🚢: Pushed some commits to `openconfig/gribigo` at 2023-11-10 22:00:10 -0800 PST
+ * ✍🏼: Created a pull request in `openconfig/gribigo` at 2023-11-10 22:00:09 -0800 PST
+ * 🗑: Deleted a branch in `openconfig/gribigo` at 2023-11-10 22:00:02 -0800 PST
+ * 🚢: Pushed some commits to `openconfig/gribigo` at 2023-11-10 21:59:58 -0800 PST
+ * ✍🏼: Created a pull request in `openconfig/gribigo` at 2023-11-10 21:59:57 -0800 PST
+ * 🗑: Deleted a branch in `openconfig/gribigo` at 2023-11-10 21:59:48 -0800 PST
+ * 🚢: Pushed some commits to `openconfig/gribigo` at 2023-11-10 21:59:45 -0800 PST
+ * ✍🏼: Created a pull request in `openconfig/gribigo` at 2023-11-10 21:59:44 -0800 PST
+ * 🗑: Deleted a branch in `openconfig/gribigo` at 2023-11-10 21:59:37 -0800 PST
 
 ### 🕘 Recent Activity
 ```
@@ -19,36 +19,32 @@
  16 ┤                                                                        │    ╰╮
  15 ┤                                                                       ╭╯     │
  14 ┤                                                                       │      ╰╮
- 12 ┤                                             ╭─────╮                   │       │
- 11 ┤                                           ╭─╯     ╰╮                 ╭╯       │
- 10 ┤                                          ╭╯        │                 │        ╰╮
-  8 ┤                                         ╭╯         ╰╮     ╭─╮        │         │
-  7 ┤                                         │           │    ╭╯ │        │         │
-  5 ┤                             ╭──╮       ╭╯           ╰╮   │  ╰╮      ╭╯         ╰╮
-  4 ┤                            ╭╯  ╰──╮    │             │  ╭╯   ╰╮     │           │
-  3 ┤                           ╭╯      ╰╮  ╭╯             ╰╮╭╯     ╰╮    │           ╰─╮
-  1 ┤           ╭──╮           ╭╯        ╰╮ │               ││       ╰──╮ │             ╰─╮
-  0 ┼───────────╯  ╰───────────╯          ╰─╯               ╰╯          ╰─╯               ╰─────────────
+ 12 ┤                                                                       │       │         ╭─╮
+ 11 ┤                                                                      ╭╯       │         │ │
+ 10 ┤                                              ╭────╮                  │        ╰╮       ╭╯ ╰╮
+  8 ┤                                              │    ╰╮                 │         │       │   ╰╮
+  7 ┤                                             ╭╯     │      ╭╮         │         │      ╭╯    │
+  5 ┤                             ╭──╮            │      ╰╮    ╭╯╰─╮      ╭╯         ╰╮     │     ╰╮
+  4 ┤                            ╭╯  ╰──╮        ╭╯       ╰╮   │   ╰╮     │           │     │      ╰╮
+  3 ┤                           ╭╯      ╰╮      ╭╯         │  ╭╯    ╰╮    │           ╰─╮  ╭╯       ╰╮
+  1 ┤           ╭──╮           ╭╯        ╰╮     │          ╰╮╭╯      ╰──╮ │             ╰─╮│         ╰─╮
+  0 ┼───────────╯  ╰───────────╯          ╰─────╯           ╰╯          ╰─╯               ╰╯           ╰
     +───────+───────+───────+───────+───────+───────+───────+───────+───────+───────+───────+───────+────
   00:00   02:00   04:00   06:00   08:00   10:00   12:00   14:00   16:00   18:00   20:00   22:00   00:00   
 
 						Commits by Hour of Day
 
 
-Since 2023-11-03 10:05:24 -0700 PDT, I'm most active between 17:00-17:59 - with 21 events in that hour.
+Since 2023-11-04 15:52:08 -0700 PDT, I'm most active between 17:00-17:59 - with 21 events in that hour.
 
 ```
 
 
 
 ```
-                               |####
- openconfig/gnoi               |####
-                               |####
-
-                               |#
- openconfig/reference          |#
-                               |#
+                               |###############################################
+ openconfig/gribigo            |###############################################
+                               |###############################################
 
                                |########
  openconfig/featureprofiles    |########
@@ -58,28 +54,20 @@ Since 2023-11-03 10:05:24 -0700 PDT, I'm most active between 17:00-17:59 - with 
  openconfig/models-ci          |#
                                |#
 
-                               |#############################
- openconfig/gribigo            |#############################
-                               |#############################
-
-                               |#######################################################
- openconfig/ygot               |#######################################################
-                               |#######################################################
+                               |###########################################
+ openconfig/ygot               |###########################################
+                               |###########################################
 
                                |#
  runfinch/finch                |#
                                |#
 
-                               |#
- openconfig/oc-pyang           |#
-                               |#
 
 
-
-Since 2023-11-03 10:05:24 -0700 PDT, I've been most active in openconfig/ygot, with 55 events.
+Since 2023-11-04 15:52:08 -0700 PDT, I've been most active in openconfig/gribigo, with 47 events.
 
 ```
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2023-11-10 21:46:06.689092749 -0800 PST
+Last Updated: 2023-11-10 22:01:18.30160078 -0800 PST
