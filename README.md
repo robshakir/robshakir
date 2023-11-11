@@ -42,10 +42,6 @@ Since 2023-11-03 10:05:24 -0700 PDT, I'm most active between 17:00-17:59 - with 
 
 
 ```
-                               |#
- openconfig/oc-pyang           |#
-                               |#
-
                                |####
  openconfig/gnoi               |####
                                |####
@@ -74,6 +70,10 @@ Since 2023-11-03 10:05:24 -0700 PDT, I'm most active between 17:00-17:59 - with 
  runfinch/finch                |#
                                |#
 
+                               |#
+ openconfig/oc-pyang           |#
+                               |#
+
 
 
 Since 2023-11-03 10:05:24 -0700 PDT, I've been most active in openconfig/ygot, with 55 events.
@@ -82,4 +82,4 @@ Since 2023-11-03 10:05:24 -0700 PDT, I've been most active in openconfig/ygot, w
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2023-11-10 19:46:07.01268755 -0800 PST
+Last Updated: 2023-11-10 20:01:29.752345764 -0800 PST
