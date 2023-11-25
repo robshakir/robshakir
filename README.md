@@ -42,6 +42,10 @@ Since 2023-11-10 21:59:45 -0800 PST, I'm most active between 18:00-18:59 - with 
 
 
 ```
+                               |##
+ openconfig/magna              |##
+                               |##
+
                                |#
  willscott/go-vestaboard       |#
                                |#
@@ -70,10 +74,6 @@ Since 2023-11-10 21:59:45 -0800 PST, I'm most active between 18:00-18:59 - with 
  openconfig/ygot               |##
                                |##
 
-                               |##
- openconfig/magna              |##
-                               |##
-
 
 
 Since 2023-11-10 21:59:45 -0800 PST, I've been most active in openconfig/gribigo, with 59 events.
@@ -82,4 +82,4 @@ Since 2023-11-10 21:59:45 -0800 PST, I've been most active in openconfig/gribigo
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2023-11-25 10:30:58.178234768 -0800 PST
+Last Updated: 2023-11-25 10:45:59.073279313 -0800 PST
