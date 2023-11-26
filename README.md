@@ -42,25 +42,9 @@ Since 2023-11-13 14:42:42 -0800 PST, I'm most active between 14:00-14:59 - with 
 
 
 ```
-                               |#############
- openconfig/magna              |#############
-                               |#############
-
-                               |##
- openconfig/ygot               |##
-                               |##
-
                                |#
  willscott/go-vestaboard       |#
                                |#
-
-                               |#
- florianl/go-tc                |#
-                               |#
-
-                               |######
- openconfig/aite               |######
-                               |######
 
                                |##########################################
  openconfig/gribigo            |##########################################
@@ -71,12 +55,28 @@ Since 2023-11-13 14:42:42 -0800 PST, I'm most active between 14:00-14:59 - with 
                                |##########################
 
                                |#
- uber-go/nilaway               |#
+ florianl/go-tc                |#
                                |#
 
                                |########
  openconfig/public             |########
                                |########
+
+                               |#############
+ openconfig/magna              |#############
+                               |#############
+
+                               |######
+ openconfig/aite               |######
+                               |######
+
+                               |##
+ openconfig/ygot               |##
+                               |##
+
+                               |#
+ uber-go/nilaway               |#
+                               |#
 
 
 
@@ -86,4 +86,4 @@ Since 2023-11-13 14:42:42 -0800 PST, I've been most active in openconfig/gribigo
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2023-11-25 19:45:56.866047632 -0800 PST
+Last Updated: 2023-11-25 20:01:06.589825235 -0800 PST
