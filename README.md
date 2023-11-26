@@ -43,24 +43,8 @@ Since 2023-11-13 14:42:42 -0800 PST, I'm most active between 14:00-14:59 - with 
 
 ```
                                |#
- willscott/go-vestaboard       |#
-                               |#
-
-                               |##########################################
- openconfig/gribigo            |##########################################
-                               |##########################################
-
-                               |##########################
- openconfig/featureprofiles    |##########################
-                               |##########################
-
-                               |#
  florianl/go-tc                |#
                                |#
-
-                               |########
- openconfig/public             |########
-                               |########
 
                                |#############
  openconfig/magna              |#############
@@ -74,9 +58,25 @@ Since 2023-11-13 14:42:42 -0800 PST, I'm most active between 14:00-14:59 - with 
  openconfig/ygot               |##
                                |##
 
+                               |##########################################
+ openconfig/gribigo            |##########################################
+                               |##########################################
+
                                |#
  uber-go/nilaway               |#
                                |#
+
+                               |#
+ willscott/go-vestaboard       |#
+                               |#
+
+                               |##########################
+ openconfig/featureprofiles    |##########################
+                               |##########################
+
+                               |########
+ openconfig/public             |########
+                               |########
 
 
 
@@ -86,4 +86,4 @@ Since 2023-11-13 14:42:42 -0800 PST, I've been most active in openconfig/gribigo
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2023-11-25 20:01:06.589825235 -0800 PST
+Last Updated: 2023-11-25 20:20:02.456291315 -0800 PST
