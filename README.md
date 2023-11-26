@@ -43,12 +43,8 @@ Since 2023-11-13 14:42:42 -0800 PST, I'm most active between 14:00-14:59 - with 
 
 ```
                                |#
- willscott/go-vestaboard       |#
+ uber-go/nilaway               |#
                                |#
-
-                               |##########################################
- openconfig/gribigo            |##########################################
-                               |##########################################
 
                                |#
  florianl/go-tc                |#
@@ -58,25 +54,29 @@ Since 2023-11-13 14:42:42 -0800 PST, I'm most active between 14:00-14:59 - with 
  openconfig/magna              |#############
                                |#############
 
-                               |######
- openconfig/aite               |######
-                               |######
+                               |##########################################
+ openconfig/gribigo            |##########################################
+                               |##########################################
 
                                |#
- uber-go/nilaway               |#
+ willscott/go-vestaboard       |#
                                |#
+
+                               |##########################
+ openconfig/featureprofiles    |##########################
+                               |##########################
 
                                |########
  openconfig/public             |########
                                |########
 
+                               |######
+ openconfig/aite               |######
+                               |######
+
                                |##
  openconfig/ygot               |##
                                |##
-
-                               |##########################
- openconfig/featureprofiles    |##########################
-                               |##########################
 
 
 
@@ -86,4 +86,4 @@ Since 2023-11-13 14:42:42 -0800 PST, I've been most active in openconfig/gribigo
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2023-11-26 07:01:14.689374604 -0800 PST
+Last Updated: 2023-11-26 07:18:18.201824742 -0800 PST
