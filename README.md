@@ -42,18 +42,6 @@ Since 2023-11-13 14:42:42 -0800 PST, I'm most active between 14:00-14:59 - with 
 
 
 ```
-                               |#
- florianl/go-tc                |#
-                               |#
-
-                               |########
- openconfig/public             |########
-                               |########
-
-                               |##
- openconfig/ygot               |##
-                               |##
-
                                |##########################
  openconfig/featureprofiles    |##########################
                                |##########################
@@ -62,9 +50,9 @@ Since 2023-11-13 14:42:42 -0800 PST, I'm most active between 14:00-14:59 - with 
  uber-go/nilaway               |#
                                |#
 
-                               |##########################################
- openconfig/gribigo            |##########################################
-                               |##########################################
+                               |#
+ florianl/go-tc                |#
+                               |#
 
                                |#############
  openconfig/magna              |#############
@@ -78,6 +66,18 @@ Since 2023-11-13 14:42:42 -0800 PST, I'm most active between 14:00-14:59 - with 
  willscott/go-vestaboard       |#
                                |#
 
+                               |##########################################
+ openconfig/gribigo            |##########################################
+                               |##########################################
+
+                               |##
+ openconfig/ygot               |##
+                               |##
+
+                               |########
+ openconfig/public             |########
+                               |########
+
 
 
 Since 2023-11-13 14:42:42 -0800 PST, I've been most active in openconfig/gribigo, with 42 events.
@@ -86,4 +86,4 @@ Since 2023-11-13 14:42:42 -0800 PST, I've been most active in openconfig/gribigo
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2023-11-25 22:20:19.402539549 -0800 PST
+Last Updated: 2023-11-25 22:31:07.945858706 -0800 PST
