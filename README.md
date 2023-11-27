@@ -42,9 +42,25 @@ Since 2023-11-13 14:42:43 -0800 PST, I'm most active between 14:00-14:59 - with 
 
 
 ```
+                               |#
+ florianl/go-tc                |#
+                               |#
+
+                               |#
+ robshakir/lemming             |#
+                               |#
+
                                |######
  openconfig/aite               |######
                                |######
+
+                               |##
+ openconfig/ygot               |##
+                               |##
+
+                               |#
+ willscott/go-vestaboard       |#
+                               |#
 
                                |#########################################
  openconfig/gribigo            |#########################################
@@ -55,32 +71,16 @@ Since 2023-11-13 14:42:43 -0800 PST, I'm most active between 14:00-14:59 - with 
                                |##########################
 
                                |#
- florianl/go-tc                |#
+ uber-go/nilaway               |#
                                |#
 
                                |########
  openconfig/public             |########
                                |########
 
-                               |#
- robshakir/lemming             |#
-                               |#
-
                                |#############
  openconfig/magna              |#############
                                |#############
-
-                               |##
- openconfig/ygot               |##
-                               |##
-
-                               |#
- willscott/go-vestaboard       |#
-                               |#
-
-                               |#
- uber-go/nilaway               |#
-                               |#
 
 
 
@@ -90,4 +90,4 @@ Since 2023-11-13 14:42:43 -0800 PST, I've been most active in openconfig/gribigo
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2023-11-27 08:20:43.146216087 -0800 PST
+Last Updated: 2023-11-27 08:34:20.669082766 -0800 PST
