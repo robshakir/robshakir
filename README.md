@@ -42,33 +42,29 @@ Since 2023-11-13 23:20:35 -0800 PST, I'm most active between 14:00-14:59 - with 
 
 
 ```
+                               |#########
+ openconfig/aite               |#########
+                               |#########
+
                                |#
  robshakir/lemming             |#
                                |#
 
-                               |#############
- openconfig/magna              |#############
-                               |#############
+                               |##
+ openconfig/ygot               |##
+                               |##
 
                                |######################################
  openconfig/gribigo            |######################################
                                |######################################
 
                                |#
- uber-go/nilaway               |#
-                               |#
-
-                               |#
  florianl/go-tc                |#
                                |#
 
-                               |#########
- openconfig/aite               |#########
-                               |#########
-
-                               |##
- openconfig/ygot               |##
-                               |##
+                               |#############
+ openconfig/magna              |#############
+                               |#############
 
                                |#
  willscott/go-vestaboard       |#
@@ -77,6 +73,10 @@ Since 2023-11-13 23:20:35 -0800 PST, I'm most active between 14:00-14:59 - with 
                                |##########################
  openconfig/featureprofiles    |##########################
                                |##########################
+
+                               |#
+ uber-go/nilaway               |#
+                               |#
 
                                |########
  openconfig/public             |########
@@ -90,4 +90,4 @@ Since 2023-11-13 23:20:35 -0800 PST, I've been most active in openconfig/gribigo
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2023-11-27 10:31:54.877650522 -0800 PST
+Last Updated: 2023-11-27 10:45:56.448945625 -0800 PST
