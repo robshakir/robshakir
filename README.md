@@ -50,21 +50,17 @@ Since 2023-11-14 12:37:25 -0800 PST, I'm most active between 14:00-14:59 - with 
  openconfig/aite               |#########
                                |#########
 
-                               |#############
- openconfig/magna              |#############
-                               |#############
+                               |#
+ robshakir/lemming             |#
+                               |#
 
                                |#
- florianl/go-tc                |#
+ uber-go/nilaway               |#
                                |#
 
                                |##########
  openconfig/public             |##########
                                |##########
-
-                               |#
- robshakir/lemming             |#
-                               |#
 
                                |##
  openconfig/ygot               |##
@@ -79,8 +75,12 @@ Since 2023-11-14 12:37:25 -0800 PST, I'm most active between 14:00-14:59 - with 
                                |##################################
 
                                |#
- uber-go/nilaway               |#
+ florianl/go-tc                |#
                                |#
+
+                               |#############
+ openconfig/magna              |#############
+                               |#############
 
 
 
@@ -90,4 +90,4 @@ Since 2023-11-14 12:37:25 -0800 PST, I've been most active in openconfig/gribigo
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2023-11-28 14:19:02.318725869 -0800 PST
+Last Updated: 2023-11-28 14:31:05.569061681 -0800 PST
