@@ -42,18 +42,6 @@ Since 2023-11-13 23:20:35 -0800 PST, I'm most active between 14:00-14:59 - with 
 
 
 ```
-                               |#
- florianl/go-tc                |#
-                               |#
-
-                               |#
- robshakir/lemming             |#
-                               |#
-
-                               |#############
- openconfig/magna              |#############
-                               |#############
-
                                |##
  openconfig/ygot               |##
                                |##
@@ -62,25 +50,37 @@ Since 2023-11-13 23:20:35 -0800 PST, I'm most active between 14:00-14:59 - with 
  willscott/go-vestaboard       |#
                                |#
 
+                               |######################################
+ openconfig/gribigo            |######################################
+                               |######################################
+
                                |#
  uber-go/nilaway               |#
                                |#
+
+                               |#
+ florianl/go-tc                |#
+                               |#
+
+                               |########
+ openconfig/public             |########
+                               |########
 
                                |#########
  openconfig/aite               |#########
                                |#########
 
-                               |######################################
- openconfig/gribigo            |######################################
-                               |######################################
+                               |#############
+ openconfig/magna              |#############
+                               |#############
+
+                               |#
+ robshakir/lemming             |#
+                               |#
 
                                |##########################
  openconfig/featureprofiles    |##########################
                                |##########################
-
-                               |########
- openconfig/public             |########
-                               |########
 
 
 
@@ -90,4 +90,4 @@ Since 2023-11-13 23:20:35 -0800 PST, I've been most active in openconfig/gribigo
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2023-11-28 09:45:57.952329008 -0800 PST
+Last Updated: 2023-11-28 10:01:15.562443728 -0800 PST
