@@ -42,29 +42,9 @@ Since 2023-11-13 23:20:35 -0800 PST, I'm most active between 14:00-14:59 - with 
 
 
 ```
-                               |#########
- openconfig/aite               |#########
-                               |#########
-
-                               |#
- robshakir/lemming             |#
-                               |#
-
                                |#############
  openconfig/magna              |#############
                                |#############
-
-                               |#
- willscott/go-vestaboard       |#
-                               |#
-
-                               |#
- uber-go/nilaway               |#
-                               |#
-
-                               |##
- openconfig/ygot               |##
-                               |##
 
                                |######################################
  openconfig/gribigo            |######################################
@@ -75,12 +55,32 @@ Since 2023-11-13 23:20:35 -0800 PST, I'm most active between 14:00-14:59 - with 
                                |##########################
 
                                |#
+ uber-go/nilaway               |#
+                               |#
+
+                               |#
  florianl/go-tc                |#
+                               |#
+
+                               |#
+ robshakir/lemming             |#
+                               |#
+
+                               |##
+ openconfig/ygot               |##
+                               |##
+
+                               |#
+ willscott/go-vestaboard       |#
                                |#
 
                                |########
  openconfig/public             |########
                                |########
+
+                               |#########
+ openconfig/aite               |#########
+                               |#########
 
 
 
@@ -90,4 +90,4 @@ Since 2023-11-13 23:20:35 -0800 PST, I've been most active in openconfig/gribigo
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2023-11-28 05:31:03.071511649 -0800 PST
+Last Updated: 2023-11-28 05:45:55.674756831 -0800 PST
