@@ -46,6 +46,10 @@ Since 2023-11-14 12:37:25 -0800 PST, I'm most active between 14:00-14:59 - with 
  openconfig/public             |##########
                                |##########
 
+                               |##################################
+ openconfig/gribigo            |##################################
+                               |##################################
+
                                |#############
  openconfig/magna              |#############
                                |#############
@@ -53,6 +57,14 @@ Since 2023-11-14 12:37:25 -0800 PST, I'm most active between 14:00-14:59 - with 
                                |##
  openconfig/ygot               |##
                                |##
+
+                               |#
+ willscott/go-vestaboard       |#
+                               |#
+
+                               |#
+ uber-go/nilaway               |#
+                               |#
 
                                |#
  florianl/go-tc                |#
@@ -70,18 +82,6 @@ Since 2023-11-14 12:37:25 -0800 PST, I'm most active between 14:00-14:59 - with 
  robshakir/lemming             |#
                                |#
 
-                               |#
- willscott/go-vestaboard       |#
-                               |#
-
-                               |##################################
- openconfig/gribigo            |##################################
-                               |##################################
-
-                               |#
- uber-go/nilaway               |#
-                               |#
-
 
 
 Since 2023-11-14 12:37:25 -0800 PST, I've been most active in openconfig/gribigo, with 34 events.
@@ -90,4 +90,4 @@ Since 2023-11-14 12:37:25 -0800 PST, I've been most active in openconfig/gribigo
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2023-11-29 07:46:00.859187519 -0800 PST
+Last Updated: 2023-11-29 08:01:21.346793251 -0800 PST
