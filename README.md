@@ -42,6 +42,18 @@ Since 2023-11-14 12:37:25 -0800 PST, I'm most active between 14:00-14:59 - with 
 
 
 ```
+                               |##########
+ openconfig/public             |##########
+                               |##########
+
+                               |############################
+ openconfig/featureprofiles    |############################
+                               |############################
+
+                               |##
+ openconfig/ygot               |##
+                               |##
+
                                |##################################
  openconfig/gribigo            |##################################
                                |##################################
@@ -50,9 +62,9 @@ Since 2023-11-14 12:37:25 -0800 PST, I'm most active between 14:00-14:59 - with 
  uber-go/nilaway               |#
                                |#
 
-                               |############################
- openconfig/featureprofiles    |############################
-                               |############################
+                               |#########
+ openconfig/aite               |#########
+                               |#########
 
                                |#
  robshakir/lemming             |#
@@ -66,18 +78,6 @@ Since 2023-11-14 12:37:25 -0800 PST, I'm most active between 14:00-14:59 - with 
  willscott/go-vestaboard       |#
                                |#
 
-                               |##########
- openconfig/public             |##########
-                               |##########
-
-                               |#########
- openconfig/aite               |#########
-                               |#########
-
-                               |##
- openconfig/ygot               |##
-                               |##
-
                                |#
  florianl/go-tc                |#
                                |#
@@ -90,4 +90,4 @@ Since 2023-11-14 12:37:25 -0800 PST, I've been most active in openconfig/gribigo
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2023-11-29 00:32:02.642345789 -0800 PST
+Last Updated: 2023-11-29 00:45:55.379417169 -0800 PST
