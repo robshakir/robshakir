@@ -42,26 +42,6 @@ Since 2023-11-14 19:49:44 -0800 PST, I'm most active between 18:00-18:59 - with 
 
 
 ```
-                               |#
- robshakir/lemming             |#
-                               |#
-
-                               |#
- willscott/go-vestaboard       |#
-                               |#
-
-                               |#
- uber-go/nilaway               |#
-                               |#
-
-                               |######################
- openconfig/gribigo            |######################
-                               |######################
-
-                               |############
- openconfig/public             |############
-                               |############
-
                                |############################
  openconfig/featureprofiles    |############################
                                |############################
@@ -71,12 +51,20 @@ Since 2023-11-14 19:49:44 -0800 PST, I'm most active between 18:00-18:59 - with 
                                |#########
 
                                |#
- florianl/go-tc                |#
+ robshakir/lemming             |#
                                |#
+
+                               |######################
+ openconfig/gribigo            |######################
+                               |######################
 
                                |##
  openconfig/models-ci          |##
                                |##
+
+                               |############
+ openconfig/public             |############
+                               |############
 
                                |###################
  openconfig/magna              |###################
@@ -90,6 +78,18 @@ Since 2023-11-14 19:49:44 -0800 PST, I'm most active between 18:00-18:59 - with 
  openconfig/ygot               |##
                                |##
 
+                               |#
+ willscott/go-vestaboard       |#
+                               |#
+
+                               |#
+ uber-go/nilaway               |#
+                               |#
+
+                               |#
+ florianl/go-tc                |#
+                               |#
+
 
 
 Since 2023-11-14 19:49:44 -0800 PST, I've been most active in openconfig/featureprofiles, with 28 events.
@@ -98,4 +98,4 @@ Since 2023-11-14 19:49:44 -0800 PST, I've been most active in openconfig/feature
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2023-11-30 17:52:01.919669472 -0800 PST
+Last Updated: 2023-11-30 18:14:29.825508395 -0800 PST
