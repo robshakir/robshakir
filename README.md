@@ -42,13 +42,17 @@ Since 2023-11-17 15:28:37 -0800 PST, I'm most active between 18:00-18:59 - with 
 
 
 ```
+                               |#
+ willscott/go-vestaboard       |#
+                               |#
+
+                               |##############################
+ openconfig/featureprofiles    |##############################
+                               |##############################
+
                                |##############
  openconfig/public             |##############
                                |##############
-
-                               |###
- openconfig/gnoi               |###
-                               |###
 
                                |#############
  openconfig/gribigo            |#############
@@ -58,9 +62,17 @@ Since 2023-11-17 15:28:37 -0800 PST, I'm most active between 18:00-18:59 - with 
  openconfig/models-ci          |##
                                |##
 
+                               |###################
+ openconfig/magna              |###################
+                               |###################
+
                                |##
  robshakir/pyangbind           |##
                                |##
+
+                               |#########
+ openconfig/aite               |#########
+                               |#########
 
                                |#
  uber-go/nilaway               |#
@@ -70,25 +82,13 @@ Since 2023-11-17 15:28:37 -0800 PST, I'm most active between 18:00-18:59 - with 
  openconfig/ygot               |#####
                                |#####
 
-                               |###################
- openconfig/magna              |###################
-                               |###################
-
-                               |#########
- openconfig/aite               |#########
-                               |#########
+                               |###
+ openconfig/gnoi               |###
+                               |###
 
                                |#
  robshakir/lemming             |#
                                |#
-
-                               |#
- willscott/go-vestaboard       |#
-                               |#
-
-                               |##############################
- openconfig/featureprofiles    |##############################
-                               |##############################
 
 
 
@@ -98,4 +98,4 @@ Since 2023-11-17 15:28:37 -0800 PST, I've been most active in openconfig/feature
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2023-12-07 14:01:24.433760917 -0800 PST
+Last Updated: 2023-12-07 14:19:14.528117399 -0800 PST
