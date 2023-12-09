@@ -1,5 +1,6 @@
 ### 🍞 Bread Crumbs
 
+ * ⭐️: Starred `google/gops` at 2023-12-08 16:59:14 -0800 PST
  * 🚢: Pushed some commits to `openconfig/gribigo` at 2023-12-08 03:08:30 -0800 PST
  * ✍🏼: Created a pull request in `openconfig/gribigo` at 2023-12-08 03:08:29 -0800 PST
  * ✍🏼: Created a pull request in `openconfig/gribigo` at 2023-12-07 18:33:31 -0800 PST
@@ -9,7 +10,6 @@
  * 😃: Commented on an issue in `openconfig/ygot` at 2023-12-05 07:46:44 -0800 PST
  * ✍🏼: Created a pull request in `openconfig/featureprofiles` at 2023-12-04 17:21:25 -0800 PST
  * 🚢: Pushed some commits to `openconfig/featureprofiles` at 2023-12-04 17:18:31 -0800 PST
- * 💬: Commented on a PR in  `openconfig/public` at 2023-11-30 10:18:57 -0800 PST
 
 ### 🕘 Recent Activity
 ```
@@ -25,42 +25,26 @@
   9 ┤                                       ╭╯  ╰╮         │    ╰╮            ╭╯     │
   8 ┤                                     ╭─╯    ╰╮       ╭╯     ╰╮           │      │
   6 ┤                                    ╭╯       │      ╭╯       ╰╮         ╭╯      │    ╭╮
-  5 ┤                             ╭╮    ╭╯        ╰╮     │         ╰╮       ╭╯       ╰╮  ╭╯╰─╮
-  3 ┤           ╭──────╮         ╭╯╰──╮╭╯          ╰╮   ╭╯          ╰╮    ╭─╯         │ ╭╯   ╰─╮
-  2 ┤         ╭─╯      ╰─╮     ╭─╯    ╰╯            ╰───╯            ╰────╯           │╭╯      ╰──╮
-  0 ┼─────────╯          ╰─────╯                                                      ╰╯          ╰─────
+  5 ┤                             ╭╮    ╭╯        ╰╮     │         ╰╮      ╭─╯       ╰╮  ╭╯╰─╮
+  3 ┤              ╭───╮         ╭╯╰──╮╭╯          ╰╮   ╭╯          ╰╮    ╭╯          │ ╭╯   ╰─╮
+  2 ┤          ╭───╯   ╰─╮     ╭─╯    ╰╯            ╰───╯            ╰────╯           │╭╯      ╰──╮
+  0 ┼──────────╯         ╰─────╯                                                      ╰╯          ╰─────
     +───────+───────+───────+───────+───────+───────+───────+───────+───────+───────+───────+───────+────
   00:00   02:00   04:00   06:00   08:00   10:00   12:00   14:00   16:00   18:00   20:00   22:00   00:00   
 
 						Commits by Hour of Day
 
 
-Since 2023-11-19 03:57:53 -0800 PST, I'm most active between 18:00-18:59 - with 25 events in that hour.
+Since 2023-11-21 17:38:28 -0800 PST, I'm most active between 18:00-18:59 - with 25 events in that hour.
 
 ```
 
 
 
 ```
-                               |###
- openconfig/gnoi               |###
-                               |###
-
-                               |##
- openconfig/models-ci          |##
-                               |##
-
-                               |##
- robshakir/pyangbind           |##
-                               |##
-
-                               |####
- openconfig/ygot               |####
-                               |####
-
-                               |##############
- openconfig/public             |##############
-                               |##############
+                               |#
+ google/gops                   |#
+                               |#
 
                                |###################
  openconfig/magna              |###################
@@ -70,16 +54,16 @@ Since 2023-11-19 03:57:53 -0800 PST, I'm most active between 18:00-18:59 - with 
  openconfig/aite               |#########
                                |#########
 
+                               |##
+ openconfig/models-ci          |##
+                               |##
+
+                               |##
+ robshakir/pyangbind           |##
+                               |##
+
                                |#
  robshakir/lemming             |#
-                               |#
-
-                               |#
- willscott/go-vestaboard       |#
-                               |#
-
-                               |#
- uber-go/nilaway               |#
                                |#
 
                                |##############
@@ -90,12 +74,28 @@ Since 2023-11-19 03:57:53 -0800 PST, I'm most active between 18:00-18:59 - with 
  openconfig/featureprofiles    |##############################
                                |##############################
 
+                               |####
+ openconfig/ygot               |####
+                               |####
+
+                               |##############
+ openconfig/public             |##############
+                               |##############
+
+                               |###
+ openconfig/gnoi               |###
+                               |###
+
+                               |#
+ willscott/go-vestaboard       |#
+                               |#
 
 
-Since 2023-11-19 03:57:53 -0800 PST, I've been most active in openconfig/featureprofiles, with 30 events.
+
+Since 2023-11-21 17:38:28 -0800 PST, I've been most active in openconfig/featureprofiles, with 30 events.
 
 ```
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2023-12-08 16:44:44.279111031 -0800 PST
+Last Updated: 2023-12-08 17:11:52.369756894 -0800 PST
