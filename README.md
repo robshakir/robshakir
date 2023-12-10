@@ -42,21 +42,17 @@ Since 2023-11-21 17:38:28 -0800 PST, I'm most active between 18:00-18:59 - with 
 
 
 ```
-                               |#########
- openconfig/aite               |#########
-                               |#########
-
                                |#
  google/gops                   |#
                                |#
 
-                               |##############
- openconfig/gribigo            |##############
-                               |##############
-
                                |##############################
  openconfig/featureprofiles    |##############################
                                |##############################
+
+                               |##############
+ openconfig/public             |##############
+                               |##############
 
                                |##
  openconfig/models-ci          |##
@@ -65,6 +61,22 @@ Since 2023-11-21 17:38:28 -0800 PST, I'm most active between 18:00-18:59 - with 
                                |###################
  openconfig/magna              |###################
                                |###################
+
+                               |#########
+ openconfig/aite               |#########
+                               |#########
+
+                               |##############
+ openconfig/gribigo            |##############
+                               |##############
+
+                               |####
+ openconfig/ygot               |####
+                               |####
+
+                               |###
+ openconfig/gnoi               |###
+                               |###
 
                                |##
  robshakir/pyangbind           |##
@@ -78,18 +90,6 @@ Since 2023-11-21 17:38:28 -0800 PST, I'm most active between 18:00-18:59 - with 
  willscott/go-vestaboard       |#
                                |#
 
-                               |####
- openconfig/ygot               |####
-                               |####
-
-                               |##############
- openconfig/public             |##############
-                               |##############
-
-                               |###
- openconfig/gnoi               |###
-                               |###
-
 
 
 Since 2023-11-21 17:38:28 -0800 PST, I've been most active in openconfig/featureprofiles, with 30 events.
@@ -98,4 +98,4 @@ Since 2023-11-21 17:38:28 -0800 PST, I've been most active in openconfig/feature
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2023-12-10 15:01:11.693061131 -0800 PST
+Last Updated: 2023-12-10 15:18:32.269922914 -0800 PST
