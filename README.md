@@ -46,18 +46,6 @@ Since 2023-11-21 18:18:42 -0800 PST, I'm most active between 18:00-18:59 - with 
  openconfig/gribigo            |##################
                                |##################
 
-                               |#
- google/gops                   |#
-                               |#
-
-                               |##
- robshakir/pyangbind           |##
-                               |##
-
-                               |#
- willscott/go-vestaboard       |#
-                               |#
-
                                |###################
  openconfig/magna              |###################
                                |###################
@@ -68,6 +56,18 @@ Since 2023-11-21 18:18:42 -0800 PST, I'm most active between 18:00-18:59 - with 
 
                                |#
  robshakir/lemming             |#
+                               |#
+
+                               |##
+ openconfig/models-ci          |##
+                               |##
+
+                               |##
+ robshakir/pyangbind           |##
+                               |##
+
+                               |#
+ willscott/go-vestaboard       |#
                                |#
 
                                |###############
@@ -82,13 +82,13 @@ Since 2023-11-21 18:18:42 -0800 PST, I'm most active between 18:00-18:59 - with 
  openconfig/featureprofiles    |#######################
                                |#######################
 
+                               |#
+ google/gops                   |#
+                               |#
+
                                |###
  openconfig/gnoi               |###
                                |###
-
-                               |##
- openconfig/models-ci          |##
-                               |##
 
 
 
@@ -98,4 +98,4 @@ Since 2023-11-21 18:18:42 -0800 PST, I've been most active in openconfig/feature
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2023-12-11 14:46:02.85585908 -0800 PST
+Last Updated: 2023-12-11 15:01:18.115719701 -0800 PST
