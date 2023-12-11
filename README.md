@@ -42,22 +42,6 @@ Since 2023-11-21 18:15:15 -0800 PST, I'm most active between 18:00-18:59 - with 
 
 
 ```
-                               |#########
- openconfig/aite               |#########
-                               |#########
-
-                               |##################
- openconfig/gribigo            |##################
-                               |##################
-
-                               |########################
- openconfig/featureprofiles    |########################
-                               |########################
-
-                               |#
- google/gops                   |#
-                               |#
-
                                |##############
  openconfig/public             |##############
                                |##############
@@ -65,14 +49,6 @@ Since 2023-11-21 18:15:15 -0800 PST, I'm most active between 18:00-18:59 - with 
                                |###
  openconfig/gnoi               |###
                                |###
-
-                               |#
- willscott/go-vestaboard       |#
-                               |#
-
-                               |######
- openconfig/ygot               |######
-                               |######
 
                                |##
  openconfig/models-ci          |##
@@ -82,12 +58,36 @@ Since 2023-11-21 18:15:15 -0800 PST, I'm most active between 18:00-18:59 - with 
  openconfig/magna              |###################
                                |###################
 
+                               |##################
+ openconfig/gribigo            |##################
+                               |##################
+
+                               |######
+ openconfig/ygot               |######
+                               |######
+
+                               |########################
+ openconfig/featureprofiles    |########################
+                               |########################
+
+                               |#
+ google/gops                   |#
+                               |#
+
+                               |#
+ robshakir/lemming             |#
+                               |#
+
                                |##
  robshakir/pyangbind           |##
                                |##
 
+                               |#########
+ openconfig/aite               |#########
+                               |#########
+
                                |#
- robshakir/lemming             |#
+ willscott/go-vestaboard       |#
                                |#
 
 
@@ -98,4 +98,4 @@ Since 2023-11-21 18:15:15 -0800 PST, I've been most active in openconfig/feature
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2023-12-11 14:19:24.934744476 -0800 PST
+Last Updated: 2023-12-11 14:31:28.158695243 -0800 PST
