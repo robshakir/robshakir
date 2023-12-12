@@ -42,26 +42,6 @@ Since 2023-11-21 18:47:56 -0800 PST, I'm most active between 13:00-13:59 - with 
 
 
 ```
-                               |###
- openconfig/gnoi               |###
-                               |###
-
-                               |#########
- openconfig/aite               |#########
-                               |#########
-
-                               |#
- willscott/go-vestaboard       |#
-                               |#
-
-                               |###################
- openconfig/featureprofiles    |###################
-                               |###################
-
-                               |#########
- openconfig/ygot               |#########
-                               |#########
-
                                |#
  google/gops                   |#
                                |#
@@ -74,13 +54,13 @@ Since 2023-11-21 18:47:56 -0800 PST, I'm most active between 13:00-13:59 - with 
  openconfig/magna              |###################
                                |###################
 
-                               |##
- robshakir/pyangbind           |##
-                               |##
+                               |#
+ willscott/go-vestaboard       |#
+                               |#
 
-                               |#
- robshakir/lemming             |#
-                               |#
+                               |###################
+ openconfig/featureprofiles    |###################
+                               |###################
 
                                |################
  openconfig/public             |################
@@ -90,6 +70,26 @@ Since 2023-11-21 18:47:56 -0800 PST, I'm most active between 13:00-13:59 - with 
  openconfig/gribigo            |##################
                                |##################
 
+                               |###
+ openconfig/gnoi               |###
+                               |###
+
+                               |##
+ robshakir/pyangbind           |##
+                               |##
+
+                               |#########
+ openconfig/aite               |#########
+                               |#########
+
+                               |#
+ robshakir/lemming             |#
+                               |#
+
+                               |#########
+ openconfig/ygot               |#########
+                               |#########
+
 
 
 Since 2023-11-21 18:47:56 -0800 PST, I've been most active in openconfig/magna, with 19 events.
@@ -98,4 +98,4 @@ Since 2023-11-21 18:47:56 -0800 PST, I've been most active in openconfig/magna, 
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2023-12-12 03:01:15.576271859 -0800 PST
+Last Updated: 2023-12-12 03:17:41.327262362 -0800 PST
