@@ -42,13 +42,13 @@ Since 2023-11-25 13:41:02 -0800 PST, I'm most active between 13:00-13:59 - with 
 
 
 ```
-                               |#################
- openconfig/featureprofiles    |#################
-                               |#################
+                               |###
+ openconfig/gnoi               |###
+                               |###
 
-                               |##########
- openconfig/ygot               |##########
-                               |##########
+                               |#################
+ openconfig/magna              |#################
+                               |#################
 
                                |################
  openconfig/public             |################
@@ -58,9 +58,9 @@ Since 2023-11-25 13:41:02 -0800 PST, I'm most active between 13:00-13:59 - with 
  google/gops                   |#
                                |#
 
-                               |###
- openconfig/gnoi               |###
-                               |###
+                               |##
+ openconfig/models-ci          |##
+                               |##
 
                                |######
  openconfig/aite               |######
@@ -74,13 +74,13 @@ Since 2023-11-25 13:41:02 -0800 PST, I'm most active between 13:00-13:59 - with 
  openconfig/gribigo            |########################
                                |########################
 
-                               |##
- openconfig/models-ci          |##
-                               |##
+                               |#################
+ openconfig/featureprofiles    |#################
+                               |#################
 
-                               |#################
- openconfig/magna              |#################
-                               |#################
+                               |##########
+ openconfig/ygot               |##########
+                               |##########
 
                                |#
  robshakir/lemming             |#
@@ -94,4 +94,4 @@ Since 2023-11-25 13:41:02 -0800 PST, I've been most active in openconfig/gribigo
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2023-12-14 09:46:03.046948289 -0800 PST
+Last Updated: 2023-12-14 10:01:29.195638294 -0800 PST
