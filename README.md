@@ -42,29 +42,25 @@ Since 2023-11-25 12:14:37 -0800 PST, I'm most active between 13:00-13:59 - with 
 
 
 ```
-                               |################
- openconfig/public             |################
-                               |################
+                               |##########
+ openconfig/ygot               |##########
+                               |##########
 
                                |#
  google/gops                   |#
                                |#
 
-                               |##
- openconfig/models-ci          |##
-                               |##
-
                                |#################
  openconfig/magna              |#################
                                |#################
 
-                               |##
- robshakir/pyangbind           |##
-                               |##
-
                                |#######
  openconfig/aite               |#######
                                |#######
+
+                               |##
+ robshakir/pyangbind           |##
+                               |##
 
                                |#
  robshakir/lemming             |#
@@ -78,13 +74,17 @@ Since 2023-11-25 12:14:37 -0800 PST, I'm most active between 13:00-13:59 - with 
  openconfig/featureprofiles    |#################
                                |#################
 
-                               |##########
- openconfig/ygot               |##########
-                               |##########
+                               |################
+ openconfig/public             |################
+                               |################
 
                                |###
  openconfig/gnoi               |###
                                |###
+
+                               |##
+ openconfig/models-ci          |##
+                               |##
 
 
 
@@ -94,4 +94,4 @@ Since 2023-11-25 12:14:37 -0800 PST, I've been most active in openconfig/gribigo
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2023-12-13 17:12:01.711537887 -0800 PST
+Last Updated: 2023-12-13 17:37:37.352610264 -0800 PST
