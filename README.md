@@ -42,41 +42,9 @@ Since 2023-11-25 13:48:13 -0800 PST, I'm most active between 16:00-16:59 - with 
 
 
 ```
-                               |##########
- openconfig/ygot               |##########
-                               |##########
-
-                               |#
- google/gops                   |#
-                               |#
-
-                               |##
- openconfig/models-ci          |##
-                               |##
-
-                               |###
- openconfig/aite               |###
-                               |###
-
                                |#################
  openconfig/public             |#################
                                |#################
-
-                               |#####################
- openconfig/featureprofiles    |#####################
-                               |#####################
-
-                               |###
- openconfig/gnoi               |###
-                               |###
-
-                               |###############
- openconfig/magna              |###############
-                               |###############
-
-                               |#
- robshakir/lemming             |#
-                               |#
 
                                |###
  robshakir/pyangbind           |###
@@ -86,6 +54,38 @@ Since 2023-11-25 13:48:13 -0800 PST, I'm most active between 16:00-16:59 - with 
  openconfig/gribigo            |########################
                                |########################
 
+                               |##########
+ openconfig/ygot               |##########
+                               |##########
+
+                               |###############
+ openconfig/magna              |###############
+                               |###############
+
+                               |###
+ openconfig/aite               |###
+                               |###
+
+                               |#
+ robshakir/lemming             |#
+                               |#
+
+                               |#####################
+ openconfig/featureprofiles    |#####################
+                               |#####################
+
+                               |#
+ google/gops                   |#
+                               |#
+
+                               |###
+ openconfig/gnoi               |###
+                               |###
+
+                               |##
+ openconfig/models-ci          |##
+                               |##
+
 
 
 Since 2023-11-25 13:48:13 -0800 PST, I've been most active in openconfig/gribigo, with 24 events.
@@ -94,4 +94,4 @@ Since 2023-11-25 13:48:13 -0800 PST, I've been most active in openconfig/gribigo
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2023-12-15 07:19:39.706308507 -0800 PST
+Last Updated: 2023-12-15 07:31:04.731645854 -0800 PST
