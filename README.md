@@ -42,17 +42,13 @@ Since 2023-11-25 13:48:13 -0800 PST, I'm most active between 16:00-16:59 - with 
 
 
 ```
-                               |###
- openconfig/gnoi               |###
-                               |###
+                               |#
+ robshakir/lemming             |#
+                               |#
 
-                               |###############
- openconfig/magna              |###############
-                               |###############
-
-                               |##########
- openconfig/ygot               |##########
-                               |##########
+                               |#################
+ openconfig/public             |#################
+                               |#################
 
                                |#####################
  openconfig/featureprofiles    |#####################
@@ -70,21 +66,25 @@ Since 2023-11-25 13:48:13 -0800 PST, I'm most active between 16:00-16:59 - with 
  google/gops                   |#
                                |#
 
+                               |##########
+ openconfig/ygot               |##########
+                               |##########
+
+                               |###
+ openconfig/gnoi               |###
+                               |###
+
                                |##
  openconfig/models-ci          |##
                                |##
 
+                               |###############
+ openconfig/magna              |###############
+                               |###############
+
                                |###
  openconfig/aite               |###
                                |###
-
-                               |#
- robshakir/lemming             |#
-                               |#
-
-                               |#################
- openconfig/public             |#################
-                               |#################
 
 
 
@@ -94,4 +94,4 @@ Since 2023-11-25 13:48:13 -0800 PST, I've been most active in openconfig/gribigo
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2023-12-16 07:01:09.473579479 -0800 PST
+Last Updated: 2023-12-16 07:18:18.129019356 -0800 PST
