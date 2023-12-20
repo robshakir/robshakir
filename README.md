@@ -42,6 +42,14 @@ Since 2023-11-25 14:10:31 -0800 PST, I'm most active between 16:00-16:59 - with 
 
 
 ```
+                               |###
+ openconfig/aite               |###
+                               |###
+
+                               |############
+ openconfig/magna              |############
+                               |############
+
                                |########################
  openconfig/gribigo            |########################
                                |########################
@@ -54,9 +62,9 @@ Since 2023-11-25 14:10:31 -0800 PST, I'm most active between 16:00-16:59 - with 
  google/gops                   |#
                                |#
 
-                               |###
- openconfig/aite               |###
-                               |###
+                               |##
+ openconfig/models-ci          |##
+                               |##
 
                                |########################
  openconfig/featureprofiles    |########################
@@ -70,21 +78,13 @@ Since 2023-11-25 14:10:31 -0800 PST, I'm most active between 16:00-16:59 - with 
  robshakir/pyangbind           |###
                                |###
 
-                               |#
- robshakir/lemming             |#
-                               |#
-
-                               |############
- openconfig/magna              |############
-                               |############
-
                                |###
  openconfig/gnoi               |###
                                |###
 
-                               |##
- openconfig/models-ci          |##
-                               |##
+                               |#
+ robshakir/lemming             |#
+                               |#
 
 
 
@@ -94,4 +94,4 @@ Since 2023-11-25 14:10:31 -0800 PST, I've been most active in openconfig/feature
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2023-12-20 10:01:19.58506234 -0800 PST
+Last Updated: 2023-12-20 10:20:26.207017188 -0800 PST
