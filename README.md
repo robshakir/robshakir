@@ -42,13 +42,13 @@ Since 2023-11-25 14:44:10 -0800 PST, I'm most active between 16:00-16:59 - with 
 
 
 ```
-                               |###########
- openconfig/magna              |###########
-                               |###########
+                               |#################
+ openconfig/public             |#################
+                               |#################
 
-                               |##########
- openconfig/ygot               |##########
-                               |##########
+                               |###
+ openconfig/gnoi               |###
+                               |###
 
                                |##
  openconfig/models-ci          |##
@@ -62,21 +62,21 @@ Since 2023-11-25 14:44:10 -0800 PST, I'm most active between 16:00-16:59 - with 
  openconfig/featureprofiles    |########################
                                |########################
 
-                               |#################
- openconfig/public             |#################
-                               |#################
+                               |###########
+ openconfig/magna              |###########
+                               |###########
 
                                |########################
  openconfig/gribigo            |########################
                                |########################
 
+                               |##########
+ openconfig/ygot               |##########
+                               |##########
+
                                |#
  google/gops                   |#
                                |#
-
-                               |###
- openconfig/gnoi               |###
-                               |###
 
                                |###
  openconfig/aite               |###
@@ -94,4 +94,4 @@ Since 2023-11-25 14:44:10 -0800 PST, I've been most active in openconfig/feature
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2023-12-23 16:27:04.993391121 -0800 PST
+Last Updated: 2023-12-23 16:47:16.31722164 -0800 PST
