@@ -42,6 +42,14 @@ Since 2023-11-25 14:55:43 -0800 PST, I'm most active between 16:00-16:59 - with 
 
 
 ```
+                               |###
+ openconfig/aite               |###
+                               |###
+
+                               |########################
+ openconfig/featureprofiles    |########################
+                               |########################
+
                                |##########
  openconfig/magna              |##########
                                |##########
@@ -54,17 +62,17 @@ Since 2023-11-25 14:55:43 -0800 PST, I'm most active between 16:00-16:59 - with 
  openconfig/ygot               |##########
                                |##########
 
-                               |###
- openconfig/aite               |###
-                               |###
-
                                |#
- robshakir/lemming             |#
+ google/gops                   |#
                                |#
 
                                |##
  openconfig/models-ci          |##
                                |##
+
+                               |#
+ robshakir/lemming             |#
+                               |#
 
                                |####
  openconfig/gnoi               |####
@@ -75,23 +83,15 @@ Since 2023-11-25 14:55:43 -0800 PST, I'm most active between 16:00-16:59 - with 
                                |####
 
                                |########################
- openconfig/featureprofiles    |########################
-                               |########################
-
-                               |########################
  openconfig/gribigo            |########################
                                |########################
 
-                               |#
- google/gops                   |#
-                               |#
 
 
-
-Since 2023-11-25 14:55:43 -0800 PST, I've been most active in openconfig/featureprofiles, with 24 events.
+Since 2023-11-25 14:55:43 -0800 PST, I've been most active in openconfig/gribigo, with 24 events.
 
 ```
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2024-01-05 15:45:55.948518191 -0800 PST
+Last Updated: 2024-01-05 16:03:07.680376872 -0800 PST
