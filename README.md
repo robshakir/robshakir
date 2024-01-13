@@ -42,18 +42,6 @@ Since 2023-11-27 09:18:21 -0800 PST, I'm most active between 10:00-10:59 - with 
 
 
 ```
-                               |####
- openconfig/gnoi               |####
-                               |####
-
-                               |####
- robshakir/pyangbind           |####
-                               |####
-
-                               |########################
- openconfig/featureprofiles    |########################
-                               |########################
-
                                |#######
  openconfig/magna              |#######
                                |#######
@@ -62,9 +50,9 @@ Since 2023-11-27 09:18:21 -0800 PST, I'm most active between 10:00-10:59 - with 
  openconfig/gribigo            |########################
                                |########################
 
-                               |##########
- openconfig/ygot               |##########
-                               |##########
+                               |#
+ google/gops                   |#
+                               |#
 
                                |##
  openconfig/models-ci          |##
@@ -78,16 +66,28 @@ Since 2023-11-27 09:18:21 -0800 PST, I'm most active between 10:00-10:59 - with 
  openconfig/public             |######################
                                |######################
 
-                               |#
- google/gops                   |#
-                               |#
+                               |####
+ openconfig/gnoi               |####
+                               |####
+
+                               |####
+ robshakir/pyangbind           |####
+                               |####
+
+                               |########################
+ openconfig/featureprofiles    |########################
+                               |########################
+
+                               |##########
+ openconfig/ygot               |##########
+                               |##########
 
 
 
-Since 2023-11-27 09:18:21 -0800 PST, I've been most active in openconfig/gribigo, with 24 events.
+Since 2023-11-27 09:18:21 -0800 PST, I've been most active in openconfig/featureprofiles, with 24 events.
 
 ```
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2024-01-12 15:45:57.748832731 -0800 PST
+Last Updated: 2024-01-12 16:03:05.506051127 -0800 PST
