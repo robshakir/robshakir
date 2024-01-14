@@ -42,21 +42,29 @@ Since 2023-11-27 09:18:21 -0800 PST, I'm most active between 10:00-10:59 - with 
 
 
 ```
-                               |##
- openconfig/models-ci          |##
-                               |##
+                               |#
+ google/gops                   |#
+                               |#
 
                                |##
- openconfig/aite               |##
+ openconfig/models-ci          |##
                                |##
 
                                |####
  robshakir/pyangbind           |####
                                |####
 
+                               |####
+ openconfig/gnoi               |####
+                               |####
+
                                |########################
  openconfig/featureprofiles    |########################
                                |########################
+
+                               |#######
+ openconfig/magna              |#######
+                               |#######
 
                                |########################
  openconfig/gribigo            |########################
@@ -66,21 +74,13 @@ Since 2023-11-27 09:18:21 -0800 PST, I'm most active between 10:00-10:59 - with 
  openconfig/ygot               |##########
                                |##########
 
+                               |##
+ openconfig/aite               |##
+                               |##
+
                                |######################
  openconfig/public             |######################
                                |######################
-
-                               |####
- openconfig/gnoi               |####
-                               |####
-
-                               |#######
- openconfig/magna              |#######
-                               |#######
-
-                               |#
- google/gops                   |#
-                               |#
 
 
 
@@ -90,4 +90,4 @@ Since 2023-11-27 09:18:21 -0800 PST, I've been most active in openconfig/feature
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2024-01-13 18:27:37.554499504 -0800 PST
+Last Updated: 2024-01-13 18:39:28.341671051 -0800 PST
