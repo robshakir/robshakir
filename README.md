@@ -46,10 +46,6 @@ Since 2023-11-29 18:13:15 -0800 PST, I'm most active between 16:00-16:59 - with 
  openconfig/public             |####################
                                |####################
 
-                               |####
- openconfig/gnoi               |####
-                               |####
-
                                |##
  robshakir/pyangbind           |##
                                |##
@@ -58,25 +54,29 @@ Since 2023-11-29 18:13:15 -0800 PST, I'm most active between 16:00-16:59 - with 
  openconfig/magna              |#######
                                |#######
 
-                               |##
- openconfig/models-ci          |##
-                               |##
-
                                |##########################
  openconfig/featureprofiles    |##########################
                                |##########################
 
-                               |##########
- openconfig/ygot               |##########
-                               |##########
+                               |############################
+ openconfig/gribigo            |############################
+                               |############################
 
                                |#
  google/gops                   |#
                                |#
 
-                               |############################
- openconfig/gribigo            |############################
-                               |############################
+                               |##
+ openconfig/models-ci          |##
+                               |##
+
+                               |####
+ openconfig/gnoi               |####
+                               |####
+
+                               |##########
+ openconfig/ygot               |##########
+                               |##########
 
 
 
@@ -86,4 +86,4 @@ Since 2023-11-29 18:13:15 -0800 PST, I've been most active in openconfig/gribigo
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2024-01-17 02:01:24.022786439 -0800 PST
+Last Updated: 2024-01-17 02:19:54.210309833 -0800 PST
