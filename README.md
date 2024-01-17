@@ -50,18 +50,6 @@ Since 2023-11-29 18:13:14 -0800 PST, I'm most active between 16:00-16:59 - with 
  openconfig/gnoi               |####
                                |####
 
-                               |#
- google/gops                   |#
-                               |#
-
-                               |#
- openconfig/gnmi               |#
-                               |#
-
-                               |##########################
- openconfig/featureprofiles    |##########################
-                               |##########################
-
                                |#######
  openconfig/magna              |#######
                                |#######
@@ -70,9 +58,17 @@ Since 2023-11-29 18:13:14 -0800 PST, I'm most active between 16:00-16:59 - with 
  openconfig/ygot               |##########
                                |##########
 
+                               |#
+ google/gops                   |#
+                               |#
+
                                |##
  openconfig/models-ci          |##
                                |##
+
+                               |##########################
+ openconfig/featureprofiles    |##########################
+                               |##########################
 
                                |###################
  openconfig/public             |###################
@@ -82,6 +78,10 @@ Since 2023-11-29 18:13:14 -0800 PST, I'm most active between 16:00-16:59 - with 
  robshakir/pyangbind           |##
                                |##
 
+                               |#
+ openconfig/gnmi               |#
+                               |#
+
 
 
 Since 2023-11-29 18:13:14 -0800 PST, I've been most active in openconfig/gribigo, with 28 events.
@@ -90,4 +90,4 @@ Since 2023-11-29 18:13:14 -0800 PST, I've been most active in openconfig/gribigo
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2024-01-17 11:17:11.825636367 -0800 PST
+Last Updated: 2024-01-17 11:31:00.889775434 -0800 PST
