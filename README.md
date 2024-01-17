@@ -42,14 +42,6 @@ Since 2023-11-29 18:13:15 -0800 PST, I'm most active between 16:00-16:59 - with 
 
 
 ```
-                               |##########################
- openconfig/featureprofiles    |##########################
-                               |##########################
-
-                               |####################
- openconfig/public             |####################
-                               |####################
-
                                |####
  openconfig/gnoi               |####
                                |####
@@ -66,17 +58,25 @@ Since 2023-11-29 18:13:15 -0800 PST, I'm most active between 16:00-16:59 - with 
  google/gops                   |#
                                |#
 
-                               |############################
- openconfig/gribigo            |############################
-                               |############################
+                               |##
+ openconfig/models-ci          |##
+                               |##
+
+                               |##########################
+ openconfig/featureprofiles    |##########################
+                               |##########################
+
+                               |####################
+ openconfig/public             |####################
+                               |####################
 
                                |##
  robshakir/pyangbind           |##
                                |##
 
-                               |##
- openconfig/models-ci          |##
-                               |##
+                               |############################
+ openconfig/gribigo            |############################
+                               |############################
 
 
 
@@ -86,4 +86,4 @@ Since 2023-11-29 18:13:15 -0800 PST, I've been most active in openconfig/gribigo
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2024-01-17 08:01:26.026913003 -0800 PST
+Last Updated: 2024-01-17 08:20:47.593318684 -0800 PST
