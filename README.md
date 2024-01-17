@@ -42,6 +42,18 @@ Since 2023-11-29 18:13:15 -0800 PST, I'm most active between 16:00-16:59 - with 
 
 
 ```
+                               |####
+ openconfig/gnoi               |####
+                               |####
+
+                               |##
+ robshakir/pyangbind           |##
+                               |##
+
+                               |##########
+ openconfig/ygot               |##########
+                               |##########
+
                                |#
  google/gops                   |#
                                |#
@@ -54,18 +66,6 @@ Since 2023-11-29 18:13:15 -0800 PST, I'm most active between 16:00-16:59 - with 
  openconfig/featureprofiles    |##########################
                                |##########################
 
-                               |#######
- openconfig/magna              |#######
-                               |#######
-
-                               |##########
- openconfig/ygot               |##########
-                               |##########
-
-                               |##
- robshakir/pyangbind           |##
-                               |##
-
                                |############################
  openconfig/gribigo            |############################
                                |############################
@@ -74,9 +74,9 @@ Since 2023-11-29 18:13:15 -0800 PST, I'm most active between 16:00-16:59 - with 
  openconfig/public             |####################
                                |####################
 
-                               |####
- openconfig/gnoi               |####
-                               |####
+                               |#######
+ openconfig/magna              |#######
+                               |#######
 
 
 
@@ -86,4 +86,4 @@ Since 2023-11-29 18:13:15 -0800 PST, I've been most active in openconfig/gribigo
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2024-01-16 22:45:56.60875968 -0800 PST
+Last Updated: 2024-01-16 23:01:18.340154765 -0800 PST
