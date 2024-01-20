@@ -42,6 +42,14 @@ Since 2023-11-30 04:11:05 -0800 PST, I'm most active between 16:00-16:59 - with 
 
 
 ```
+                               |#
+ google/gops                   |#
+                               |#
+
+                               |#############################
+ openconfig/featureprofiles    |#############################
+                               |#############################
+
                                |##############
  openconfig/public             |##############
                                |##############
@@ -50,13 +58,17 @@ Since 2023-11-30 04:11:05 -0800 PST, I'm most active between 16:00-16:59 - with 
  openconfig/gnoi               |####
                                |####
 
+                               |##
+ robshakir/pyangbind           |##
+                               |##
+
                                |#####
  openconfig/magna              |#####
                                |#####
 
-                               |#
- google/gops                   |#
-                               |#
+                               |##########
+ openconfig/ygot               |##########
+                               |##########
 
                                |#
  openconfig/models-ci          |#
@@ -66,21 +78,9 @@ Since 2023-11-30 04:11:05 -0800 PST, I'm most active between 16:00-16:59 - with 
  openconfig/gnmi               |######
                                |######
 
-                               |#############################
- openconfig/featureprofiles    |#############################
-                               |#############################
-
                                |############################
  openconfig/gribigo            |############################
                                |############################
-
-                               |##
- robshakir/pyangbind           |##
-                               |##
-
-                               |##########
- openconfig/ygot               |##########
-                               |##########
 
 
 
@@ -90,4 +90,4 @@ Since 2023-11-30 04:11:05 -0800 PST, I've been most active in openconfig/feature
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2024-01-20 10:01:14.008093785 -0800 PST
+Last Updated: 2024-01-20 10:20:09.628810775 -0800 PST
