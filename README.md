@@ -42,14 +42,6 @@ Since 2023-11-30 04:11:05 -0800 PST, I'm most active between 16:00-16:59 - with 
 
 
 ```
-                               |######
- openconfig/gnmi               |######
-                               |######
-
-                               |############################
- openconfig/gribigo            |############################
-                               |############################
-
                                |##############
  openconfig/public             |##############
                                |##############
@@ -58,18 +50,6 @@ Since 2023-11-30 04:11:05 -0800 PST, I'm most active between 16:00-16:59 - with 
  openconfig/gnoi               |####
                                |####
 
-                               |#
- google/gops                   |#
-                               |#
-
-                               |#############################
- openconfig/featureprofiles    |#############################
-                               |#############################
-
-                               |##
- robshakir/pyangbind           |##
-                               |##
-
                                |#####
  openconfig/magna              |#####
                                |#####
@@ -77,6 +57,26 @@ Since 2023-11-30 04:11:05 -0800 PST, I'm most active between 16:00-16:59 - with 
                                |##########
  openconfig/ygot               |##########
                                |##########
+
+                               |#
+ google/gops                   |#
+                               |#
+
+                               |######
+ openconfig/gnmi               |######
+                               |######
+
+                               |#############################
+ openconfig/featureprofiles    |#############################
+                               |#############################
+
+                               |############################
+ openconfig/gribigo            |############################
+                               |############################
+
+                               |##
+ robshakir/pyangbind           |##
+                               |##
 
                                |#
  openconfig/models-ci          |#
@@ -90,4 +90,4 @@ Since 2023-11-30 04:11:05 -0800 PST, I've been most active in openconfig/feature
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2024-01-22 00:33:08.57557584 -0800 PST
+Last Updated: 2024-01-22 00:46:02.123597017 -0800 PST
