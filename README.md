@@ -42,13 +42,17 @@ Since 2023-11-30 04:11:05 -0800 PST, I'm most active between 16:00-16:59 - with 
 
 
 ```
-                               |##
- robshakir/pyangbind           |##
-                               |##
+                               |#####
+ openconfig/magna              |#####
+                               |#####
 
                                |##########
  openconfig/ygot               |##########
                                |##########
+
+                               |#
+ google/gops                   |#
+                               |#
 
                                |#
  openconfig/models-ci          |#
@@ -62,18 +66,6 @@ Since 2023-11-30 04:11:05 -0800 PST, I'm most active between 16:00-16:59 - with 
  openconfig/featureprofiles    |#############################
                                |#############################
 
-                               |####
- openconfig/gnoi               |####
-                               |####
-
-                               |#####
- openconfig/magna              |#####
-                               |#####
-
-                               |#
- google/gops                   |#
-                               |#
-
                                |############################
  openconfig/gribigo            |############################
                                |############################
@@ -81,6 +73,14 @@ Since 2023-11-30 04:11:05 -0800 PST, I'm most active between 16:00-16:59 - with 
                                |##############
  openconfig/public             |##############
                                |##############
+
+                               |####
+ openconfig/gnoi               |####
+                               |####
+
+                               |##
+ robshakir/pyangbind           |##
+                               |##
 
 
 
@@ -90,4 +90,4 @@ Since 2023-11-30 04:11:05 -0800 PST, I've been most active in openconfig/feature
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2024-01-21 17:27:25.070749841 -0800 PST
+Last Updated: 2024-01-21 17:51:19.274858338 -0800 PST
