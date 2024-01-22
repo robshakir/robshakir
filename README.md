@@ -42,29 +42,21 @@ Since 2023-11-30 04:11:05 -0800 PST, I'm most active between 16:00-16:59 - with 
 
 
 ```
-                               |#
- openconfig/models-ci          |#
-                               |#
-
-                               |#############################
- openconfig/featureprofiles    |#############################
-                               |#############################
-
-                               |##############
- openconfig/public             |##############
-                               |##############
-
                                |####
  openconfig/gnoi               |####
                                |####
 
-                               |#
- google/gops                   |#
-                               |#
+                               |#####
+ openconfig/magna              |#####
+                               |#####
 
                                |##########
  openconfig/ygot               |##########
                                |##########
+
+                               |#
+ google/gops                   |#
+                               |#
 
                                |######
  openconfig/gnmi               |######
@@ -78,9 +70,17 @@ Since 2023-11-30 04:11:05 -0800 PST, I'm most active between 16:00-16:59 - with 
  robshakir/pyangbind           |##
                                |##
 
-                               |#####
- openconfig/magna              |#####
-                               |#####
+                               |#
+ openconfig/models-ci          |#
+                               |#
+
+                               |#############################
+ openconfig/featureprofiles    |#############################
+                               |#############################
+
+                               |##############
+ openconfig/public             |##############
+                               |##############
 
 
 
@@ -90,4 +90,4 @@ Since 2023-11-30 04:11:05 -0800 PST, I've been most active in openconfig/feature
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2024-01-22 08:01:21.437103237 -0800 PST
+Last Updated: 2024-01-22 08:20:59.184728741 -0800 PST
