@@ -42,17 +42,13 @@ Since 2023-12-01 10:46:49 -0800 PST, I'm most active between 16:00-16:59 - with 
 
 
 ```
-                               |#
- google/gops                   |#
-                               |#
-
-                               |###########
- openconfig/magna              |###########
-                               |###########
-
                                |#################
  openconfig/public             |#################
                                |#################
+
+                               |######
+ openconfig/gnmi               |######
+                               |######
 
                                |#############################
  openconfig/featureprofiles    |#############################
@@ -66,21 +62,25 @@ Since 2023-12-01 10:46:49 -0800 PST, I'm most active between 16:00-16:59 - with 
  robshakir/pyangbind           |##
                                |##
 
+                               |##########
+ openconfig/ygot               |##########
+                               |##########
+
+                               |#
+ google/gops                   |#
+                               |#
+
                                |#
  alshabib/featureprofiles      |#
                                |#
-
-                               |######
- openconfig/gnmi               |######
-                               |######
 
                                |###
  openconfig/gnoi               |###
                                |###
 
-                               |##########
- openconfig/ygot               |##########
-                               |##########
+                               |###########
+ openconfig/magna              |###########
+                               |###########
 
 
 
@@ -90,4 +90,4 @@ Since 2023-12-01 10:46:49 -0800 PST, I've been most active in openconfig/feature
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2024-01-24 20:01:22.513400134 -0800 PST
+Last Updated: 2024-01-24 20:20:31.383009546 -0800 PST
