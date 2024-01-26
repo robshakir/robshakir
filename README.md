@@ -43,6 +43,14 @@ Since 2023-12-04 17:21:25 -0800 PST, I'm most active between 16:00-16:59 - with 
 
 ```
                                |#
+ google/gops                   |#
+                               |#
+
+                               |###############
+ openconfig/public             |###############
+                               |###############
+
+                               |#
  alshabib/featureprofiles      |#
                                |#
 
@@ -58,29 +66,21 @@ Since 2023-12-04 17:21:25 -0800 PST, I'm most active between 16:00-16:59 - with 
  openconfig/gnoi               |#
                                |#
 
-                               |########
- openconfig/ygot               |########
-                               |########
-
-                               |#
- google/gops                   |#
-                               |#
-
-                               |###############
- openconfig/public             |###############
-                               |###############
-
-                               |#################
- openconfig/magna              |#################
-                               |#################
-
                                |##
  robshakir/pyangbind           |##
                                |##
 
+                               |########
+ openconfig/ygot               |########
+                               |########
+
                                |#############################
  openconfig/featureprofiles    |#############################
                                |#############################
+
+                               |#################
+ openconfig/magna              |#################
+                               |#################
 
 
 
@@ -90,4 +90,4 @@ Since 2023-12-04 17:21:25 -0800 PST, I've been most active in openconfig/feature
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2024-01-26 03:01:12.327101379 -0800 PST
+Last Updated: 2024-01-26 03:16:57.365603538 -0800 PST
