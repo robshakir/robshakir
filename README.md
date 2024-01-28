@@ -42,26 +42,6 @@ Since 2023-12-08 16:59:14 -0800 PST, I'm most active between 16:00-16:59 - with 
 
 
 ```
-                               |##########################
- openconfig/featureprofiles    |##########################
-                               |##########################
-
-                               |#################
- openconfig/magna              |#################
-                               |#################
-
-                               |#
- openconfig/gnoi               |#
-                               |#
-
-                               |##
- robshakir/pyangbind           |##
-                               |##
-
-                               |#######
- openconfig/ygot               |#######
-                               |#######
-
                                |#######################
  openconfig/public             |#######################
                                |#######################
@@ -74,13 +54,33 @@ Since 2023-12-08 16:59:14 -0800 PST, I'm most active between 16:00-16:59 - with 
  openconfig/gnmi               |######
                                |######
 
-                               |################
- openconfig/gribigo            |################
-                               |################
+                               |#
+ openconfig/gnoi               |#
+                               |#
 
                                |#
  google/gops                   |#
                                |#
+
+                               |##########################
+ openconfig/featureprofiles    |##########################
+                               |##########################
+
+                               |#################
+ openconfig/magna              |#################
+                               |#################
+
+                               |################
+ openconfig/gribigo            |################
+                               |################
+
+                               |##
+ robshakir/pyangbind           |##
+                               |##
+
+                               |#######
+ openconfig/ygot               |#######
+                               |#######
 
 
 
@@ -90,4 +90,4 @@ Since 2023-12-08 16:59:14 -0800 PST, I've been most active in openconfig/feature
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2024-01-27 19:18:26.855699409 -0800 PST
+Last Updated: 2024-01-27 19:31:04.064301546 -0800 PST
