@@ -42,17 +42,9 @@ Since 2023-12-08 16:59:14 -0800 PST, I'm most active between 16:00-16:59 - with 
 
 
 ```
-                               |#
- google/gops                   |#
-                               |#
-
-                               |##########################
- openconfig/featureprofiles    |##########################
-                               |##########################
-
-                               |######
- openconfig/gnmi               |######
-                               |######
+                               |#######################
+ openconfig/public             |#######################
+                               |#######################
 
                                |#
  openconfig/gnoi               |#
@@ -66,9 +58,9 @@ Since 2023-12-08 16:59:14 -0800 PST, I'm most active between 16:00-16:59 - with 
  openconfig/ygot               |#######
                                |#######
 
-                               |#######################
- openconfig/public             |#######################
-                               |#######################
+                               |##########################
+ openconfig/featureprofiles    |##########################
+                               |##########################
 
                                |#################
  openconfig/magna              |#################
@@ -78,9 +70,17 @@ Since 2023-12-08 16:59:14 -0800 PST, I'm most active between 16:00-16:59 - with 
  alshabib/featureprofiles      |#
                                |#
 
+                               |######
+ openconfig/gnmi               |######
+                               |######
+
                                |################
  openconfig/gribigo            |################
                                |################
+
+                               |#
+ google/gops                   |#
+                               |#
 
 
 
@@ -90,4 +90,4 @@ Since 2023-12-08 16:59:14 -0800 PST, I've been most active in openconfig/feature
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2024-01-29 07:45:57.650009891 -0800 PST
+Last Updated: 2024-01-29 08:01:44.312632914 -0800 PST
