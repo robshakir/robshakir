@@ -43,16 +43,12 @@ Since 2023-12-08 16:59:14 -0800 PST, I'm most active between 16:00-16:59 - with 
 
 ```
                                |#
- openconfig/gnoi               |#
+ alshabib/featureprofiles      |#
                                |#
 
                                |#######
  openconfig/ygot               |#######
                                |#######
-
-                               |#
- google/gops                   |#
-                               |#
 
                                |#######################
  openconfig/public             |#######################
@@ -62,25 +58,29 @@ Since 2023-12-08 16:59:14 -0800 PST, I'm most active between 16:00-16:59 - with 
  openconfig/magna              |#################
                                |#################
 
-                               |######
- openconfig/gnmi               |######
-                               |######
+                               |################
+ openconfig/gribigo            |################
+                               |################
+
+                               |#
+ openconfig/gnoi               |#
+                               |#
 
                                |##
  robshakir/pyangbind           |##
                                |##
 
+                               |#
+ google/gops                   |#
+                               |#
+
                                |##########################
  openconfig/featureprofiles    |##########################
                                |##########################
 
-                               |#
- alshabib/featureprofiles      |#
-                               |#
-
-                               |################
- openconfig/gribigo            |################
-                               |################
+                               |######
+ openconfig/gnmi               |######
+                               |######
 
 
 
@@ -90,4 +90,4 @@ Since 2023-12-08 16:59:14 -0800 PST, I've been most active in openconfig/feature
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2024-01-30 00:31:02.303700076 -0800 PST
+Last Updated: 2024-01-30 00:45:57.314508477 -0800 PST
