@@ -42,17 +42,13 @@ Since 2023-12-11 19:06:04 -0800 PST, I'm most active between 08:00-08:59 - with 
 
 
 ```
-                               |######
- openconfig/gnmi               |######
-                               |######
-
                                |############
  openconfig/gribigo            |############
                                |############
 
-                               |##
- robshakir/pyangbind           |##
-                               |##
+                               |#############################
+ openconfig/featureprofiles    |#############################
+                               |#############################
 
                                |#####################
  openconfig/public             |#####################
@@ -61,6 +57,14 @@ Since 2023-12-11 19:06:04 -0800 PST, I'm most active between 08:00-08:59 - with 
                                |#
  alshabib/featureprofiles      |#
                                |#
+
+                               |######
+ openconfig/gnmi               |######
+                               |######
+
+                               |##
+ robshakir/pyangbind           |##
+                               |##
 
                                |##
  openconfig/ygot               |##
@@ -74,10 +78,6 @@ Since 2023-12-11 19:06:04 -0800 PST, I'm most active between 08:00-08:59 - with 
  openconfig/gnoi               |#####
                                |#####
 
-                               |#############################
- openconfig/featureprofiles    |#############################
-                               |#############################
-
 
 
 Since 2023-12-11 19:06:04 -0800 PST, I've been most active in openconfig/featureprofiles, with 29 events.
@@ -86,4 +86,4 @@ Since 2023-12-11 19:06:04 -0800 PST, I've been most active in openconfig/feature
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2024-01-31 05:19:23.515100863 -0800 PST
+Last Updated: 2024-01-31 05:31:02.835513734 -0800 PST
