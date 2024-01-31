@@ -42,13 +42,13 @@ Since 2023-12-11 19:06:04 -0800 PST, I'm most active between 08:00-08:59 - with 
 
 
 ```
+                               |######################
+ openconfig/magna              |######################
+                               |######################
+
                                |#####
  openconfig/gnoi               |#####
                                |#####
-
-                               |#
- alshabib/featureprofiles      |#
-                               |#
 
                                |######
  openconfig/gnmi               |######
@@ -59,12 +59,8 @@ Since 2023-12-11 19:06:04 -0800 PST, I'm most active between 08:00-08:59 - with 
                                |############
 
                                |##
- openconfig/ygot               |##
+ robshakir/pyangbind           |##
                                |##
-
-                               |######################
- openconfig/magna              |######################
-                               |######################
 
                                |#############################
  openconfig/featureprofiles    |#############################
@@ -74,8 +70,12 @@ Since 2023-12-11 19:06:04 -0800 PST, I'm most active between 08:00-08:59 - with 
  openconfig/public             |#####################
                                |#####################
 
+                               |#
+ alshabib/featureprofiles      |#
+                               |#
+
                                |##
- robshakir/pyangbind           |##
+ openconfig/ygot               |##
                                |##
 
 
@@ -86,4 +86,4 @@ Since 2023-12-11 19:06:04 -0800 PST, I've been most active in openconfig/feature
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2024-01-30 17:34:14.02481477 -0800 PST
+Last Updated: 2024-01-30 17:57:38.216628672 -0800 PST
