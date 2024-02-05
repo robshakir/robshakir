@@ -42,33 +42,33 @@ Since 2023-12-12 18:14:38 -0800 PST, I'm most active between 08:00-08:59 - with 
 
 
 ```
-                               |###########################
- openconfig/featureprofiles    |###########################
-                               |###########################
-
-                               |#
- openconfig/reference          |#
-                               |#
-
                                |#######################
  openconfig/public             |#######################
                                |#######################
 
-                               |#
- openconfig/ygot               |#
-                               |#
+                               |#######
+ openconfig/gnoi               |#######
+                               |#######
+
+                               |######
+ openconfig/gribigo            |######
+                               |######
 
                                |##
  robshakir/pyangbind           |##
                                |##
 
+                               |###########################
+ openconfig/featureprofiles    |###########################
+                               |###########################
+
                                |##########################
  openconfig/magna              |##########################
                                |##########################
 
-                               |#######
- openconfig/gnoi               |#######
-                               |#######
+                               |#
+ openconfig/ygot               |#
+                               |#
 
                                |#
  alshabib/featureprofiles      |#
@@ -78,9 +78,9 @@ Since 2023-12-12 18:14:38 -0800 PST, I'm most active between 08:00-08:59 - with 
  openconfig/gnmi               |######
                                |######
 
-                               |######
- openconfig/gribigo            |######
-                               |######
+                               |#
+ openconfig/reference          |#
+                               |#
 
 
 
@@ -90,4 +90,4 @@ Since 2023-12-12 18:14:38 -0800 PST, I've been most active in openconfig/feature
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2024-02-04 19:19:31.989412505 -0800 PST
+Last Updated: 2024-02-04 19:30:58.247556619 -0800 PST
