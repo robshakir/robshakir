@@ -50,22 +50,6 @@ Since 2023-12-12 18:14:38 -0800 PST, I'm most active between 08:00-08:59 - with 
  openconfig/magna              |##########################
                                |##########################
 
-                               |#
- openconfig/ygot               |#
-                               |#
-
-                               |#######
- openconfig/gnoi               |#######
-                               |#######
-
-                               |##
- robshakir/pyangbind           |##
-                               |##
-
-                               |#
- openconfig/reference          |#
-                               |#
-
                                |#######################
  openconfig/public             |#######################
                                |#######################
@@ -75,12 +59,28 @@ Since 2023-12-12 18:14:38 -0800 PST, I'm most active between 08:00-08:59 - with 
                                |#
 
                                |######
+ openconfig/gribigo            |######
+                               |######
+
+                               |#
+ openconfig/reference          |#
+                               |#
+
+                               |#
+ openconfig/ygot               |#
+                               |#
+
+                               |#######
+ openconfig/gnoi               |#######
+                               |#######
+
+                               |######
  openconfig/gnmi               |######
                                |######
 
-                               |######
- openconfig/gribigo            |######
-                               |######
+                               |##
+ robshakir/pyangbind           |##
+                               |##
 
 
 
@@ -90,4 +90,4 @@ Since 2023-12-12 18:14:38 -0800 PST, I've been most active in openconfig/feature
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2024-02-05 07:18:31.385875546 -0800 PST
+Last Updated: 2024-02-05 07:30:59.780681959 -0800 PST
