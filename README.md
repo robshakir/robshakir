@@ -42,17 +42,9 @@ Since 2023-12-30 07:17:24 -0800 PST, I'm most active between 08:00-08:59 - with 
 
 
 ```
-                               |#######################
- openconfig/featureprofiles    |#######################
-                               |#######################
-
-                               |#
- openconfig/ygot               |#
-                               |#
-
-                               |#
- alshabib/featureprofiles      |#
-                               |#
+                               |################################
+ openconfig/magna              |################################
+                               |################################
 
                                |######
  openconfig/gnmi               |######
@@ -62,9 +54,9 @@ Since 2023-12-30 07:17:24 -0800 PST, I'm most active between 08:00-08:59 - with 
  openconfig/gribigo            |####
                                |####
 
-                               |################################
- openconfig/magna              |################################
-                               |################################
+                               |#######################
+ openconfig/featureprofiles    |#######################
+                               |#######################
 
                                |#########################
  openconfig/public             |#########################
@@ -74,9 +66,17 @@ Since 2023-12-30 07:17:24 -0800 PST, I'm most active between 08:00-08:59 - with 
  openconfig/reference          |#
                                |#
 
+                               |#
+ openconfig/ygot               |#
+                               |#
+
                                |#######
  openconfig/gnoi               |#######
                                |#######
+
+                               |#
+ alshabib/featureprofiles      |#
+                               |#
 
 
 
@@ -86,4 +86,4 @@ Since 2023-12-30 07:17:24 -0800 PST, I've been most active in openconfig/magna, 
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2024-02-06 14:30:52.748486952 -0800 PST
+Last Updated: 2024-02-06 14:45:55.526714592 -0800 PST
