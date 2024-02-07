@@ -42,6 +42,18 @@ Since 2023-12-30 07:17:24 -0800 PST, I'm most active between 08:00-08:59 - with 
 
 
 ```
+                               |#
+ openconfig/reference          |#
+                               |#
+
+                               |#
+ openconfig/ygot               |#
+                               |#
+
+                               |#######
+ openconfig/gnoi               |#######
+                               |#######
+
                                |################################
  openconfig/magna              |################################
                                |################################
@@ -50,33 +62,21 @@ Since 2023-12-30 07:17:24 -0800 PST, I'm most active between 08:00-08:59 - with 
  openconfig/featureprofiles    |#######################
                                |#######################
 
-                               |#
- openconfig/ygot               |#
-                               |#
-
-                               |#
- alshabib/featureprofiles      |#
-                               |#
-
-                               |####
- openconfig/gribigo            |####
-                               |####
-
                                |#########################
  openconfig/public             |#########################
                                |#########################
 
                                |#
- openconfig/reference          |#
+ alshabib/featureprofiles      |#
                                |#
-
-                               |#######
- openconfig/gnoi               |#######
-                               |#######
 
                                |######
  openconfig/gnmi               |######
                                |######
+
+                               |####
+ openconfig/gribigo            |####
+                               |####
 
 
 
@@ -86,4 +86,4 @@ Since 2023-12-30 07:17:24 -0800 PST, I've been most active in openconfig/magna, 
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2024-02-07 14:31:00.977428224 -0800 PST
+Last Updated: 2024-02-07 14:45:52.678105544 -0800 PST
