@@ -42,30 +42,6 @@ Since 2023-12-30 07:17:24 -0800 PST, I'm most active between 08:00-08:59 - with 
 
 
 ```
-                               |######
- openconfig/gnmi               |######
-                               |######
-
-                               |####
- openconfig/gribigo            |####
-                               |####
-
-                               |#######################
- openconfig/featureprofiles    |#######################
-                               |#######################
-
-                               |#
- openconfig/reference          |#
-                               |#
-
-                               |#######
- openconfig/gnoi               |#######
-                               |#######
-
-                               |#
- alshabib/featureprofiles      |#
-                               |#
-
                                |################################
  openconfig/magna              |################################
                                |################################
@@ -75,8 +51,32 @@ Since 2023-12-30 07:17:24 -0800 PST, I'm most active between 08:00-08:59 - with 
                                |#########################
 
                                |#
+ openconfig/reference          |#
+                               |#
+
+                               |#
  openconfig/ygot               |#
                                |#
+
+                               |#
+ alshabib/featureprofiles      |#
+                               |#
+
+                               |#######################
+ openconfig/featureprofiles    |#######################
+                               |#######################
+
+                               |#######
+ openconfig/gnoi               |#######
+                               |#######
+
+                               |######
+ openconfig/gnmi               |######
+                               |######
+
+                               |####
+ openconfig/gribigo            |####
+                               |####
 
 
 
@@ -86,4 +86,4 @@ Since 2023-12-30 07:17:24 -0800 PST, I've been most active in openconfig/magna, 
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2024-02-08 22:20:14.931729206 -0800 PST
+Last Updated: 2024-02-08 22:30:58.643315965 -0800 PST
