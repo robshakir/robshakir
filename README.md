@@ -42,22 +42,6 @@ Since 2023-12-30 07:17:24 -0800 PST, I'm most active between 08:00-08:59 - with 
 
 
 ```
-                               |#######################
- openconfig/featureprofiles    |#######################
-                               |#######################
-
-                               |#
- openconfig/ygot               |#
-                               |#
-
-                               |#
- alshabib/featureprofiles      |#
-                               |#
-
-                               |####
- openconfig/gribigo            |####
-                               |####
-
                                |################################
  openconfig/magna              |################################
                                |################################
@@ -67,7 +51,7 @@ Since 2023-12-30 07:17:24 -0800 PST, I'm most active between 08:00-08:59 - with 
                                |#########################
 
                                |#
- openconfig/reference          |#
+ openconfig/ygot               |#
                                |#
 
                                |#######
@@ -78,6 +62,22 @@ Since 2023-12-30 07:17:24 -0800 PST, I'm most active between 08:00-08:59 - with 
  openconfig/gnmi               |######
                                |######
 
+                               |#######################
+ openconfig/featureprofiles    |#######################
+                               |#######################
+
+                               |#
+ openconfig/reference          |#
+                               |#
+
+                               |#
+ alshabib/featureprofiles      |#
+                               |#
+
+                               |####
+ openconfig/gribigo            |####
+                               |####
+
 
 
 Since 2023-12-30 07:17:24 -0800 PST, I've been most active in openconfig/magna, with 32 events.
@@ -86,4 +86,4 @@ Since 2023-12-30 07:17:24 -0800 PST, I've been most active in openconfig/magna, 
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2024-02-12 09:31:01.242441669 -0800 PST
+Last Updated: 2024-02-12 09:46:04.01768581 -0800 PST
