@@ -42,6 +42,10 @@ Since 2024-01-24 17:08:09 -0800 PST, I'm most active between 04:00-04:59 - with 
 
 
 ```
+                               |##############################
+ openconfig/featureprofiles    |##############################
+                               |##############################
+
                                |###############
  openconfig/gnoi               |###############
                                |###############
@@ -62,10 +66,6 @@ Since 2024-01-24 17:08:09 -0800 PST, I'm most active between 04:00-04:59 - with 
  openconfig/ygot               |#
                                |#
 
-                               |##############################
- openconfig/featureprofiles    |##############################
-                               |##############################
-
 
 
 Since 2024-01-24 17:08:09 -0800 PST, I've been most active in openconfig/featureprofiles, with 30 events.
@@ -74,4 +74,4 @@ Since 2024-01-24 17:08:09 -0800 PST, I've been most active in openconfig/feature
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2024-02-14 10:31:35.022867215 -0800 PST
+Last Updated: 2024-02-14 10:45:54.847444854 -0800 PST
