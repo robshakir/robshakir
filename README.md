@@ -42,18 +42,6 @@ Since 2024-01-24 17:10:32 -0800 PST, I'm most active between 04:00-04:59 - with 
 
 
 ```
-                               |#########################
- openconfig/magna              |#########################
-                               |#########################
-
-                               |#
- openconfig/reference          |#
-                               |#
-
-                               |#
- openconfig/ygot               |#
-                               |#
-
                                |#
  openconfig/gnmi               |#
                                |#
@@ -74,6 +62,18 @@ Since 2024-01-24 17:10:32 -0800 PST, I'm most active between 04:00-04:59 - with 
  openconfig/public             |##########################
                                |##########################
 
+                               |#########################
+ openconfig/magna              |#########################
+                               |#########################
+
+                               |#
+ openconfig/reference          |#
+                               |#
+
+                               |#
+ openconfig/ygot               |#
+                               |#
+
 
 
 Since 2024-01-24 17:10:32 -0800 PST, I've been most active in openconfig/featureprofiles, with 30 events.
@@ -82,4 +82,4 @@ Since 2024-01-24 17:10:32 -0800 PST, I've been most active in openconfig/feature
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2024-02-15 06:46:02.207639733 -0800 PST
+Last Updated: 2024-02-15 07:01:22.183183104 -0800 PST
