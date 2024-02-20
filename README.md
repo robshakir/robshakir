@@ -46,18 +46,6 @@ Since 2024-01-25 10:10:00 -0800 PST, I'm most active between 08:00-08:59 - with 
  openconfig/featureprofiles    |###############################
                                |###############################
 
-                               |###
- openconfig/gnmi               |###
-                               |###
-
-                               |##########################
- openconfig/public             |##########################
-                               |##########################
-
-                               |##
- openconfig/clio               |##
-                               |##
-
                                |###############
  openconfig/gnoi               |###############
                                |###############
@@ -67,15 +55,27 @@ Since 2024-01-25 10:10:00 -0800 PST, I'm most active between 08:00-08:59 - with 
                                |####################
 
                                |#
- openconfig/reference          |#
-                               |#
-
-                               |#
  openconfig/ygot               |#
                                |#
 
+                               |##
+ openconfig/clio               |##
+                               |##
+
+                               |###
+ openconfig/gnmi               |###
+                               |###
+
                                |#
  openconfig/bootz              |#
+                               |#
+
+                               |##########################
+ openconfig/public             |##########################
+                               |##########################
+
+                               |#
+ openconfig/reference          |#
                                |#
 
 
@@ -86,4 +86,4 @@ Since 2024-01-25 10:10:00 -0800 PST, I've been most active in openconfig/feature
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2024-02-20 08:45:52.710818621 -0800 PST
+Last Updated: 2024-02-20 09:01:35.981536331 -0800 PST
