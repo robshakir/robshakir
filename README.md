@@ -42,24 +42,16 @@ Since 2024-01-25 10:10:00 -0800 PST, I'm most active between 08:00-08:59 - with 
 
 
 ```
-                               |###
- openconfig/gnmi               |###
-                               |###
-
                                |#
  openconfig/bootz              |#
                                |#
 
-                               |##########################
- openconfig/public             |##########################
-                               |##########################
-
-                               |####################
- openconfig/magna              |####################
-                               |####################
-
                                |#
  openconfig/reference          |#
+                               |#
+
+                               |#
+ openconfig/ygot               |#
                                |#
 
                                |##
@@ -70,13 +62,21 @@ Since 2024-01-25 10:10:00 -0800 PST, I'm most active between 08:00-08:59 - with 
  openconfig/featureprofiles    |###############################
                                |###############################
 
+                               |##########################
+ openconfig/public             |##########################
+                               |##########################
+
+                               |####################
+ openconfig/magna              |####################
+                               |####################
+
+                               |###
+ openconfig/gnmi               |###
+                               |###
+
                                |###############
  openconfig/gnoi               |###############
                                |###############
-
-                               |#
- openconfig/ygot               |#
-                               |#
 
 
 
@@ -86,4 +86,4 @@ Since 2024-01-25 10:10:00 -0800 PST, I've been most active in openconfig/feature
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2024-02-20 10:20:35.372758928 -0800 PST
+Last Updated: 2024-02-20 10:31:51.087485671 -0800 PST
