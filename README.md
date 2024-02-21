@@ -46,10 +46,6 @@ Since 2024-01-30 12:38:30 -0800 PST, I'm most active between 13:00-13:59 - with 
  openconfig/gnmi               |###
                                |###
 
-                               |#
- openconfig/bootz              |#
-                               |#
-
                                |#############
  openconfig/magna              |#############
                                |#############
@@ -58,25 +54,29 @@ Since 2024-01-30 12:38:30 -0800 PST, I'm most active between 13:00-13:59 - with 
  openconfig/reference          |#
                                |#
 
-                               |#
- openconfig/ygot               |#
-                               |#
-
-                               |#####################
- openconfig/clio               |#####################
-                               |#####################
+                               |###################
+ openconfig/public             |###################
+                               |###################
 
                                |########################
  openconfig/featureprofiles    |########################
                                |########################
 
+                               |#
+ openconfig/bootz              |#
+                               |#
+
+                               |#
+ openconfig/ygot               |#
+                               |#
+
                                |#################
  openconfig/gnoi               |#################
                                |#################
 
-                               |###################
- openconfig/public             |###################
-                               |###################
+                               |#####################
+ openconfig/clio               |#####################
+                               |#####################
 
 
 
@@ -86,4 +86,4 @@ Since 2024-01-30 12:38:30 -0800 PST, I've been most active in openconfig/feature
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2024-02-21 14:45:59.549287722 -0800 PST
+Last Updated: 2024-02-21 15:01:28.689256047 -0800 PST
