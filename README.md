@@ -42,13 +42,17 @@ Since 2024-01-30 12:38:43 -0800 PST, I'm most active between 13:00-13:59 - with 
 
 
 ```
+                               |################
+ openconfig/gnoi               |################
+                               |################
+
+                               |###
+ openconfig/gnmi               |###
+                               |###
+
                                |#
  openconfig/bootz              |#
                                |#
-
-                               |#############
- openconfig/magna              |#############
-                               |#############
 
                                |#
  openconfig/reference          |#
@@ -58,10 +62,6 @@ Since 2024-01-30 12:38:43 -0800 PST, I'm most active between 13:00-13:59 - with 
  openconfig/clio               |######################
                                |######################
 
-                               |################
- openconfig/gnoi               |################
-                               |################
-
                                |###################
  openconfig/public             |###################
                                |###################
@@ -70,9 +70,9 @@ Since 2024-01-30 12:38:43 -0800 PST, I'm most active between 13:00-13:59 - with 
  openconfig/featureprofiles    |########################
                                |########################
 
-                               |###
- openconfig/gnmi               |###
-                               |###
+                               |#############
+ openconfig/magna              |#############
+                               |#############
 
                                |#
  openconfig/ygot               |#
@@ -86,4 +86,4 @@ Since 2024-01-30 12:38:43 -0800 PST, I've been most active in openconfig/feature
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2024-02-22 08:02:16.005074517 -0800 PST
+Last Updated: 2024-02-22 08:20:24.495714263 -0800 PST
