@@ -42,13 +42,9 @@ Since 2024-01-30 12:38:30 -0800 PST, I'm most active between 13:00-13:59 - with 
 
 
 ```
-                               |#
- openconfig/ygot               |#
-                               |#
-
-                               |#####################
- openconfig/clio               |#####################
-                               |#####################
+                               |###################
+ openconfig/public             |###################
+                               |###################
 
                                |########################
  openconfig/featureprofiles    |########################
@@ -58,6 +54,10 @@ Since 2024-01-30 12:38:30 -0800 PST, I'm most active between 13:00-13:59 - with 
  openconfig/bootz              |#
                                |#
 
+                               |#############
+ openconfig/magna              |#############
+                               |#############
+
                                |#
  openconfig/reference          |#
                                |#
@@ -66,17 +66,17 @@ Since 2024-01-30 12:38:30 -0800 PST, I'm most active between 13:00-13:59 - with 
  openconfig/gnoi               |#################
                                |#################
 
-                               |###################
- openconfig/public             |###################
-                               |###################
+                               |#####################
+ openconfig/clio               |#####################
+                               |#####################
 
                                |###
  openconfig/gnmi               |###
                                |###
 
-                               |#############
- openconfig/magna              |#############
-                               |#############
+                               |#
+ openconfig/ygot               |#
+                               |#
 
 
 
@@ -86,4 +86,4 @@ Since 2024-01-30 12:38:30 -0800 PST, I've been most active in openconfig/feature
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2024-02-21 20:19:52.77464807 -0800 PST
+Last Updated: 2024-02-21 20:30:56.654998089 -0800 PST
