@@ -42,6 +42,18 @@ Since 2024-01-31 09:36:12 -0800 PST, I'm most active between 13:00-13:59 - with 
 
 
 ```
+                               |#############
+ openconfig/gnoi               |#############
+                               |#############
+
+                               |#
+ openconfig/reference          |#
+                               |#
+
+                               |#
+ openconfig/ygot               |#
+                               |#
+
                                |#############################
  openconfig/featureprofiles    |#############################
                                |#############################
@@ -54,14 +66,6 @@ Since 2024-01-31 09:36:12 -0800 PST, I'm most active between 13:00-13:59 - with 
  openconfig/public             |###################
                                |###################
 
-                               |###########
- openconfig/magna              |###########
-                               |###########
-
-                               |#############
- openconfig/gnoi               |#############
-                               |#############
-
                                |###
  openconfig/gnmi               |###
                                |###
@@ -70,13 +74,9 @@ Since 2024-01-31 09:36:12 -0800 PST, I'm most active between 13:00-13:59 - with 
  openconfig/bootz              |#
                                |#
 
-                               |#
- openconfig/reference          |#
-                               |#
-
-                               |#
- openconfig/ygot               |#
-                               |#
+                               |###########
+ openconfig/magna              |###########
+                               |###########
 
 
 
@@ -86,4 +86,4 @@ Since 2024-01-31 09:36:12 -0800 PST, I've been most active in openconfig/feature
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2024-02-23 01:46:07.569990842 -0800 PST
+Last Updated: 2024-02-23 02:01:16.368573573 -0800 PST
