@@ -46,6 +46,22 @@ Since 2024-01-31 12:10:13 -0800 PST, I'm most active between 13:00-13:59 - with 
  openconfig/featureprofiles    |###############################
                                |###############################
 
+                               |##################
+ openconfig/public             |##################
+                               |##################
+
+                               |#
+ openconfig/reference          |#
+                               |#
+
+                               |#
+ openconfig/ygot               |#
+                               |#
+
+                               |##########
+ openconfig/magna              |##########
+                               |##########
+
                                |######################
  openconfig/clio               |######################
                                |######################
@@ -54,28 +70,12 @@ Since 2024-01-31 12:10:13 -0800 PST, I'm most active between 13:00-13:59 - with 
  openconfig/gnoi               |#############
                                |#############
 
-                               |##################
- openconfig/public             |##################
-                               |##################
-
-                               |#
- openconfig/ygot               |#
-                               |#
-
                                |###
  openconfig/gnmi               |###
                                |###
 
                                |#
  openconfig/bootz              |#
-                               |#
-
-                               |##########
- openconfig/magna              |##########
-                               |##########
-
-                               |#
- openconfig/reference          |#
                                |#
 
 
@@ -86,4 +86,4 @@ Since 2024-01-31 12:10:13 -0800 PST, I've been most active in openconfig/feature
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2024-02-24 02:19:54.717421922 -0800 PST
+Last Updated: 2024-02-24 02:31:31.087737573 -0800 PST
