@@ -42,21 +42,17 @@ Since 2024-01-31 12:10:13 -0800 PST, I'm most active between 13:00-13:59 - with 
 
 
 ```
-                               |###
- openconfig/gnmi               |###
-                               |###
+                               |###############################
+ openconfig/featureprofiles    |###############################
+                               |###############################
 
                                |#
  openconfig/bootz              |#
                                |#
 
-                               |##########
- openconfig/magna              |##########
-                               |##########
-
-                               |###############################
- openconfig/featureprofiles    |###############################
-                               |###############################
+                               |#
+ openconfig/ygot               |#
+                               |#
 
                                |######################
  openconfig/clio               |######################
@@ -70,12 +66,16 @@ Since 2024-01-31 12:10:13 -0800 PST, I'm most active between 13:00-13:59 - with 
  openconfig/public             |##################
                                |##################
 
-                               |#
- openconfig/reference          |#
-                               |#
+                               |###
+ openconfig/gnmi               |###
+                               |###
+
+                               |##########
+ openconfig/magna              |##########
+                               |##########
 
                                |#
- openconfig/ygot               |#
+ openconfig/reference          |#
                                |#
 
 
@@ -86,4 +86,4 @@ Since 2024-01-31 12:10:13 -0800 PST, I've been most active in openconfig/feature
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2024-02-25 20:45:59.675057642 -0800 PST
+Last Updated: 2024-02-25 21:01:07.241364465 -0800 PST
