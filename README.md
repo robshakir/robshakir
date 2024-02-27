@@ -42,25 +42,9 @@ Since 2024-01-31 12:55:51 -0800 PST, I'm most active between 13:00-13:59 - with 
 
 
 ```
-                               |#############
- openconfig/gnoi               |#############
-                               |#############
-
                                |##################
  openconfig/public             |##################
                                |##################
-
-                               |###
- openconfig/gnmi               |###
-                               |###
-
-                               |#
- openconfig/bootz              |#
-                               |#
-
-                               |#
- openconfig/reference          |#
-                               |#
 
                                |#
  openconfig/gnsi               |#
@@ -74,12 +58,28 @@ Since 2024-01-31 12:55:51 -0800 PST, I'm most active between 13:00-13:59 - with 
  openconfig/clio               |######################
                                |######################
 
+                               |#############
+ openconfig/gnoi               |#############
+                               |#############
+
+                               |#
+ openconfig/ygot               |#
+                               |#
+
+                               |###
+ openconfig/gnmi               |###
+                               |###
+
+                               |#
+ openconfig/bootz              |#
+                               |#
+
                                |#########
  openconfig/magna              |#########
                                |#########
 
                                |#
- openconfig/ygot               |#
+ openconfig/reference          |#
                                |#
 
 
@@ -90,4 +90,4 @@ Since 2024-01-31 12:55:51 -0800 PST, I've been most active in openconfig/feature
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2024-02-27 04:01:20.870372663 -0800 PST
+Last Updated: 2024-02-27 04:21:28.222704075 -0800 PST
