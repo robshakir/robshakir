@@ -43,28 +43,20 @@ Since 2024-01-31 12:55:51 -0800 PST, I'm most active between 13:00-13:59 - with 
 
 ```
                                |#
- openconfig/gnsi               |#
-                               |#
-
-                               |###############################
- openconfig/featureprofiles    |###############################
-                               |###############################
-
-                               |##################
- openconfig/public             |##################
-                               |##################
-
-                               |###
- openconfig/gnmi               |###
-                               |###
-
-                               |#
  openconfig/bootz              |#
                                |#
 
                                |#
  openconfig/ygot               |#
                                |#
+
+                               |#
+ openconfig/gnsi               |#
+                               |#
+
+                               |###############################
+ openconfig/featureprofiles    |###############################
+                               |###############################
 
                                |######################
  openconfig/clio               |######################
@@ -73,6 +65,14 @@ Since 2024-01-31 12:55:51 -0800 PST, I'm most active between 13:00-13:59 - with 
                                |#############
  openconfig/gnoi               |#############
                                |#############
+
+                               |##################
+ openconfig/public             |##################
+                               |##################
+
+                               |###
+ openconfig/gnmi               |###
+                               |###
 
                                |#########
  openconfig/magna              |#########
@@ -90,4 +90,4 @@ Since 2024-01-31 12:55:51 -0800 PST, I've been most active in openconfig/feature
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2024-02-27 00:01:20.99589213 -0800 PST
+Last Updated: 2024-02-27 00:20:06.167212296 -0800 PST
