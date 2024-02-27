@@ -46,18 +46,6 @@ Since 2024-01-31 14:29:13 -0800 PST, I'm most active between 13:00-13:59 - with 
  openconfig/gnoi               |##############
                                |##############
 
-                               |##################
- openconfig/public             |##################
-                               |##################
-
-                               |#
- openconfig/reference          |#
-                               |#
-
-                               |#
- openconfig/gnsi               |#
-                               |#
-
                                |###############################
  openconfig/featureprofiles    |###############################
                                |###############################
@@ -66,17 +54,29 @@ Since 2024-01-31 14:29:13 -0800 PST, I'm most active between 13:00-13:59 - with 
  openconfig/clio               |######################
                                |######################
 
-                               |###
- openconfig/gnmi               |###
-                               |###
+                               |##################
+ openconfig/public             |##################
+                               |##################
 
                                |#
  openconfig/bootz              |#
                                |#
 
+                               |#
+ openconfig/gnsi               |#
+                               |#
+
+                               |###
+ openconfig/gnmi               |###
+                               |###
+
                                |#########
  openconfig/magna              |#########
                                |#########
+
+                               |#
+ openconfig/reference          |#
+                               |#
 
 
 
@@ -86,4 +86,4 @@ Since 2024-01-31 14:29:13 -0800 PST, I've been most active in openconfig/feature
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2024-02-27 15:01:33.562894958 -0800 PST
+Last Updated: 2024-02-27 15:18:18.467135363 -0800 PST
