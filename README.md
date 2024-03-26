@@ -42,17 +42,17 @@ Since 2024-02-22 16:13:50 -0800 PST, I'm most active between 11:00-11:59 - with 
 
 
 ```
-                               |#######
- openconfig/magna              |#######
-                               |#######
-
                                |##################
  openconfig/public             |##################
                                |##################
 
-                               |##################################
- openconfig/featureprofiles    |##################################
-                               |##################################
+                               |###############
+ openconfig/gnoi               |###############
+                               |###############
+
+                               |##
+ openconfig/gnsi               |##
+                               |##
 
                                |#####
  openconfig/gribigo            |#####
@@ -63,20 +63,20 @@ Since 2024-02-22 16:13:50 -0800 PST, I'm most active between 11:00-11:59 - with 
                                |#
 
                                |#######
- openconfig/reference          |#######
+ openconfig/magna              |#######
                                |#######
 
-                               |###############
- openconfig/gnoi               |###############
-                               |###############
+                               |#######
+ openconfig/reference          |#######
+                               |#######
 
                                |###########
  openconfig/gnmi               |###########
                                |###########
 
-                               |##
- openconfig/gnsi               |##
-                               |##
+                               |##################################
+ openconfig/featureprofiles    |##################################
+                               |##################################
 
 
 
@@ -86,4 +86,4 @@ Since 2024-02-22 16:13:50 -0800 PST, I've been most active in openconfig/feature
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2024-03-26 12:31:20.31605128 -0700 PDT
+Last Updated: 2024-03-26 12:46:09.997145415 -0700 PDT
