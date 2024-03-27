@@ -42,17 +42,9 @@ Since 2024-02-26 15:46:28 -0800 PST, I'm most active between 11:00-11:59 - with 
 
 
 ```
-                               |#
- openconfig/bootz              |#
-                               |#
-
                                |###########
  openconfig/reference          |###########
                                |###########
-
-                               |#######
- openconfig/magna              |#######
-                               |#######
 
                                |##################
  openconfig/public             |##################
@@ -62,10 +54,6 @@ Since 2024-02-26 15:46:28 -0800 PST, I'm most active between 11:00-11:59 - with 
  openconfig/gnoi               |###############
                                |###############
 
-                               |#####
- openconfig/gribigo            |#####
-                               |#####
-
                                |###########
  openconfig/gnmi               |###########
                                |###########
@@ -74,9 +62,21 @@ Since 2024-02-26 15:46:28 -0800 PST, I'm most active between 11:00-11:59 - with 
  openconfig/featureprofiles    |##############################
                                |##############################
 
+                               |#####
+ openconfig/gribigo            |#####
+                               |#####
+
                                |##
  openconfig/gnsi               |##
                                |##
+
+                               |#######
+ openconfig/magna              |#######
+                               |#######
+
+                               |#
+ openconfig/bootz              |#
+                               |#
 
 
 
@@ -86,4 +86,4 @@ Since 2024-02-26 15:46:28 -0800 PST, I've been most active in openconfig/feature
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2024-03-26 19:46:03.326592397 -0700 PDT
+Last Updated: 2024-03-26 20:01:13.003109437 -0700 PDT
