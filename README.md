@@ -43,14 +43,6 @@ Since 2024-02-26 15:46:28 -0800 PST, I'm most active between 11:00-11:59 - with 
 
 ```
                                |###########
- openconfig/reference          |###########
-                               |###########
-
-                               |##################
- openconfig/public             |##################
-                               |##################
-
-                               |###########
  openconfig/gnmi               |###########
                                |###########
 
@@ -58,13 +50,21 @@ Since 2024-02-26 15:46:28 -0800 PST, I'm most active between 11:00-11:59 - with 
  openconfig/gribigo            |#####
                                |#####
 
+                               |#
+ openconfig/bootz              |#
+                               |#
+
                                |##
  openconfig/gnsi               |##
                                |##
 
-                               |#######
- openconfig/magna              |#######
-                               |#######
+                               |###########
+ openconfig/reference          |###########
+                               |###########
+
+                               |##################
+ openconfig/public             |##################
+                               |##################
 
                                |###############
  openconfig/gnoi               |###############
@@ -74,9 +74,9 @@ Since 2024-02-26 15:46:28 -0800 PST, I'm most active between 11:00-11:59 - with 
  openconfig/featureprofiles    |##############################
                                |##############################
 
-                               |#
- openconfig/bootz              |#
-                               |#
+                               |#######
+ openconfig/magna              |#######
+                               |#######
 
 
 
@@ -86,4 +86,4 @@ Since 2024-02-26 15:46:28 -0800 PST, I've been most active in openconfig/feature
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2024-03-27 11:46:00.50875889 -0700 PDT
+Last Updated: 2024-03-27 12:01:08.766310135 -0700 PDT
