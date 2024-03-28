@@ -42,30 +42,6 @@ Since 2024-02-26 15:46:28 -0800 PST, I'm most active between 11:00-11:59 - with 
 
 
 ```
-                               |###########
- openconfig/reference          |###########
-                               |###########
-
-                               |##############################
- openconfig/featureprofiles    |##############################
-                               |##############################
-
-                               |#####
- openconfig/gribigo            |#####
-                               |#####
-
-                               |##
- openconfig/gnsi               |##
-                               |##
-
-                               |#######
- openconfig/magna              |#######
-                               |#######
-
-                               |##################
- openconfig/public             |##################
-                               |##################
-
                                |###############
  openconfig/gnoi               |###############
                                |###############
@@ -74,9 +50,33 @@ Since 2024-02-26 15:46:28 -0800 PST, I'm most active between 11:00-11:59 - with 
  openconfig/gnmi               |###########
                                |###########
 
+                               |##############################
+ openconfig/featureprofiles    |##############################
+                               |##############################
+
                                |#
  openconfig/bootz              |#
                                |#
+
+                               |##
+ openconfig/gnsi               |##
+                               |##
+
+                               |###########
+ openconfig/reference          |###########
+                               |###########
+
+                               |##################
+ openconfig/public             |##################
+                               |##################
+
+                               |#######
+ openconfig/magna              |#######
+                               |#######
+
+                               |#####
+ openconfig/gribigo            |#####
+                               |#####
 
 
 
@@ -86,4 +86,4 @@ Since 2024-02-26 15:46:28 -0800 PST, I've been most active in openconfig/feature
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2024-03-28 09:01:20.371146324 -0700 PDT
+Last Updated: 2024-03-28 09:20:10.926796649 -0700 PDT
