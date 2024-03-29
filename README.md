@@ -42,10 +42,6 @@ Since 2024-02-27 15:51:20 -0800 PST, I'm most active between 11:00-11:59 - with 
 
 
 ```
-                               |##############################
- openconfig/featureprofiles    |##############################
-                               |##############################
-
                                |##################
  openconfig/public             |##################
                                |##################
@@ -58,17 +54,13 @@ Since 2024-02-27 15:51:20 -0800 PST, I'm most active between 11:00-11:59 - with 
  openconfig/gnsi               |#
                                |#
 
-                               |################
- openconfig/gnoi               |################
-                               |################
+                               |##############################
+ openconfig/featureprofiles    |##############################
+                               |##############################
 
                                |###########
  openconfig/reference          |###########
                                |###########
-
-                               |#######
- openconfig/magna              |#######
-                               |#######
 
                                |###########
  openconfig/gnmi               |###########
@@ -78,6 +70,14 @@ Since 2024-02-27 15:51:20 -0800 PST, I'm most active between 11:00-11:59 - with 
  openconfig/bootz              |#
                                |#
 
+                               |################
+ openconfig/gnoi               |################
+                               |################
+
+                               |#######
+ openconfig/magna              |#######
+                               |#######
+
 
 
 Since 2024-02-27 15:51:20 -0800 PST, I've been most active in openconfig/featureprofiles, with 30 events.
@@ -86,4 +86,4 @@ Since 2024-02-27 15:51:20 -0800 PST, I've been most active in openconfig/feature
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2024-03-29 00:01:07.044591324 -0700 PDT
+Last Updated: 2024-03-29 00:18:11.094194332 -0700 PDT
