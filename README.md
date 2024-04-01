@@ -42,17 +42,17 @@ Since 2024-02-27 15:51:20 -0800 PST, I'm most active between 11:00-11:59 - with 
 
 
 ```
+                               |#
+ openconfig/gnsi               |#
+                               |#
+
+                               |################
+ openconfig/gnoi               |################
+                               |################
+
                                |#####
  openconfig/gribigo            |#####
                                |#####
-
-                               |#
- openconfig/bootz              |#
-                               |#
-
-                               |##############################
- openconfig/featureprofiles    |##############################
-                               |##############################
 
                                |#######
  openconfig/magna              |#######
@@ -66,17 +66,17 @@ Since 2024-02-27 15:51:20 -0800 PST, I'm most active between 11:00-11:59 - with 
  openconfig/gnmi               |###########
                                |###########
 
-                               |################
- openconfig/gnoi               |################
-                               |################
+                               |#
+ openconfig/bootz              |#
+                               |#
+
+                               |##############################
+ openconfig/featureprofiles    |##############################
+                               |##############################
 
                                |###########
  openconfig/reference          |###########
                                |###########
-
-                               |#
- openconfig/gnsi               |#
-                               |#
 
 
 
@@ -86,4 +86,4 @@ Since 2024-02-27 15:51:20 -0800 PST, I've been most active in openconfig/feature
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2024-04-01 06:45:53.877042222 -0700 PDT
+Last Updated: 2024-04-01 07:01:22.023526703 -0700 PDT
