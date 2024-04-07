@@ -42,10 +42,6 @@ Since 2024-02-27 15:51:45 -0800 PST, I'm most active between 11:00-11:59 - with 
 
 
 ```
-                               |###########
- openconfig/reference          |###########
-                               |###########
-
                                |#######
  openconfig/magna              |#######
                                |#######
@@ -54,17 +50,17 @@ Since 2024-02-27 15:51:45 -0800 PST, I'm most active between 11:00-11:59 - with 
  openconfig/public             |##################
                                |##################
 
-                               |#
- openconfig/bootz              |#
-                               |#
+                               |#####
+ openconfig/gribigo            |#####
+                               |#####
 
                                |#
  openconfig/gnsi               |#
                                |#
 
-                               |#
- openconfig/ygot               |#
-                               |#
+                               |###########
+ openconfig/reference          |###########
+                               |###########
 
                                |#############################
  openconfig/featureprofiles    |#############################
@@ -78,9 +74,13 @@ Since 2024-02-27 15:51:45 -0800 PST, I'm most active between 11:00-11:59 - with 
  openconfig/gnmi               |###########
                                |###########
 
-                               |#####
- openconfig/gribigo            |#####
-                               |#####
+                               |#
+ openconfig/bootz              |#
+                               |#
+
+                               |#
+ openconfig/ygot               |#
+                               |#
 
 
 
@@ -90,4 +90,4 @@ Since 2024-02-27 15:51:45 -0800 PST, I've been most active in openconfig/feature
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2024-04-07 16:19:06.82462119 -0700 PDT
+Last Updated: 2024-04-07 16:31:09.648330447 -0700 PDT
