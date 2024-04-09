@@ -46,13 +46,9 @@ Since 2024-02-27 15:51:45 -0800 PST, I'm most active between 11:00-11:59 - with 
  openconfig/gnoi               |################
                                |################
 
-                               |###########
- openconfig/reference          |###########
-                               |###########
-
-                               |##################
- openconfig/public             |##################
-                               |##################
+                               |#######
+ openconfig/magna              |#######
+                               |#######
 
                                |###########
  openconfig/gnmi               |###########
@@ -63,6 +59,10 @@ Since 2024-02-27 15:51:45 -0800 PST, I'm most active between 11:00-11:59 - with 
                                |#####
 
                                |#
+ openconfig/bootz              |#
+                               |#
+
+                               |#
  openconfig/gnsi               |#
                                |#
 
@@ -70,17 +70,17 @@ Since 2024-02-27 15:51:45 -0800 PST, I'm most active between 11:00-11:59 - with 
  openconfig/ygot               |#
                                |#
 
-                               |#######
- openconfig/magna              |#######
-                               |#######
-
-                               |#
- openconfig/bootz              |#
-                               |#
-
                                |#############################
  openconfig/featureprofiles    |#############################
                                |#############################
+
+                               |###########
+ openconfig/reference          |###########
+                               |###########
+
+                               |##################
+ openconfig/public             |##################
+                               |##################
 
 
 
@@ -90,4 +90,4 @@ Since 2024-02-27 15:51:45 -0800 PST, I've been most active in openconfig/feature
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2024-04-09 08:31:02.414870431 -0700 PDT
+Last Updated: 2024-04-09 08:45:57.419721651 -0700 PDT
