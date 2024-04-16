@@ -50,25 +50,9 @@ Since 2024-02-27 15:51:45 -0800 PST, I'm most active between 11:00-11:59 - with 
  openconfig/ygot               |#
                                |#
 
-                               |################
- openconfig/gnoi               |################
-                               |################
-
-                               |#
- openconfig/bootz              |#
-                               |#
-
                                |###########
  openconfig/reference          |###########
                                |###########
-
-                               |#######
- openconfig/magna              |#######
-                               |#######
-
-                               |##################
- openconfig/public             |##################
-                               |##################
 
                                |###########
  openconfig/gnmi               |###########
@@ -77,6 +61,22 @@ Since 2024-02-27 15:51:45 -0800 PST, I'm most active between 11:00-11:59 - with 
                                |#####
  openconfig/gribigo            |#####
                                |#####
+
+                               |#
+ openconfig/bootz              |#
+                               |#
+
+                               |################
+ openconfig/gnoi               |################
+                               |################
+
+                               |#######
+ openconfig/magna              |#######
+                               |#######
+
+                               |##################
+ openconfig/public             |##################
+                               |##################
 
                                |#
  openconfig/gnsi               |#
@@ -90,4 +90,4 @@ Since 2024-02-27 15:51:45 -0800 PST, I've been most active in openconfig/feature
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2024-04-16 01:30:59.140757819 -0700 PDT
+Last Updated: 2024-04-16 01:45:56.193849953 -0700 PDT
