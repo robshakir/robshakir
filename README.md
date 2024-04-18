@@ -46,9 +46,9 @@ Since 2024-02-27 15:51:45 -0800 PST, I'm most active between 11:00-11:59 - with 
  openconfig/featureprofiles    |#############################
                                |#############################
 
-                               |################
- openconfig/gnoi               |################
-                               |################
+                               |###########
+ openconfig/reference          |###########
+                               |###########
 
                                |##################
  openconfig/public             |##################
@@ -59,20 +59,12 @@ Since 2024-02-27 15:51:45 -0800 PST, I'm most active between 11:00-11:59 - with 
                                |#####
 
                                |#
- openconfig/bootz              |#
-                               |#
-
-                               |#
- openconfig/gnsi               |#
-                               |#
-
-                               |#
  openconfig/ygot               |#
                                |#
 
-                               |###########
- openconfig/reference          |###########
-                               |###########
+                               |################
+ openconfig/gnoi               |################
+                               |################
 
                                |#######
  openconfig/magna              |#######
@@ -82,6 +74,14 @@ Since 2024-02-27 15:51:45 -0800 PST, I'm most active between 11:00-11:59 - with 
  openconfig/gnmi               |###########
                                |###########
 
+                               |#
+ openconfig/bootz              |#
+                               |#
+
+                               |#
+ openconfig/gnsi               |#
+                               |#
+
 
 
 Since 2024-02-27 15:51:45 -0800 PST, I've been most active in openconfig/featureprofiles, with 29 events.
@@ -90,4 +90,4 @@ Since 2024-02-27 15:51:45 -0800 PST, I've been most active in openconfig/feature
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2024-04-18 06:31:01.265650076 -0700 PDT
+Last Updated: 2024-04-18 06:45:56.588008532 -0700 PDT
