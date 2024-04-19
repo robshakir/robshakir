@@ -42,13 +42,25 @@ Since 2024-03-01 18:28:45 -0800 PST, I'm most active between 11:00-11:59 - with 
 
 
 ```
-                               |######
- openconfig/ygot               |######
-                               |######
+                               |#
+ openconfig/bootz              |#
+                               |#
+
+                               |#
+ openconfig/gnsi               |#
+                               |#
 
                                |################
  openconfig/gnoi               |################
                                |################
+
+                               |######
+ openconfig/ygot               |######
+                               |######
+
+                               |##################
+ openconfig/featureprofiles    |##################
+                               |##################
 
                                |###########
  openconfig/reference          |###########
@@ -62,25 +74,13 @@ Since 2024-03-01 18:28:45 -0800 PST, I'm most active between 11:00-11:59 - with 
  openconfig/public             |##################
                                |##################
 
-                               |#
- openconfig/bootz              |#
-                               |#
-
-                               |###########
- openconfig/gribigo            |###########
-                               |###########
-
-                               |##################
- openconfig/featureprofiles    |##################
-                               |##################
-
                                |###########
  openconfig/gnmi               |###########
                                |###########
 
-                               |#
- openconfig/gnsi               |#
-                               |#
+                               |###########
+ openconfig/gribigo            |###########
+                               |###########
 
 
 
@@ -90,4 +90,4 @@ Since 2024-03-01 18:28:45 -0800 PST, I've been most active in openconfig/feature
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2024-04-19 10:18:44.351977077 -0700 PDT
+Last Updated: 2024-04-19 10:31:06.377757253 -0700 PDT
