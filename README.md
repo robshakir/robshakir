@@ -42,30 +42,6 @@ Since 2024-03-04 13:07:07 -0800 PST, I'm most active between 11:00-11:59 - with 
 
 
 ```
-                               |############
- openconfig/gnmi               |############
-                               |############
-
-                               |################
- openconfig/gnoi               |################
-                               |################
-
-                               |##################
- openconfig/public             |##################
-                               |##################
-
-                               |#
- openconfig/bootz              |#
-                               |#
-
-                               |###########
- openconfig/gribigo            |###########
-                               |###########
-
-                               |######
- openconfig/ygot               |######
-                               |######
-
                                |#################
  openconfig/featureprofiles    |#################
                                |#################
@@ -78,9 +54,33 @@ Since 2024-03-04 13:07:07 -0800 PST, I'm most active between 11:00-11:59 - with 
  openconfig/magna              |#######
                                |#######
 
+                               |##################
+ openconfig/public             |##################
+                               |##################
+
+                               |#
+ openconfig/bootz              |#
+                               |#
+
                                |#
  openconfig/gnsi               |#
                                |#
+
+                               |######
+ openconfig/ygot               |######
+                               |######
+
+                               |###########
+ openconfig/gribigo            |###########
+                               |###########
+
+                               |################
+ openconfig/gnoi               |################
+                               |################
+
+                               |############
+ openconfig/gnmi               |############
+                               |############
 
 
 
@@ -90,4 +90,4 @@ Since 2024-03-04 13:07:07 -0800 PST, I've been most active in openconfig/public,
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2024-04-21 09:01:17.957767208 -0700 PDT
+Last Updated: 2024-04-21 09:20:27.85381616 -0700 PDT
