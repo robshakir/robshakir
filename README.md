@@ -42,22 +42,6 @@ Since 2024-03-05 07:38:22 -0800 PST, I'm most active between 11:00-11:59 - with 
 
 
 ```
-                               |##
- openconfig/bootz              |##
-                               |##
-
-                               |############
- openconfig/gnmi               |############
-                               |############
-
-                               |###############
- openconfig/featureprofiles    |###############
-                               |###############
-
-                               |################
- openconfig/gnoi               |################
-                               |################
-
                                |###########
  openconfig/reference          |###########
                                |###########
@@ -70,6 +54,18 @@ Since 2024-03-05 07:38:22 -0800 PST, I'm most active between 11:00-11:59 - with 
  openconfig/public             |####################
                                |####################
 
+                               |##
+ openconfig/bootz              |##
+                               |##
+
+                               |############
+ openconfig/gnmi               |############
+                               |############
+
+                               |###############
+ openconfig/featureprofiles    |###############
+                               |###############
+
                                |###########
  openconfig/gribigo            |###########
                                |###########
@@ -77,6 +73,10 @@ Since 2024-03-05 07:38:22 -0800 PST, I'm most active between 11:00-11:59 - with 
                                |######
  openconfig/ygot               |######
                                |######
+
+                               |################
+ openconfig/gnoi               |################
+                               |################
 
 
 
@@ -86,4 +86,4 @@ Since 2024-03-05 07:38:22 -0800 PST, I've been most active in openconfig/public,
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2024-04-30 06:30:54.16167765 -0700 PDT
+Last Updated: 2024-04-30 06:45:55.540928335 -0700 PDT
