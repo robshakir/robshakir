@@ -42,10 +42,6 @@ Since 2024-03-05 07:38:22 -0800 PST, I'm most active between 11:00-11:59 - with 
 
 
 ```
-                               |##
- openconfig/bootz              |##
-                               |##
-
                                |###########
  openconfig/gribigo            |###########
                                |###########
@@ -54,13 +50,9 @@ Since 2024-03-05 07:38:22 -0800 PST, I'm most active between 11:00-11:59 - with 
  openconfig/ygot               |######
                                |######
 
-                               |###############
- openconfig/featureprofiles    |###############
-                               |###############
-
-                               |###########
- openconfig/reference          |###########
-                               |###########
+                               |################
+ openconfig/gnoi               |################
+                               |################
 
                                |#######
  openconfig/magna              |#######
@@ -70,13 +62,21 @@ Since 2024-03-05 07:38:22 -0800 PST, I'm most active between 11:00-11:59 - with 
  openconfig/public             |####################
                                |####################
 
+                               |##
+ openconfig/bootz              |##
+                               |##
+
+                               |###########
+ openconfig/reference          |###########
+                               |###########
+
                                |############
  openconfig/gnmi               |############
                                |############
 
-                               |################
- openconfig/gnoi               |################
-                               |################
+                               |###############
+ openconfig/featureprofiles    |###############
+                               |###############
 
 
 
@@ -86,4 +86,4 @@ Since 2024-03-05 07:38:22 -0800 PST, I've been most active in openconfig/public,
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2024-05-02 21:32:07.450643083 -0700 PDT
+Last Updated: 2024-05-02 21:46:01.068490121 -0700 PDT
