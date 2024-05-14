@@ -42,13 +42,9 @@ Since 2024-03-05 07:38:54 -0800 PST, I'm most active between 11:00-11:59 - with 
 
 
 ```
-                               |############
- openconfig/gnmi               |############
-                               |############
-
-                               |######
- openconfig/ygot               |######
-                               |######
+                               |#####################
+ openconfig/public             |#####################
+                               |#####################
 
                                |##############
  openconfig/featureprofiles    |##############
@@ -58,25 +54,29 @@ Since 2024-03-05 07:38:54 -0800 PST, I'm most active between 11:00-11:59 - with 
  openconfig/magna              |#######
                                |#######
 
+                               |###########
+ openconfig/reference          |###########
+                               |###########
+
                                |##
  openconfig/bootz              |##
                                |##
+
+                               |############
+ openconfig/gnmi               |############
+                               |############
 
                                |###########
  openconfig/gribigo            |###########
                                |###########
 
+                               |######
+ openconfig/ygot               |######
+                               |######
+
                                |################
  openconfig/gnoi               |################
                                |################
-
-                               |###########
- openconfig/reference          |###########
-                               |###########
-
-                               |#####################
- openconfig/public             |#####################
-                               |#####################
 
 
 
@@ -86,4 +86,4 @@ Since 2024-03-05 07:38:54 -0800 PST, I've been most active in openconfig/public,
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2024-05-14 08:01:23.554150314 -0700 PDT
+Last Updated: 2024-05-14 08:20:17.807345483 -0700 PDT
