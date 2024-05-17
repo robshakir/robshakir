@@ -42,17 +42,17 @@ Since 2024-03-05 07:38:54 -0800 PST, I'm most active between 11:00-11:59 - with 
 
 
 ```
-                               |##############
- openconfig/featureprofiles    |##############
-                               |##############
+                               |#####################
+ openconfig/public             |#####################
+                               |#####################
+
+                               |###########
+ openconfig/gribigo            |###########
+                               |###########
 
                                |################
  openconfig/gnoi               |################
                                |################
-
-                               |######
- openconfig/ygot               |######
-                               |######
 
                                |###########
  openconfig/reference          |###########
@@ -62,10 +62,6 @@ Since 2024-03-05 07:38:54 -0800 PST, I'm most active between 11:00-11:59 - with 
  openconfig/magna              |#######
                                |#######
 
-                               |#####################
- openconfig/public             |#####################
-                               |#####################
-
                                |##
  openconfig/bootz              |##
                                |##
@@ -74,9 +70,13 @@ Since 2024-03-05 07:38:54 -0800 PST, I'm most active between 11:00-11:59 - with 
  openconfig/gnmi               |############
                                |############
 
-                               |###########
- openconfig/gribigo            |###########
-                               |###########
+                               |######
+ openconfig/ygot               |######
+                               |######
+
+                               |##############
+ openconfig/featureprofiles    |##############
+                               |##############
 
 
 
@@ -86,4 +86,4 @@ Since 2024-03-05 07:38:54 -0800 PST, I've been most active in openconfig/public,
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2024-05-17 12:30:56.446818751 -0700 PDT
+Last Updated: 2024-05-17 12:45:58.285396097 -0700 PDT
