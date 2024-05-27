@@ -42,10 +42,6 @@ Since 2024-03-05 07:38:54 -0800 PST, I'm most active between 11:00-11:59 - with 
 
 
 ```
-                               |############
- openconfig/gnmi               |############
-                               |############
-
                                |######
  openconfig/ygot               |######
                                |######
@@ -58,13 +54,9 @@ Since 2024-03-05 07:38:54 -0800 PST, I'm most active between 11:00-11:59 - with 
  openconfig/reference          |###########
                                |###########
 
-                               |#####################
- openconfig/public             |#####################
-                               |#####################
-
-                               |##
- openconfig/bootz              |##
-                               |##
+                               |############
+ openconfig/gnmi               |############
+                               |############
 
                                |###########
  openconfig/gribigo            |###########
@@ -78,6 +70,14 @@ Since 2024-03-05 07:38:54 -0800 PST, I'm most active between 11:00-11:59 - with 
  openconfig/magna              |#######
                                |#######
 
+                               |#####################
+ openconfig/public             |#####################
+                               |#####################
+
+                               |##
+ openconfig/bootz              |##
+                               |##
+
 
 
 Since 2024-03-05 07:38:54 -0800 PST, I've been most active in openconfig/public, with 21 events.
@@ -86,4 +86,4 @@ Since 2024-03-05 07:38:54 -0800 PST, I've been most active in openconfig/public,
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2024-05-27 16:01:10.426519703 -0700 PDT
+Last Updated: 2024-05-27 16:19:56.826623666 -0700 PDT
