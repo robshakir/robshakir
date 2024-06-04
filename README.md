@@ -42,6 +42,22 @@ Since 2024-03-05 10:12:02 -0800 PST, I'm most active between 11:00-11:59 - with 
 
 
 ```
+                               |############
+ openconfig/reference          |############
+                               |############
+
+                               |######
+ openconfig/ygot               |######
+                               |######
+
+                               |################
+ openconfig/gnoi               |################
+                               |################
+
+                               |#######
+ openconfig/magna              |#######
+                               |#######
+
                                |#######################
  openconfig/public             |#######################
                                |#######################
@@ -55,28 +71,12 @@ Since 2024-03-05 10:12:02 -0800 PST, I'm most active between 11:00-11:59 - with 
                                |############
 
                                |###########
- openconfig/featureprofiles    |###########
-                               |###########
-
-                               |#######
- openconfig/magna              |#######
-                               |#######
-
-                               |############
- openconfig/reference          |############
-                               |############
-
-                               |###########
  openconfig/gribigo            |###########
                                |###########
 
-                               |######
- openconfig/ygot               |######
-                               |######
-
-                               |################
- openconfig/gnoi               |################
-                               |################
+                               |###########
+ openconfig/featureprofiles    |###########
+                               |###########
 
 
 
@@ -86,4 +86,4 @@ Since 2024-03-05 10:12:02 -0800 PST, I've been most active in openconfig/public,
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2024-06-03 22:20:29.575355494 -0700 PDT
+Last Updated: 2024-06-03 22:33:24.400566216 -0700 PDT
