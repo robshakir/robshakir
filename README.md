@@ -42,22 +42,6 @@ Since 2024-03-05 10:12:02 -0800 PST, I'm most active between 11:00-11:59 - with 
 
 
 ```
-                               |#######################
- openconfig/public             |#######################
-                               |#######################
-
-                               |##
- openconfig/bootz              |##
-                               |##
-
-                               |###########
- openconfig/gribigo            |###########
-                               |###########
-
-                               |######
- openconfig/ygot               |######
-                               |######
-
                                |############
  openconfig/reference          |############
                                |############
@@ -67,12 +51,28 @@ Since 2024-03-05 10:12:02 -0800 PST, I'm most active between 11:00-11:59 - with 
                                |############
 
                                |###########
- openconfig/featureprofiles    |###########
+ openconfig/gribigo            |###########
                                |###########
+
+                               |######
+ openconfig/ygot               |######
+                               |######
 
                                |################
  openconfig/gnoi               |################
                                |################
+
+                               |#######################
+ openconfig/public             |#######################
+                               |#######################
+
+                               |##
+ openconfig/bootz              |##
+                               |##
+
+                               |###########
+ openconfig/featureprofiles    |###########
+                               |###########
 
                                |#######
  openconfig/magna              |#######
@@ -86,4 +86,4 @@ Since 2024-03-05 10:12:02 -0800 PST, I've been most active in openconfig/public,
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2024-06-05 04:46:02.515191268 -0700 PDT
+Last Updated: 2024-06-05 05:01:26.908298076 -0700 PDT
