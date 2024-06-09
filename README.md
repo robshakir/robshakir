@@ -42,21 +42,13 @@ Since 2024-03-12 09:10:35 -0700 PDT, I'm most active between 21:00-21:59 - with 
 
 
 ```
-                               |###########
- openconfig/gribigo            |###########
-                               |###########
-
-                               |######
- openconfig/ygot               |######
-                               |######
-
-                               |#
- openconfig/bootz              |#
-                               |#
-
                                |########
  openconfig/gnmi               |########
                                |########
+
+                               |###########
+ openconfig/gribigo            |###########
+                               |###########
 
                                |#######
  openconfig/featureprofiles    |#######
@@ -66,10 +58,6 @@ Since 2024-03-12 09:10:35 -0700 PDT, I'm most active between 21:00-21:59 - with 
  openconfig/gnoi               |#############
                                |#############
 
-                               |#######
- openconfig/magna              |#######
-                               |#######
-
                                |##########
  openconfig/public             |##########
                                |##########
@@ -77,6 +65,18 @@ Since 2024-03-12 09:10:35 -0700 PDT, I'm most active between 21:00-21:59 - with 
                                |############
  openconfig/reference          |############
                                |############
+
+                               |#
+ openconfig/bootz              |#
+                               |#
+
+                               |######
+ openconfig/ygot               |######
+                               |######
+
+                               |#######
+ openconfig/magna              |#######
+                               |#######
 
 
 
@@ -86,4 +86,4 @@ Since 2024-03-12 09:10:35 -0700 PDT, I've been most active in openconfig/gnoi, w
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2024-06-09 06:31:00.934643074 -0700 PDT
+Last Updated: 2024-06-09 06:46:03.152259307 -0700 PDT
