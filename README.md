@@ -42,25 +42,17 @@ Since 2024-03-12 09:10:35 -0700 PDT, I'm most active between 21:00-21:59 - with 
 
 
 ```
-                               |#
- openconfig/bootz              |#
-                               |#
-
-                               |########
- openconfig/gnmi               |########
-                               |########
-
-                               |#######
- openconfig/featureprofiles    |#######
-                               |#######
-
-                               |#############
- openconfig/gnoi               |#############
-                               |#############
+                               |###########
+ openconfig/gribigo            |###########
+                               |###########
 
                                |#######
  openconfig/magna              |#######
                                |#######
+
+                               |########
+ openconfig/gnmi               |########
+                               |########
 
                                |############
  openconfig/public             |############
@@ -70,9 +62,17 @@ Since 2024-03-12 09:10:35 -0700 PDT, I'm most active between 21:00-21:59 - with 
  openconfig/reference          |############
                                |############
 
-                               |###########
- openconfig/gribigo            |###########
-                               |###########
+                               |#
+ openconfig/bootz              |#
+                               |#
+
+                               |#######
+ openconfig/featureprofiles    |#######
+                               |#######
+
+                               |#############
+ openconfig/gnoi               |#############
+                               |#############
 
                                |########
  openconfig/ygot               |########
@@ -86,4 +86,4 @@ Since 2024-03-12 09:10:35 -0700 PDT, I've been most active in openconfig/gnoi, w
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2024-06-12 10:46:04.700246426 -0700 PDT
+Last Updated: 2024-06-12 11:01:31.517646367 -0700 PDT
