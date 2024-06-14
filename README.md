@@ -42,22 +42,6 @@ Since 2024-03-13 17:07:28 -0700 PDT, I'm most active between 21:00-21:59 - with 
 
 
 ```
-                               |#######
- openconfig/magna              |#######
-                               |#######
-
-                               |#
- openconfig/bootz              |#
-                               |#
-
-                               |########
- openconfig/gnmi               |########
-                               |########
-
-                               |############
- openconfig/reference          |############
-                               |############
-
                                |#########
  openconfig/gribigo            |#########
                                |#########
@@ -70,13 +54,29 @@ Since 2024-03-13 17:07:28 -0700 PDT, I'm most active between 21:00-21:59 - with 
  openconfig/gnoi               |#############
                                |#############
 
-                               |########
- openconfig/ygot               |########
-                               |########
+                               |#######
+ openconfig/magna              |#######
+                               |#######
+
+                               |#
+ openconfig/bootz              |#
+                               |#
 
                                |##########
  openconfig/public             |##########
                                |##########
+
+                               |############
+ openconfig/reference          |############
+                               |############
+
+                               |########
+ openconfig/gnmi               |########
+                               |########
+
+                               |########
+ openconfig/ygot               |########
+                               |########
 
 
 
@@ -86,4 +86,4 @@ Since 2024-03-13 17:07:28 -0700 PDT, I've been most active in openconfig/gnoi, w
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2024-06-13 22:31:16.740005642 -0700 PDT
+Last Updated: 2024-06-13 22:46:04.473864642 -0700 PDT
