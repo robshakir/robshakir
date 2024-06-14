@@ -43,24 +43,8 @@ Since 2024-03-13 12:03:37 -0700 PDT, I'm most active between 21:00-21:59 - with 
 
 ```
                                |########
- openconfig/ygot               |########
-                               |########
-
-                               |#
- openconfig/bootz              |#
-                               |#
-
-                               |########
  openconfig/gnmi               |########
                                |########
-
-                               |#######
- openconfig/featureprofiles    |#######
-                               |#######
-
-                               |#############
- openconfig/gnoi               |#############
-                               |#############
 
                                |##########
  openconfig/public             |##########
@@ -70,13 +54,29 @@ Since 2024-03-13 12:03:37 -0700 PDT, I'm most active between 21:00-21:59 - with 
  openconfig/reference          |############
                                |############
 
+                               |#
+ openconfig/bootz              |#
+                               |#
+
                                |###########
  openconfig/gribigo            |###########
                                |###########
 
                                |#######
+ openconfig/featureprofiles    |#######
+                               |#######
+
+                               |#############
+ openconfig/gnoi               |#############
+                               |#############
+
+                               |#######
  openconfig/magna              |#######
                                |#######
+
+                               |########
+ openconfig/ygot               |########
+                               |########
 
 
 
@@ -86,4 +86,4 @@ Since 2024-03-13 12:03:37 -0700 PDT, I've been most active in openconfig/gnoi, w
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2024-06-13 19:13:38.709019809 -0700 PDT
+Last Updated: 2024-06-13 19:27:50.366338464 -0700 PDT
