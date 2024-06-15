@@ -42,17 +42,13 @@ Since 2024-03-15 19:22:32 -0700 PDT, I'm most active between 21:00-21:59 - with 
 
 
 ```
-                               |#########
- openconfig/public             |#########
-                               |#########
-
-                               |############
- openconfig/reference          |############
-                               |############
-
                                |#
  openconfig/bootz              |#
                                |#
+
+                               |########
+ openconfig/gnmi               |########
+                               |########
 
                                |######
  openconfig/gribigo            |######
@@ -62,9 +58,9 @@ Since 2024-03-15 19:22:32 -0700 PDT, I'm most active between 21:00-21:59 - with 
  openconfig/ygot               |########
                                |########
 
-                               |#######
- openconfig/featureprofiles    |#######
-                               |#######
+                               |############
+ openconfig/reference          |############
+                               |############
 
                                |#############
  openconfig/gnoi               |#############
@@ -74,9 +70,13 @@ Since 2024-03-15 19:22:32 -0700 PDT, I'm most active between 21:00-21:59 - with 
  openconfig/magna              |#######
                                |#######
 
-                               |########
- openconfig/gnmi               |########
-                               |########
+                               |#########
+ openconfig/public             |#########
+                               |#########
+
+                               |#######
+ openconfig/featureprofiles    |#######
+                               |#######
 
 
 
@@ -86,4 +86,4 @@ Since 2024-03-15 19:22:32 -0700 PDT, I've been most active in openconfig/gnoi, w
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2024-06-15 12:30:56.842673037 -0700 PDT
+Last Updated: 2024-06-15 12:45:58.622035209 -0700 PDT
