@@ -42,25 +42,13 @@ Since 2024-03-15 19:22:32 -0700 PDT, I'm most active between 21:00-21:59 - with 
 
 
 ```
-                               |######
- openconfig/gribigo            |######
-                               |######
-
-                               |#######
- openconfig/featureprofiles    |#######
-                               |#######
-
-                               |#######
- openconfig/magna              |#######
-                               |#######
-
-                               |########
- openconfig/ygot               |########
-                               |########
-
                                |############
  openconfig/reference          |############
                                |############
+
+                               |#
+ openconfig/bootz              |#
+                               |#
 
                                |########
  openconfig/gnmi               |########
@@ -70,13 +58,25 @@ Since 2024-03-15 19:22:32 -0700 PDT, I'm most active between 21:00-21:59 - with 
  openconfig/gnoi               |#############
                                |#############
 
+                               |#######
+ openconfig/magna              |#######
+                               |#######
+
+                               |########
+ openconfig/ygot               |########
+                               |########
+
                                |#########
  openconfig/public             |#########
                                |#########
 
-                               |#
- openconfig/bootz              |#
-                               |#
+                               |######
+ openconfig/gribigo            |######
+                               |######
+
+                               |#######
+ openconfig/featureprofiles    |#######
+                               |#######
 
 
 
@@ -86,4 +86,4 @@ Since 2024-03-15 19:22:32 -0700 PDT, I've been most active in openconfig/gnoi, w
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2024-06-14 23:20:43.007498625 -0700 PDT
+Last Updated: 2024-06-14 23:32:52.651597148 -0700 PDT
