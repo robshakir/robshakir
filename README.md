@@ -42,9 +42,21 @@ Since 2024-03-18 08:02:44 -0700 PDT, I'm most active between 21:00-21:59 - with 
 
 
 ```
+                               |######
+ openconfig/gribigo            |######
+                               |######
+
+                               |#####
+ openconfig/featureprofiles    |#####
+                               |#####
+
                                |#######
  openconfig/magna              |#######
                                |#######
+
+                               |########
+ openconfig/ygot               |########
+                               |########
 
                                |#########
  openconfig/public             |#########
@@ -54,18 +66,6 @@ Since 2024-03-18 08:02:44 -0700 PDT, I'm most active between 21:00-21:59 - with 
  openconfig/reference          |############
                                |############
 
-                               |#####
- openconfig/featureprofiles    |#####
-                               |#####
-
-                               |#############
- openconfig/gnoi               |#############
-                               |#############
-
-                               |########
- openconfig/ygot               |########
-                               |########
-
                                |#
  openconfig/bootz              |#
                                |#
@@ -74,9 +74,9 @@ Since 2024-03-18 08:02:44 -0700 PDT, I'm most active between 21:00-21:59 - with 
  openconfig/gnmi               |########
                                |########
 
-                               |######
- openconfig/gribigo            |######
-                               |######
+                               |#############
+ openconfig/gnoi               |#############
+                               |#############
 
 
 
@@ -86,4 +86,4 @@ Since 2024-03-18 08:02:44 -0700 PDT, I've been most active in openconfig/gnoi, w
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2024-06-16 23:21:13.402356511 -0700 PDT
+Last Updated: 2024-06-16 23:34:43.467296245 -0700 PDT
