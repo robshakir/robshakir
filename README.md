@@ -42,14 +42,6 @@ Since 2024-03-18 08:02:44 -0700 PDT, I'm most active between 21:00-21:59 - with 
 
 
 ```
-                               |#####
- openconfig/featureprofiles    |#####
-                               |#####
-
-                               |#######
- openconfig/magna              |#######
-                               |#######
-
                                |############
  openconfig/reference          |############
                                |############
@@ -57,6 +49,18 @@ Since 2024-03-18 08:02:44 -0700 PDT, I'm most active between 21:00-21:59 - with 
                                |#
  openconfig/bootz              |#
                                |#
+
+                               |#####
+ openconfig/featureprofiles    |#####
+                               |#####
+
+                               |#############
+ openconfig/gnoi               |#############
+                               |#############
+
+                               |#########
+ openconfig/public             |#########
+                               |#########
 
                                |########
  openconfig/gnmi               |########
@@ -66,17 +70,13 @@ Since 2024-03-18 08:02:44 -0700 PDT, I'm most active between 21:00-21:59 - with 
  openconfig/gribigo            |######
                                |######
 
-                               |#############
- openconfig/gnoi               |#############
-                               |#############
+                               |#######
+ openconfig/magna              |#######
+                               |#######
 
                                |########
  openconfig/ygot               |########
                                |########
-
-                               |#########
- openconfig/public             |#########
-                               |#########
 
 
 
@@ -86,4 +86,4 @@ Since 2024-03-18 08:02:44 -0700 PDT, I've been most active in openconfig/gnoi, w
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2024-06-16 17:49:26.028785926 -0700 PDT
+Last Updated: 2024-06-16 18:27:29.659566248 -0700 PDT
