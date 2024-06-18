@@ -42,21 +42,13 @@ Since 2024-03-18 08:02:44 -0700 PDT, I'm most active between 21:00-21:59 - with 
 
 
 ```
-                               |#########
- openconfig/public             |#########
-                               |#########
-
-                               |############
- openconfig/reference          |############
-                               |############
-
                                |########
  openconfig/gnmi               |########
                                |########
 
-                               |#####
- openconfig/featureprofiles    |#####
-                               |#####
+                               |#############
+ openconfig/gnoi               |#############
+                               |#############
 
                                |#######
  openconfig/magna              |#######
@@ -66,17 +58,25 @@ Since 2024-03-18 08:02:44 -0700 PDT, I'm most active between 21:00-21:59 - with 
  openconfig/ygot               |########
                                |########
 
+                               |#########
+ openconfig/public             |#########
+                               |#########
+
                                |#
  openconfig/bootz              |#
                                |#
+
+                               |############
+ openconfig/reference          |############
+                               |############
 
                                |######
  openconfig/gribigo            |######
                                |######
 
-                               |#############
- openconfig/gnoi               |#############
-                               |#############
+                               |#####
+ openconfig/featureprofiles    |#####
+                               |#####
 
 
 
@@ -86,4 +86,4 @@ Since 2024-03-18 08:02:44 -0700 PDT, I've been most active in openconfig/gnoi, w
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2024-06-17 17:27:23.827489277 -0700 PDT
+Last Updated: 2024-06-17 17:47:57.884964158 -0700 PDT
