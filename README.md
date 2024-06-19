@@ -43,28 +43,24 @@ Since 2024-03-19 11:38:56 -0700 PDT, I'm most active between 15:00-15:59 - with 
 
 ```
                                |#########
+ openconfig/gnmi               |#########
+                               |#########
+
+                               |#########
  openconfig/public             |#########
                                |#########
 
-                               |#######
- openconfig/magna              |#######
-                               |#######
+                               |#
+ openconfig/bootz              |#
+                               |#
 
                                |######
  openconfig/gribigo            |######
                                |######
 
-                               |####
- openconfig/featureprofiles    |####
-                               |####
-
                                |##############################
  openconfig/gnoi               |##############################
                                |##############################
-
-                               |#########
- openconfig/gnmi               |#########
-                               |#########
 
                                |########
  openconfig/ygot               |########
@@ -74,9 +70,13 @@ Since 2024-03-19 11:38:56 -0700 PDT, I'm most active between 15:00-15:59 - with 
  openconfig/reference          |############
                                |############
 
-                               |#
- openconfig/bootz              |#
-                               |#
+                               |####
+ openconfig/featureprofiles    |####
+                               |####
+
+                               |#######
+ openconfig/magna              |#######
+                               |#######
 
 
 
@@ -86,4 +86,4 @@ Since 2024-03-19 11:38:56 -0700 PDT, I've been most active in openconfig/gnoi, w
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2024-06-18 22:45:52.948155169 -0700 PDT
+Last Updated: 2024-06-18 23:01:22.920473436 -0700 PDT
