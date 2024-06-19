@@ -42,41 +42,41 @@ Since 2024-03-18 08:02:44 -0700 PDT, I'm most active between 15:00-15:59 - with 
 
 
 ```
-                               |##############################
- openconfig/gnoi               |##############################
-                               |##############################
+                               |#########
+ openconfig/gnmi               |#########
+                               |#########
 
                                |########
  openconfig/ygot               |########
                                |########
 
-                               |############
- openconfig/reference          |############
-                               |############
-
-                               |#
- openconfig/bootz              |#
-                               |#
-
-                               |#########
- openconfig/gnmi               |#########
-                               |#########
-
                                |#########
  openconfig/public             |#########
                                |#########
-
-                               |######
- openconfig/gribigo            |######
-                               |######
 
                                |#####
  openconfig/featureprofiles    |#####
                                |#####
 
+                               |##############################
+ openconfig/gnoi               |##############################
+                               |##############################
+
+                               |#
+ openconfig/bootz              |#
+                               |#
+
+                               |######
+ openconfig/gribigo            |######
+                               |######
+
                                |#######
  openconfig/magna              |#######
                                |#######
+
+                               |############
+ openconfig/reference          |############
+                               |############
 
 
 
@@ -86,4 +86,4 @@ Since 2024-03-18 08:02:44 -0700 PDT, I've been most active in openconfig/gnoi, w
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2024-06-18 17:27:17.646867289 -0700 PDT
+Last Updated: 2024-06-18 17:47:43.260243961 -0700 PDT
