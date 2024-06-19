@@ -42,17 +42,9 @@ Since 2024-03-18 08:02:44 -0700 PDT, I'm most active between 15:00-15:59 - with 
 
 
 ```
-                               |#######
- openconfig/magna              |#######
-                               |#######
-
-                               |#########
- openconfig/gnmi               |#########
-                               |#########
-
-                               |#########
- openconfig/public             |#########
-                               |#########
+                               |########
+ openconfig/ygot               |########
+                               |########
 
                                |############
  openconfig/reference          |############
@@ -62,6 +54,22 @@ Since 2024-03-18 08:02:44 -0700 PDT, I'm most active between 15:00-15:59 - with 
  openconfig/bootz              |#
                                |#
 
+                               |#######
+ openconfig/magna              |#######
+                               |#######
+
+                               |##############################
+ openconfig/gnoi               |##############################
+                               |##############################
+
+                               |#########
+ openconfig/gnmi               |#########
+                               |#########
+
+                               |#########
+ openconfig/public             |#########
+                               |#########
+
                                |######
  openconfig/gribigo            |######
                                |######
@@ -69,14 +77,6 @@ Since 2024-03-18 08:02:44 -0700 PDT, I'm most active between 15:00-15:59 - with 
                                |#####
  openconfig/featureprofiles    |#####
                                |#####
-
-                               |##############################
- openconfig/gnoi               |##############################
-                               |##############################
-
-                               |########
- openconfig/ygot               |########
-                               |########
 
 
 
@@ -86,4 +86,4 @@ Since 2024-03-18 08:02:44 -0700 PDT, I've been most active in openconfig/gnoi, w
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2024-06-18 19:48:27.064257915 -0700 PDT
+Last Updated: 2024-06-18 20:01:13.047293306 -0700 PDT
