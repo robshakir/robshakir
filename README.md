@@ -46,22 +46,6 @@ Since 2024-03-25 15:57:39 -0700 PDT, I'm most active between 15:00-15:59 - with 
  openconfig/reference          |###############
                                |###############
 
-                               |###################
- openconfig/gnoi               |###################
-                               |###################
-
-                               |########
- openconfig/ygot               |########
-                               |########
-
-                               |#
- openconfig/bootz              |#
-                               |#
-
-                               |######
- openconfig/gribigo            |######
-                               |######
-
                                |##################
  openconfig/public             |##################
                                |##################
@@ -69,6 +53,14 @@ Since 2024-03-25 15:57:39 -0700 PDT, I'm most active between 15:00-15:59 - with 
                                |##
  openconfig/gnmi               |##
                                |##
+
+                               |########
+ openconfig/ygot               |########
+                               |########
+
+                               |######
+ openconfig/gribigo            |######
+                               |######
 
                                |####
  openconfig/featureprofiles    |####
@@ -78,6 +70,14 @@ Since 2024-03-25 15:57:39 -0700 PDT, I'm most active between 15:00-15:59 - with 
  openconfig/magna              |#######
                                |#######
 
+                               |###################
+ openconfig/gnoi               |###################
+                               |###################
+
+                               |#
+ openconfig/bootz              |#
+                               |#
+
 
 
 Since 2024-03-25 15:57:39 -0700 PDT, I've been most active in openconfig/gnoi, with 19 events.
@@ -86,4 +86,4 @@ Since 2024-03-25 15:57:39 -0700 PDT, I've been most active in openconfig/gnoi, w
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2024-06-25 03:33:10.281799354 -0700 PDT
+Last Updated: 2024-06-25 03:45:52.076035988 -0700 PDT
