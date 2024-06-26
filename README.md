@@ -42,25 +42,9 @@ Since 2024-03-26 11:04:01 -0700 PDT, I'm most active between 13:00-13:59 - with 
 
 
 ```
-                               |##############################
- openconfig/public             |##############################
-                               |##############################
-
-                               |###################
- openconfig/gnoi               |###################
-                               |###################
-
                                |########
  openconfig/ygot               |########
                                |########
-
-                               |########
- openconfig/reference          |########
-                               |########
-
-                               |##
- openconfig/gnmi               |##
-                               |##
 
                                |#
  openconfig/bootz              |#
@@ -69,6 +53,22 @@ Since 2024-03-26 11:04:01 -0700 PDT, I'm most active between 13:00-13:59 - with 
                                |######
  openconfig/gribigo            |######
                                |######
+
+                               |##############################
+ openconfig/public             |##############################
+                               |##############################
+
+                               |########
+ openconfig/reference          |########
+                               |########
+
+                               |###################
+ openconfig/gnoi               |###################
+                               |###################
+
+                               |##
+ openconfig/gnmi               |##
+                               |##
 
                                |####
  openconfig/featureprofiles    |####
@@ -86,4 +86,4 @@ Since 2024-03-26 11:04:01 -0700 PDT, I've been most active in openconfig/public,
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2024-06-26 05:22:06.803679568 -0700 PDT
+Last Updated: 2024-06-26 05:40:58.417645086 -0700 PDT
