@@ -42,21 +42,13 @@ Since 2024-03-25 15:57:39 -0700 PDT, I'm most active between 15:00-15:59 - with 
 
 
 ```
-                               |##############################
- openconfig/public             |##############################
-                               |##############################
-
                                |###############
  openconfig/reference          |###############
                                |###############
 
-                               |##
- openconfig/gnmi               |##
-                               |##
-
-                               |########
- openconfig/ygot               |########
-                               |########
+                               |#######
+ openconfig/magna              |#######
+                               |#######
 
                                |#
  openconfig/bootz              |#
@@ -70,13 +62,21 @@ Since 2024-03-25 15:57:39 -0700 PDT, I'm most active between 15:00-15:59 - with 
  openconfig/featureprofiles    |####
                                |####
 
-                               |#######
- openconfig/magna              |#######
-                               |#######
+                               |##############################
+ openconfig/public             |##############################
+                               |##############################
 
                                |###################
  openconfig/gnoi               |###################
                                |###################
+
+                               |##
+ openconfig/gnmi               |##
+                               |##
+
+                               |########
+ openconfig/ygot               |########
+                               |########
 
 
 
@@ -86,4 +86,4 @@ Since 2024-03-25 15:57:39 -0700 PDT, I've been most active in openconfig/public,
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2024-06-25 18:50:08.575214943 -0700 PDT
+Last Updated: 2024-06-25 19:13:28.781071858 -0700 PDT
