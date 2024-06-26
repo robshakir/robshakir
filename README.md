@@ -42,29 +42,17 @@ Since 2024-03-26 11:04:01 -0700 PDT, I'm most active between 13:00-13:59 - with 
 
 
 ```
-                               |#######
- openconfig/magna              |#######
-                               |#######
-
                                |########
  openconfig/ygot               |########
                                |########
 
-                               |######
- openconfig/gribigo            |######
-                               |######
-
-                               |####
- openconfig/featureprofiles    |####
-                               |####
-
-                               |##
- openconfig/gnmi               |##
-                               |##
-
                                |#
  openconfig/bootz              |#
                                |#
+
+                               |######
+ openconfig/gribigo            |######
+                               |######
 
                                |##############################
  openconfig/public             |##############################
@@ -74,9 +62,21 @@ Since 2024-03-26 11:04:01 -0700 PDT, I'm most active between 13:00-13:59 - with 
  openconfig/reference          |########
                                |########
 
+                               |####
+ openconfig/featureprofiles    |####
+                               |####
+
+                               |#######
+ openconfig/magna              |#######
+                               |#######
+
                                |###################
  openconfig/gnoi               |###################
                                |###################
+
+                               |##
+ openconfig/gnmi               |##
+                               |##
 
 
 
@@ -86,4 +86,4 @@ Since 2024-03-26 11:04:01 -0700 PDT, I've been most active in openconfig/public,
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2024-06-26 04:46:00.414435901 -0700 PDT
+Last Updated: 2024-06-26 05:01:42.895528643 -0700 PDT
