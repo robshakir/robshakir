@@ -42,6 +42,30 @@ Since 2024-03-25 15:57:39 -0700 PDT, I'm most active between 15:00-15:59 - with 
 
 
 ```
+                               |##############################
+ openconfig/public             |##############################
+                               |##############################
+
+                               |##
+ openconfig/gnmi               |##
+                               |##
+
+                               |########
+ openconfig/ygot               |########
+                               |########
+
+                               |#
+ openconfig/bootz              |#
+                               |#
+
+                               |###############
+ openconfig/reference          |###############
+                               |###############
+
+                               |###################
+ openconfig/gnoi               |###################
+                               |###################
+
                                |######
  openconfig/gribigo            |######
                                |######
@@ -54,30 +78,6 @@ Since 2024-03-25 15:57:39 -0700 PDT, I'm most active between 15:00-15:59 - with 
  openconfig/magna              |#######
                                |#######
 
-                               |##############################
- openconfig/public             |##############################
-                               |##############################
-
-                               |###############
- openconfig/reference          |###############
-                               |###############
-
-                               |##
- openconfig/gnmi               |##
-                               |##
-
-                               |########
- openconfig/ygot               |########
-                               |########
-
-                               |###################
- openconfig/gnoi               |###################
-                               |###################
-
-                               |#
- openconfig/bootz              |#
-                               |#
-
 
 
 Since 2024-03-25 15:57:39 -0700 PDT, I've been most active in openconfig/public, with 30 events.
@@ -86,4 +86,4 @@ Since 2024-03-25 15:57:39 -0700 PDT, I've been most active in openconfig/public,
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2024-06-25 22:01:06.327081345 -0700 PDT
+Last Updated: 2024-06-25 22:19:27.467131256 -0700 PDT
