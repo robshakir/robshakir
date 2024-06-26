@@ -42,17 +42,29 @@ Since 2024-03-26 11:04:01 -0700 PDT, I'm most active between 13:00-13:59 - with 
 
 
 ```
+                               |##
+ openconfig/gnmi               |##
+                               |##
+
                                |########
- openconfig/reference          |########
+ openconfig/ygot               |########
                                |########
+
+                               |######
+ openconfig/gribigo            |######
+                               |######
+
+                               |##############################
+ openconfig/public             |##############################
+                               |##############################
 
                                |###################
  openconfig/gnoi               |###################
                                |###################
 
-                               |##
- openconfig/gnmi               |##
-                               |##
+                               |#
+ openconfig/bootz              |#
+                               |#
 
                                |####
  openconfig/featureprofiles    |####
@@ -62,21 +74,9 @@ Since 2024-03-26 11:04:01 -0700 PDT, I'm most active between 13:00-13:59 - with 
  openconfig/magna              |#######
                                |#######
 
-                               |##############################
- openconfig/public             |##############################
-                               |##############################
-
                                |########
- openconfig/ygot               |########
+ openconfig/reference          |########
                                |########
-
-                               |#
- openconfig/bootz              |#
-                               |#
-
-                               |######
- openconfig/gribigo            |######
-                               |######
 
 
 
@@ -86,4 +86,4 @@ Since 2024-03-26 11:04:01 -0700 PDT, I've been most active in openconfig/public,
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2024-06-26 05:52:24.18821797 -0700 PDT
+Last Updated: 2024-06-26 06:03:04.090038372 -0700 PDT
