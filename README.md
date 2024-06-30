@@ -42,10 +42,6 @@ Since 2024-04-01 12:43:33 -0700 PDT, I'm most active between 15:00-15:59 - with 
 
 
 ```
-                               |#
- openconfig/models-ci          |#
-                               |#
-
                                |##########
  openconfig/gribigo            |##########
                                |##########
@@ -54,25 +50,29 @@ Since 2024-04-01 12:43:33 -0700 PDT, I'm most active between 15:00-15:59 - with 
  openconfig/gnoi               |##############################
                                |##############################
 
-                               |##
- openconfig/gnmi               |##
-                               |##
+                               |####
+ openconfig/reference          |####
+                               |####
 
                                |########
  openconfig/ygot               |########
                                |########
 
-                               |#
- openconfig/bootz              |#
-                               |#
-
                                |##########################################
  openconfig/public             |##########################################
                                |##########################################
 
-                               |####
- openconfig/reference          |####
-                               |####
+                               |#
+ openconfig/models-ci          |#
+                               |#
+
+                               |##
+ openconfig/gnmi               |##
+                               |##
+
+                               |#
+ openconfig/bootz              |#
+                               |#
 
                                |#
  openconfig/featureprofiles    |#
@@ -86,4 +86,4 @@ Since 2024-04-01 12:43:33 -0700 PDT, I've been most active in openconfig/public,
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2024-06-30 02:31:27.594695553 -0700 PDT
+Last Updated: 2024-06-30 02:46:07.316597501 -0700 PDT
