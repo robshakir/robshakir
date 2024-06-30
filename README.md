@@ -42,9 +42,33 @@ Since 2024-04-01 12:43:33 -0700 PDT, I'm most active between 15:00-15:59 - with 
 
 
 ```
+                               |####
+ openconfig/reference          |####
+                               |####
+
+                               |##
+ openconfig/gnmi               |##
+                               |##
+
                                |#
  openconfig/bootz              |#
                                |#
+
+                               |##############################
+ openconfig/gnoi               |##############################
+                               |##############################
+
+                               |#
+ openconfig/models-ci          |#
+                               |#
+
+                               |##########
+ openconfig/gribigo            |##########
+                               |##########
+
+                               |########
+ openconfig/ygot               |########
+                               |########
 
                                |#
  openconfig/featureprofiles    |#
@@ -54,30 +78,6 @@ Since 2024-04-01 12:43:33 -0700 PDT, I'm most active between 15:00-15:59 - with 
  openconfig/public             |##########################################
                                |##########################################
 
-                               |#
- openconfig/models-ci          |#
-                               |#
-
-                               |##
- openconfig/gnmi               |##
-                               |##
-
-                               |########
- openconfig/ygot               |########
-                               |########
-
-                               |##########
- openconfig/gribigo            |##########
-                               |##########
-
-                               |##############################
- openconfig/gnoi               |##############################
-                               |##############################
-
-                               |####
- openconfig/reference          |####
-                               |####
-
 
 
 Since 2024-04-01 12:43:33 -0700 PDT, I've been most active in openconfig/public, with 42 events.
@@ -86,4 +86,4 @@ Since 2024-04-01 12:43:33 -0700 PDT, I've been most active in openconfig/public,
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2024-06-30 05:38:51.203631775 -0700 PDT
+Last Updated: 2024-06-30 05:50:44.65387048 -0700 PDT
