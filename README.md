@@ -46,6 +46,26 @@ Since 2024-04-01 12:43:33 -0700 PDT, I'm most active between 15:00-15:59 - with 
  openconfig/public             |##########################################
                                |##########################################
 
+                               |#
+ openconfig/models-ci          |#
+                               |#
+
+                               |#
+ openconfig/bootz              |#
+                               |#
+
+                               |#
+ openconfig/featureprofiles    |#
+                               |#
+
+                               |##########
+ openconfig/gribigo            |##########
+                               |##########
+
+                               |##############################
+ openconfig/gnoi               |##############################
+                               |##############################
+
                                |####
  openconfig/reference          |####
                                |####
@@ -58,26 +78,6 @@ Since 2024-04-01 12:43:33 -0700 PDT, I'm most active between 15:00-15:59 - with 
  openconfig/ygot               |########
                                |########
 
-                               |#
- openconfig/bootz              |#
-                               |#
-
-                               |#
- openconfig/featureprofiles    |#
-                               |#
-
-                               |#
- openconfig/models-ci          |#
-                               |#
-
-                               |##########
- openconfig/gribigo            |##########
-                               |##########
-
-                               |##############################
- openconfig/gnoi               |##############################
-                               |##############################
-
 
 
 Since 2024-04-01 12:43:33 -0700 PDT, I've been most active in openconfig/public, with 42 events.
@@ -86,4 +86,4 @@ Since 2024-04-01 12:43:33 -0700 PDT, I've been most active in openconfig/public,
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2024-06-30 15:31:04.199774792 -0700 PDT
+Last Updated: 2024-06-30 15:46:00.052174652 -0700 PDT
