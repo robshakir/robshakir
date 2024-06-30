@@ -42,13 +42,21 @@ Since 2024-04-01 12:43:33 -0700 PDT, I'm most active between 15:00-15:59 - with 
 
 
 ```
+                               |##########################################
+ openconfig/public             |##########################################
+                               |##########################################
+
                                |#
  openconfig/bootz              |#
                                |#
 
-                               |##########################################
- openconfig/public             |##########################################
-                               |##########################################
+                               |#
+ openconfig/featureprofiles    |#
+                               |#
+
+                               |#
+ openconfig/models-ci          |#
+                               |#
 
                                |##########
  openconfig/gribigo            |##########
@@ -58,14 +66,6 @@ Since 2024-04-01 12:43:33 -0700 PDT, I'm most active between 15:00-15:59 - with 
  openconfig/gnoi               |##############################
                                |##############################
 
-                               |########
- openconfig/ygot               |########
-                               |########
-
-                               |#
- openconfig/models-ci          |#
-                               |#
-
                                |####
  openconfig/reference          |####
                                |####
@@ -74,9 +74,9 @@ Since 2024-04-01 12:43:33 -0700 PDT, I'm most active between 15:00-15:59 - with 
  openconfig/gnmi               |##
                                |##
 
-                               |#
- openconfig/featureprofiles    |#
-                               |#
+                               |########
+ openconfig/ygot               |########
+                               |########
 
 
 
@@ -86,4 +86,4 @@ Since 2024-04-01 12:43:33 -0700 PDT, I've been most active in openconfig/public,
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2024-06-30 08:01:08.701391708 -0700 PDT
+Last Updated: 2024-06-30 08:20:09.234837813 -0700 PDT
