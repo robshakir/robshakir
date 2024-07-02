@@ -46,18 +46,6 @@ Since 2024-04-18 11:33:04 -0700 PDT, I'm most active between 15:00-15:59 - with 
  openconfig/interzeptor    |##
                            |##
 
-                           |##########################################
- openconfig/public         |##########################################
-                           |##########################################
-
-                           |##########
- openconfig/gribigo        |##########
-                           |##########
-
-                           |####
- openconfig/reference      |####
-                           |####
-
                            |################################
  openconfig/gnoi           |################################
                            |################################
@@ -66,13 +54,25 @@ Since 2024-04-18 11:33:04 -0700 PDT, I'm most active between 15:00-15:59 - with 
  openconfig/models-ci      |#
                            |#
 
-                           |##
- openconfig/gnmi           |##
-                           |##
+                           |##########
+ openconfig/gribigo        |##########
+                           |##########
 
                            |######
  openconfig/ygot           |######
                            |######
+
+                           |##########################################
+ openconfig/public         |##########################################
+                           |##########################################
+
+                           |####
+ openconfig/reference      |####
+                           |####
+
+                           |##
+ openconfig/gnmi           |##
+                           |##
 
                            |#
  openconfig/bootz          |#
@@ -86,4 +86,4 @@ Since 2024-04-18 11:33:04 -0700 PDT, I've been most active in openconfig/public,
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2024-07-01 21:20:40.878396527 -0700 PDT
+Last Updated: 2024-07-01 21:33:09.768060115 -0700 PDT
