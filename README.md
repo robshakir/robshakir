@@ -42,9 +42,17 @@ Since 2024-04-19 07:25:10 -0700 PDT, I'm most active between 15:00-15:59 - with 
 
 
 ```
-                           |#
- openconfig/models-ci      |#
-                           |#
+                           |#####
+ openconfig/gnsi           |#####
+                           |#####
+
+                           |################################
+ openconfig/gnoi           |################################
+                           |################################
+
+                           |#########
+ openconfig/gribigo        |#########
+                           |#########
 
                            |##
  openconfig/gnmi           |##
@@ -54,26 +62,6 @@ Since 2024-04-19 07:25:10 -0700 PDT, I'm most active between 15:00-15:59 - with 
  openconfig/ygot           |##
                            |##
 
-                           |#####
- openconfig/gnsi           |#####
-                           |#####
-
-                           |################################
- openconfig/gnoi           |################################
-                           |################################
-
-                           |##########################################
- openconfig/public         |##########################################
-                           |##########################################
-
-                           |#########
- openconfig/gribigo        |#########
-                           |#########
-
-                           |####
- openconfig/reference      |####
-                           |####
-
                            |#
  openconfig/bootz          |#
                            |#
@@ -81,6 +69,18 @@ Since 2024-04-19 07:25:10 -0700 PDT, I'm most active between 15:00-15:59 - with 
                            |##
  openconfig/interzeptor    |##
                            |##
+
+                           |##########################################
+ openconfig/public         |##########################################
+                           |##########################################
+
+                           |#
+ openconfig/models-ci      |#
+                           |#
+
+                           |####
+ openconfig/reference      |####
+                           |####
 
 
 
@@ -90,4 +90,4 @@ Since 2024-04-19 07:25:10 -0700 PDT, I've been most active in openconfig/public,
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2024-07-03 04:30:55.475820958 -0700 PDT
+Last Updated: 2024-07-03 04:46:17.46710187 -0700 PDT
