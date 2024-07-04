@@ -42,25 +42,21 @@ Since 2024-04-19 07:25:10 -0700 PDT, I'm most active between 15:00-15:59 - with 
 
 
 ```
-                           |##
- openconfig/interzeptor    |##
-                           |##
+                           |################################
+ openconfig/gnoi           |################################
+                           |################################
 
                            |#
  openconfig/models-ci      |#
                            |#
 
+                           |#########
+ openconfig/gribigo        |#########
+                           |#########
+
                            |####
  openconfig/reference      |####
                            |####
-
-                           |##
- openconfig/gnmi           |##
-                           |##
-
-                           |##
- openconfig/ygot           |##
-                           |##
 
                            |#
  openconfig/bootz          |#
@@ -70,17 +66,21 @@ Since 2024-04-19 07:25:10 -0700 PDT, I'm most active between 15:00-15:59 - with 
  openconfig/gnsi           |#####
                            |#####
 
-                           |################################
- openconfig/gnoi           |################################
-                           |################################
+                           |##
+ openconfig/interzeptor    |##
+                           |##
 
                            |##########################################
  openconfig/public         |##########################################
                            |##########################################
 
-                           |#########
- openconfig/gribigo        |#########
-                           |#########
+                           |##
+ openconfig/gnmi           |##
+                           |##
+
+                           |##
+ openconfig/ygot           |##
+                           |##
 
 
 
@@ -90,4 +90,4 @@ Since 2024-04-19 07:25:10 -0700 PDT, I've been most active in openconfig/public,
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2024-07-04 15:31:55.373833128 -0700 PDT
+Last Updated: 2024-07-04 15:46:02.336408134 -0700 PDT
