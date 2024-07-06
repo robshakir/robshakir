@@ -42,29 +42,13 @@ Since 2024-04-19 07:25:10 -0700 PDT, I'm most active between 15:00-15:59 - with 
 
 
 ```
-                           |##
- openconfig/gnmi           |##
-                           |##
-
-                           |##
- openconfig/interzeptor    |##
-                           |##
-
-                           |#########
- openconfig/gribigo        |#########
-                           |#########
-
-                           |##########################################
- openconfig/public         |##########################################
-                           |##########################################
-
-                           |#
- openconfig/models-ci      |#
-                           |#
-
                            |####
  openconfig/reference      |####
                            |####
+
+                           |##
+ openconfig/gnmi           |##
+                           |##
 
                            |##
  openconfig/ygot           |##
@@ -74,13 +58,29 @@ Since 2024-04-19 07:25:10 -0700 PDT, I'm most active between 15:00-15:59 - with 
  openconfig/bootz          |#
                            |#
 
-                           |#####
- openconfig/gnsi           |#####
-                           |#####
+                           |##########################################
+ openconfig/public         |##########################################
+                           |##########################################
+
+                           |#
+ openconfig/models-ci      |#
+                           |#
 
                            |################################
  openconfig/gnoi           |################################
                            |################################
+
+                           |#########
+ openconfig/gribigo        |#########
+                           |#########
+
+                           |#####
+ openconfig/gnsi           |#####
+                           |#####
+
+                           |##
+ openconfig/interzeptor    |##
+                           |##
 
 
 
@@ -90,4 +90,4 @@ Since 2024-04-19 07:25:10 -0700 PDT, I've been most active in openconfig/public,
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2024-07-05 18:48:16.493910208 -0700 PDT
+Last Updated: 2024-07-05 19:12:48.260354846 -0700 PDT
