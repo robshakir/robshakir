@@ -42,6 +42,10 @@ Since 2024-05-30 14:52:18 -0700 PDT, I'm most active between 15:00-15:59 - with 
 
 
 ```
+                               |#####
+ openconfig/gnsi               |#####
+                               |#####
+
                                |#######################################
  openconfig/public             |#######################################
                                |#######################################
@@ -51,8 +55,12 @@ Since 2024-05-30 14:52:18 -0700 PDT, I'm most active between 15:00-15:59 - with 
                                |#
 
                                |####
- openconfig/gribigo            |####
+ openconfig/reference          |####
                                |####
+
+                               |#
+ openconfig/gnmi               |#
+                               |#
 
                                |###
  openconfig/ygot               |###
@@ -61,10 +69,6 @@ Since 2024-05-30 14:52:18 -0700 PDT, I'm most active between 15:00-15:59 - with 
                                |#########
  openconfig/featureprofiles    |#########
                                |#########
-
-                               |#####
- openconfig/gnsi               |#####
-                               |#####
 
                                |##
  openconfig/interzeptor        |##
@@ -75,12 +79,8 @@ Since 2024-05-30 14:52:18 -0700 PDT, I'm most active between 15:00-15:59 - with 
                                |################################
 
                                |####
- openconfig/reference          |####
+ openconfig/gribigo            |####
                                |####
-
-                               |#
- openconfig/gnmi               |#
-                               |#
 
 
 
@@ -90,4 +90,4 @@ Since 2024-05-30 14:52:18 -0700 PDT, I've been most active in openconfig/public,
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2024-07-10 00:20:11.287827089 -0700 PDT
+Last Updated: 2024-07-10 00:31:05.811893601 -0700 PDT
