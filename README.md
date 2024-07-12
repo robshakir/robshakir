@@ -42,10 +42,6 @@ Since 2024-06-18 15:32:12 -0700 PDT, I'm most active between 13:00-13:59 - with 
 
 
 ```
-                               |#########
- openconfig/gribigo            |#########
-                               |#########
-
                                |##########
  openconfig/featureprofiles    |##########
                                |##########
@@ -54,25 +50,9 @@ Since 2024-06-18 15:32:12 -0700 PDT, I'm most active between 13:00-13:59 - with 
  openconfig/gnsi               |#####
                                |#####
 
-                               |##
- openconfig/interzeptor        |##
-                               |##
-
                                |###################
  openconfig/gnoi               |###################
                                |###################
-
-                               |#######
- openconfig/goyang             |#######
-                               |#######
-
-                               |#########
- openconfig/ygot               |#########
-                               |#########
-
-                               |###################################
- openconfig/public             |###################################
-                               |###################################
 
                                |#
  openconfig/models-ci          |#
@@ -82,6 +62,26 @@ Since 2024-06-18 15:32:12 -0700 PDT, I'm most active between 13:00-13:59 - with 
  openconfig/reference          |###
                                |###
 
+                               |#########
+ openconfig/gribigo            |#########
+                               |#########
+
+                               |#######
+ openconfig/goyang             |#######
+                               |#######
+
+                               |#########
+ openconfig/ygot               |#########
+                               |#########
+
+                               |##
+ openconfig/interzeptor        |##
+                               |##
+
+                               |###################################
+ openconfig/public             |###################################
+                               |###################################
+
 
 
 Since 2024-06-18 15:32:12 -0700 PDT, I've been most active in openconfig/public, with 35 events.
@@ -90,4 +90,4 @@ Since 2024-06-18 15:32:12 -0700 PDT, I've been most active in openconfig/public,
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2024-07-11 20:31:54.675912621 -0700 PDT
+Last Updated: 2024-07-11 20:45:54.110999281 -0700 PDT
