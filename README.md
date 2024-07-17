@@ -42,14 +42,6 @@ Since 2024-06-28 15:08:53 -0700 PDT, I'm most active between 12:00-12:59 - with 
 
 
 ```
-                               |#######################
- openconfig/gribigo            |#######################
-                               |#######################
-
-                               |######
- openconfig/gnmi               |######
-                               |######
-
                                |#############
  openconfig/public             |#############
                                |#############
@@ -58,21 +50,9 @@ Since 2024-06-28 15:08:53 -0700 PDT, I'm most active between 12:00-12:59 - with 
  openconfig/ygot               |#########
                                |#########
 
-                               |#####################
- openconfig/lemming            |#####################
-                               |#####################
-
-                               |#
- robshakir/pyangbind           |#
-                               |#
-
                                |##########
  openconfig/featureprofiles    |##########
                                |##########
-
-                               |#####
- openconfig/gnsi               |#####
-                               |#####
 
                                |##
  openconfig/interzeptor        |##
@@ -81,6 +61,26 @@ Since 2024-06-28 15:08:53 -0700 PDT, I'm most active between 12:00-12:59 - with 
                                |##
  openconfig/gnoi               |##
                                |##
+
+                               |#####################
+ openconfig/lemming            |#####################
+                               |#####################
+
+                               |#######################
+ openconfig/gribigo            |#######################
+                               |#######################
+
+                               |######
+ openconfig/gnmi               |######
+                               |######
+
+                               |#####
+ openconfig/gnsi               |#####
+                               |#####
+
+                               |#
+ robshakir/pyangbind           |#
+                               |#
 
                                |#
  robshakir/lemming             |#
@@ -98,4 +98,4 @@ Since 2024-06-28 15:08:53 -0700 PDT, I've been most active in openconfig/gribigo
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2024-07-17 01:01:19.124322004 -0700 PDT
+Last Updated: 2024-07-17 01:20:51.511754159 -0700 PDT
