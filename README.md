@@ -42,33 +42,17 @@ Since 2024-07-09 08:06:53 -0700 PDT, I'm most active between 13:00-13:59 - with 
 
 
 ```
-                               |##############
- openconfig/gnmi               |##############
-                               |##############
-
                                |#####################
  openconfig/lemming            |#####################
                                |#####################
-
-                               |##
- openconfig/public             |##
-                               |##
-
-                               |#
- robshakir/lemming             |#
-                               |#
-
-                               |#########################################
- openconfig/gribigo            |#########################################
-                               |#########################################
 
                                |#
  robshakir/pyangbind           |#
                                |#
 
-                               |#######
- openconfig/goyang             |#######
-                               |#######
+                               |##
+ openconfig/public             |##
+                               |##
 
                                |#########
  openconfig/ygot               |#########
@@ -78,6 +62,22 @@ Since 2024-07-09 08:06:53 -0700 PDT, I'm most active between 13:00-13:59 - with 
  openconfig/featureprofiles    |####
                                |####
 
+                               |##############
+ openconfig/gnmi               |##############
+                               |##############
+
+                               |#
+ robshakir/lemming             |#
+                               |#
+
+                               |#######
+ openconfig/goyang             |#######
+                               |#######
+
+                               |#########################################
+ openconfig/gribigo            |#########################################
+                               |#########################################
+
 
 
 Since 2024-07-09 08:06:53 -0700 PDT, I've been most active in openconfig/gribigo, with 41 events.
@@ -86,4 +86,4 @@ Since 2024-07-09 08:06:53 -0700 PDT, I've been most active in openconfig/gribigo
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2024-07-17 17:03:27.064504752 -0700 PDT
+Last Updated: 2024-07-17 17:27:34.447094441 -0700 PDT
