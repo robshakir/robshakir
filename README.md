@@ -42,29 +42,17 @@ Since 2024-07-09 20:04:19 -0700 PDT, I'm most active between 13:00-13:59 - with 
 
 
 ```
-                               |##
- openconfig/public             |##
-                               |##
+                               |####################
+ openconfig/gnmi               |####################
+                               |####################
 
                                |#
  robshakir/lemming             |#
                                |#
 
-                               |#
- openconfig/featureprofiles    |#
-                               |#
-
-                               |#######
- openconfig/goyang             |#######
-                               |#######
-
                                |######
  openconfig/ygot               |######
                                |######
-
-                               |####################
- openconfig/gnmi               |####################
-                               |####################
 
                                |#########################################
  openconfig/gribigo            |#########################################
@@ -78,6 +66,18 @@ Since 2024-07-09 20:04:19 -0700 PDT, I'm most active between 13:00-13:59 - with 
  robshakir/pyangbind           |#
                                |#
 
+                               |##
+ openconfig/public             |##
+                               |##
+
+                               |#######
+ openconfig/goyang             |#######
+                               |#######
+
+                               |#
+ openconfig/featureprofiles    |#
+                               |#
+
 
 
 Since 2024-07-09 20:04:19 -0700 PDT, I've been most active in openconfig/gribigo, with 41 events.
@@ -86,4 +86,4 @@ Since 2024-07-09 20:04:19 -0700 PDT, I've been most active in openconfig/gribigo
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2024-07-18 04:01:20.01067389 -0700 PDT
+Last Updated: 2024-07-18 04:18:37.958318984 -0700 PDT
