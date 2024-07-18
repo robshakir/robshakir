@@ -42,6 +42,10 @@ Since 2024-07-09 20:04:19 -0700 PDT, I'm most active between 13:00-13:59 - with 
 
 
 ```
+                               |#
+ openconfig/featureprofiles    |#
+                               |#
+
                                |####################
  openconfig/gnmi               |####################
                                |####################
@@ -49,14 +53,6 @@ Since 2024-07-09 20:04:19 -0700 PDT, I'm most active between 13:00-13:59 - with 
                                |#########################################
  openconfig/gribigo            |#########################################
                                |#########################################
-
-                               |##
- openconfig/public             |##
-                               |##
-
-                               |#######
- openconfig/goyang             |#######
-                               |#######
 
                                |#####################
  openconfig/lemming            |#####################
@@ -66,17 +62,21 @@ Since 2024-07-09 20:04:19 -0700 PDT, I'm most active between 13:00-13:59 - with 
  robshakir/pyangbind           |#
                                |#
 
+                               |##
+ openconfig/public             |##
+                               |##
+
                                |#
  robshakir/lemming             |#
                                |#
 
+                               |#######
+ openconfig/goyang             |#######
+                               |#######
+
                                |######
  openconfig/ygot               |######
                                |######
-
-                               |#
- openconfig/featureprofiles    |#
-                               |#
 
 
 
@@ -86,4 +86,4 @@ Since 2024-07-09 20:04:19 -0700 PDT, I've been most active in openconfig/gribigo
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2024-07-17 22:31:41.259688704 -0700 PDT
+Last Updated: 2024-07-17 22:45:53.10985113 -0700 PDT
