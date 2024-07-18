@@ -42,25 +42,9 @@ Since 2024-07-09 20:04:19 -0700 PDT, I'm most active between 13:00-13:59 - with 
 
 
 ```
-                               |#######
- openconfig/goyang             |#######
-                               |#######
-
-                               |######
- openconfig/ygot               |######
-                               |######
-
-                               |#
- openconfig/featureprofiles    |#
-                               |#
-
                                |####################
  openconfig/gnmi               |####################
                                |####################
-
-                               |#########################################
- openconfig/gribigo            |#########################################
-                               |#########################################
 
                                |#####################
  openconfig/lemming            |#####################
@@ -70,12 +54,28 @@ Since 2024-07-09 20:04:19 -0700 PDT, I'm most active between 13:00-13:59 - with 
  robshakir/pyangbind           |#
                                |#
 
+                               |#######
+ openconfig/goyang             |#######
+                               |#######
+
+                               |#########################################
+ openconfig/gribigo            |#########################################
+                               |#########################################
+
                                |##
  openconfig/public             |##
                                |##
 
                                |#
  robshakir/lemming             |#
+                               |#
+
+                               |######
+ openconfig/ygot               |######
+                               |######
+
+                               |#
+ openconfig/featureprofiles    |#
                                |#
 
 
@@ -86,4 +86,4 @@ Since 2024-07-09 20:04:19 -0700 PDT, I've been most active in openconfig/gribigo
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2024-07-18 02:30:53.585416194 -0700 PDT
+Last Updated: 2024-07-18 02:46:04.868412534 -0700 PDT
