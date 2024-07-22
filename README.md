@@ -42,22 +42,6 @@ Since 2024-07-16 12:49:05 -0700 PDT, I'm most active between 13:00-13:59 - with 
 
 
 ```
-                               |################################
- openconfig/featureprofiles    |################################
-                               |################################
-
-                               |############
- openconfig/ygot               |############
-                               |############
-
-                               |#############################
- openconfig/gribigo            |#############################
-                               |#############################
-
-                               |#
- openconfig/public             |#
-                               |#
-
                                |####
  openconfig/interzeptor        |####
                                |####
@@ -74,6 +58,22 @@ Since 2024-07-16 12:49:05 -0700 PDT, I'm most active between 13:00-13:59 - with 
  robshakir/pyangbind           |#
                                |#
 
+                               |################################
+ openconfig/featureprofiles    |################################
+                               |################################
+
+                               |############
+ openconfig/ygot               |############
+                               |############
+
+                               |#############################
+ openconfig/gribigo            |#############################
+                               |#############################
+
+                               |#
+ openconfig/public             |#
+                               |#
+
 
 
 Since 2024-07-16 12:49:05 -0700 PDT, I've been most active in openconfig/featureprofiles, with 32 events.
@@ -82,4 +82,4 @@ Since 2024-07-16 12:49:05 -0700 PDT, I've been most active in openconfig/feature
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2024-07-22 11:33:52.062368495 -0700 PDT
+Last Updated: 2024-07-22 11:45:55.173937643 -0700 PDT
