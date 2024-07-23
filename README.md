@@ -42,22 +42,6 @@ Since 2024-07-16 12:53:09 -0700 PDT, I'm most active between 13:00-13:59 - with 
 
 
 ```
-                               |#
- jbemmel/public                |#
-                               |#
-
-                               |################################
- openconfig/featureprofiles    |################################
-                               |################################
-
-                               |############
- openconfig/ygot               |############
-                               |############
-
-                               |####
- openconfig/interzeptor        |####
-                               |####
-
                                |####
  openconfig/lemming            |####
                                |####
@@ -66,9 +50,25 @@ Since 2024-07-16 12:53:09 -0700 PDT, I'm most active between 13:00-13:59 - with 
  openconfig/public             |###
                                |###
 
+                               |#
+ jbemmel/public                |#
+                               |#
+
+                               |############
+ openconfig/ygot               |############
+                               |############
+
                                |##########################
  openconfig/gribigo            |##########################
                                |##########################
+
+                               |####
+ openconfig/interzeptor        |####
+                               |####
+
+                               |################################
+ openconfig/featureprofiles    |################################
+                               |################################
 
                                |#################
  openconfig/gnmi               |#################
@@ -86,4 +86,4 @@ Since 2024-07-16 12:53:09 -0700 PDT, I've been most active in openconfig/feature
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2024-07-23 07:19:41.592680798 -0700 PDT
+Last Updated: 2024-07-23 07:32:04.224691571 -0700 PDT
