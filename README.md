@@ -42,10 +42,6 @@ Since 2024-07-16 12:53:09 -0700 PDT, I'm most active between 13:00-13:59 - with 
 
 
 ```
-                               |####
- openconfig/lemming            |####
-                               |####
-
                                |############
  openconfig/ygot               |############
                                |############
@@ -58,6 +54,10 @@ Since 2024-07-16 12:53:09 -0700 PDT, I'm most active between 13:00-13:59 - with 
  openconfig/featureprofiles    |################################
                                |################################
 
+                               |#
+ jbemmel/public                |#
+                               |#
+
                                |####
  openconfig/interzeptor        |####
                                |####
@@ -65,6 +65,10 @@ Since 2024-07-16 12:53:09 -0700 PDT, I'm most active between 13:00-13:59 - with 
                                |#################
  openconfig/gnmi               |#################
                                |#################
+
+                               |####
+ openconfig/lemming            |####
+                               |####
 
                                |#
  robshakir/pyangbind           |#
@@ -74,10 +78,6 @@ Since 2024-07-16 12:53:09 -0700 PDT, I'm most active between 13:00-13:59 - with 
  openconfig/public             |###
                                |###
 
-                               |#
- jbemmel/public                |#
-                               |#
-
 
 
 Since 2024-07-16 12:53:09 -0700 PDT, I've been most active in openconfig/featureprofiles, with 32 events.
@@ -86,4 +86,4 @@ Since 2024-07-16 12:53:09 -0700 PDT, I've been most active in openconfig/feature
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2024-07-23 02:01:15.859615801 -0700 PDT
+Last Updated: 2024-07-23 02:20:13.99470284 -0700 PDT
