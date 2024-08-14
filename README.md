@@ -42,9 +42,29 @@ Since 2024-07-29 13:14:53 -0700 PDT, I'm most active between 23:00-23:59 - with 
 
 
 ```
+                               |#####
+ openconfig/lemming            |#####
+                               |#####
+
+                               |######################
+ openconfig/gribigo            |######################
+                               |######################
+
                                |#
  robshakir/pyangbind           |#
                                |#
+
+                               |############
+ openconfig/ygot               |############
+                               |############
+
+                               |##
+ openconfig/gnmi               |##
+                               |##
+
+                               |#################
+ openconfig/clio               |#################
+                               |#################
 
                                |#####
  openconfig/public             |#####
@@ -54,29 +74,9 @@ Since 2024-07-29 13:14:53 -0700 PDT, I'm most active between 23:00-23:59 - with 
  netmod-wg/yang-next           |#
                                |#
 
-                               |######################
- openconfig/gribigo            |######################
-                               |######################
-
-                               |#####
- openconfig/lemming            |#####
-                               |#####
-
-                               |#################
- openconfig/clio               |#################
-                               |#################
-
-                               |############
- openconfig/ygot               |############
-                               |############
-
                                |###################################
  openconfig/featureprofiles    |###################################
                                |###################################
-
-                               |##
- openconfig/gnmi               |##
-                               |##
 
 
 
@@ -86,4 +86,4 @@ Since 2024-07-29 13:14:53 -0700 PDT, I've been most active in openconfig/feature
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2024-08-13 22:32:17.365324627 -0700 PDT
+Last Updated: 2024-08-13 22:45:55.401550798 -0700 PDT
