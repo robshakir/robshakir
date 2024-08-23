@@ -42,13 +42,17 @@ Since 2024-07-29 13:48:05 -0700 PDT, I'm most active between 23:00-23:59 - with 
 
 
 ```
-                               |#####
- openconfig/public             |#####
-                               |#####
+                               |#########################
+ openconfig/gribigo            |#########################
+                               |#########################
 
                                |############
  openconfig/ygot               |############
                                |############
+
+                               |###################################
+ openconfig/featureprofiles    |###################################
+                               |###################################
 
                                |##
  openconfig/gnmi               |##
@@ -59,12 +63,8 @@ Since 2024-07-29 13:48:05 -0700 PDT, I'm most active between 23:00-23:59 - with 
                                |##############
 
                                |#####
- openconfig/lemming            |#####
+ openconfig/public             |#####
                                |#####
-
-                               |#########################
- openconfig/gribigo            |#########################
-                               |#########################
 
                                |#
  netmod-wg/yang-next           |#
@@ -74,9 +74,9 @@ Since 2024-07-29 13:48:05 -0700 PDT, I'm most active between 23:00-23:59 - with 
  robshakir/pyangbind           |#
                                |#
 
-                               |###################################
- openconfig/featureprofiles    |###################################
-                               |###################################
+                               |#####
+ openconfig/lemming            |#####
+                               |#####
 
 
 
@@ -86,4 +86,4 @@ Since 2024-07-29 13:48:05 -0700 PDT, I've been most active in openconfig/feature
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2024-08-22 23:34:49.70116036 -0700 PDT
+Last Updated: 2024-08-22 23:46:05.189572434 -0700 PDT
