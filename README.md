@@ -42,14 +42,6 @@ Since 2024-07-29 13:48:05 -0700 PDT, I'm most active between 23:00-23:59 - with 
 
 
 ```
-                               |##
- openconfig/gnmi               |##
-                               |##
-
-                               |#####
- openconfig/lemming            |#####
-                               |#####
-
                                |#########################
  openconfig/gribigo            |#########################
                                |#########################
@@ -58,9 +50,9 @@ Since 2024-07-29 13:48:05 -0700 PDT, I'm most active between 23:00-23:59 - with 
  openconfig/public             |#####
                                |#####
 
-                               |#
- robshakir/pyangbind           |#
-                               |#
+                               |#####
+ openconfig/lemming            |#####
+                               |#####
 
                                |##############
  openconfig/clio               |##############
@@ -68,6 +60,10 @@ Since 2024-07-29 13:48:05 -0700 PDT, I'm most active between 23:00-23:59 - with 
 
                                |#
  netmod-wg/yang-next           |#
+                               |#
+
+                               |#
+ robshakir/pyangbind           |#
                                |#
 
                                |############
@@ -78,6 +74,10 @@ Since 2024-07-29 13:48:05 -0700 PDT, I'm most active between 23:00-23:59 - with 
  openconfig/featureprofiles    |###################################
                                |###################################
 
+                               |##
+ openconfig/gnmi               |##
+                               |##
+
 
 
 Since 2024-07-29 13:48:05 -0700 PDT, I've been most active in openconfig/featureprofiles, with 35 events.
@@ -86,4 +86,4 @@ Since 2024-07-29 13:48:05 -0700 PDT, I've been most active in openconfig/feature
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2024-08-23 09:01:23.66537728 -0700 PDT
+Last Updated: 2024-08-23 09:20:58.586859031 -0700 PDT
