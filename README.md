@@ -42,32 +42,16 @@ Since 2024-07-29 13:48:05 -0700 PDT, I'm most active between 23:00-23:59 - with 
 
 
 ```
-                               |#########################
- openconfig/gribigo            |#########################
-                               |#########################
-
-                               |#####
- openconfig/public             |#####
-                               |#####
-
-                               |#####
- openconfig/lemming            |#####
-                               |#####
-
-                               |##
- openconfig/gnmi               |##
-                               |##
-
                                |##############
  openconfig/clio               |##############
                                |##############
 
-                               |#
- netmod-wg/yang-next           |#
-                               |#
+                               |#########################
+ openconfig/gribigo            |#########################
+                               |#########################
 
                                |#
- robshakir/pyangbind           |#
+ netmod-wg/yang-next           |#
                                |#
 
                                |############
@@ -78,6 +62,22 @@ Since 2024-07-29 13:48:05 -0700 PDT, I'm most active between 23:00-23:59 - with 
  openconfig/featureprofiles    |###################################
                                |###################################
 
+                               |##
+ openconfig/gnmi               |##
+                               |##
+
+                               |#####
+ openconfig/lemming            |#####
+                               |#####
+
+                               |#####
+ openconfig/public             |#####
+                               |#####
+
+                               |#
+ robshakir/pyangbind           |#
+                               |#
+
 
 
 Since 2024-07-29 13:48:05 -0700 PDT, I've been most active in openconfig/featureprofiles, with 35 events.
@@ -86,4 +86,4 @@ Since 2024-07-29 13:48:05 -0700 PDT, I've been most active in openconfig/feature
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2024-08-23 07:20:05.947490198 -0700 PDT
+Last Updated: 2024-08-23 07:33:16.954350024 -0700 PDT
