@@ -42,22 +42,6 @@ Since 2024-07-29 13:48:05 -0700 PDT, I'm most active between 23:00-23:59 - with 
 
 
 ```
-                               |#
- netmod-wg/yang-next           |#
-                               |#
-
-                               |#####
- openconfig/lemming            |#####
-                               |#####
-
-                               |##############
- openconfig/clio               |##############
-                               |##############
-
-                               |#########################
- openconfig/gribigo            |#########################
-                               |#########################
-
                                |#####
  openconfig/public             |#####
                                |#####
@@ -70,13 +54,29 @@ Since 2024-07-29 13:48:05 -0700 PDT, I'm most active between 23:00-23:59 - with 
  openconfig/ygot               |############
                                |############
 
+                               |##
+ openconfig/gnmi               |##
+                               |##
+
+                               |##############
+ openconfig/clio               |##############
+                               |##############
+
+                               |#########################
+ openconfig/gribigo            |#########################
+                               |#########################
+
+                               |#
+ netmod-wg/yang-next           |#
+                               |#
+
                                |###################################
  openconfig/featureprofiles    |###################################
                                |###################################
 
-                               |##
- openconfig/gnmi               |##
-                               |##
+                               |#####
+ openconfig/lemming            |#####
+                               |#####
 
 
 
@@ -86,4 +86,4 @@ Since 2024-07-29 13:48:05 -0700 PDT, I've been most active in openconfig/feature
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2024-08-25 12:01:58.431134844 -0700 PDT
+Last Updated: 2024-08-25 12:18:00.798053074 -0700 PDT
