@@ -42,17 +42,21 @@ Since 2024-07-29 13:56:18 -0700 PDT, I'm most active between 23:00-23:59 - with 
 
 
 ```
-                               |#####################################
- openconfig/featureprofiles    |#####################################
-                               |#####################################
-
                                |#
  netmod-wg/yang-next           |#
                                |#
 
-                               |#
- openconfig/gnoi               |#
-                               |#
+                               |##
+ openconfig/gnmi               |##
+                               |##
+
+                               |#####
+ openconfig/lemming            |#####
+                               |#####
+
+                               |#####################################
+ openconfig/featureprofiles    |#####################################
+                               |#####################################
 
                                |#########################
  openconfig/gribigo            |#########################
@@ -70,17 +74,13 @@ Since 2024-07-29 13:56:18 -0700 PDT, I'm most active between 23:00-23:59 - with 
  openconfig/ygot               |############
                                |############
 
-                               |##
- openconfig/gnmi               |##
-                               |##
-
-                               |#####
- openconfig/lemming            |#####
-                               |#####
-
                                |###########
  openconfig/clio               |###########
                                |###########
+
+                               |#
+ openconfig/gnoi               |#
+                               |#
 
 
 
@@ -90,4 +90,4 @@ Since 2024-07-29 13:56:18 -0700 PDT, I've been most active in openconfig/feature
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2024-08-26 11:46:00.70879908 -0700 PDT
+Last Updated: 2024-08-26 12:01:14.387988568 -0700 PDT
