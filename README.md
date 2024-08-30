@@ -43,6 +43,18 @@ Since 2024-07-29 14:29:19 -0700 PDT, I'm most active between 23:00-23:59 - with 
 
 ```
                                |##
+ openconfig/gnoi               |##
+                               |##
+
+                               |#####
+ openconfig/public             |#####
+                               |#####
+
+                               |############
+ openconfig/ygot               |############
+                               |############
+
+                               |##
  openconfig/gnmi               |##
                                |##
 
@@ -54,9 +66,9 @@ Since 2024-07-29 14:29:19 -0700 PDT, I'm most active between 23:00-23:59 - with 
  openconfig/clio               |##########
                                |##########
 
-                               |##
- openconfig/gnoi               |##
-                               |##
+                               |######################################
+ openconfig/featureprofiles    |######################################
+                               |######################################
 
                                |########################
  openconfig/gribigo            |########################
@@ -70,18 +82,6 @@ Since 2024-07-29 14:29:19 -0700 PDT, I'm most active between 23:00-23:59 - with 
  robshakir/pyangbind           |#
                                |#
 
-                               |######################################
- openconfig/featureprofiles    |######################################
-                               |######################################
-
-                               |#####
- openconfig/public             |#####
-                               |#####
-
-                               |############
- openconfig/ygot               |############
-                               |############
-
 
 
 Since 2024-07-29 14:29:19 -0700 PDT, I've been most active in openconfig/featureprofiles, with 38 events.
@@ -90,4 +90,4 @@ Since 2024-07-29 14:29:19 -0700 PDT, I've been most active in openconfig/feature
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2024-08-30 02:45:56.19488574 -0700 PDT
+Last Updated: 2024-08-30 03:01:23.142924975 -0700 PDT
