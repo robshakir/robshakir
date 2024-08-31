@@ -42,20 +42,8 @@ Since 2024-07-29 14:29:19 -0700 PDT, I'm most active between 23:00-23:59 - with 
 
 
 ```
-                               |#
- netmod-wg/yang-next           |#
-                               |#
-
-                               |#
- robshakir/pyangbind           |#
-                               |#
-
-                               |############
- openconfig/ygot               |############
-                               |############
-
                                |##
- openconfig/gnmi               |##
+ openconfig/gnoi               |##
                                |##
 
                                |#####
@@ -63,12 +51,8 @@ Since 2024-07-29 14:29:19 -0700 PDT, I'm most active between 23:00-23:59 - with 
                                |#####
 
                                |##
- openconfig/gnoi               |##
+ openconfig/gnmi               |##
                                |##
-
-                               |########################
- openconfig/gribigo            |########################
-                               |########################
 
                                |#####
  openconfig/lemming            |#####
@@ -82,6 +66,22 @@ Since 2024-07-29 14:29:19 -0700 PDT, I'm most active between 23:00-23:59 - with 
  openconfig/featureprofiles    |######################################
                                |######################################
 
+                               |########################
+ openconfig/gribigo            |########################
+                               |########################
+
+                               |#
+ netmod-wg/yang-next           |#
+                               |#
+
+                               |#
+ robshakir/pyangbind           |#
+                               |#
+
+                               |############
+ openconfig/ygot               |############
+                               |############
+
 
 
 Since 2024-07-29 14:29:19 -0700 PDT, I've been most active in openconfig/featureprofiles, with 38 events.
@@ -90,4 +90,4 @@ Since 2024-07-29 14:29:19 -0700 PDT, I've been most active in openconfig/feature
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2024-08-30 19:20:36.773416908 -0700 PDT
+Last Updated: 2024-08-30 19:42:20.711424587 -0700 PDT
