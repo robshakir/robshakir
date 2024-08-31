@@ -42,17 +42,9 @@ Since 2024-07-29 14:29:19 -0700 PDT, I'm most active between 23:00-23:59 - with 
 
 
 ```
-                               |##
- openconfig/gnmi               |##
-                               |##
-
-                               |#####
- openconfig/lemming            |#####
-                               |#####
-
-                               |##
- openconfig/gnoi               |##
-                               |##
+                               |######################################
+ openconfig/featureprofiles    |######################################
+                               |######################################
 
                                |########################
  openconfig/gribigo            |########################
@@ -62,25 +54,33 @@ Since 2024-07-29 14:29:19 -0700 PDT, I'm most active between 23:00-23:59 - with 
  openconfig/public             |#####
                                |#####
 
-                               |#
- netmod-wg/yang-next           |#
-                               |#
-
                                |############
  openconfig/ygot               |############
                                |############
 
-                               |######################################
- openconfig/featureprofiles    |######################################
-                               |######################################
+                               |#####
+ openconfig/lemming            |#####
+                               |#####
+
+                               |##########
+ openconfig/clio               |##########
+                               |##########
+
+                               |##
+ openconfig/gnoi               |##
+                               |##
+
+                               |#
+ netmod-wg/yang-next           |#
+                               |#
 
                                |#
  robshakir/pyangbind           |#
                                |#
 
-                               |##########
- openconfig/clio               |##########
-                               |##########
+                               |##
+ openconfig/gnmi               |##
+                               |##
 
 
 
@@ -90,4 +90,4 @@ Since 2024-07-29 14:29:19 -0700 PDT, I've been most active in openconfig/feature
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2024-08-31 14:46:00.613477092 -0700 PDT
+Last Updated: 2024-08-31 15:01:17.036904971 -0700 PDT
