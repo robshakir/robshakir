@@ -42,9 +42,29 @@ Since 2024-07-29 14:29:19 -0700 PDT, I'm most active between 23:00-23:59 - with 
 
 
 ```
-                               |##
- openconfig/gnmi               |##
-                               |##
+                               |######################################
+ openconfig/featureprofiles    |######################################
+                               |######################################
+
+                               |########################
+ openconfig/gribigo            |########################
+                               |########################
+
+                               |#####
+ openconfig/public             |#####
+                               |#####
+
+                               |#
+ netmod-wg/yang-next           |#
+                               |#
+
+                               |#
+ robshakir/pyangbind           |#
+                               |#
+
+                               |#####
+ openconfig/lemming            |#####
+                               |#####
 
                                |##########
  openconfig/clio               |##########
@@ -54,33 +74,13 @@ Since 2024-07-29 14:29:19 -0700 PDT, I'm most active between 23:00-23:59 - with 
  openconfig/gnoi               |##
                                |##
 
-                               |#####
- openconfig/public             |#####
-                               |#####
-
-                               |#
- robshakir/pyangbind           |#
-                               |#
-
                                |############
  openconfig/ygot               |############
                                |############
 
-                               |#####
- openconfig/lemming            |#####
-                               |#####
-
-                               |######################################
- openconfig/featureprofiles    |######################################
-                               |######################################
-
-                               |########################
- openconfig/gribigo            |########################
-                               |########################
-
-                               |#
- netmod-wg/yang-next           |#
-                               |#
+                               |##
+ openconfig/gnmi               |##
+                               |##
 
 
 
@@ -90,4 +90,4 @@ Since 2024-07-29 14:29:19 -0700 PDT, I've been most active in openconfig/feature
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2024-09-05 19:23:32.140218806 -0700 PDT
+Last Updated: 2024-09-05 19:42:45.781367829 -0700 PDT
