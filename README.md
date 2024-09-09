@@ -46,17 +46,29 @@ Since 2024-07-29 16:56:46 -0700 PDT, I'm most active between 23:00-23:59 - with 
  openconfig/featureprofiles    |######################################
                                |######################################
 
+                               |##
+ openconfig/gnoi               |##
+                               |##
+
                                |####################
  openconfig/gribigo            |####################
                                |####################
 
-                               |#####
- openconfig/public             |#####
-                               |#####
+                               |#
+ netmod-wg/yang-next           |#
+                               |#
 
                                |#
  robshakir/pyangbind           |#
                                |#
+
+                               |######
+ openconfig/gnmi               |######
+                               |######
+
+                               |#####
+ openconfig/public             |#####
+                               |#####
 
                                |############
  openconfig/ygot               |############
@@ -70,18 +82,6 @@ Since 2024-07-29 16:56:46 -0700 PDT, I'm most active between 23:00-23:59 - with 
  openconfig/clio               |##########
                                |##########
 
-                               |######
- openconfig/gnmi               |######
-                               |######
-
-                               |##
- openconfig/gnoi               |##
-                               |##
-
-                               |#
- netmod-wg/yang-next           |#
-                               |#
-
 
 
 Since 2024-07-29 16:56:46 -0700 PDT, I've been most active in openconfig/featureprofiles, with 38 events.
@@ -90,4 +90,4 @@ Since 2024-07-29 16:56:46 -0700 PDT, I've been most active in openconfig/feature
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2024-09-09 09:35:03.825146942 -0700 PDT
+Last Updated: 2024-09-09 09:46:39.686124971 -0700 PDT
