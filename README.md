@@ -43,7 +43,7 @@ Since 2024-07-30 08:36:44 -0700 PDT, I'm most active between 23:00-23:59 - with 
 
 ```
                                |#
- robshakir/pyangbind           |#
+ netmod-wg/yang-next           |#
                                |#
 
                                |############
@@ -54,9 +54,17 @@ Since 2024-07-30 08:36:44 -0700 PDT, I'm most active between 23:00-23:59 - with 
  openconfig/lemming            |#####
                                |#####
 
+                               |######
+ openconfig/clio               |######
+                               |######
+
                                |##############
  openconfig/gsii               |##############
                                |##############
+
+                               |######
+ openconfig/public             |######
+                               |######
 
                                |#####
  openconfig/gnmi               |#####
@@ -66,25 +74,17 @@ Since 2024-07-30 08:36:44 -0700 PDT, I'm most active between 23:00-23:59 - with 
  openconfig/gribigo            |##########
                                |##########
 
-                               |#
- netmod-wg/yang-next           |#
-                               |#
-
                                |######################################
  openconfig/featureprofiles    |######################################
                                |######################################
-
-                               |######
- openconfig/public             |######
-                               |######
 
                                |##
  openconfig/gnoi               |##
                                |##
 
-                               |######
- openconfig/clio               |######
-                               |######
+                               |#
+ robshakir/pyangbind           |#
+                               |#
 
 
 
@@ -94,4 +94,4 @@ Since 2024-07-30 08:36:44 -0700 PDT, I've been most active in openconfig/feature
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2024-09-10 16:01:27.140152938 -0700 PDT
+Last Updated: 2024-09-10 16:20:08.93037033 -0700 PDT
