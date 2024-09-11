@@ -42,6 +42,26 @@ Since 2024-07-30 08:40:07 -0700 PDT, I'm most active between 23:00-23:59 - with 
 
 
 ```
+                               |#######
+ openconfig/public             |#######
+                               |#######
+
+                               |##
+ openconfig/gnoi               |##
+                               |##
+
+                               |#
+ netmod-wg/yang-next           |#
+                               |#
+
+                               |#####
+ openconfig/lemming            |#####
+                               |#####
+
+                               |######
+ openconfig/clio               |######
+                               |######
+
                                |#####################################
  openconfig/featureprofiles    |#####################################
                                |#####################################
@@ -59,32 +79,12 @@ Since 2024-07-30 08:40:07 -0700 PDT, I'm most active between 23:00-23:59 - with 
                                |##########
 
                                |#
- netmod-wg/yang-next           |#
-                               |#
-
-                               |#######
- openconfig/public             |#######
-                               |#######
-
-                               |#
  robshakir/pyangbind           |#
                                |#
 
                                |############
  openconfig/ygot               |############
                                |############
-
-                               |#####
- openconfig/lemming            |#####
-                               |#####
-
-                               |######
- openconfig/clio               |######
-                               |######
-
-                               |##
- openconfig/gnoi               |##
-                               |##
 
 
 
@@ -94,4 +94,4 @@ Since 2024-07-30 08:40:07 -0700 PDT, I've been most active in openconfig/feature
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2024-09-10 23:01:26.792167087 -0700 PDT
+Last Updated: 2024-09-10 23:21:53.065228272 -0700 PDT
