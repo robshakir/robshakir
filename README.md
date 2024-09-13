@@ -42,14 +42,6 @@ Since 2024-07-30 08:40:46 -0700 PDT, I'm most active between 23:00-23:59 - with 
 
 
 ```
-                                |#######
- openconfig/public              |#######
-                                |#######
-
-                                |####################################
- openconfig/featureprofiles     |####################################
-                                |####################################
-
                                 |##############
  openconfig/gsii                |##############
                                 |##############
@@ -58,25 +50,9 @@ Since 2024-07-30 08:40:46 -0700 PDT, I'm most active between 23:00-23:59 - with 
  openconfig/gnmi                |#####
                                 |#####
 
-                                |##########
- openconfig/gribigo             |##########
-                                |##########
-
                                 |#
  netmod-wg/yang-next            |#
                                 |#
-
-                                |############
- openconfig/ygot                |############
-                                |############
-
-                                |#
- berkeley-cs168/fa24-website    |#
-                                |#
-
-                                |######
- openconfig/clio                |######
-                                |######
 
                                 |#
  robshakir/pyangbind            |#
@@ -85,6 +61,30 @@ Since 2024-07-30 08:40:46 -0700 PDT, I'm most active between 23:00-23:59 - with 
                                 |#####
  openconfig/lemming             |#####
                                 |#####
+
+                                |#######
+ openconfig/public              |#######
+                                |#######
+
+                                |####################################
+ openconfig/featureprofiles     |####################################
+                                |####################################
+
+                                |##########
+ openconfig/gribigo             |##########
+                                |##########
+
+                                |############
+ openconfig/ygot                |############
+                                |############
+
+                                |######
+ openconfig/clio                |######
+                                |######
+
+                                |#
+ berkeley-cs168/fa24-website    |#
+                                |#
 
                                 |##
  openconfig/gnoi                |##
@@ -98,4 +98,4 @@ Since 2024-07-30 08:40:46 -0700 PDT, I've been most active in openconfig/feature
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2024-09-13 11:21:21.36214598 -0700 PDT
+Last Updated: 2024-09-13 11:35:19.944576039 -0700 PDT
