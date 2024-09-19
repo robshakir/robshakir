@@ -42,10 +42,6 @@ Since 2024-07-30 10:50:25 -0700 PDT, I'm most active between 23:00-23:59 - with 
 
 
 ```
-                                |###################################
- openconfig/featureprofiles     |###################################
-                                |###################################
-
                                 |##
  berkeley-cs168/fa24-website    |##
                                 |##
@@ -62,17 +58,17 @@ Since 2024-07-30 10:50:25 -0700 PDT, I'm most active between 23:00-23:59 - with 
  openconfig/gribigo             |##########
                                 |##########
 
-                                |############
- openconfig/ygot                |############
-                                |############
-
-                                |#####
- openconfig/lemming             |#####
-                                |#####
+                                |#
+ robshakir/pyangbind            |#
+                                |#
 
                                 |######
  openconfig/clio                |######
                                 |######
+
+                                |###################################
+ openconfig/featureprofiles     |###################################
+                                |###################################
 
                                 |#####
  openconfig/gnmi                |#####
@@ -86,9 +82,13 @@ Since 2024-07-30 10:50:25 -0700 PDT, I'm most active between 23:00-23:59 - with 
  netmod-wg/yang-next            |#
                                 |#
 
-                                |#
- robshakir/pyangbind            |#
-                                |#
+                                |############
+ openconfig/ygot                |############
+                                |############
+
+                                |#####
+ openconfig/lemming             |#####
+                                |#####
 
 
 
@@ -98,4 +98,4 @@ Since 2024-07-30 10:50:25 -0700 PDT, I've been most active in openconfig/feature
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2024-09-19 07:33:47.996701715 -0700 PDT
+Last Updated: 2024-09-19 07:46:03.99296224 -0700 PDT
