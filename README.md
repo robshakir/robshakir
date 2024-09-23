@@ -42,10 +42,6 @@ Since 2024-07-30 18:51:59 -0700 PDT, I'm most active between 12:00-12:59 - with 
 
 
 ```
-                               |##################################
- openconfig/featureprofiles    |##################################
-                               |##################################
-
                                |#######
  openconfig/public             |#######
                                |#######
@@ -58,13 +54,13 @@ Since 2024-07-30 18:51:59 -0700 PDT, I'm most active between 12:00-12:59 - with 
  robshakir/pyangbind           |#
                                |#
 
-                               |############
- openconfig/ygot               |############
-                               |############
+                               |#####
+ openconfig/lemming            |#####
+                               |#####
 
-                               |###
- openconfig/clio               |###
-                               |###
+                               |##################################
+ openconfig/featureprofiles    |##################################
+                               |##################################
 
                                |######
  openconfig/gribi              |######
@@ -86,9 +82,13 @@ Since 2024-07-30 18:51:59 -0700 PDT, I'm most active between 12:00-12:59 - with 
  netmod-wg/yang-next           |#
                                |#
 
-                               |#####
- openconfig/lemming            |#####
-                               |#####
+                               |############
+ openconfig/ygot               |############
+                               |############
+
+                               |###
+ openconfig/clio               |###
+                               |###
 
 
 
@@ -98,4 +98,4 @@ Since 2024-07-30 18:51:59 -0700 PDT, I've been most active in openconfig/feature
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2024-09-22 22:46:06.340498371 -0700 PDT
+Last Updated: 2024-09-22 23:01:31.443408276 -0700 PDT
