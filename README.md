@@ -42,25 +42,9 @@ Since 2024-07-30 18:51:59 -0700 PDT, I'm most active between 12:00-12:59 - with 
 
 
 ```
-                               |##################################
- openconfig/featureprofiles    |##################################
-                               |##################################
-
                                |#######
  openconfig/public             |#######
                                |#######
-
-                               |#
- netmod-wg/yang-next           |#
-                               |#
-
-                               |#
- robshakir/pyangbind           |#
-                               |#
-
-                               |######
- openconfig/gribi              |######
-                               |######
 
                                |##############
  openconfig/gsii               |##############
@@ -70,17 +54,13 @@ Since 2024-07-30 18:51:59 -0700 PDT, I'm most active between 12:00-12:59 - with 
  openconfig/gnmi               |#####
                                |#####
 
-                               |##
- openconfig/gnoi               |##
-                               |##
-
                                |##########
  openconfig/gribigo            |##########
                                |##########
 
-                               |############
- openconfig/ygot               |############
-                               |############
+                               |#
+ netmod-wg/yang-next           |#
+                               |#
 
                                |#####
  openconfig/lemming            |#####
@@ -90,6 +70,26 @@ Since 2024-07-30 18:51:59 -0700 PDT, I'm most active between 12:00-12:59 - with 
  openconfig/clio               |###
                                |###
 
+                               |##################################
+ openconfig/featureprofiles    |##################################
+                               |##################################
+
+                               |######
+ openconfig/gribi              |######
+                               |######
+
+                               |##
+ openconfig/gnoi               |##
+                               |##
+
+                               |#
+ robshakir/pyangbind           |#
+                               |#
+
+                               |############
+ openconfig/ygot               |############
+                               |############
+
 
 
 Since 2024-07-30 18:51:59 -0700 PDT, I've been most active in openconfig/featureprofiles, with 34 events.
@@ -98,4 +98,4 @@ Since 2024-07-30 18:51:59 -0700 PDT, I've been most active in openconfig/feature
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2024-09-24 00:19:59.766820738 -0700 PDT
+Last Updated: 2024-09-24 00:30:57.720671634 -0700 PDT
