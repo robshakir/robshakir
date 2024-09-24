@@ -42,10 +42,6 @@ Since 2024-07-30 18:51:59 -0700 PDT, I'm most active between 12:00-12:59 - with 
 
 
 ```
-                               |#####
- openconfig/gnmi               |#####
-                               |#####
-
                                |##
  openconfig/gnoi               |##
                                |##
@@ -53,6 +49,10 @@ Since 2024-07-30 18:51:59 -0700 PDT, I'm most active between 12:00-12:59 - with 
                                |##########
  openconfig/gribigo            |##########
                                |##########
+
+                               |#
+ robshakir/pyangbind           |#
+                               |#
 
                                |############
  openconfig/ygot               |############
@@ -62,17 +62,17 @@ Since 2024-07-30 18:51:59 -0700 PDT, I'm most active between 12:00-12:59 - with 
  openconfig/featureprofiles    |##################################
                                |##################################
 
-                               |######
- openconfig/gribi              |######
-                               |######
-
                                |#######
  openconfig/public             |#######
                                |#######
 
-                               |##############
- openconfig/gsii               |##############
-                               |##############
+                               |#####
+ openconfig/gnmi               |#####
+                               |#####
+
+                               |#
+ netmod-wg/yang-next           |#
+                               |#
 
                                |#####
  openconfig/lemming            |#####
@@ -82,13 +82,13 @@ Since 2024-07-30 18:51:59 -0700 PDT, I'm most active between 12:00-12:59 - with 
  openconfig/clio               |###
                                |###
 
-                               |#
- netmod-wg/yang-next           |#
-                               |#
+                               |######
+ openconfig/gribi              |######
+                               |######
 
-                               |#
- robshakir/pyangbind           |#
-                               |#
+                               |##############
+ openconfig/gsii               |##############
+                               |##############
 
 
 
@@ -98,4 +98,4 @@ Since 2024-07-30 18:51:59 -0700 PDT, I've been most active in openconfig/feature
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2024-09-23 22:01:26.025056877 -0700 PDT
+Last Updated: 2024-09-23 22:20:10.818169589 -0700 PDT
