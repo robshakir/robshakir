@@ -42,10 +42,6 @@ Since 2024-08-01 23:33:28 -0700 PDT, I'm most active between 09:00-09:59 - with 
 
 
 ```
-                               |################################
- openconfig/featureprofiles    |################################
-                               |################################
-
                                |#######################
  openconfig/public             |#######################
                                |#######################
@@ -53,14 +49,6 @@ Since 2024-08-01 23:33:28 -0700 PDT, I'm most active between 09:00-09:59 - with 
                                |##############
  openconfig/gsii               |##############
                                |##############
-
-                               |#####
- openconfig/gribigo            |#####
-                               |#####
-
-                               |######
- openconfig/gribi              |######
-                               |######
 
                                |####
  openconfig/gnmi               |####
@@ -71,11 +59,23 @@ Since 2024-08-01 23:33:28 -0700 PDT, I'm most active between 09:00-09:59 - with 
                                |##
 
                                |#
- netmod-wg/yang-next           |#
+ robshakir/pyangbind           |#
                                |#
 
+                               |################################
+ openconfig/featureprofiles    |################################
+                               |################################
+
+                               |######
+ openconfig/gribi              |######
+                               |######
+
+                               |#####
+ openconfig/gribigo            |#####
+                               |#####
+
                                |#
- robshakir/pyangbind           |#
+ netmod-wg/yang-next           |#
                                |#
 
                                |############
@@ -90,4 +90,4 @@ Since 2024-08-01 23:33:28 -0700 PDT, I've been most active in openconfig/feature
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2024-09-27 05:42:26.387878859 -0700 PDT
+Last Updated: 2024-09-27 05:56:10.110992324 -0700 PDT
