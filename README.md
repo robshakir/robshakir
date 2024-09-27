@@ -42,21 +42,13 @@ Since 2024-08-04 18:09:17 -0700 PDT, I'm most active between 09:00-09:59 - with 
 
 
 ```
-                               |####
- openconfig/gnmi               |####
-                               |####
+                               |#
+ netmod-wg/yang-next           |#
+                               |#
 
-                               |#####
- openconfig/gribigo            |#####
-                               |#####
-
-                               |############
- openconfig/ygot               |############
-                               |############
-
-                               |################################
- openconfig/featureprofiles    |################################
-                               |################################
+                               |#
+ robshakir/pyangbind           |#
+                               |#
 
                                |#######################
  openconfig/public             |#######################
@@ -66,9 +58,17 @@ Since 2024-08-04 18:09:17 -0700 PDT, I'm most active between 09:00-09:59 - with 
  openconfig/gsii               |##############
                                |##############
 
-                               |#
- robshakir/pyangbind           |#
-                               |#
+                               |####
+ openconfig/gnmi               |####
+                               |####
+
+                               |#####
+ openconfig/gribigo            |#####
+                               |#####
+
+                               |################################
+ openconfig/featureprofiles    |################################
+                               |################################
 
                                |######
  openconfig/gribi              |######
@@ -78,9 +78,9 @@ Since 2024-08-04 18:09:17 -0700 PDT, I'm most active between 09:00-09:59 - with 
  openconfig/gnoi               |##
                                |##
 
-                               |#
- netmod-wg/yang-next           |#
-                               |#
+                               |############
+ openconfig/ygot               |############
+                               |############
 
 
 
@@ -90,4 +90,4 @@ Since 2024-08-04 18:09:17 -0700 PDT, I've been most active in openconfig/feature
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2024-09-27 15:46:01.931370616 -0700 PDT
+Last Updated: 2024-09-27 16:01:18.455968661 -0700 PDT
