@@ -46,26 +46,6 @@ Since 2024-08-04 18:09:17 -0700 PDT, I'm most active between 09:00-09:59 - with 
  openconfig/ygot               |############
                                |############
 
-                               |######
- openconfig/gribi              |######
-                               |######
-
-                               |####
- openconfig/gnmi               |####
-                               |####
-
-                               |##
- openconfig/gnoi               |##
-                               |##
-
-                               |#
- robshakir/pyangbind           |#
-                               |#
-
-                               |#
- netmod-wg/yang-next           |#
-                               |#
-
                                |################################
  openconfig/featureprofiles    |################################
                                |################################
@@ -74,9 +54,29 @@ Since 2024-08-04 18:09:17 -0700 PDT, I'm most active between 09:00-09:59 - with 
  openconfig/public             |#######################
                                |#######################
 
+                               |######
+ openconfig/gribi              |######
+                               |######
+
+                               |##
+ openconfig/gnoi               |##
+                               |##
+
+                               |#
+ netmod-wg/yang-next           |#
+                               |#
+
+                               |#
+ robshakir/pyangbind           |#
+                               |#
+
                                |##############
  openconfig/gsii               |##############
                                |##############
+
+                               |####
+ openconfig/gnmi               |####
+                               |####
 
                                |#####
  openconfig/gribigo            |#####
@@ -90,4 +90,4 @@ Since 2024-08-04 18:09:17 -0700 PDT, I've been most active in openconfig/feature
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2024-09-29 14:19:41.700282794 -0700 PDT
+Last Updated: 2024-09-29 14:31:16.49936277 -0700 PDT
