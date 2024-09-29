@@ -42,6 +42,10 @@ Since 2024-08-04 18:09:17 -0700 PDT, I'm most active between 09:00-09:59 - with 
 
 
 ```
+                               |#######################
+ openconfig/public             |#######################
+                               |#######################
+
                                |##############
  openconfig/gsii               |##############
                                |##############
@@ -49,6 +53,10 @@ Since 2024-08-04 18:09:17 -0700 PDT, I'm most active between 09:00-09:59 - with 
                                |#
  netmod-wg/yang-next           |#
                                |#
+
+                               |#####
+ openconfig/gribigo            |#####
+                               |#####
 
                                |#
  robshakir/pyangbind           |#
@@ -74,14 +82,6 @@ Since 2024-08-04 18:09:17 -0700 PDT, I'm most active between 09:00-09:59 - with 
  openconfig/gnoi               |##
                                |##
 
-                               |#####
- openconfig/gribigo            |#####
-                               |#####
-
-                               |#######################
- openconfig/public             |#######################
-                               |#######################
-
 
 
 Since 2024-08-04 18:09:17 -0700 PDT, I've been most active in openconfig/featureprofiles, with 32 events.
@@ -90,4 +90,4 @@ Since 2024-08-04 18:09:17 -0700 PDT, I've been most active in openconfig/feature
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2024-09-28 18:49:57.057191467 -0700 PDT
+Last Updated: 2024-09-28 19:26:16.973442914 -0700 PDT
