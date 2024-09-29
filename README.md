@@ -42,6 +42,10 @@ Since 2024-08-04 18:09:17 -0700 PDT, I'm most active between 09:00-09:59 - with 
 
 
 ```
+                               |#######################
+ openconfig/public             |#######################
+                               |#######################
+
                                |######
  openconfig/gribi              |######
                                |######
@@ -49,14 +53,6 @@ Since 2024-08-04 18:09:17 -0700 PDT, I'm most active between 09:00-09:59 - with 
                                |##############
  openconfig/gsii               |##############
                                |##############
-
-                               |##
- openconfig/gnoi               |##
-                               |##
-
-                               |#####
- openconfig/gribigo            |#####
-                               |#####
 
                                |############
  openconfig/ygot               |############
@@ -66,13 +62,17 @@ Since 2024-08-04 18:09:17 -0700 PDT, I'm most active between 09:00-09:59 - with 
  openconfig/featureprofiles    |################################
                                |################################
 
-                               |#######################
- openconfig/public             |#######################
-                               |#######################
-
                                |####
  openconfig/gnmi               |####
                                |####
+
+                               |##
+ openconfig/gnoi               |##
+                               |##
+
+                               |#####
+ openconfig/gribigo            |#####
+                               |#####
 
                                |#
  netmod-wg/yang-next           |#
@@ -90,4 +90,4 @@ Since 2024-08-04 18:09:17 -0700 PDT, I've been most active in openconfig/feature
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2024-09-29 16:01:09.836513838 -0700 PDT
+Last Updated: 2024-09-29 16:20:05.649479478 -0700 PDT
