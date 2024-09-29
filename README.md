@@ -42,29 +42,21 @@ Since 2024-08-04 18:09:17 -0700 PDT, I'm most active between 09:00-09:59 - with 
 
 
 ```
-                               |#
- netmod-wg/yang-next           |#
-                               |#
-
-                               |#
- robshakir/pyangbind           |#
-                               |#
-
-                               |######
- openconfig/gribi              |######
-                               |######
-
-                               |##############
- openconfig/gsii               |##############
-                               |##############
-
                                |####
  openconfig/gnmi               |####
                                |####
 
+                               |##
+ openconfig/gnoi               |##
+                               |##
+
                                |#####
  openconfig/gribigo            |#####
                                |#####
+
+                               |#
+ robshakir/pyangbind           |#
+                               |#
 
                                |################################
  openconfig/featureprofiles    |################################
@@ -74,9 +66,17 @@ Since 2024-08-04 18:09:17 -0700 PDT, I'm most active between 09:00-09:59 - with 
  openconfig/public             |#######################
                                |#######################
 
-                               |##
- openconfig/gnoi               |##
-                               |##
+                               |######
+ openconfig/gribi              |######
+                               |######
+
+                               |##############
+ openconfig/gsii               |##############
+                               |##############
+
+                               |#
+ netmod-wg/yang-next           |#
+                               |#
 
                                |############
  openconfig/ygot               |############
@@ -90,4 +90,4 @@ Since 2024-08-04 18:09:17 -0700 PDT, I've been most active in openconfig/feature
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2024-09-29 03:45:52.115913362 -0700 PDT
+Last Updated: 2024-09-29 04:01:25.270993438 -0700 PDT
