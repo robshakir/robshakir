@@ -42,9 +42,13 @@ Since 2024-08-04 18:09:17 -0700 PDT, I'm most active between 09:00-09:59 - with 
 
 
 ```
-                               |#
- netmod-wg/yang-next           |#
-                               |#
+                               |#######################
+ openconfig/public             |#######################
+                               |#######################
+
+                               |####
+ openconfig/gnmi               |####
+                               |####
 
                                |#
  robshakir/pyangbind           |#
@@ -58,29 +62,25 @@ Since 2024-08-04 18:09:17 -0700 PDT, I'm most active between 09:00-09:59 - with 
  openconfig/gsii               |##############
                                |##############
 
-                               |####
- openconfig/gnmi               |####
-                               |####
+                               |##
+ openconfig/gnoi               |##
+                               |##
 
                                |#####
  openconfig/gribigo            |#####
                                |#####
 
-                               |#######################
- openconfig/public             |#######################
-                               |#######################
-
-                               |######
- openconfig/gribi              |######
-                               |######
-
-                               |##
- openconfig/gnoi               |##
-                               |##
+                               |#
+ netmod-wg/yang-next           |#
+                               |#
 
                                |############
  openconfig/ygot               |############
                                |############
+
+                               |######
+ openconfig/gribi              |######
+                               |######
 
 
 
@@ -90,4 +90,4 @@ Since 2024-08-04 18:09:17 -0700 PDT, I've been most active in openconfig/feature
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2024-09-29 23:48:30.953917001 -0700 PDT
+Last Updated: 2024-09-30 00:01:22.002512008 -0700 PDT
