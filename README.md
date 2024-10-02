@@ -42,14 +42,6 @@ Since 2024-09-10 13:51:15 -0700 PDT, I'm most active between 17:00-17:59 - with 
 
 
 ```
-                               |#################
- openconfig/public             |#################
-                               |#################
-
-                               |######
- openconfig/gribi              |######
-                               |######
-
                                |######
  openconfig/gsii               |######
                                |######
@@ -57,6 +49,14 @@ Since 2024-09-10 13:51:15 -0700 PDT, I'm most active between 17:00-17:59 - with 
                                |#######################################################################
  openconfig/featureprofiles    |#######################################################################
                                |#######################################################################
+
+                               |#################
+ openconfig/public             |#################
+                               |#################
+
+                               |######
+ openconfig/gribi              |######
+                               |######
 
 
 
@@ -66,4 +66,4 @@ Since 2024-09-10 13:51:15 -0700 PDT, I've been most active in openconfig/feature
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2024-10-01 21:01:27.760847679 -0700 PDT
+Last Updated: 2024-10-01 21:21:12.320491697 -0700 PDT
