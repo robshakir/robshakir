@@ -42,10 +42,6 @@ Since 2024-10-02 18:55:41 -0700 PDT, I'm most active between 02:00-02:59 - with 
 
 
 ```
-                               |###############################
- openconfig/gsii               |###############################
-                               |###############################
-
                                |##############
  openconfig/featureprofiles    |##############
                                |##############
@@ -66,6 +62,10 @@ Since 2024-10-02 18:55:41 -0700 PDT, I'm most active between 02:00-02:59 - with 
  openconfig/public             |##########################
                                |##########################
 
+                               |###############################
+ openconfig/gsii               |###############################
+                               |###############################
+
 
 
 Since 2024-10-02 18:55:41 -0700 PDT, I've been most active in openconfig/gsii, with 31 events.
@@ -74,4 +74,4 @@ Since 2024-10-02 18:55:41 -0700 PDT, I've been most active in openconfig/gsii, w
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2024-11-07 18:58:40.504554159 -0800 PST
+Last Updated: 2024-11-07 19:09:50.55080899 -0800 PST
