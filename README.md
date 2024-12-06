@@ -42,17 +42,13 @@ Since 2024-10-17 09:49:56 -0700 PDT, I'm most active between 17:00-17:59 - with 
 
 
 ```
-                               |#########################
- openconfig/featureprofiles    |#########################
-                               |#########################
+                               |##########
+ openconfig/gnmi               |##########
+                               |##########
 
-                               |##
- openconfig/ygot               |##
-                               |##
-
-                               |#
- openconfig/gribigo            |#
-                               |#
+                               |#################################
+ openconfig/reference          |#################################
+                               |#################################
 
                                |###
  openconfig/public             |###
@@ -62,21 +58,25 @@ Since 2024-10-17 09:49:56 -0700 PDT, I'm most active between 17:00-17:59 - with 
  openconfig/gsii               |###########
                                |###########
 
-                               |##########
- openconfig/gnmi               |##########
-                               |##########
+                               |##
+ openconfig/gribi              |##
+                               |##
 
-                               |#################################
- openconfig/reference          |#################################
-                               |#################################
+                               |#########################
+ openconfig/featureprofiles    |#########################
+                               |#########################
+
+                               |##
+ openconfig/ygot               |##
+                               |##
 
                                |#############
  openconfig/gnoi               |#############
                                |#############
 
-                               |##
- openconfig/gribi              |##
-                               |##
+                               |#
+ openconfig/gribigo            |#
+                               |#
 
 
 
@@ -86,4 +86,4 @@ Since 2024-10-17 09:49:56 -0700 PDT, I've been most active in openconfig/referen
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2024-12-05 21:01:16.85152277 -0800 PST
+Last Updated: 2024-12-05 21:20:22.896995235 -0800 PST
