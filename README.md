@@ -42,13 +42,9 @@ Since 2024-10-22 02:16:36 -0700 PDT, I'm most active between 17:00-17:59 - with 
 
 
 ```
-                               |##
- openconfig/ygot               |##
-                               |##
-
-                               |#
- openconfig/gribigo            |#
-                               |#
+                               |#############
+ openconfig/gnoi               |#############
+                               |#############
 
                                |##
  openconfig/gribi              |##
@@ -58,10 +54,6 @@ Since 2024-10-22 02:16:36 -0700 PDT, I'm most active between 17:00-17:59 - with 
  openconfig/public             |#######
                                |#######
 
-                               |#########################
- openconfig/featureprofiles    |#########################
-                               |#########################
-
                                |##########
  openconfig/gnmi               |##########
                                |##########
@@ -70,9 +62,17 @@ Since 2024-10-22 02:16:36 -0700 PDT, I'm most active between 17:00-17:59 - with 
  openconfig/reference          |#################################
                                |#################################
 
-                               |#############
- openconfig/gnoi               |#############
-                               |#############
+                               |##
+ openconfig/ygot               |##
+                               |##
+
+                               |#########################
+ openconfig/featureprofiles    |#########################
+                               |#########################
+
+                               |#
+ openconfig/gribigo            |#
+                               |#
 
                                |#######
  openconfig/gsii               |#######
@@ -86,4 +86,4 @@ Since 2024-10-22 02:16:36 -0700 PDT, I've been most active in openconfig/referen
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2024-12-10 00:01:42.974944621 -0800 PST
+Last Updated: 2024-12-10 00:21:39.565645771 -0800 PST
