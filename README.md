@@ -42,17 +42,25 @@ Since 2024-10-22 02:16:36 -0700 PDT, I'm most active between 17:00-17:59 - with 
 
 
 ```
-                               |##
- openconfig/gribi              |##
-                               |##
-
                                |#########################
  openconfig/featureprofiles    |#########################
                                |#########################
 
-                               |#############
- openconfig/gnoi               |#############
-                               |#############
+                               |##########
+ openconfig/gnmi               |##########
+                               |##########
+
+                               |#
+ openconfig/gribigo            |#
+                               |#
+
+                               |##
+ openconfig/gribi              |##
+                               |##
+
+                               |#######
+ openconfig/public             |#######
+                               |#######
 
                                |#################################
  openconfig/reference          |#################################
@@ -62,21 +70,13 @@ Since 2024-10-22 02:16:36 -0700 PDT, I'm most active between 17:00-17:59 - with 
  openconfig/ygot               |##
                                |##
 
-                               |#
- openconfig/gribigo            |#
-                               |#
+                               |#############
+ openconfig/gnoi               |#############
+                               |#############
 
                                |#######
  openconfig/gsii               |#######
                                |#######
-
-                               |#######
- openconfig/public             |#######
-                               |#######
-
-                               |##########
- openconfig/gnmi               |##########
-                               |##########
 
 
 
@@ -86,4 +86,4 @@ Since 2024-10-22 02:16:36 -0700 PDT, I've been most active in openconfig/referen
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2024-12-11 19:43:47.162889456 -0800 PST
+Last Updated: 2024-12-11 19:53:05.372550836 -0800 PST
