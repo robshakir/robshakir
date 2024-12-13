@@ -46,10 +46,6 @@ Since 2024-10-22 02:16:36 -0700 PDT, I'm most active between 17:00-17:59 - with 
  openconfig/gnmi               |##########
                                |##########
 
-                               |#################################
- openconfig/reference          |#################################
-                               |#################################
-
                                |##
  openconfig/ygot               |##
                                |##
@@ -58,25 +54,29 @@ Since 2024-10-22 02:16:36 -0700 PDT, I'm most active between 17:00-17:59 - with 
  openconfig/gnoi               |#############
                                |#############
 
-                               |#######
- openconfig/gsii               |#######
-                               |#######
+                               |#
+ openconfig/gribigo            |#
+                               |#
 
                                |#######
  openconfig/public             |#######
                                |#######
 
-                               |#########################
- openconfig/featureprofiles    |#########################
-                               |#########################
+                               |#################################
+ openconfig/reference          |#################################
+                               |#################################
 
-                               |#
- openconfig/gribigo            |#
-                               |#
+                               |#######
+ openconfig/gsii               |#######
+                               |#######
 
                                |##
  openconfig/gribi              |##
                                |##
+
+                               |#########################
+ openconfig/featureprofiles    |#########################
+                               |#########################
 
 
 
@@ -86,4 +86,4 @@ Since 2024-10-22 02:16:36 -0700 PDT, I've been most active in openconfig/referen
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2024-12-12 21:34:28.125055659 -0800 PST
+Last Updated: 2024-12-12 21:46:03.793194753 -0800 PST
