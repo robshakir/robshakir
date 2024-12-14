@@ -42,21 +42,17 @@ Since 2024-11-08 15:48:05 -0800 PST, I'm most active between 17:00-17:59 - with 
 
 
 ```
-                               |#
- openconfig/gribigo            |#
-                               |#
-
-                               |######
- openconfig/common-ci          |######
-                               |######
-
-                               |##################
- openconfig/featureprofiles    |##################
-                               |##################
+                               |####################
+ openconfig/gnoi               |####################
+                               |####################
 
                                |###############
  openconfig/gnmi               |###############
                                |###############
+
+                               |######
+ openconfig/common-ci          |######
+                               |######
 
                                |####
  openconfig/public             |####
@@ -66,16 +62,20 @@ Since 2024-11-08 15:48:05 -0800 PST, I'm most active between 17:00-17:59 - with 
  openconfig/reference          |#################################
                                |#################################
 
+                               |#
+ morrowc/featureprofiles       |#
+                               |#
+
+                               |##################
+ openconfig/featureprofiles    |##################
+                               |##################
+
                                |##
  openconfig/ygot               |##
                                |##
 
-                               |####################
- openconfig/gnoi               |####################
-                               |####################
-
                                |#
- morrowc/featureprofiles       |#
+ openconfig/gribigo            |#
                                |#
 
 
@@ -86,4 +86,4 @@ Since 2024-11-08 15:48:05 -0800 PST, I've been most active in openconfig/referen
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2024-12-14 14:46:01.197134864 -0800 PST
+Last Updated: 2024-12-14 15:01:26.257940096 -0800 PST
