@@ -42,13 +42,9 @@ Since 2024-10-22 06:47:50 -0700 PDT, I'm most active between 17:00-17:59 - with 
 
 
 ```
-                               |#################################
- openconfig/reference          |#################################
-                               |#################################
-
-                               |##
- openconfig/ygot               |##
-                               |##
+                               |#######################
+ openconfig/featureprofiles    |#######################
+                               |#######################
 
                                |#
  openconfig/gribigo            |#
@@ -56,6 +52,14 @@ Since 2024-10-22 06:47:50 -0700 PDT, I'm most active between 17:00-17:59 - with 
 
                                |##
  openconfig/gsii               |##
+                               |##
+
+                               |##
+ openconfig/gribi              |##
+                               |##
+
+                               |##
+ openconfig/ygot               |##
                                |##
 
                                |####
@@ -70,17 +74,13 @@ Since 2024-10-22 06:47:50 -0700 PDT, I'm most active between 17:00-17:59 - with 
  openconfig/public             |#######
                                |#######
 
-                               |#######################
- openconfig/featureprofiles    |#######################
-                               |#######################
-
-                               |##
- openconfig/gribi              |##
-                               |##
-
                                |##########
  openconfig/gnmi               |##########
                                |##########
+
+                               |#################################
+ openconfig/reference          |#################################
+                               |#################################
 
 
 
@@ -90,4 +90,4 @@ Since 2024-10-22 06:47:50 -0700 PDT, I've been most active in openconfig/referen
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2024-12-13 17:49:55.071352676 -0800 PST
+Last Updated: 2024-12-13 18:26:41.528139563 -0800 PST
