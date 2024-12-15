@@ -42,33 +42,9 @@ Since 2024-11-12 09:30:41 -0800 PST, I'm most active between 17:00-17:59 - with 
 
 
 ```
-                               |#################################
- openconfig/reference          |#################################
-                               |#################################
-
                                |#######################
  openconfig/gnoi               |#######################
                                |#######################
-
-                               |###############
- openconfig/gnmi               |###############
-                               |###############
-
-                               |###############
- openconfig/featureprofiles    |###############
-                               |###############
-
-                               |####
- openconfig/public             |####
-                               |####
-
-                               |##
- openconfig/ygot               |##
-                               |##
-
-                               |#
- openconfig/gribigo            |#
-                               |#
 
                                |#
  morrowc/featureprofiles       |#
@@ -78,6 +54,30 @@ Since 2024-11-12 09:30:41 -0800 PST, I'm most active between 17:00-17:59 - with 
  openconfig/common-ci          |######
                                |######
 
+                               |####
+ openconfig/public             |####
+                               |####
+
+                               |#
+ openconfig/gribigo            |#
+                               |#
+
+                               |###############
+ openconfig/gnmi               |###############
+                               |###############
+
+                               |###############
+ openconfig/featureprofiles    |###############
+                               |###############
+
+                               |#################################
+ openconfig/reference          |#################################
+                               |#################################
+
+                               |##
+ openconfig/ygot               |##
+                               |##
+
 
 
 Since 2024-11-12 09:30:41 -0800 PST, I've been most active in openconfig/reference, with 33 events.
@@ -86,4 +86,4 @@ Since 2024-11-12 09:30:41 -0800 PST, I've been most active in openconfig/referen
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2024-12-15 11:18:32.670311377 -0800 PST
+Last Updated: 2024-12-15 11:30:53.846919173 -0800 PST
