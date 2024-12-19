@@ -42,10 +42,6 @@ Since 2024-12-13 10:17:23 -0800 PST, I'm most active between 18:00-18:59 - with 
 
 
 ```
-                               |####
- openconfig/gnsi               |####
-                               |####
-
                                |#
  morrowc/featureprofiles       |#
                                |#
@@ -54,13 +50,13 @@ Since 2024-12-13 10:17:23 -0800 PST, I'm most active between 18:00-18:59 - with 
  openconfig/common-ci          |##
                                |##
 
-                               |##################
- openconfig/gnoi               |##################
-                               |##################
+                               |####
+ openconfig/gnsi               |####
+                               |####
 
-                               |###############
- openconfig/gnmi               |###############
-                               |###############
+                               |############
+ openconfig/reference          |############
+                               |############
 
                                |#######################
  openconfig/public             |#######################
@@ -74,9 +70,13 @@ Since 2024-12-13 10:17:23 -0800 PST, I'm most active between 18:00-18:59 - with 
  openconfig/ygot               |#
                                |#
 
-                               |############
- openconfig/reference          |############
-                               |############
+                               |##################
+ openconfig/gnoi               |##################
+                               |##################
+
+                               |###############
+ openconfig/gnmi               |###############
+                               |###############
 
 
 
@@ -86,4 +86,4 @@ Since 2024-12-13 10:17:23 -0800 PST, I've been most active in openconfig/feature
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2024-12-18 23:31:16.154945308 -0800 PST
+Last Updated: 2024-12-18 23:45:55.903192007 -0800 PST
