@@ -42,21 +42,17 @@ Since 2024-12-13 15:59:25 -0800 PST, I'm most active between 18:00-18:59 - with 
 
 
 ```
-                               |#
- openconfig/ygot               |#
-                               |#
+                               |##########
+ openconfig/gnmi               |##########
+                               |##########
+
+                               |#######################
+ openconfig/public             |#######################
+                               |#######################
 
                                |############
  openconfig/reference          |############
                                |############
-
-                               |########################
- openconfig/featureprofiles    |########################
-                               |########################
-
-                               |####
- openconfig/gnsi               |####
-                               |####
 
                                |#
  morrowc/featureprofiles       |#
@@ -70,13 +66,17 @@ Since 2024-12-13 15:59:25 -0800 PST, I'm most active between 18:00-18:59 - with 
  openconfig/gnoi               |####################
                                |####################
 
-                               |##########
- openconfig/gnmi               |##########
-                               |##########
+                               |########################
+ openconfig/featureprofiles    |########################
+                               |########################
 
-                               |#######################
- openconfig/public             |#######################
-                               |#######################
+                               |#
+ openconfig/ygot               |#
+                               |#
+
+                               |####
+ openconfig/gnsi               |####
+                               |####
 
 
 
@@ -86,4 +86,4 @@ Since 2024-12-13 15:59:25 -0800 PST, I've been most active in openconfig/feature
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2024-12-25 18:44:09.559032339 -0800 PST
+Last Updated: 2024-12-25 18:59:21.80110027 -0800 PST
