@@ -42,25 +42,9 @@ Since 2024-12-13 15:59:25 -0800 PST, I'm most active between 18:00-18:59 - with 
 
 
 ```
-                               |#
- morrowc/featureprofiles       |#
-                               |#
-
-                               |####################
- openconfig/gnoi               |####################
-                               |####################
-
-                               |#######################
- openconfig/public             |#######################
-                               |#######################
-
-                               |#
- openconfig/ygot               |#
-                               |#
-
-                               |############
- openconfig/reference          |############
-                               |############
+                               |########################
+ openconfig/featureprofiles    |########################
+                               |########################
 
                                |#####
  openconfig/gribigo            |#####
@@ -70,9 +54,25 @@ Since 2024-12-13 15:59:25 -0800 PST, I'm most active between 18:00-18:59 - with 
  openconfig/gnmi               |##########
                                |##########
 
-                               |########################
- openconfig/featureprofiles    |########################
-                               |########################
+                               |#######################
+ openconfig/public             |#######################
+                               |#######################
+
+                               |############
+ openconfig/reference          |############
+                               |############
+
+                               |#
+ morrowc/featureprofiles       |#
+                               |#
+
+                               |####################
+ openconfig/gnoi               |####################
+                               |####################
+
+                               |#
+ openconfig/ygot               |#
+                               |#
 
                                |####
  openconfig/gnsi               |####
@@ -86,4 +86,4 @@ Since 2024-12-13 15:59:25 -0800 PST, I've been most active in openconfig/feature
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2024-12-26 15:30:54.76105786 -0800 PST
+Last Updated: 2024-12-26 15:45:53.753999674 -0800 PST
