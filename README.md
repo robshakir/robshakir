@@ -42,22 +42,6 @@ Since 2024-12-13 15:59:25 -0800 PST, I'm most active between 18:00-18:59 - with 
 
 
 ```
-                               |#
- openconfig/ygot               |#
-                               |#
-
-                               |####
- openconfig/gnsi               |####
-                               |####
-
-                               |####################
- openconfig/gnoi               |####################
-                               |####################
-
-                               |##########
- openconfig/gnmi               |##########
-                               |##########
-
                                |#######################
  openconfig/public             |#######################
                                |#######################
@@ -66,6 +50,14 @@ Since 2024-12-13 15:59:25 -0800 PST, I'm most active between 18:00-18:59 - with 
  openconfig/featureprofiles    |########################
                                |########################
 
+                               |#
+ openconfig/ygot               |#
+                               |#
+
+                               |####
+ openconfig/gnsi               |####
+                               |####
+
                                |############
  openconfig/reference          |############
                                |############
@@ -73,6 +65,14 @@ Since 2024-12-13 15:59:25 -0800 PST, I'm most active between 18:00-18:59 - with 
                                |#
  morrowc/featureprofiles       |#
                                |#
+
+                               |####################
+ openconfig/gnoi               |####################
+                               |####################
+
+                               |##########
+ openconfig/gnmi               |##########
+                               |##########
 
                                |#####
  openconfig/gribigo            |#####
@@ -86,4 +86,4 @@ Since 2024-12-13 15:59:25 -0800 PST, I've been most active in openconfig/feature
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2024-12-27 04:22:23.357895598 -0800 PST
+Last Updated: 2024-12-27 04:42:23.110217112 -0800 PST
