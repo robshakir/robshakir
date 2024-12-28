@@ -42,21 +42,9 @@ Since 2024-12-13 15:59:28 -0800 PST, I'm most active between 18:00-18:59 - with 
 
 
 ```
-                               |####
- openconfig/gnsi               |####
-                               |####
-
-                               |#
- morrowc/featureprofiles       |#
-                               |#
-
-                               |#####
- openconfig/gribigo            |#####
-                               |#####
-
-                               |##########
- openconfig/gnmi               |##########
-                               |##########
+                               |#######################
+ openconfig/public             |#######################
+                               |#######################
 
                                |########################
  openconfig/featureprofiles    |########################
@@ -74,13 +62,25 @@ Since 2024-12-13 15:59:28 -0800 PST, I'm most active between 18:00-18:59 - with 
  bemasher/rtlamr-collect       |#
                                |#
 
+                               |#####
+ openconfig/gribigo            |#####
+                               |#####
+
+                               |####
+ openconfig/gnsi               |####
+                               |####
+
+                               |#
+ morrowc/featureprofiles       |#
+                               |#
+
                                |###################
  openconfig/gnoi               |###################
                                |###################
 
-                               |#######################
- openconfig/public             |#######################
-                               |#######################
+                               |##########
+ openconfig/gnmi               |##########
+                               |##########
 
 
 
@@ -90,4 +90,4 @@ Since 2024-12-13 15:59:28 -0800 PST, I've been most active in openconfig/feature
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2024-12-28 02:33:14.114157812 -0800 PST
+Last Updated: 2024-12-28 02:45:55.291349958 -0800 PST
