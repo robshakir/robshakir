@@ -50,6 +50,14 @@ Since 2024-12-13 15:59:28 -0800 PST, I'm most active between 18:00-18:59 - with 
  openconfig/gribigo            |#####
                                |#####
 
+                               |#
+ openconfig/ygot               |#
+                               |#
+
+                               |############
+ openconfig/reference          |############
+                               |############
+
                                |###################
  openconfig/gnoi               |###################
                                |###################
@@ -58,6 +66,10 @@ Since 2024-12-13 15:59:28 -0800 PST, I'm most active between 18:00-18:59 - with 
  openconfig/gnmi               |##########
                                |##########
 
+                               |#######################
+ openconfig/public             |#######################
+                               |#######################
+
                                |########################
  openconfig/featureprofiles    |########################
                                |########################
@@ -65,18 +77,6 @@ Since 2024-12-13 15:59:28 -0800 PST, I'm most active between 18:00-18:59 - with 
                                |####
  openconfig/gnsi               |####
                                |####
-
-                               |#######################
- openconfig/public             |#######################
-                               |#######################
-
-                               |#
- openconfig/ygot               |#
-                               |#
-
-                               |############
- openconfig/reference          |############
-                               |############
 
                                |#
  morrowc/featureprofiles       |#
@@ -90,4 +90,4 @@ Since 2024-12-13 15:59:28 -0800 PST, I've been most active in openconfig/feature
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2024-12-30 08:46:47.231726174 -0800 PST
+Last Updated: 2024-12-30 09:01:19.151757526 -0800 PST
