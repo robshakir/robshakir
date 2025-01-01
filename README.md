@@ -42,37 +42,21 @@ Since 2024-12-13 15:59:28 -0800 PST, I'm most active between 18:00-18:59 - with 
 
 
 ```
-                               |##########
- openconfig/gnmi               |##########
-                               |##########
-
                                |#######################
  openconfig/public             |#######################
                                |#######################
-
-                               |#
- openconfig/ygot               |#
-                               |#
-
-                               |###################
- openconfig/gnoi               |###################
-                               |###################
-
-                               |#####
- openconfig/gribigo            |#####
-                               |#####
 
                                |########################
  openconfig/featureprofiles    |########################
                                |########################
 
+                               |#
+ openconfig/ygot               |#
+                               |#
+
                                |####
  openconfig/gnsi               |####
                                |####
-
-                               |############
- openconfig/reference          |############
-                               |############
 
                                |#
  morrowc/featureprofiles       |#
@@ -82,6 +66,22 @@ Since 2024-12-13 15:59:28 -0800 PST, I'm most active between 18:00-18:59 - with 
  bemasher/rtlamr-collect       |#
                                |#
 
+                               |###################
+ openconfig/gnoi               |###################
+                               |###################
+
+                               |##########
+ openconfig/gnmi               |##########
+                               |##########
+
+                               |############
+ openconfig/reference          |############
+                               |############
+
+                               |#####
+ openconfig/gribigo            |#####
+                               |#####
+
 
 
 Since 2024-12-13 15:59:28 -0800 PST, I've been most active in openconfig/featureprofiles, with 24 events.
@@ -90,4 +90,4 @@ Since 2024-12-13 15:59:28 -0800 PST, I've been most active in openconfig/feature
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2025-01-01 11:18:42.965161945 -0800 PST
+Last Updated: 2025-01-01 11:30:56.695850406 -0800 PST
