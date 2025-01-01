@@ -42,13 +42,25 @@ Since 2024-12-13 15:59:28 -0800 PST, I'm most active between 18:00-18:59 - with 
 
 
 ```
+                               |#
+ bemasher/rtlamr-collect       |#
+                               |#
+
                                |#####
  openconfig/gribigo            |#####
                                |#####
 
+                               |###################
+ openconfig/gnoi               |###################
+                               |###################
+
                                |##########
  openconfig/gnmi               |##########
                                |##########
+
+                               |########################
+ openconfig/featureprofiles    |########################
+                               |########################
 
                                |############
  openconfig/reference          |############
@@ -58,21 +70,9 @@ Since 2024-12-13 15:59:28 -0800 PST, I'm most active between 18:00-18:59 - with 
  morrowc/featureprofiles       |#
                                |#
 
-                               |#
- bemasher/rtlamr-collect       |#
-                               |#
-
-                               |###################
- openconfig/gnoi               |###################
-                               |###################
-
                                |#######################
  openconfig/public             |#######################
                                |#######################
-
-                               |########################
- openconfig/featureprofiles    |########################
-                               |########################
 
                                |#
  openconfig/ygot               |#
@@ -90,4 +90,4 @@ Since 2024-12-13 15:59:28 -0800 PST, I've been most active in openconfig/feature
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2025-01-01 03:01:14.050232342 -0800 PST
+Last Updated: 2025-01-01 03:18:39.378591795 -0800 PST
