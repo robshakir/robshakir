@@ -42,32 +42,12 @@ Since 2024-12-13 15:59:28 -0800 PST, I'm most active between 18:00-18:59 - with 
 
 
 ```
-                               |#
- bemasher/rtlamr-collect       |#
-                               |#
-
-                               |###################
- openconfig/gnoi               |###################
-                               |###################
-
-                               |#######################
- openconfig/public             |#######################
-                               |#######################
-
-                               |#
- openconfig/ygot               |#
-                               |#
-
-                               |####
- openconfig/gnsi               |####
-                               |####
-
                                |############
  openconfig/reference          |############
                                |############
 
                                |#
- morrowc/featureprofiles       |#
+ bemasher/rtlamr-collect       |#
                                |#
 
                                |#####
@@ -78,9 +58,29 @@ Since 2024-12-13 15:59:28 -0800 PST, I'm most active between 18:00-18:59 - with 
  openconfig/gnmi               |##########
                                |##########
 
+                               |#
+ openconfig/ygot               |#
+                               |#
+
+                               |#
+ morrowc/featureprofiles       |#
+                               |#
+
+                               |###################
+ openconfig/gnoi               |###################
+                               |###################
+
+                               |#######################
+ openconfig/public             |#######################
+                               |#######################
+
                                |########################
  openconfig/featureprofiles    |########################
                                |########################
+
+                               |####
+ openconfig/gnsi               |####
+                               |####
 
 
 
@@ -90,4 +90,4 @@ Since 2024-12-13 15:59:28 -0800 PST, I've been most active in openconfig/feature
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2025-01-02 14:01:15.188538409 -0800 PST
+Last Updated: 2025-01-02 14:19:55.531546713 -0800 PST
