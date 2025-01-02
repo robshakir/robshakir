@@ -42,10 +42,6 @@ Since 2024-12-13 15:59:28 -0800 PST, I'm most active between 18:00-18:59 - with 
 
 
 ```
-                               |#
- bemasher/rtlamr-collect       |#
-                               |#
-
                                |#####
  openconfig/gribigo            |#####
                                |#####
@@ -58,21 +54,9 @@ Since 2024-12-13 15:59:28 -0800 PST, I'm most active between 18:00-18:59 - with 
  openconfig/gnmi               |##########
                                |##########
 
-                               |#
- morrowc/featureprofiles       |#
-                               |#
-
                                |#######################
  openconfig/public             |#######################
                                |#######################
-
-                               |########################
- openconfig/featureprofiles    |########################
-                               |########################
-
-                               |#
- openconfig/ygot               |#
-                               |#
 
                                |####
  openconfig/gnsi               |####
@@ -82,6 +66,22 @@ Since 2024-12-13 15:59:28 -0800 PST, I'm most active between 18:00-18:59 - with 
  openconfig/reference          |############
                                |############
 
+                               |#
+ morrowc/featureprofiles       |#
+                               |#
+
+                               |#
+ bemasher/rtlamr-collect       |#
+                               |#
+
+                               |########################
+ openconfig/featureprofiles    |########################
+                               |########################
+
+                               |#
+ openconfig/ygot               |#
+                               |#
+
 
 
 Since 2024-12-13 15:59:28 -0800 PST, I've been most active in openconfig/featureprofiles, with 24 events.
@@ -90,4 +90,4 @@ Since 2024-12-13 15:59:28 -0800 PST, I've been most active in openconfig/feature
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2025-01-02 08:01:27.584288946 -0800 PST
+Last Updated: 2025-01-02 08:21:06.436993366 -0800 PST
