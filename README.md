@@ -42,6 +42,10 @@ Since 2024-12-13 15:59:28 -0800 PST, I'm most active between 18:00-18:59 - with 
 
 
 ```
+                               |#######################
+ openconfig/public             |#######################
+                               |#######################
+
                                |########################
  openconfig/featureprofiles    |########################
                                |########################
@@ -53,18 +57,6 @@ Since 2024-12-13 15:59:28 -0800 PST, I'm most active between 18:00-18:59 - with 
                                |####
  openconfig/gnsi               |####
                                |####
-
-                               |#####
- openconfig/gribigo            |#####
-                               |#####
-
-                               |#######################
- openconfig/public             |#######################
-                               |#######################
-
-                               |##########
- openconfig/gnmi               |##########
-                               |##########
 
                                |############
  openconfig/reference          |############
@@ -78,9 +70,17 @@ Since 2024-12-13 15:59:28 -0800 PST, I'm most active between 18:00-18:59 - with 
  bemasher/rtlamr-collect       |#
                                |#
 
+                               |#####
+ openconfig/gribigo            |#####
+                               |#####
+
                                |###################
  openconfig/gnoi               |###################
                                |###################
+
+                               |##########
+ openconfig/gnmi               |##########
+                               |##########
 
 
 
@@ -90,4 +90,4 @@ Since 2024-12-13 15:59:28 -0800 PST, I've been most active in openconfig/feature
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2025-01-03 11:18:28.900800823 -0800 PST
+Last Updated: 2025-01-03 11:30:59.245241561 -0800 PST
