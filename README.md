@@ -42,34 +42,6 @@ Since 2024-12-13 15:59:28 -0800 PST, I'm most active between 18:00-18:59 - with 
 
 
 ```
-                               |#
- morrowc/featureprofiles       |#
-                               |#
-
-                               |#
- bemasher/rtlamr-collect       |#
-                               |#
-
-                               |#####
- openconfig/gribigo            |#####
-                               |#####
-
-                               |##########
- openconfig/gnmi               |##########
-                               |##########
-
-                               |#######################
- openconfig/public             |#######################
-                               |#######################
-
-                               |#
- openconfig/ygot               |#
-                               |#
-
-                               |###################
- openconfig/gnoi               |###################
-                               |###################
-
                                |########################
  openconfig/featureprofiles    |########################
                                |########################
@@ -78,9 +50,37 @@ Since 2024-12-13 15:59:28 -0800 PST, I'm most active between 18:00-18:59 - with 
  openconfig/gnsi               |####
                                |####
 
+                               |#####
+ openconfig/gribigo            |#####
+                               |#####
+
+                               |#######################
+ openconfig/public             |#######################
+                               |#######################
+
+                               |##########
+ openconfig/gnmi               |##########
+                               |##########
+
+                               |#
+ openconfig/ygot               |#
+                               |#
+
                                |############
  openconfig/reference          |############
                                |############
+
+                               |#
+ morrowc/featureprofiles       |#
+                               |#
+
+                               |#
+ bemasher/rtlamr-collect       |#
+                               |#
+
+                               |###################
+ openconfig/gnoi               |###################
+                               |###################
 
 
 
@@ -90,4 +90,4 @@ Since 2024-12-13 15:59:28 -0800 PST, I've been most active in openconfig/feature
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2025-01-04 15:31:02.886170013 -0800 PST
+Last Updated: 2025-01-04 15:45:55.584162728 -0800 PST
