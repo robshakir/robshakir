@@ -46,25 +46,13 @@ Since 2024-12-13 15:59:28 -0800 PST, I'm most active between 18:00-18:59 - with 
  bemasher/rtlamr-collect       |#
                                |#
 
-                               |#######################
- openconfig/public             |#######################
-                               |#######################
-
-                               |########################
- openconfig/featureprofiles    |########################
-                               |########################
-
-                               |#####
- openconfig/gribigo            |#####
-                               |#####
-
-                               |###################
- openconfig/gnoi               |###################
-                               |###################
-
                                |##########
  openconfig/gnmi               |##########
                                |##########
+
+                               |#######################
+ openconfig/public             |#######################
+                               |#######################
 
                                |#
  openconfig/ygot               |#
@@ -82,6 +70,18 @@ Since 2024-12-13 15:59:28 -0800 PST, I'm most active between 18:00-18:59 - with 
  morrowc/featureprofiles       |#
                                |#
 
+                               |#####
+ openconfig/gribigo            |#####
+                               |#####
+
+                               |###################
+ openconfig/gnoi               |###################
+                               |###################
+
+                               |########################
+ openconfig/featureprofiles    |########################
+                               |########################
+
 
 
 Since 2024-12-13 15:59:28 -0800 PST, I've been most active in openconfig/featureprofiles, with 24 events.
@@ -90,4 +90,4 @@ Since 2024-12-13 15:59:28 -0800 PST, I've been most active in openconfig/feature
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2025-01-05 00:01:30.315262093 -0800 PST
+Last Updated: 2025-01-05 00:20:58.749761517 -0800 PST
