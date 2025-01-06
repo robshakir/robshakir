@@ -42,10 +42,6 @@ Since 2024-12-13 15:59:28 -0800 PST, I'm most active between 18:00-18:59 - with 
 
 
 ```
-                               |#####
- openconfig/gribigo            |#####
-                               |#####
-
                                |############
  openconfig/reference          |############
                                |############
@@ -53,6 +49,14 @@ Since 2024-12-13 15:59:28 -0800 PST, I'm most active between 18:00-18:59 - with 
                                |#
  morrowc/featureprofiles       |#
                                |#
+
+                               |###################
+ openconfig/gnoi               |###################
+                               |###################
+
+                               |#######################
+ openconfig/public             |#######################
+                               |#######################
 
                                |########################
  openconfig/featureprofiles    |########################
@@ -70,17 +74,13 @@ Since 2024-12-13 15:59:28 -0800 PST, I'm most active between 18:00-18:59 - with 
  bemasher/rtlamr-collect       |#
                                |#
 
-                               |###################
- openconfig/gnoi               |###################
-                               |###################
+                               |#####
+ openconfig/gribigo            |#####
+                               |#####
 
                                |##########
  openconfig/gnmi               |##########
                                |##########
-
-                               |#######################
- openconfig/public             |#######################
-                               |#######################
 
 
 
@@ -90,4 +90,4 @@ Since 2024-12-13 15:59:28 -0800 PST, I've been most active in openconfig/feature
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2025-01-06 06:45:54.158663829 -0800 PST
+Last Updated: 2025-01-06 07:01:28.28663617 -0800 PST
