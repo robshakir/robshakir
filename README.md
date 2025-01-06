@@ -43,16 +43,24 @@ Since 2024-12-16 21:11:09 -0800 PST, I'm most active between 18:00-18:59 - with 
 
 ```
                                |########################
- openconfig/featureprofiles    |########################
+ openconfig/public             |########################
                                |########################
+
+                               |######################
+ openconfig/gnoi               |######################
+                               |######################
 
                                |#####
  openconfig/clio               |#####
                                |#####
 
-                               |######################
- openconfig/gnoi               |######################
-                               |######################
+                               |########################
+ openconfig/featureprofiles    |########################
+                               |########################
+
+                               |#
+ openconfig/ygot               |#
+                               |#
 
                                |#######
  openconfig/gribigo            |#######
@@ -70,17 +78,9 @@ Since 2024-12-16 21:11:09 -0800 PST, I'm most active between 18:00-18:59 - with 
  openconfig/gnmi               |##########
                                |##########
 
-                               |#
- openconfig/ygot               |#
-                               |#
-
                                |####
  openconfig/gnsi               |####
                                |####
-
-                               |########################
- openconfig/public             |########################
-                               |########################
 
 
 
@@ -90,4 +90,4 @@ Since 2024-12-16 21:11:09 -0800 PST, I've been most active in openconfig/public,
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2025-01-06 14:01:16.818648982 -0800 PST
+Last Updated: 2025-01-06 14:20:03.632925756 -0800 PST
