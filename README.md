@@ -46,6 +46,22 @@ Since 2024-12-17 18:54:39 -0800 PST, I'm most active between 06:00-06:59 - with 
  openconfig/common-ci          |#####
                                |#####
 
+                               |##
+ openconfig/gribi              |##
+                               |##
+
+                               |#
+ bemasher/rtlamr-collect       |#
+                               |#
+
+                               |##########
+ openconfig/gnmi               |##########
+                               |##########
+
+                               |#
+ openconfig/ygot               |#
+                               |#
+
                                |####################
  openconfig/featureprofiles    |####################
                                |####################
@@ -62,14 +78,6 @@ Since 2024-12-17 18:54:39 -0800 PST, I'm most active between 06:00-06:59 - with 
  openconfig/public             |#####
                                |#####
 
-                               |##
- openconfig/gribi              |##
-                               |##
-
-                               |#
- bemasher/rtlamr-collect       |#
-                               |#
-
                                |########################
  openconfig/gnoi               |########################
                                |########################
@@ -77,14 +85,6 @@ Since 2024-12-17 18:54:39 -0800 PST, I'm most active between 06:00-06:59 - with 
                                |######
  openconfig/clio               |######
                                |######
-
-                               |##########
- openconfig/gnmi               |##########
-                               |##########
-
-                               |#
- openconfig/ygot               |#
-                               |#
 
 
 
@@ -94,4 +94,4 @@ Since 2024-12-17 18:54:39 -0800 PST, I've been most active in openconfig/gnoi, w
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2025-01-07 11:01:11.138720929 -0800 PST
+Last Updated: 2025-01-07 11:18:38.630654198 -0800 PST
