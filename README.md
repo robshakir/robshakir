@@ -42,6 +42,22 @@ Since 2024-12-17 18:54:39 -0800 PST, I'm most active between 06:00-06:59 - with 
 
 
 ```
+                               |#####
+ openconfig/public             |#####
+                               |#####
+
+                               |##########
+ openconfig/gnmi               |##########
+                               |##########
+
+                               |#
+ openconfig/ygot               |#
+                               |#
+
+                               |########################
+ openconfig/gnoi               |########################
+                               |########################
+
                                |######
  openconfig/clio               |######
                                |######
@@ -54,22 +70,6 @@ Since 2024-12-17 18:54:39 -0800 PST, I'm most active between 06:00-06:59 - with 
  openconfig/lemming            |########
                                |########
 
-                               |##########
- openconfig/gnmi               |##########
-                               |##########
-
-                               |#
- bemasher/rtlamr-collect       |#
-                               |#
-
-                               |#
- openconfig/ygot               |#
-                               |#
-
-                               |########################
- openconfig/gnoi               |########################
-                               |########################
-
                                |##################
  openconfig/gribigo            |##################
                                |##################
@@ -78,13 +78,13 @@ Since 2024-12-17 18:54:39 -0800 PST, I'm most active between 06:00-06:59 - with 
  openconfig/common-ci          |#####
                                |#####
 
-                               |#####
- openconfig/public             |#####
-                               |#####
-
                                |##
  openconfig/gribi              |##
                                |##
+
+                               |#
+ bemasher/rtlamr-collect       |#
+                               |#
 
 
 
@@ -94,4 +94,4 @@ Since 2024-12-17 18:54:39 -0800 PST, I've been most active in openconfig/gnoi, w
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2025-01-07 13:01:26.480161697 -0800 PST
+Last Updated: 2025-01-07 13:20:08.741479166 -0800 PST
