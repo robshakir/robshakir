@@ -42,6 +42,14 @@ Since 2024-12-18 06:01:51 -0800 PST, I'm most active between 06:00-06:59 - with 
 
 
 ```
+                               |##
+ openconfig/gribi              |##
+                               |##
+
+                               |#
+ bemasher/rtlamr-collect       |#
+                               |#
+
                                |#########
  openconfig/gnmi               |#########
                                |#########
@@ -53,6 +61,10 @@ Since 2024-12-18 06:01:51 -0800 PST, I'm most active between 06:00-06:59 - with 
                                |##
  openconfig/ygnmi              |##
                                |##
+
+                               |########################
+ openconfig/gnoi               |########################
+                               |########################
 
                                |###########
  openconfig/featureprofiles    |###########
@@ -66,25 +78,13 @@ Since 2024-12-18 06:01:51 -0800 PST, I'm most active between 06:00-06:59 - with 
  openconfig/lemming            |#########
                                |#########
 
-                               |########################
- openconfig/gnoi               |########################
-                               |########################
+                               |########
+ openconfig/common-ci          |########
+                               |########
 
                                |######
  openconfig/clio               |######
                                |######
-
-                               |##
- openconfig/gribi              |##
-                               |##
-
-                               |#
- bemasher/rtlamr-collect       |#
-                               |#
-
-                               |########
- openconfig/common-ci          |########
-                               |########
 
 
 
@@ -94,4 +94,4 @@ Since 2024-12-18 06:01:51 -0800 PST, I've been most active in openconfig/gribigo
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2025-01-08 19:17:10.634220365 -0800 PST
+Last Updated: 2025-01-08 19:41:27.392461755 -0800 PST
