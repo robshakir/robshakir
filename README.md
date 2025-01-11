@@ -42,17 +42,9 @@ Since 2024-12-18 05:58:05 -0800 PST, I'm most active between 08:00-08:59 - with 
 
 
 ```
-                               |#
- bemasher/rtlamr-collect       |#
-                               |#
-
                                |###############################
  openconfig/gribigo            |###############################
                                |###############################
-
-                               |##########################
- openconfig/gnoi               |##########################
-                               |##########################
 
                                |##
  openconfig/ygnmi              |##
@@ -62,6 +54,10 @@ Since 2024-12-18 05:58:05 -0800 PST, I'm most active between 08:00-08:59 - with 
  openconfig/clio               |######
                                |######
 
+                               |####
+ openconfig/featureprofiles    |####
+                               |####
+
                                |##
  openconfig/public             |##
                                |##
@@ -69,6 +65,10 @@ Since 2024-12-18 05:58:05 -0800 PST, I'm most active between 08:00-08:59 - with 
                                |##
  openconfig/gribi              |##
                                |##
+
+                               |##########################
+ openconfig/gnoi               |##########################
+                               |##########################
 
                                |#########
  openconfig/lemming            |#########
@@ -82,9 +82,9 @@ Since 2024-12-18 05:58:05 -0800 PST, I'm most active between 08:00-08:59 - with 
  openconfig/gnmi               |#########
                                |#########
 
-                               |####
- openconfig/featureprofiles    |####
-                               |####
+                               |#
+ bemasher/rtlamr-collect       |#
+                               |#
 
 
 
@@ -94,4 +94,4 @@ Since 2024-12-18 05:58:05 -0800 PST, I've been most active in openconfig/gribigo
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2025-01-10 16:03:55.125816114 -0800 PST
+Last Updated: 2025-01-10 16:32:49.706581009 -0800 PST
