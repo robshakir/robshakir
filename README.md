@@ -42,30 +42,6 @@ Since 2024-12-18 06:33:45 -0800 PST, I'm most active between 08:00-08:59 - with 
 
 
 ```
-                               |###########################
- openconfig/gnoi               |###########################
-                               |###########################
-
-                               |######
- openconfig/clio               |######
-                               |######
-
-                               |#
- openconfig/featureprofiles    |#
-                               |#
-
-                               |#
- openconfig/public             |#
-                               |#
-
-                               |##
- openconfig/gribi              |##
-                               |##
-
-                               |###
- robshakir/rtlamr              |###
-                               |###
-
                                |#
  bemasher/rtlamr               |#
                                |#
@@ -73,10 +49,6 @@ Since 2024-12-18 06:33:45 -0800 PST, I'm most active between 08:00-08:59 - with 
                                |###############################
  openconfig/gribigo            |###############################
                                |###############################
-
-                               |#########
- openconfig/lemming            |#########
-                               |#########
 
                                |########
  openconfig/common-ci          |########
@@ -90,9 +62,37 @@ Since 2024-12-18 06:33:45 -0800 PST, I'm most active between 08:00-08:59 - with 
  openconfig/ygnmi              |##
                                |##
 
+                               |######
+ openconfig/clio               |######
+                               |######
+
                                |#
  bemasher/rtlamr-collect       |#
                                |#
+
+                               |###
+ robshakir/rtlamr              |###
+                               |###
+
+                               |###########################
+ openconfig/gnoi               |###########################
+                               |###########################
+
+                               |#########
+ openconfig/lemming            |#########
+                               |#########
+
+                               |#
+ openconfig/featureprofiles    |#
+                               |#
+
+                               |#
+ openconfig/public             |#
+                               |#
+
+                               |##
+ openconfig/gribi              |##
+                               |##
 
 
 
@@ -102,4 +102,4 @@ Since 2024-12-18 06:33:45 -0800 PST, I've been most active in openconfig/gribigo
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2025-01-13 08:01:26.087557132 -0800 PST
+Last Updated: 2025-01-13 08:21:24.927483331 -0800 PST
