@@ -42,14 +42,6 @@ Since 2024-12-18 06:35:06 -0800 PST, I'm most active between 08:00-08:59 - with 
 
 
 ```
-                               |###
- openconfig/public             |###
-                               |###
-
-                               |###############################
- openconfig/gribigo            |###############################
-                               |###############################
-
                                |##
  openconfig/ygnmi              |##
                                |##
@@ -58,21 +50,9 @@ Since 2024-12-18 06:35:06 -0800 PST, I'm most active between 08:00-08:59 - with 
  bemasher/rtlamr-collect       |#
                                |#
 
-                               |######
- openconfig/clio               |######
-                               |######
-
-                               |#
- openconfig/featureprofiles    |#
-                               |#
-
                                |#####
  robshakir/rtlamr              |#####
                                |#####
-
-                               |#
- bemasher/rtlamr               |#
-                               |#
 
                                |###########################
  openconfig/gnoi               |###########################
@@ -86,13 +66,33 @@ Since 2024-12-18 06:35:06 -0800 PST, I'm most active between 08:00-08:59 - with 
  openconfig/common-ci          |########
                                |########
 
-                               |####
- openconfig/gnmi               |####
-                               |####
+                               |######
+ openconfig/clio               |######
+                               |######
+
+                               |#
+ openconfig/featureprofiles    |#
+                               |#
 
                                |##
  openconfig/gribi              |##
                                |##
+
+                               |###
+ openconfig/public             |###
+                               |###
+
+                               |#
+ bemasher/rtlamr               |#
+                               |#
+
+                               |###############################
+ openconfig/gribigo            |###############################
+                               |###############################
+
+                               |####
+ openconfig/gnmi               |####
+                               |####
 
 
 
@@ -102,4 +102,4 @@ Since 2024-12-18 06:35:06 -0800 PST, I've been most active in openconfig/gribigo
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2025-01-16 11:17:58.332348772 -0800 PST
+Last Updated: 2025-01-16 11:30:54.842881317 -0800 PST
