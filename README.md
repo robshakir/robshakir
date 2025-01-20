@@ -42,9 +42,9 @@ Since 2024-12-18 06:36:56 -0800 PST, I'm most active between 08:00-08:59 - with 
 
 
 ```
-                               |##
- openconfig/gribi              |##
-                               |##
+                               |#
+ bemasher/rtlamr               |#
+                               |#
 
                                |#########
  openconfig/lemming            |#########
@@ -62,16 +62,12 @@ Since 2024-12-18 06:36:56 -0800 PST, I'm most active between 08:00-08:59 - with 
  openconfig/ygnmi              |##
                                |##
 
-                               |#
- openconfig/featureprofiles    |#
-                               |#
-
                                |######
  openconfig/clio               |######
                                |######
 
                                |#
- bemasher/rtlamr-collect       |#
+ openconfig/featureprofiles    |#
                                |#
 
                                |######
@@ -82,10 +78,6 @@ Since 2024-12-18 06:36:56 -0800 PST, I'm most active between 08:00-08:59 - with 
  openconfig/public             |###
                                |###
 
-                               |#
- bemasher/rtlamr               |#
-                               |#
-
                                |###########################
  openconfig/gnoi               |###########################
                                |###########################
@@ -93,6 +85,14 @@ Since 2024-12-18 06:36:56 -0800 PST, I'm most active between 08:00-08:59 - with 
                                |###############################
  openconfig/gribigo            |###############################
                                |###############################
+
+                               |##
+ openconfig/gribi              |##
+                               |##
+
+                               |#
+ bemasher/rtlamr-collect       |#
+                               |#
 
 
 
@@ -102,4 +102,4 @@ Since 2024-12-18 06:36:56 -0800 PST, I've been most active in openconfig/gribigo
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2025-01-20 02:20:44.330278103 -0800 PST
+Last Updated: 2025-01-20 02:34:24.757237676 -0800 PST
