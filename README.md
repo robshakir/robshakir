@@ -42,29 +42,13 @@ Since 2025-01-06 08:11:12 -0800 PST, I'm most active between 13:00-13:59 - with 
 
 
 ```
-                               |###
- openconfig/public             |###
-                               |###
-
-                               |########
- openconfig/common-ci          |########
-                               |########
-
-                               |##
- openconfig/ygnmi              |##
-                               |##
-
                                |#############################
  openconfig/gnoi               |#############################
                                |#############################
 
-                               |#######
- openconfig/gnmi               |#######
-                               |#######
-
-                               |######
- robshakir/rtlamr              |######
-                               |######
+                               |#####
+ openconfig/featureprofiles    |#####
+                               |#####
 
                                |#########
  openconfig/lemming            |#########
@@ -74,9 +58,25 @@ Since 2025-01-06 08:11:12 -0800 PST, I'm most active between 13:00-13:59 - with 
  openconfig/clio               |######
                                |######
 
-                               |#####
- openconfig/featureprofiles    |#####
-                               |#####
+                               |########
+ openconfig/common-ci          |########
+                               |########
+
+                               |##
+ openconfig/ygnmi              |##
+                               |##
+
+                               |#######
+ openconfig/gnmi               |#######
+                               |#######
+
+                               |######
+ robshakir/rtlamr              |######
+                               |######
+
+                               |###
+ openconfig/public             |###
+                               |###
 
                                |#
  bemasher/rtlamr               |#
@@ -94,4 +94,4 @@ Since 2025-01-06 08:11:12 -0800 PST, I've been most active in openconfig/gnoi, w
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2025-01-25 07:01:16.809734124 -0800 PST
+Last Updated: 2025-01-25 07:20:03.588272922 -0800 PST
