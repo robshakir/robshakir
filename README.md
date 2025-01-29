@@ -42,14 +42,6 @@ Since 2025-01-06 08:11:12 -0800 PST, I'm most active between 13:00-13:59 - with 
 
 
 ```
-                               |######
- robshakir/rtlamr              |######
-                               |######
-
-                               |###
- openconfig/public             |###
-                               |###
-
                                |#########
  openconfig/lemming            |#########
                                |#########
@@ -61,6 +53,22 @@ Since 2025-01-06 08:11:12 -0800 PST, I'm most active between 13:00-13:59 - with 
                                |##
  openconfig/ygnmi              |##
                                |##
+
+                               |#############################
+ openconfig/gnoi               |#############################
+                               |#############################
+
+                               |######
+ robshakir/rtlamr              |######
+                               |######
+
+                               |###
+ openconfig/public             |###
+                               |###
+
+                               |#
+ bemasher/rtlamr               |#
+                               |#
 
                                |#######
  openconfig/gnmi               |#######
@@ -78,14 +86,6 @@ Since 2025-01-06 08:11:12 -0800 PST, I'm most active between 13:00-13:59 - with 
  openconfig/clio               |######
                                |######
 
-                               |#############################
- openconfig/gnoi               |#############################
-                               |#############################
-
-                               |#
- bemasher/rtlamr               |#
-                               |#
-
 
 
 Since 2025-01-06 08:11:12 -0800 PST, I've been most active in openconfig/gnoi, with 29 events.
@@ -94,4 +94,4 @@ Since 2025-01-06 08:11:12 -0800 PST, I've been most active in openconfig/gnoi, w
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2025-01-29 04:22:34.870064606 -0800 PST
+Last Updated: 2025-01-29 04:42:24.152675736 -0800 PST
