@@ -42,22 +42,6 @@ Since 2025-01-06 09:11:03 -0800 PST, I'm most active between 13:00-13:59 - with 
 
 
 ```
-                               |#####
- openconfig/clio               |#####
-                               |#####
-
-                               |########
- robshakir/rtlamr              |########
-                               |########
-
-                               |#########
- openconfig/lemming            |#########
-                               |#########
-
-                               |########
- openconfig/common-ci          |########
-                               |########
-
                                |#############################
  openconfig/gribigo            |#############################
                                |#############################
@@ -65,6 +49,10 @@ Since 2025-01-06 09:11:03 -0800 PST, I'm most active between 13:00-13:59 - with 
                                |#######################
  openconfig/gnoi               |#######################
                                |#######################
+
+                               |########
+ robshakir/rtlamr              |########
+                               |########
 
                                |#######
  openconfig/gnmi               |#######
@@ -82,9 +70,21 @@ Since 2025-01-06 09:11:03 -0800 PST, I'm most active between 13:00-13:59 - with 
  bemasher/rtlamr               |#
                                |#
 
+                               |#########
+ openconfig/lemming            |#########
+                               |#########
+
                                |##
  openconfig/ygnmi              |##
                                |##
+
+                               |#####
+ openconfig/clio               |#####
+                               |#####
+
+                               |########
+ openconfig/common-ci          |########
+                               |########
 
 
 
@@ -94,4 +94,4 @@ Since 2025-01-06 09:11:03 -0800 PST, I've been most active in openconfig/gribigo
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2025-02-04 16:04:03.358113527 -0800 PST
+Last Updated: 2025-02-04 16:32:29.720305782 -0800 PST
