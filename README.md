@@ -42,21 +42,9 @@ Since 2025-01-08 11:24:58 -0800 PST, I'm most active between 13:00-13:59 - with 
 
 
 ```
-                               |#####
- openconfig/containerz         |#####
-                               |#####
-
-                               |#####
- openconfig/public             |#####
-                               |#####
-
                                |####
  openconfig/clio               |####
                                |####
-
-                               |#
- bemasher/rtlamr               |#
-                               |#
 
                                |##########
  openconfig/featureprofiles    |##########
@@ -66,10 +54,6 @@ Since 2025-01-08 11:24:58 -0800 PST, I'm most active between 13:00-13:59 - with 
  openconfig/gnoi               |#################
                                |#################
 
-                               |####
- openconfig/gnmi               |####
-                               |####
-
                                |##########
  openconfig/gribigo            |##########
                                |##########
@@ -77,6 +61,22 @@ Since 2025-01-08 11:24:58 -0800 PST, I'm most active between 13:00-13:59 - with 
                                |########
  robshakir/rtlamr              |########
                                |########
+
+                               |####
+ openconfig/gnmi               |####
+                               |####
+
+                               |#
+ bemasher/rtlamr               |#
+                               |#
+
+                               |#####
+ openconfig/containerz         |#####
+                               |#####
+
+                               |#####
+ openconfig/public             |#####
+                               |#####
 
 
 
@@ -86,4 +86,4 @@ Since 2025-01-08 11:24:58 -0800 PST, I've been most active in openconfig/gnoi, w
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2025-02-07 06:45:53.3020142 -0800 PST
+Last Updated: 2025-02-07 07:01:23.776344373 -0800 PST
