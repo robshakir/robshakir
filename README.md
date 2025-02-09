@@ -42,9 +42,25 @@ Since 2025-01-10 10:00:59 -0800 PST, I'm most active between 13:00-13:59 - with 
 
 
 ```
+                               |###############
+ openconfig/gnoi               |###############
+                               |###############
+
                                |########
  robshakir/rtlamr              |########
                                |########
+
+                               |####
+ openconfig/gnmi               |####
+                               |####
+
+                               |####
+ openconfig/clio               |####
+                               |####
+
+                               |#
+ bemasher/rtlamr               |#
+                               |#
 
                                |###############
  openconfig/featureprofiles    |###############
@@ -54,10 +70,6 @@ Since 2025-01-10 10:00:59 -0800 PST, I'm most active between 13:00-13:59 - with 
  openconfig/containerz         |######
                                |######
 
-                               |###############
- openconfig/gnoi               |###############
-                               |###############
-
                                |#####
  openconfig/public             |#####
                                |#####
@@ -66,24 +78,12 @@ Since 2025-01-10 10:00:59 -0800 PST, I'm most active between 13:00-13:59 - with 
  openconfig/gribigo            |#####
                                |#####
 
-                               |####
- openconfig/clio               |####
-                               |####
-
-                               |####
- openconfig/gnmi               |####
-                               |####
-
-                               |#
- bemasher/rtlamr               |#
-                               |#
 
 
-
-Since 2025-01-10 10:00:59 -0800 PST, I've been most active in openconfig/featureprofiles, with 15 events.
+Since 2025-01-10 10:00:59 -0800 PST, I've been most active in openconfig/gnoi, with 15 events.
 
 ```
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2025-02-09 00:21:00.750503317 -0800 PST
+Last Updated: 2025-02-09 00:32:40.230697806 -0800 PST
