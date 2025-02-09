@@ -42,13 +42,13 @@ Since 2025-01-09 20:38:08 -0800 PST, I'm most active between 13:00-13:59 - with 
 
 
 ```
-                               |###############
- openconfig/featureprofiles    |###############
-                               |###############
-
                                |#####
  openconfig/public             |#####
                                |#####
+
+                               |####
+ openconfig/clio               |####
+                               |####
 
                                |########
  robshakir/rtlamr              |########
@@ -58,6 +58,14 @@ Since 2025-01-09 20:38:08 -0800 PST, I'm most active between 13:00-13:59 - with 
  openconfig/gnmi               |####
                                |####
 
+                               |###############
+ openconfig/featureprofiles    |###############
+                               |###############
+
+                               |###############
+ openconfig/gnoi               |###############
+                               |###############
+
                                |#
  bemasher/rtlamr               |#
                                |#
@@ -66,24 +74,16 @@ Since 2025-01-09 20:38:08 -0800 PST, I'm most active between 13:00-13:59 - with 
  openconfig/containerz         |######
                                |######
 
-                               |###############
- openconfig/gnoi               |###############
-                               |###############
-
                                |########
  openconfig/gribigo            |########
                                |########
 
-                               |####
- openconfig/clio               |####
-                               |####
 
 
-
-Since 2025-01-09 20:38:08 -0800 PST, I've been most active in openconfig/gnoi, with 15 events.
+Since 2025-01-09 20:38:08 -0800 PST, I've been most active in openconfig/featureprofiles, with 15 events.
 
 ```
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2025-02-08 20:20:50.824213701 -0800 PST
+Last Updated: 2025-02-08 20:33:07.911462027 -0800 PST
