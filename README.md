@@ -42,10 +42,6 @@ Since 2025-01-11 15:38:47 -0800 PST, I'm most active between 13:00-13:59 - with 
 
 
 ```
-                               |####
- openconfig/gnmi               |####
-                               |####
-
                                |#
  bemasher/rtlamr               |#
                                |#
@@ -53,6 +49,22 @@ Since 2025-01-11 15:38:47 -0800 PST, I'm most active between 13:00-13:59 - with 
                                |###############
  openconfig/featureprofiles    |###############
                                |###############
+
+                               |####
+ openconfig/clio               |####
+                               |####
+
+                               |########
+ robshakir/rtlamr              |########
+                               |########
+
+                               |#####
+ openconfig/gribigo            |#####
+                               |#####
+
+                               |####
+ openconfig/gnmi               |####
+                               |####
 
                                |######
  openconfig/containerz         |######
@@ -63,20 +75,8 @@ Since 2025-01-11 15:38:47 -0800 PST, I'm most active between 13:00-13:59 - with 
                                |##############
 
                                |#####
- openconfig/gribigo            |#####
-                               |#####
-
-                               |####
- openconfig/clio               |####
-                               |####
-
-                               |#####
  openconfig/public             |#####
                                |#####
-
-                               |########
- robshakir/rtlamr              |########
-                               |########
 
 
 
@@ -86,4 +86,4 @@ Since 2025-01-11 15:38:47 -0800 PST, I've been most active in openconfig/feature
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2025-02-10 04:42:27.774278495 -0800 PST
+Last Updated: 2025-02-10 04:56:08.844493972 -0800 PST
