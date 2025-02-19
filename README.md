@@ -42,17 +42,13 @@ Since 2025-01-21 11:29:49 -0800 PST, I'm most active between 13:00-13:59 - with 
 
 
 ```
-                               |#################
- openconfig/featureprofiles    |#################
-                               |#################
-
                                |##############
  openconfig/gnoi               |##############
                                |##############
 
-                               |###
- openconfig/public             |###
-                               |###
+                               |####
+ openconfig/clio               |####
+                               |####
 
                                |##
  robshakir/rtlamr              |##
@@ -62,9 +58,9 @@ Since 2025-01-21 11:29:49 -0800 PST, I'm most active between 13:00-13:59 - with 
  openconfig/gnmi               |####
                                |####
 
-                               |###
- openconfig/ygot               |###
-                               |###
+                               |#################
+ openconfig/featureprofiles    |#################
+                               |#################
 
                                |######
  openconfig/gribigo            |######
@@ -74,9 +70,13 @@ Since 2025-01-21 11:29:49 -0800 PST, I'm most active between 13:00-13:59 - with 
  openconfig/containerz         |######
                                |######
 
-                               |####
- openconfig/clio               |####
-                               |####
+                               |###
+ openconfig/public             |###
+                               |###
+
+                               |###
+ openconfig/ygot               |###
+                               |###
 
 
 
@@ -86,4 +86,4 @@ Since 2025-01-21 11:29:49 -0800 PST, I've been most active in openconfig/feature
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2025-02-19 15:20:03.340697636 -0800 PST
+Last Updated: 2025-02-19 15:30:52.286239611 -0800 PST
