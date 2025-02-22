@@ -42,6 +42,10 @@ Since 2025-01-23 13:38:36 -0800 PST, I'm most active between 13:00-13:59 - with 
 
 
 ```
+                               |###
+ openconfig/public             |###
+                               |###
+
                                |####
  openconfig/clio               |####
                                |####
@@ -70,10 +74,6 @@ Since 2025-01-23 13:38:36 -0800 PST, I'm most active between 13:00-13:59 - with 
  openconfig/gnoi               |##############
                                |##############
 
-                               |###
- openconfig/public             |###
-                               |###
-
 
 
 Since 2025-01-23 13:38:36 -0800 PST, I've been most active in openconfig/gnoi, with 14 events.
@@ -82,4 +82,4 @@ Since 2025-01-23 13:38:36 -0800 PST, I've been most active in openconfig/gnoi, w
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2025-02-22 11:46:00.744808763 -0800 PST
+Last Updated: 2025-02-22 12:01:26.512346881 -0800 PST
