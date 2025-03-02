@@ -54,10 +54,6 @@ Since 2025-01-31 22:01:17 -0800 PST, I'm most active between 13:00-13:59 - with 
  openconfig/gribigo             |##
                                 |##
 
-                                |###
- openconfig/public              |###
-                                |###
-
                                 |#
  wendall-robinson/flowmaster    |#
                                 |#
@@ -74,6 +70,10 @@ Since 2025-01-31 22:01:17 -0800 PST, I'm most active between 13:00-13:59 - with 
  openconfig/containerz          |######
                                 |######
 
+                                |###
+ openconfig/public              |###
+                                |###
+
                                 |##
  openconfig/reference           |##
                                 |##
@@ -86,4 +86,4 @@ Since 2025-01-31 22:01:17 -0800 PST, I've been most active in openconfig/feature
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2025-03-02 09:01:20.814821169 -0800 PST
+Last Updated: 2025-03-02 09:19:22.876370674 -0800 PST
