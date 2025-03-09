@@ -54,16 +54,8 @@ Since 2025-02-07 08:15:37 -0800 PST, I'm most active between 21:00-21:59 - with 
  openconfig/featureprofiles     |###########
                                 |###########
 
-                                |####
- openconfig/public              |####
-                                |####
-
                                 |#
  wendall-robinson/flowmaster    |#
-                                |#
-
-                                |#
- openconfig/gnoi                |#
                                 |#
 
                                 |#
@@ -74,9 +66,17 @@ Since 2025-02-07 08:15:37 -0800 PST, I'm most active between 21:00-21:59 - with 
  openconfig/gribigo             |#
                                 |#
 
+                                |####
+ openconfig/public              |####
+                                |####
+
                                 |##
  openconfig/reference           |##
                                 |##
+
+                                |#
+ openconfig/gnoi                |#
+                                |#
 
 
 
@@ -86,4 +86,4 @@ Since 2025-02-07 08:15:37 -0800 PST, I've been most active in openconfig/feature
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2025-03-09 01:30:56.931590671 -0800 PST
+Last Updated: 2025-03-09 01:46:07.275674703 -0800 PST
