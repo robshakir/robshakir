@@ -42,10 +42,6 @@ Since 2025-02-15 23:26:29 -0800 PST, I'm most active between 14:00-14:59 - with 
 
 
 ```
-                                |#######################
- openconfig/featureprofiles     |#######################
-                                |#######################
-
                                 |###
  openconfig/bootz               |###
                                 |###
@@ -54,13 +50,29 @@ Since 2025-02-15 23:26:29 -0800 PST, I'm most active between 14:00-14:59 - with 
  openconfig/containerz          |###
                                 |###
 
-                                |####
- openconfig/public              |####
-                                |####
+                                |##########
+ openconfig/ygot                |##########
+                                |##########
 
                                 |#
  wendall-robinson/flowmaster    |#
                                 |#
+
+                                |#
+ openconfig/gnoi                |#
+                                |#
+
+                                |#######################
+ openconfig/featureprofiles     |#######################
+                                |#######################
+
+                                |#####
+ openconfig/reference           |#####
+                                |#####
+
+                                |####
+ openconfig/public              |####
+                                |####
 
                                 |#
  robshakir/rtlamr               |#
@@ -68,18 +80,6 @@ Since 2025-02-15 23:26:29 -0800 PST, I'm most active between 14:00-14:59 - with 
 
                                 |#
  openconfig/gribigo             |#
-                                |#
-
-                                |#####
- openconfig/reference           |#####
-                                |#####
-
-                                |##########
- openconfig/ygot                |##########
-                                |##########
-
-                                |#
- openconfig/gnoi                |#
                                 |#
 
 
@@ -90,4 +90,4 @@ Since 2025-02-15 23:26:29 -0800 PST, I've been most active in openconfig/feature
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2025-03-13 06:22:16.55974722 -0700 PDT
+Last Updated: 2025-03-13 06:35:30.846095773 -0700 PDT
