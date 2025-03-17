@@ -46,22 +46,6 @@ Since 2025-02-15 23:26:29 -0800 PST, I'm most active between 14:00-14:59 - with 
  openconfig/featureprofiles     |##########################
                                 |##########################
 
-                                |#####
- openconfig/reference           |#####
-                                |#####
-
-                                |####
- openconfig/public              |####
-                                |####
-
-                                |#
- wendall-robinson/flowmaster    |#
-                                |#
-
-                                |#
- robshakir/rtlamr               |#
-                                |#
-
                                 |###
  openconfig/bootz               |###
                                 |###
@@ -74,8 +58,24 @@ Since 2025-02-15 23:26:29 -0800 PST, I'm most active between 14:00-14:59 - with 
  openconfig/ygot                |##########
                                 |##########
 
+                                |####
+ openconfig/public              |####
+                                |####
+
+                                |#
+ wendall-robinson/flowmaster    |#
+                                |#
+
                                 |#
  openconfig/gnoi                |#
+                                |#
+
+                                |#####
+ openconfig/reference           |#####
+                                |#####
+
+                                |#
+ robshakir/rtlamr               |#
                                 |#
 
                                 |#
@@ -90,4 +90,4 @@ Since 2025-02-15 23:26:29 -0800 PST, I've been most active in openconfig/feature
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2025-03-17 00:01:26.709028137 -0700 PDT
+Last Updated: 2025-03-17 00:20:36.555351085 -0700 PDT
