@@ -42,22 +42,6 @@ Since 2025-03-04 16:23:30 -0800 PST, I'm most active between 14:00-14:59 - with 
 
 
 ```
-                                      |####
- openconfig/lemming                   |####
-                                      |####
-
-                                      |###
- openconfig/reference                 |###
-                                      |###
-
-                                      |########
- openconfig/magna                     |########
-                                      |########
-
-                                      |#######
- openconfig/gribigo                   |#######
-                                      |#######
-
                                       |########
  openconfig/gnoi                      |########
                                       |########
@@ -70,13 +54,33 @@ Since 2025-03-04 16:23:30 -0800 PST, I'm most active between 14:00-14:59 - with 
  openconfig/featureprofiles           |############################
                                       |############################
 
+                                      |#
+ Swetha-haridasula/featureprofiles    |#
+                                      |#
+
                                       |###
  openconfig/bootz                     |###
                                       |###
 
+                                      |########
+ openconfig/magna                     |########
+                                      |########
+
                                       |################
  openconfig/ygnmi                     |################
                                       |################
+
+                                      |#######
+ openconfig/gribigo                   |#######
+                                      |#######
+
+                                      |########
+ openconfig/ygot                      |########
+                                      |########
+
+                                      |###
+ openconfig/reference                 |###
+                                      |###
 
                                       |######
  openconfig/containerz                |######
@@ -86,13 +90,9 @@ Since 2025-03-04 16:23:30 -0800 PST, I'm most active between 14:00-14:59 - with 
  openconfig/public                    |######
                                       |######
 
-                                      |#
- Swetha-haridasula/featureprofiles    |#
-                                      |#
-
-                                      |########
- openconfig/ygot                      |########
-                                      |########
+                                      |####
+ openconfig/lemming                   |####
+                                      |####
 
 
 
@@ -102,4 +102,4 @@ Since 2025-03-04 16:23:30 -0800 PST, I've been most active in openconfig/feature
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2025-03-26 15:34:03.516209223 -0700 PDT
+Last Updated: 2025-03-26 15:46:04.301279425 -0700 PDT
