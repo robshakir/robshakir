@@ -1,5 +1,7 @@
 ### 🍞 Bread Crumbs
 
+ * 🐿: Created a release in `openconfig/ygnmi` at 2025-03-27 08:58:07 -0700 PDT
+ * 💥: Created a branch in `openconfig/ygnmi` at 2025-03-27 08:58:07 -0700 PDT
  * 🗑: Deleted a branch in `openconfig/magna` at 2025-03-26 09:09:10 -0700 PDT
  * 🚢: Pushed some commits to `openconfig/magna` at 2025-03-26 09:09:06 -0700 PDT
  * ✍🏼: Created a pull request in `openconfig/magna` at 2025-03-26 09:09:05 -0700 PDT
@@ -8,8 +10,6 @@
  * 🚢: Pushed some commits to `openconfig/magna` at 2025-03-26 09:08:31 -0700 PDT
  * ✍🏼: Created a pull request in `openconfig/magna` at 2025-03-26 09:08:31 -0700 PDT
  * 🔍: Reviewed a pull request in  `openconfig/magna` at 2025-03-26 09:08:25 -0700 PDT
- * 🚢: Pushed some commits to `openconfig/ygnmi` at 2025-03-26 08:31:59 -0700 PDT
- * ✍🏼: Created a pull request in `openconfig/ygnmi` at 2025-03-26 08:31:58 -0700 PDT
 
 ### 🕘 Recent Activity
 ```
@@ -17,14 +17,14 @@
  18 ┤                                                           ││
  17 ┤                                                           │╰╮
  15 ┤                                                          ╭╯ │
- 14 ┤                                                          │  │
- 13 ┤                                  ╭╮                     ╭╯  ╰╮
- 11 ┤                                 ╭╯╰─╮                   │    │
- 10 ┤                                 │   ╰╮                  │    │     ╭─╮              ╭╮
-  9 ┤                                ╭╯    ╰╮                ╭╯    ╰╮   ╭╯ ╰──╮           │╰─╮
-  8 ┤                                │      ╰╮     ╭╮        │      │   │     ╰╮         ╭╯  ╰─╮
-  6 ┤                                │       ╰╮   ╭╯╰╮       │      │  ╭╯      │         │     ╰╮
-  5 ┤                               ╭╯        │  ╭╯  ╰╮     ╭╯      ╰╮╭╯       ╰╮       ╭╯      │
+ 14 ┤                                 ╭─╮                      │  │
+ 13 ┤                                 │ ╰╮                    ╭╯  ╰╮
+ 11 ┤                                 │  ╰─╮                  │    │
+ 10 ┤                                ╭╯    │                  │    │                      ╭╮
+  9 ┤                                │     ╰╮                ╭╯    ╰╮      ╭──╮           │╰─╮
+  8 ┤                                │      ╰╮     ╭╮        │      │    ╭─╯  ╰╮         ╭╯  ╰─╮
+  6 ┤                               ╭╯       ╰╮   ╭╯╰╮       │      │  ╭─╯     │         │     ╰╮
+  5 ┤                               │         │  ╭╯  ╰╮     ╭╯      ╰╮╭╯       ╰╮       ╭╯      │
   4 ┤                               │         ╰╮╭╯    │    ╭╯        ╰╯         │       │       ╰╮
   3 ┤                   ╭───╮      ╭╯          ╰╯     ╰╮  ╭╯                    ╰╮     ╭╯        ╰╮
   1 ┤                  ╭╯   ╰╮     │                   ╰╮╭╯                      ╰╮    │          ╰╮
@@ -35,16 +35,28 @@
 						Commits by Hour of Day
 
 
-Since 2025-03-04 16:23:30 -0800 PST, I'm most active between 14:00-14:59 - with 20 events in that hour.
+Since 2025-03-04 16:23:25 -0800 PST, I'm most active between 14:00-14:59 - with 20 events in that hour.
 
 ```
 
 
 
 ```
-                                      |################
- openconfig/ygnmi                     |################
-                                      |################
+                                      |###
+ openconfig/reference                 |###
+                                      |###
+
+                                      |########
+ openconfig/gnoi                      |########
+                                      |########
+
+                                      |######
+ openconfig/public                    |######
+                                      |######
+
+                                      |##########################
+ openconfig/featureprofiles           |##########################
+                                      |##########################
 
                                       |####
  openconfig/lemming                   |####
@@ -54,34 +66,6 @@ Since 2025-03-04 16:23:30 -0800 PST, I'm most active between 14:00-14:59 - with 
  openconfig/ygot                      |########
                                       |########
 
-                                      |########
- openconfig/magna                     |########
-                                      |########
-
-                                      |#######
- openconfig/gribigo                   |#######
-                                      |#######
-
-                                      |########
- openconfig/gnoi                      |########
-                                      |########
-
-                                      |######
- openconfig/containerz                |######
-                                      |######
-
-                                      |######
- openconfig/public                    |######
-                                      |######
-
-                                      |##
- openconfig/ondatra                   |##
-                                      |##
-
-                                      |############################
- openconfig/featureprofiles           |############################
-                                      |############################
-
                                       |#
  Swetha-haridasula/featureprofiles    |#
                                       |#
@@ -90,16 +74,32 @@ Since 2025-03-04 16:23:30 -0800 PST, I'm most active between 14:00-14:59 - with 
  openconfig/bootz                     |###
                                       |###
 
-                                      |###
- openconfig/reference                 |###
-                                      |###
+                                      |##################
+ openconfig/ygnmi                     |##################
+                                      |##################
+
+                                      |########
+ openconfig/magna                     |########
+                                      |########
+
+                                      |#######
+ openconfig/gribigo                   |#######
+                                      |#######
+
+                                      |######
+ openconfig/containerz                |######
+                                      |######
+
+                                      |##
+ openconfig/ondatra                   |##
+                                      |##
 
 
 
-Since 2025-03-04 16:23:30 -0800 PST, I've been most active in openconfig/featureprofiles, with 28 events.
+Since 2025-03-04 16:23:25 -0800 PST, I've been most active in openconfig/featureprofiles, with 26 events.
 
 ```
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2025-03-27 17:04:08.693405163 -0700 PDT
+Last Updated: 2025-03-27 17:34:37.366881031 -0700 PDT
