@@ -42,14 +42,6 @@ Since 2025-03-06 21:50:51 -0800 PST, I'm most active between 14:00-14:59 - with 
 
 
 ```
-                                      |##################
- openconfig/ygnmi                     |##################
-                                      |##################
-
-                                      |########################
- openconfig/featureprofiles           |########################
-                                      |########################
-
                                       |####
  openconfig/lemming                   |####
                                       |####
@@ -58,20 +50,12 @@ Since 2025-03-06 21:50:51 -0800 PST, I'm most active between 14:00-14:59 - with 
  openconfig/bootz                     |###
                                       |###
 
-                                      |###
- openconfig/reference                 |###
-                                      |###
-
-                                      |##########
- openconfig/ygot                      |##########
-                                      |##########
-
-                                      |#######
- openconfig/gribigo                   |#######
-                                      |#######
+                                      |##################
+ openconfig/ygnmi                     |##################
+                                      |##################
 
                                       |########
- openconfig/gnoi                      |########
+ openconfig/magna                     |########
                                       |########
 
                                       |######
@@ -90,9 +74,25 @@ Since 2025-03-06 21:50:51 -0800 PST, I'm most active between 14:00-14:59 - with 
  Swetha-haridasula/featureprofiles    |#
                                       |#
 
+                                      |###
+ openconfig/reference                 |###
+                                      |###
+
+                                      |##########
+ openconfig/ygot                      |##########
+                                      |##########
+
+                                      |#######
+ openconfig/gribigo                   |#######
+                                      |#######
+
                                       |########
- openconfig/magna                     |########
+ openconfig/gnoi                      |########
                                       |########
+
+                                      |########################
+ openconfig/featureprofiles           |########################
+                                      |########################
 
 
 
@@ -102,4 +102,4 @@ Since 2025-03-06 21:50:51 -0800 PST, I've been most active in openconfig/feature
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2025-03-30 10:20:20.367409301 -0700 PDT
+Last Updated: 2025-03-30 10:32:01.081421255 -0700 PDT
