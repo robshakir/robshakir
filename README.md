@@ -1,5 +1,6 @@
 ### 🍞 Bread Crumbs
 
+ * 😃: Commented on an issue in `openconfig/reference` at 2025-04-07 09:26:58 -0700 PDT
  * 😃: Commented on an issue in `openconfig/gnmi` at 2025-04-04 14:35:07 -0700 PDT
  * 💬: Commented on a PR in  `openconfig/gribigo` at 2025-04-04 13:33:53 -0700 PDT
  * 🔍: Reviewed a pull request in  `openconfig/gribigo` at 2025-04-04 13:35:43 -0700 PDT
@@ -9,101 +10,100 @@
  * 💬: Commented on a PR in  `openconfig/ygot` at 2025-04-04 13:30:43 -0700 PDT
  * 🔍: Reviewed a pull request in  `openconfig/ygot` at 2025-04-04 13:33:30 -0700 PDT
  * 🔍: Reviewed a pull request in  `openconfig/ygot` at 2025-04-04 13:33:29 -0700 PDT
- * 🚢: Pushed some commits to `openconfig/featureprofiles` at 2025-04-03 14:24:36 -0700 PDT
 
 ### 🕘 Recent Activity
 ```
  27 ┼                                                                        ╭╮
  25 ┤                                                                        ││
  23 ┤                                                                        │╰╮
- 22 ┤                                                                       ╭╯ │
- 20 ┤                                                                       │  │
+ 21 ┤                                                                        │ │
+ 20 ┤                                                                       ╭╯ │
  18 ┤                                                                       │  ╰╮
  16 ┤                                                                       │   │
  14 ┤                                                                      ╭╯   │
- 13 ┤                                                                      │    │
- 11 ┤                                     ╭─╮      ╭──╮     ╭╮             │    ╰╮
-  9 ┤                                   ╭─╯ ╰╮    ╭╯  ╰╮  ╭─╯╰───╮        ╭╯     │
-  7 ┤                                  ╭╯    ╰╮  ╭╯    ╰──╯      ╰╮       │      │        ╭╮
+ 13 ┤                                     ╭─╮                              │    │
+ 11 ┤                                    ╭╯ ╰╮     ╭──╮     ╭╮             │    ╰╮
+  9 ┤                                   ╭╯   │    ╭╯  ╰╮  ╭─╯╰───╮         │     │
+  7 ┤                                  ╭╯    ╰╮  ╭╯    ╰──╯      ╰╮       ╭╯     │        ╭╮
   5 ┤                                 ╭╯      ╰╮╭╯                ╰╮      │      ╰╮      ╭╯╰╮
   4 ┤                                ╭╯        ╰╯                  ╰╮     │       │     ╭╯  ╰╮
-  2 ┤                  ╭─────╮     ╭─╯                              ╰╮   ╭╯       ╰──╮ ╭╯    ╰╮
-  0 ┼──────────────────╯     ╰─────╯                                 ╰───╯           ╰─╯      ╰─────────
+  2 ┤                  ╭─────╮     ╭─╯                              ╰╮    │       ╰──╮ ╭╯    ╰╮
+  0 ┼──────────────────╯     ╰─────╯                                 ╰────╯          ╰─╯      ╰─────────
     +───────+───────+───────+───────+───────+───────+───────+───────+───────+───────+───────+───────+────
   00:00   02:00   04:00   06:00   08:00   10:00   12:00   14:00   16:00   18:00   20:00   22:00   00:00   
 
 						Commits by Hour of Day
 
 
-Since 2025-03-18 16:36:34 -0700 PDT, I'm most active between 17:00-17:59 - with 28 events in that hour.
+Since 2025-03-19 10:56:42 -0700 PDT, I'm most active between 17:00-17:59 - with 28 events in that hour.
 
 ```
 
 
 
 ```
-                                      |###############################
- openconfig/public                    |###############################
-                                      |###############################
-
-                                      |##
- openconfig/ondatra                   |##
-                                      |##
-
-                                      |##
- openconfig/gnmi                      |##
-                                      |##
-
                                       |#############
  openconfig/gribigo                   |#############
-                                      |#############
-
-                                      |#############
- openconfig/featureprofiles           |#############
                                       |#############
 
                                       |##
  openconfig/bootz                     |##
                                       |##
 
-                                      |#####
- openconfig/ygnmi                     |#####
-                                      |#####
+                                      |########
+ openconfig/magna                     |########
+                                      |########
 
-                                      |###
- openconfig/containerz                |###
-                                      |###
+                                      |##
+ openconfig/gnmi                      |##
+                                      |##
 
                                       |##########
  openconfig/ygot                      |##########
                                       |##########
 
-                                      |#
- Swetha-haridasula/featureprofiles    |#
-                                      |#
+                                      |###############################
+ openconfig/public                    |###############################
+                                      |###############################
+
+                                      |###
+ openconfig/containerz                |###
+                                      |###
 
                                       |#
- openconfig/lemming                   |#
+ openconfig/reference                 |#
                                       |#
 
                                       |#
  alshabib/featureprofiles             |#
                                       |#
 
-                                      |########
- openconfig/magna                     |########
-                                      |########
+                                      |#####
+ openconfig/ygnmi                     |#####
+                                      |#####
 
                                       |########
  openconfig/gnoi                      |########
                                       |########
 
+                                      |#############
+ openconfig/featureprofiles           |#############
+                                      |#############
+
+                                      |##
+ openconfig/ondatra                   |##
+                                      |##
+
+                                      |#
+ Swetha-haridasula/featureprofiles    |#
+                                      |#
 
 
-Since 2025-03-18 16:36:34 -0700 PDT, I've been most active in openconfig/public, with 31 events.
+
+Since 2025-03-19 10:56:42 -0700 PDT, I've been most active in openconfig/public, with 31 events.
 
 ```
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2025-04-07 14:45:54.640669273 -0700 PDT
+Last Updated: 2025-04-07 15:01:31.528372148 -0700 PDT
