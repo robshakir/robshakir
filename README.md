@@ -42,21 +42,9 @@ Since 2025-03-26 08:31:59 -0700 PDT, I'm most active between 17:00-17:59 - with 
 
 
 ```
-                               |###########
- openconfig/reference          |###########
-                               |###########
-
-                               |###############
- openconfig/ygot               |###############
-                               |###############
-
-                               |##
- openconfig/bootz              |##
-                               |##
-
-                               |#########################
- openconfig/public             |#########################
-                               |#########################
+                               |#
+ alshabib/featureprofiles      |#
+                               |#
 
                                |################
  openconfig/featureprofiles    |################
@@ -67,28 +55,40 @@ Since 2025-03-26 08:31:59 -0700 PDT, I'm most active between 17:00-17:59 - with 
                                |##
 
                                |###
- openconfig/gnmi               |###
-                               |###
-
-                               |#
- alshabib/featureprofiles      |#
-                               |#
-
-                               |###
- openconfig/ygnmi              |###
-                               |###
-
-                               |########
- openconfig/magna              |########
-                               |########
-
-                               |###
  openconfig/gnoigo             |###
                                |###
 
                                |###########
  openconfig/gribigo            |###########
                                |###########
+
+                               |###########
+ openconfig/reference          |###########
+                               |###########
+
+                               |###############
+ openconfig/ygot               |###############
+                               |###############
+
+                               |#########################
+ openconfig/public             |#########################
+                               |#########################
+
+                               |###
+ openconfig/ygnmi              |###
+                               |###
+
+                               |###
+ openconfig/gnmi               |###
+                               |###
+
+                               |##
+ openconfig/bootz              |##
+                               |##
+
+                               |########
+ openconfig/magna              |########
+                               |########
 
 
 
@@ -98,4 +98,4 @@ Since 2025-03-26 08:31:59 -0700 PDT, I've been most active in openconfig/public,
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2025-04-09 07:36:10.30872353 -0700 PDT
+Last Updated: 2025-04-09 07:48:24.230413575 -0700 PDT
