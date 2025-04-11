@@ -42,28 +42,12 @@ Since 2025-03-26 09:08:31 -0700 PDT, I'm most active between 17:00-17:59 - with 
 
 
 ```
-                               |###
- openconfig/gnmic              |###
-                               |###
-
                                |################
  openconfig/featureprofiles    |################
                                |################
 
                                |##
  openconfig/containerz         |##
-                               |##
-
-                               |##
- openconfig/bootz              |##
-                               |##
-
-                               |######
- openconfig/magna              |######
-                               |######
-
-                               |##
- openconfig/ygnmi              |##
                                |##
 
                                |###
@@ -74,9 +58,21 @@ Since 2025-03-26 09:08:31 -0700 PDT, I'm most active between 17:00-17:59 - with 
  openconfig/gribigo            |###########
                                |###########
 
-                               |###########
- openconfig/reference          |###########
-                               |###########
+                               |##
+ openconfig/bootz              |##
+                               |##
+
+                               |#########################
+ openconfig/public             |#########################
+                               |#########################
+
+                               |##
+ openconfig/ygnmi              |##
+                               |##
+
+                               |###
+ openconfig/gnmic              |###
+                               |###
 
                                |###
  openconfig/gnmi               |###
@@ -86,13 +82,17 @@ Since 2025-03-26 09:08:31 -0700 PDT, I'm most active between 17:00-17:59 - with 
  openconfig/ygot               |###############
                                |###############
 
-                               |#########################
- openconfig/public             |#########################
-                               |#########################
-
                                |#
  alshabib/featureprofiles      |#
                                |#
+
+                               |######
+ openconfig/magna              |######
+                               |######
+
+                               |###########
+ openconfig/reference          |###########
+                               |###########
 
 
 
@@ -102,4 +102,4 @@ Since 2025-03-26 09:08:31 -0700 PDT, I've been most active in openconfig/public,
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2025-04-10 17:04:18.764177011 -0700 PDT
+Last Updated: 2025-04-10 17:35:45.113674829 -0700 PDT
