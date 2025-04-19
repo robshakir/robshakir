@@ -42,13 +42,17 @@ Since 2025-04-03 12:15:09 -0700 PDT, I'm most active between 16:00-16:59 - with 
 
 
 ```
-                               |################
- openconfig/goyang             |################
-                               |################
-
                                |###########
  openconfig/featureprofiles    |###########
                                |###########
+
+                               |###
+ openconfig/gnmi               |###
+                               |###
+
+                               |######
+ openconfig/gnmic              |######
+                               |######
 
                                |#
  alshabib/featureprofiles      |#
@@ -58,17 +62,9 @@ Since 2025-04-03 12:15:09 -0700 PDT, I'm most active between 16:00-16:59 - with 
  openconfig/containerz         |##
                                |##
 
-                               |###########
- openconfig/reference          |###########
-                               |###########
-
-                               |##
- openconfig/bootz              |##
-                               |##
-
-                               |###
- openconfig/gnmi               |###
-                               |###
+                               |################
+ openconfig/goyang             |################
+                               |################
 
                                |##############
  openconfig/gribigo            |##############
@@ -86,13 +82,17 @@ Since 2025-04-03 12:15:09 -0700 PDT, I'm most active between 16:00-16:59 - with 
  openconfig/ygot               |#################
                                |#################
 
-                               |######
- openconfig/gnmic              |######
-                               |######
-
                                |###
  openconfig/gnoigo             |###
                                |###
+
+                               |###########
+ openconfig/reference          |###########
+                               |###########
+
+                               |##
+ openconfig/bootz              |##
+                               |##
 
 
 
@@ -102,4 +102,4 @@ Since 2025-04-03 12:15:09 -0700 PDT, I've been most active in openconfig/ygot, w
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2025-04-18 22:01:23.035359591 -0700 PDT
+Last Updated: 2025-04-18 22:20:40.133861371 -0700 PDT
