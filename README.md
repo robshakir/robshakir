@@ -58,13 +58,25 @@ Since 2025-04-04 13:33:20 -0700 PDT, I'm most active between 16:00-16:59 - with 
  openconfig/gnoigo             |###
                                |###
 
+                               |###########
+ openconfig/reference          |###########
+                               |###########
+
                                |#############
  openconfig/featureprofiles    |#############
                                |#############
 
+                               |#####################
+ openconfig/goyang             |#####################
+                               |#####################
+
                                |##############
  openconfig/gribigo            |##############
                                |##############
+
+                               |##
+ openconfig/gnmi               |##
+                               |##
 
                                |##########
  openconfig/public             |##########
@@ -78,18 +90,6 @@ Since 2025-04-04 13:33:20 -0700 PDT, I'm most active between 16:00-16:59 - with 
  openconfig/containerz         |##
                                |##
 
-                               |###########
- openconfig/reference          |###########
-                               |###########
-
-                               |##
- openconfig/gnmi               |##
-                               |##
-
-                               |#####################
- openconfig/goyang             |#####################
-                               |#####################
-
 
 
 Since 2025-04-04 13:33:20 -0700 PDT, I've been most active in openconfig/goyang, with 21 events.
@@ -98,4 +98,4 @@ Since 2025-04-04 13:33:20 -0700 PDT, I've been most active in openconfig/goyang,
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2025-04-22 06:47:36.7887409 -0700 PDT
+Last Updated: 2025-04-22 07:01:26.882215111 -0700 PDT
