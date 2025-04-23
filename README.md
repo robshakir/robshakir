@@ -46,17 +46,21 @@ Since 2025-04-04 13:33:20 -0700 PDT, I'm most active between 16:00-16:59 - with 
  openconfig/gribigo            |##############
                                |##############
 
-                               |######
- openconfig/gnmic              |######
-                               |######
+                               |##########
+ openconfig/public             |##########
+                               |##########
+
+                               |##############
+ openconfig/ygot               |##############
+                               |##############
 
                                |##
  openconfig/containerz         |##
                                |##
 
-                               |##
- openconfig/gnmi               |##
-                               |##
+                               |###########
+ openconfig/reference          |###########
+                               |###########
 
                                |#############
  openconfig/featureprofiles    |#############
@@ -66,18 +70,6 @@ Since 2025-04-04 13:33:20 -0700 PDT, I'm most active between 16:00-16:59 - with 
  openconfig/goyang             |#####################
                                |#####################
 
-                               |##########
- openconfig/public             |##########
-                               |##########
-
-                               |###
- openconfig/ygnmi              |###
-                               |###
-
-                               |##############
- openconfig/ygot               |##############
-                               |##############
-
                                |#
  alshabib/featureprofiles      |#
                                |#
@@ -86,9 +78,17 @@ Since 2025-04-04 13:33:20 -0700 PDT, I'm most active between 16:00-16:59 - with 
  openconfig/gnoigo             |###
                                |###
 
-                               |###########
- openconfig/reference          |###########
-                               |###########
+                               |##
+ openconfig/gnmi               |##
+                               |##
+
+                               |###
+ openconfig/ygnmi              |###
+                               |###
+
+                               |######
+ openconfig/gnmic              |######
+                               |######
 
 
 
@@ -98,4 +98,4 @@ Since 2025-04-04 13:33:20 -0700 PDT, I've been most active in openconfig/goyang,
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2025-04-23 11:50:20.691080285 -0700 PDT
+Last Updated: 2025-04-23 12:01:06.965404464 -0700 PDT
