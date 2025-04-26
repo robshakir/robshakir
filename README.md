@@ -46,22 +46,6 @@ Since 2025-04-04 13:23:52 -0700 PDT, I'm most active between 16:00-16:59 - with 
  openconfig/featureprofiles    |##############
                                |##############
 
-                               |######
- openconfig/gnmic              |######
-                               |######
-
-                               |##
- openconfig/containerz         |##
-                               |##
-
-                               |##
- openconfig/gnmi               |##
-                               |##
-
-                               |###########
- openconfig/reference          |###########
-                               |###########
-
                                |#####################
  openconfig/goyang             |#####################
                                |#####################
@@ -78,6 +62,18 @@ Since 2025-04-04 13:23:52 -0700 PDT, I'm most active between 16:00-16:59 - with 
  openconfig/ygnmi              |###
                                |###
 
+                               |######
+ openconfig/gnmic              |######
+                               |######
+
+                               |##
+ openconfig/containerz         |##
+                               |##
+
+                               |##
+ openconfig/gnmi               |##
+                               |##
+
                                |#############
  openconfig/ygot               |#############
                                |#############
@@ -90,6 +86,10 @@ Since 2025-04-04 13:23:52 -0700 PDT, I'm most active between 16:00-16:59 - with 
  openconfig/gnoigo             |###
                                |###
 
+                               |###########
+ openconfig/reference          |###########
+                               |###########
+
 
 
 Since 2025-04-04 13:23:52 -0700 PDT, I've been most active in openconfig/goyang, with 21 events.
@@ -98,4 +98,4 @@ Since 2025-04-04 13:23:52 -0700 PDT, I've been most active in openconfig/goyang,
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2025-04-26 12:30:54.593605901 -0700 PDT
+Last Updated: 2025-04-26 12:45:52.821212152 -0700 PDT
