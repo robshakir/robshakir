@@ -42,21 +42,9 @@ Since 2025-04-07 11:34:21 -0700 PDT, I'm most active between 16:00-16:59 - with 
 
 
 ```
-                               |#
- robshakir/gnmic               |#
-                               |#
-
-                               |#####################
- openconfig/goyang             |#####################
-                               |#####################
-
-                               |###
- openconfig/ygnmi              |###
-                               |###
-
-                               |######################
- openconfig/featureprofiles    |######################
-                               |######################
+                               |########
+ openconfig/gnmic              |########
+                               |########
 
                                |################
  openconfig/gribigo            |################
@@ -67,35 +55,47 @@ Since 2025-04-07 11:34:21 -0700 PDT, I'm most active between 16:00-16:59 - with 
                                |##
 
                                |###
- openconfig/gnoigo             |###
+ openconfig/reference          |###
                                |###
 
-                               |########
- openconfig/gnmic              |########
-                               |########
+                               |######################
+ openconfig/featureprofiles    |######################
+                               |######################
 
                                |#
  openconfig/lemming            |#
+                               |#
+
+                               |#
+ openconfig/gnmi               |#
+                               |#
+
+                               |#####################
+ openconfig/goyang             |#####################
+                               |#####################
+
+                               |###
+ openconfig/gnoigo             |###
+                               |###
+
+                               |#
+ robshakir/gnmic               |#
                                |#
 
                                |########
  openconfig/ygot               |########
                                |########
 
-                               |#
- alshabib/featureprofiles      |#
-                               |#
-
-                               |###
- openconfig/reference          |###
-                               |###
-
                                |##########
  openconfig/public             |##########
                                |##########
 
+                               |###
+ openconfig/ygnmi              |###
+                               |###
+
                                |#
- openconfig/gnmi               |#
+ alshabib/featureprofiles      |#
                                |#
 
 
@@ -106,4 +106,4 @@ Since 2025-04-07 11:34:21 -0700 PDT, I've been most active in openconfig/feature
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2025-05-06 20:02:12.321775082 -0700 PDT
+Last Updated: 2025-05-06 20:30:34.346259855 -0700 PDT
