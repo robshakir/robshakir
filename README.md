@@ -42,16 +42,12 @@ Since 2025-04-15 17:26:55 -0700 PDT, I'm most active between 16:00-16:59 - with 
 
 
 ```
-                               |#
- robshakir/gnmic               |#
-                               |#
-
                                |###########
  openconfig/gribigo            |###########
                                |###########
 
                                |###
- openconfig/ygnmi              |###
+ openconfig/ygot               |###
                                |###
 
                                |#####################
@@ -62,17 +58,9 @@ Since 2025-04-15 17:26:55 -0700 PDT, I'm most active between 16:00-16:59 - with 
  openconfig/featureprofiles    |###################################
                                |###################################
 
-                               |#############
- openconfig/public             |#############
-                               |#############
-
                                |#
  openconfig/gnoi               |#
                                |#
-
-                               |#########
- openconfig/bootz              |#########
-                               |#########
 
                                |##
  openconfig/gnmic              |##
@@ -83,8 +71,20 @@ Since 2025-04-15 17:26:55 -0700 PDT, I'm most active between 16:00-16:59 - with 
                                |#
 
                                |###
- openconfig/ygot               |###
+ openconfig/ygnmi              |###
                                |###
+
+                               |#############
+ openconfig/public             |#############
+                               |#############
+
+                               |#########
+ openconfig/bootz              |#########
+                               |#########
+
+                               |#
+ robshakir/gnmic               |#
+                               |#
 
 
 
@@ -94,4 +94,4 @@ Since 2025-04-15 17:26:55 -0700 PDT, I've been most active in openconfig/feature
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2025-05-13 09:37:47.945896783 -0700 PDT
+Last Updated: 2025-05-13 09:49:58.624184593 -0700 PDT
