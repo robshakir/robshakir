@@ -46,6 +46,22 @@ Since 2025-04-16 16:31:30 -0700 PDT, I'm most active between 16:00-16:59 - with 
  openconfig/public             |#############
                                |#############
 
+                               |##
+ openconfig/gnmic              |##
+                               |##
+
+                               |#
+ robshakir/gnmic               |#
+                               |#
+
+                               |#####################
+ openconfig/goyang             |#####################
+                               |#####################
+
+                               |###################################
+ openconfig/featureprofiles    |###################################
+                               |###################################
+
                                |#
  openconfig/gnoi               |#
                                |#
@@ -62,25 +78,9 @@ Since 2025-04-16 16:31:30 -0700 PDT, I'm most active between 16:00-16:59 - with 
  openconfig/lemming            |#
                                |#
 
-                               |###################################
- openconfig/featureprofiles    |###################################
-                               |###################################
-
-                               |#
- robshakir/gnmic               |#
-                               |#
-
                                |#
  openconfig/ygot               |#
                                |#
-
-                               |#####################
- openconfig/goyang             |#####################
-                               |#####################
-
-                               |##
- openconfig/gnmic              |##
-                               |##
 
 
 
@@ -90,4 +90,4 @@ Since 2025-04-16 16:31:30 -0700 PDT, I've been most active in openconfig/feature
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2025-05-16 14:45:57.584046573 -0700 PDT
+Last Updated: 2025-05-16 15:01:43.110886985 -0700 PDT
