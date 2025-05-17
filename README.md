@@ -42,14 +42,6 @@ Since 2025-04-17 07:12:21 -0700 PDT, I'm most active between 07:00-07:59 - with 
 
 
 ```
-                               |#
- openconfig/ygot               |#
-                               |#
-
-                               |###################################
- openconfig/featureprofiles    |###################################
-                               |###################################
-
                                |#############
  openconfig/public             |#############
                                |#############
@@ -57,10 +49,6 @@ Since 2025-04-17 07:12:21 -0700 PDT, I'm most active between 07:00-07:59 - with 
                                |#
  openconfig/gnoi               |#
                                |#
-
-                               |##
- openconfig/gnmic              |##
-                               |##
 
                                |#
  robshakir/gnmic               |#
@@ -70,13 +58,25 @@ Since 2025-04-17 07:12:21 -0700 PDT, I'm most active between 07:00-07:59 - with 
  openconfig/lemming            |#
                                |#
 
+                               |###################################
+ openconfig/featureprofiles    |###################################
+                               |###################################
+
                                |#########
  openconfig/bootz              |#########
                                |#########
 
+                               |##
+ openconfig/gnmic              |##
+                               |##
+
                                |########
  openconfig/gribigo            |########
                                |########
+
+                               |#
+ openconfig/ygot               |#
+                               |#
 
                                |#####################
  openconfig/goyang             |#####################
@@ -90,4 +90,4 @@ Since 2025-04-17 07:12:21 -0700 PDT, I've been most active in openconfig/feature
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2025-05-17 13:33:14.202091945 -0700 PDT
+Last Updated: 2025-05-17 13:46:01.178166765 -0700 PDT
