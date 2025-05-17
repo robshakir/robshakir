@@ -51,8 +51,24 @@ Since 2025-04-16 16:31:30 -0700 PDT, I'm most active between 16:00-16:59 - with 
                                |#########
 
                                |#
+ robshakir/gnmic               |#
+                               |#
+
+                               |###########
+ openconfig/gribigo            |###########
+                               |###########
+
+                               |#
  openconfig/lemming            |#
                                |#
+
+                               |###################################
+ openconfig/featureprofiles    |###################################
+                               |###################################
+
+                               |##
+ openconfig/gnmic              |##
+                               |##
 
                                |#
  openconfig/ygot               |#
@@ -62,25 +78,9 @@ Since 2025-04-16 16:31:30 -0700 PDT, I'm most active between 16:00-16:59 - with 
  openconfig/goyang             |#####################
                                |#####################
 
-                               |###################################
- openconfig/featureprofiles    |###################################
-                               |###################################
-
                                |#############
  openconfig/public             |#############
                                |#############
-
-                               |##
- openconfig/gnmic              |##
-                               |##
-
-                               |#
- robshakir/gnmic               |#
-                               |#
-
-                               |###########
- openconfig/gribigo            |###########
-                               |###########
 
 
 
@@ -90,4 +90,4 @@ Since 2025-04-16 16:31:30 -0700 PDT, I've been most active in openconfig/feature
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2025-05-16 23:37:16.409558565 -0700 PDT
+Last Updated: 2025-05-16 23:48:31.12621223 -0700 PDT
