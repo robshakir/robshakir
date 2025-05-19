@@ -42,13 +42,9 @@ Since 2025-04-19 08:41:40 -0700 PDT, I'm most active between 11:00-11:59 - with 
 
 
 ```
-                               |#
- openconfig/lemming            |#
-                               |#
-
-                               |#########
- openconfig/bootz              |#########
-                               |#########
+                               |###
+ openconfig/public             |###
+                               |###
 
                                |##
  openconfig/gnmic              |##
@@ -59,11 +55,7 @@ Since 2025-04-19 08:41:40 -0700 PDT, I'm most active between 11:00-11:59 - with 
                                |#####
 
                                |#
- robshakir/gnmic               |#
-                               |#
-
-                               |#
- openconfig/ygot               |#
+ openconfig/lemming            |#
                                |#
 
                                |#####
@@ -74,12 +66,20 @@ Since 2025-04-19 08:41:40 -0700 PDT, I'm most active between 11:00-11:59 - with 
  openconfig/featureprofiles    |###################################
                                |###################################
 
-                               |###
- openconfig/public             |###
-                               |###
-
                                |#
  openconfig/gnoi               |#
+                               |#
+
+                               |#########
+ openconfig/bootz              |#########
+                               |#########
+
+                               |#
+ robshakir/gnmic               |#
+                               |#
+
+                               |#
+ openconfig/ygot               |#
                                |#
 
 
@@ -90,4 +90,4 @@ Since 2025-04-19 08:41:40 -0700 PDT, I've been most active in openconfig/feature
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2025-05-19 10:01:31.361017915 -0700 PDT
+Last Updated: 2025-05-19 10:20:21.91307096 -0700 PDT
