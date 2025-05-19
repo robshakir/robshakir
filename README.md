@@ -42,22 +42,6 @@ Since 2025-04-19 08:41:40 -0700 PDT, I'm most active between 11:00-11:59 - with 
 
 
 ```
-                               |#
- openconfig/gnoi               |#
-                               |#
-
-                               |#
- robshakir/gnmic               |#
-                               |#
-
-                               |#####
- openconfig/gribigo            |#####
-                               |#####
-
-                               |#
- openconfig/ygot               |#
-                               |#
-
                                |###
  openconfig/public             |###
                                |###
@@ -71,7 +55,7 @@ Since 2025-04-19 08:41:40 -0700 PDT, I'm most active between 11:00-11:59 - with 
                                |##
 
                                |#
- openconfig/lemming            |#
+ openconfig/ygot               |#
                                |#
 
                                |#####
@@ -82,6 +66,22 @@ Since 2025-04-19 08:41:40 -0700 PDT, I'm most active between 11:00-11:59 - with 
  openconfig/featureprofiles    |###################################
                                |###################################
 
+                               |#
+ robshakir/gnmic               |#
+                               |#
+
+                               |#####
+ openconfig/gribigo            |#####
+                               |#####
+
+                               |#
+ openconfig/lemming            |#
+                               |#
+
+                               |#
+ openconfig/gnoi               |#
+                               |#
+
 
 
 Since 2025-04-19 08:41:40 -0700 PDT, I've been most active in openconfig/featureprofiles, with 35 events.
@@ -90,4 +90,4 @@ Since 2025-04-19 08:41:40 -0700 PDT, I've been most active in openconfig/feature
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2025-05-19 13:47:06.553773807 -0700 PDT
+Last Updated: 2025-05-19 14:01:25.477376183 -0700 PDT
