@@ -42,17 +42,21 @@ Since 2025-04-21 13:44:50 -0700 PDT, I'm most active between 11:00-11:59 - with 
 
 
 ```
+                               |#
+ openconfig/ygot               |#
+                               |#
+
                                |################
  openconfig/bootz              |################
                                |################
 
+                               |#######
+ robshakir/bootz               |#######
+                               |#######
+
                                |###
  openconfig/public             |###
                                |###
-
-                               |##
- openconfig/gnmic              |##
-                               |##
 
                                |#####
  openconfig/gribigo            |#####
@@ -62,14 +66,6 @@ Since 2025-04-21 13:44:50 -0700 PDT, I'm most active between 11:00-11:59 - with 
  openconfig/lemming            |#
                                |#
 
-                               |#
- openconfig/ygot               |#
-                               |#
-
-                               |#######
- robshakir/bootz               |#######
-                               |#######
-
                                |###################################
  openconfig/featureprofiles    |###################################
                                |###################################
@@ -77,6 +73,10 @@ Since 2025-04-21 13:44:50 -0700 PDT, I'm most active between 11:00-11:59 - with 
                                |#
  openconfig/gnoi               |#
                                |#
+
+                               |##
+ openconfig/gnmic              |##
+                               |##
 
                                |#
  robshakir/gnmic               |#
@@ -90,4 +90,4 @@ Since 2025-04-21 13:44:50 -0700 PDT, I've been most active in openconfig/feature
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2025-05-20 10:34:05.293034916 -0700 PDT
+Last Updated: 2025-05-20 10:46:09.255826009 -0700 PDT
