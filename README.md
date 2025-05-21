@@ -42,26 +42,6 @@ Since 2025-04-21 13:44:50 -0700 PDT, I'm most active between 11:00-11:59 - with 
 
 
 ```
-                               |#
- openconfig/gnoi               |#
-                               |#
-
-                               |#
- robshakir/gnmic               |#
-                               |#
-
-                               |#####
- openconfig/gribigo            |#####
-                               |#####
-
-                               |#
- openconfig/lemming            |#
-                               |#
-
-                               |#################
- openconfig/bootz              |#################
-                               |#################
-
                                |#######
  robshakir/bootz               |#######
                                |#######
@@ -74,13 +54,33 @@ Since 2025-04-21 13:44:50 -0700 PDT, I'm most active between 11:00-11:59 - with 
  openconfig/public             |###
                                |###
 
+                               |#
+ openconfig/gnoi               |#
+                               |#
+
                                |##
  openconfig/gnmic              |##
                                |##
 
                                |#
+ robshakir/gnmic               |#
+                               |#
+
+                               |#################
+ openconfig/bootz              |#################
+                               |#################
+
+                               |#
+ openconfig/lemming            |#
+                               |#
+
+                               |#
  openconfig/ygot               |#
                                |#
+
+                               |#####
+ openconfig/gribigo            |#####
+                               |#####
 
 
 
@@ -90,4 +90,4 @@ Since 2025-04-21 13:44:50 -0700 PDT, I've been most active in openconfig/feature
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2025-05-20 23:39:45.787559026 -0700 PDT
+Last Updated: 2025-05-20 23:50:49.431027112 -0700 PDT
