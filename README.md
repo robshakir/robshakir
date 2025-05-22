@@ -42,29 +42,13 @@ Since 2025-04-21 13:44:50 -0700 PDT, I'm most active between 11:00-11:59 - with 
 
 
 ```
-                               |#######
- robshakir/bootz               |#######
-                               |#######
-
-                               |###
- openconfig/public             |###
-                               |###
-
-                               |#
- robshakir/gnmic               |#
-                               |#
-
-                               |#####
- openconfig/gribigo            |#####
-                               |#####
-
-                               |#
- openconfig/ygot               |#
-                               |#
-
                                |#################
  openconfig/bootz              |#################
                                |#################
+
+                               |#######
+ robshakir/bootz               |#######
+                               |#######
 
                                |###################################
  openconfig/featureprofiles    |###################################
@@ -74,9 +58,25 @@ Since 2025-04-21 13:44:50 -0700 PDT, I'm most active between 11:00-11:59 - with 
  openconfig/gnoi               |#
                                |#
 
+                               |#
+ robshakir/gnmic               |#
+                               |#
+
+                               |#
+ openconfig/ygot               |#
+                               |#
+
+                               |###
+ openconfig/public             |###
+                               |###
+
                                |##
  openconfig/gnmic              |##
                                |##
+
+                               |#####
+ openconfig/gribigo            |#####
+                               |#####
 
                                |#
  openconfig/lemming            |#
@@ -90,4 +90,4 @@ Since 2025-04-21 13:44:50 -0700 PDT, I've been most active in openconfig/feature
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2025-05-21 20:07:31.439405391 -0700 PDT
+Last Updated: 2025-05-21 20:31:56.160290953 -0700 PDT
