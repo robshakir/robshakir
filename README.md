@@ -42,6 +42,22 @@ Since 2025-04-28 08:29:00 -0700 PDT, I'm most active between 17:00-17:59 - with 
 
 
 ```
+                               |#
+ openconfig/gnoi               |#
+                               |#
+
+                               |##
+ openconfig/gnmic              |##
+                               |##
+
+                               |#####
+ openconfig/gribigo            |#####
+                               |#####
+
+                               |#
+ openconfig/lemming            |#
+                               |#
+
                                |##############
  openconfig/public             |##############
                                |##############
@@ -54,16 +70,8 @@ Since 2025-04-28 08:29:00 -0700 PDT, I'm most active between 17:00-17:59 - with 
  openconfig/ygot               |################
                                |################
 
-                               |##
- openconfig/gnmic              |##
-                               |##
-
-                               |#####
- openconfig/gribigo            |#####
-                               |#####
-
                                |#
- openconfig/lemming            |#
+ robshakir/gnmic               |#
                                |#
 
                                |##################
@@ -78,14 +86,6 @@ Since 2025-04-28 08:29:00 -0700 PDT, I'm most active between 17:00-17:59 - with 
  openconfig/featureprofiles    |##############################
                                |##############################
 
-                               |#
- openconfig/gnoi               |#
-                               |#
-
-                               |#
- robshakir/gnmic               |#
-                               |#
-
 
 
 Since 2025-04-28 08:29:00 -0700 PDT, I've been most active in openconfig/featureprofiles, with 30 events.
@@ -94,4 +94,4 @@ Since 2025-04-28 08:29:00 -0700 PDT, I've been most active in openconfig/feature
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2025-05-25 02:01:25.478542674 -0700 PDT
+Last Updated: 2025-05-25 02:20:34.854923893 -0700 PDT
