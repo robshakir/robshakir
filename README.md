@@ -42,14 +42,6 @@ Since 2025-04-28 08:29:00 -0700 PDT, I'm most active between 17:00-17:59 - with 
 
 
 ```
-                               |##
- openconfig/gnmic              |##
-                               |##
-
-                               |#
- openconfig/lemming            |#
-                               |#
-
                                |##############
  openconfig/public             |##############
                                |##############
@@ -58,13 +50,17 @@ Since 2025-04-28 08:29:00 -0700 PDT, I'm most active between 17:00-17:59 - with 
  openconfig/bootz              |##################
                                |##################
 
-                               |########
- robshakir/bootz               |########
-                               |########
-
                                |####
  openconfig/ygnmi              |####
                                |####
+
+                               |#####
+ openconfig/gribigo            |#####
+                               |#####
+
+                               |########
+ robshakir/bootz               |########
+                               |########
 
                                |################
  openconfig/ygot               |################
@@ -78,13 +74,17 @@ Since 2025-04-28 08:29:00 -0700 PDT, I'm most active between 17:00-17:59 - with 
  openconfig/gnoi               |#
                                |#
 
+                               |##
+ openconfig/gnmic              |##
+                               |##
+
                                |#
  robshakir/gnmic               |#
                                |#
 
-                               |#####
- openconfig/gribigo            |#####
-                               |#####
+                               |#
+ openconfig/lemming            |#
+                               |#
 
 
 
@@ -94,4 +94,4 @@ Since 2025-04-28 08:29:00 -0700 PDT, I've been most active in openconfig/feature
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2025-05-25 16:46:02.491406457 -0700 PDT
+Last Updated: 2025-05-25 17:04:46.634752473 -0700 PDT
