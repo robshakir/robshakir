@@ -46,9 +46,29 @@ Since 2025-05-22 17:31:15 -0700 PDT, I'm most active between 17:00-17:59 - with 
  openconfig/ygnmi               |###########
                                 |###########
 
+                                |##########################
+ openconfig/ygot                |##########################
+                                |##########################
+
+                                |##
+ jsnyder81/openconfig-public    |##
+                                |##
+
+                                |####
+ openconfig/lemming             |####
+                                |####
+
+                                |###
+ robshakir/bootz                |###
+                                |###
+
                                 |#####
  openconfig/bootz               |#####
                                 |#####
+
+                                |#########
+ openconfig/gnoi                |#########
+                                |#########
 
                                 |################
  openconfig/public              |################
@@ -58,29 +78,9 @@ Since 2025-05-22 17:31:15 -0700 PDT, I'm most active between 17:00-17:59 - with 
  amitarista/public              |#
                                 |#
 
-                                |####
- openconfig/lemming             |####
-                                |####
-
                                 |######################
  openconfig/featureprofiles     |######################
                                 |######################
-
-                                |##########################
- openconfig/ygot                |##########################
-                                |##########################
-
-                                |###
- robshakir/bootz                |###
-                                |###
-
-                                |#########
- openconfig/gnoi                |#########
-                                |#########
-
-                                |##
- jsnyder81/openconfig-public    |##
-                                |##
 
                                 |#
  keogaki/ygot                   |#
@@ -94,4 +94,4 @@ Since 2025-05-22 17:31:15 -0700 PDT, I've been most active in openconfig/ygot, w
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2025-06-01 08:45:58.9983723 -0700 PDT
+Last Updated: 2025-06-01 09:01:24.99520135 -0700 PDT
