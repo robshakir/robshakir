@@ -42,14 +42,6 @@ Since 2025-05-22 17:31:15 -0700 PDT, I'm most active between 17:00-17:59 - with 
 
 
 ```
-                                |###
- robshakir/bootz                |###
-                                |###
-
-                                |################
- openconfig/public              |################
-                                |################
-
                                 |#
  amitarista/public              |#
                                 |#
@@ -62,10 +54,6 @@ Since 2025-05-22 17:31:15 -0700 PDT, I'm most active between 17:00-17:59 - with 
  openconfig/featureprofiles     |######################
                                 |######################
 
-                                |#
- keogaki/ygot                   |#
-                                |#
-
                                 |###########
  openconfig/ygnmi               |###########
                                 |###########
@@ -74,13 +62,25 @@ Since 2025-05-22 17:31:15 -0700 PDT, I'm most active between 17:00-17:59 - with 
  openconfig/ygot                |##########################
                                 |##########################
 
-                                |#####
- openconfig/bootz               |#####
-                                |#####
+                                |###
+ robshakir/bootz                |###
+                                |###
 
                                 |#########
  openconfig/gnoi                |#########
                                 |#########
+
+                                |################
+ openconfig/public              |################
+                                |################
+
+                                |#
+ keogaki/ygot                   |#
+                                |#
+
+                                |#####
+ openconfig/bootz               |#####
+                                |#####
 
                                 |##
  jsnyder81/openconfig-public    |##
@@ -94,4 +94,4 @@ Since 2025-05-22 17:31:15 -0700 PDT, I've been most active in openconfig/ygot, w
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2025-06-01 04:46:12.355672718 -0700 PDT
+Last Updated: 2025-06-01 05:01:46.1613482 -0700 PDT
