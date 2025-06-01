@@ -42,17 +42,9 @@ Since 2025-05-22 17:31:15 -0700 PDT, I'm most active between 17:00-17:59 - with 
 
 
 ```
-                                |#
- keogaki/ygot                   |#
-                                |#
-
                                 |##########################
  openconfig/ygot                |##########################
                                 |##########################
-
-                                |###
- robshakir/bootz                |###
-                                |###
 
                                 |#####
  openconfig/bootz               |#####
@@ -70,9 +62,17 @@ Since 2025-05-22 17:31:15 -0700 PDT, I'm most active between 17:00-17:59 - with 
  openconfig/featureprofiles     |######################
                                 |######################
 
+                                |#
+ keogaki/ygot                   |#
+                                |#
+
                                 |###########
  openconfig/ygnmi               |###########
                                 |###########
+
+                                |###
+ robshakir/bootz                |###
+                                |###
 
                                 |#########
  openconfig/gnoi                |#########
@@ -94,4 +94,4 @@ Since 2025-05-22 17:31:15 -0700 PDT, I've been most active in openconfig/ygot, w
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2025-06-01 15:20:33.869068346 -0700 PDT
+Last Updated: 2025-06-01 15:34:50.363945163 -0700 PDT
