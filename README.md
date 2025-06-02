@@ -46,21 +46,9 @@ Since 2025-05-22 17:34:15 -0700 PDT, I'm most active between 17:00-17:59 - with 
  amitarista/public              |#
                                 |#
 
-                                |##
- jsnyder81/openconfig-public    |##
-                                |##
-
                                 |#
  keogaki/ygot                   |#
                                 |#
-
-                                |####################
- openconfig/ygot                |####################
-                                |####################
-
-                                |###########
- openconfig/ygnmi               |###########
-                                |###########
 
                                 |###
  robshakir/bootz                |###
@@ -70,10 +58,6 @@ Since 2025-05-22 17:34:15 -0700 PDT, I'm most active between 17:00-17:59 - with 
  openconfig/bootz               |#####
                                 |#####
 
-                                |############################
- openconfig/featureprofiles     |############################
-                                |############################
-
                                 |#########
  openconfig/gnoi                |#########
                                 |#########
@@ -82,9 +66,25 @@ Since 2025-05-22 17:34:15 -0700 PDT, I'm most active between 17:00-17:59 - with 
  openconfig/public              |################
                                 |################
 
+                                |##
+ jsnyder81/openconfig-public    |##
+                                |##
+
                                 |####
  openconfig/lemming             |####
                                 |####
+
+                                |############################
+ openconfig/featureprofiles     |############################
+                                |############################
+
+                                |####################
+ openconfig/ygot                |####################
+                                |####################
+
+                                |###########
+ openconfig/ygnmi               |###########
+                                |###########
 
 
 
@@ -94,4 +94,4 @@ Since 2025-05-22 17:34:15 -0700 PDT, I've been most active in openconfig/feature
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2025-06-02 13:21:05.227383828 -0700 PDT
+Last Updated: 2025-06-02 13:34:48.993182317 -0700 PDT
