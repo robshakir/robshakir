@@ -42,26 +42,6 @@ Since 2025-05-22 17:34:15 -0700 PDT, I'm most active between 17:00-17:59 - with 
 
 
 ```
-                                |############################
- openconfig/featureprofiles     |############################
-                                |############################
-
-                                |#####
- openconfig/bootz               |#####
-                                |#####
-
-                                |#
- amitarista/public              |#
-                                |#
-
-                                |#
- keogaki/ygot                   |#
-                                |#
-
-                                |####################
- openconfig/ygot                |####################
-                                |####################
-
                                 |###########
  openconfig/ygnmi               |###########
                                 |###########
@@ -86,6 +66,26 @@ Since 2025-05-22 17:34:15 -0700 PDT, I'm most active between 17:00-17:59 - with 
  openconfig/lemming             |####
                                 |####
 
+                                |############################
+ openconfig/featureprofiles     |############################
+                                |############################
+
+                                |#####
+ openconfig/bootz               |#####
+                                |#####
+
+                                |#
+ amitarista/public              |#
+                                |#
+
+                                |#
+ keogaki/ygot                   |#
+                                |#
+
+                                |####################
+ openconfig/ygot                |####################
+                                |####################
+
 
 
 Since 2025-05-22 17:34:15 -0700 PDT, I've been most active in openconfig/featureprofiles, with 28 events.
@@ -94,4 +94,4 @@ Since 2025-05-22 17:34:15 -0700 PDT, I've been most active in openconfig/feature
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2025-06-02 14:34:15.040254517 -0700 PDT
+Last Updated: 2025-06-02 14:46:11.831145475 -0700 PDT
