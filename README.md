@@ -42,10 +42,6 @@ Since 2025-05-30 18:29:14 -0700 PDT, I'm most active between 18:00-18:59 - with 
 
 
 ```
-                               |####
- openconfig/bootz              |####
-                               |####
-
                                |#########################################################################
  openconfig/featureprofiles    |#########################################################################
                                |#########################################################################
@@ -70,6 +66,10 @@ Since 2025-05-30 18:29:14 -0700 PDT, I'm most active between 18:00-18:59 - with 
  robshakir/bootz               |#
                                |#
 
+                               |####
+ openconfig/bootz              |####
+                               |####
+
 
 
 Since 2025-05-30 18:29:14 -0700 PDT, I've been most active in openconfig/featureprofiles, with 73 events.
@@ -78,4 +78,4 @@ Since 2025-05-30 18:29:14 -0700 PDT, I've been most active in openconfig/feature
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2025-06-04 06:51:08.413262916 -0700 PDT
+Last Updated: 2025-06-04 07:01:35.740357246 -0700 PDT
