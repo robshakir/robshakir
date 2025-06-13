@@ -1,5 +1,7 @@
 ### 🍞 Bread Crumbs
 
+ * 😃: Commented on an issue in `openconfig/reference` at 2025-06-13 05:50:44 -0700 PDT
+ * 😃: Commented on an issue in `openconfig/reference` at 2025-06-13 05:49:06 -0700 PDT
  * 🚢: Pushed some commits to `daveruturaj/featureprofiles` at 2025-06-13 05:40:05 -0700 PDT
  * 💬: Commented on a PR in  `openconfig/featureprofiles` at 2025-06-13 05:38:46 -0700 PDT
  * 💬: Commented on a PR in  `openconfig/featureprofiles` at 2025-06-13 05:37:17 -0700 PDT
@@ -8,8 +10,6 @@
  * 🚢: Pushed some commits to `danameme/featureprofiles` at 2025-06-13 05:34:57 -0700 PDT
  * 💬: Commented on a PR in  `openconfig/featureprofiles` at 2025-06-13 05:34:07 -0700 PDT
  * 🔍: Reviewed a pull request in  `openconfig/featureprofiles` at 2025-06-13 05:34:08 -0700 PDT
- * 💬: Commented on a PR in  `openconfig/featureprofiles` at 2025-06-13 05:32:41 -0700 PDT
- * 💬: Commented on a PR in  `openconfig/featureprofiles` at 2025-06-13 05:32:58 -0700 PDT
 
 ### 🕘 Recent Activity
 ```
@@ -18,15 +18,15 @@
  18 ┤                                                                            │ │
  17 ┤                                                                           ╭╯ ╰╮
  15 ┤                                                                           │   │
- 14 ┤                                                                           │   ╰╮
- 13 ┤                                                                          ╭╯    │
- 11 ┤                    ╭──╮                                                  │     │
- 10 ┤                    │  ╰─╮                         ╭╮      ╭╮       ╭╮    │     ╰╮
+ 14 ┤                     ╭╮                                                    │   ╰╮
+ 13 ┤                    ╭╯╰╮                                                  ╭╯    │
+ 11 ┤                    │  ╰╮                                                 │     │
+ 10 ┤                    │   ╰╮                         ╭╮      ╭╮       ╭╮    │     ╰╮
   8 ┤                   ╭╯    ╰╮                       ╭╯│      │╰╮     ╭╯╰╮  ╭╯      │
-  7 ┤                   │      ╰╮        ╭──╮          │ ╰╮    ╭╯ │     │  ╰─╮│       ╰╮
-  6 ┤                  ╭╯       │      ╭─╯  ╰╮        ╭╯  │    │  ╰╮   ╭╯    ╰╯        ╰╮
-  4 ┤                  │        ╰╮    ╭╯     ╰╮      ╭╯   ╰╮  ╭╯   ╰╮  │                │
-  3 ┤                 ╭╯         ╰╮ ╭─╯       ╰╮     │     ╰╮╭╯     │ ╭╯                ╰╮
+  7 ┤                   │      ╰╮                      │ ╰╮    ╭╯ │     │  ╰─╮│       ╰╮
+  6 ┤                  ╭╯       │      ╭────╮         ╭╯  │    │  ╰╮   ╭╯    ╰╯        ╰╮
+  4 ┤                  │        ╰╮    ╭╯    ╰╮       ╭╯   ╰╮  ╭╯   ╰╮  │                │
+  3 ┤                 ╭╯         ╰╮ ╭─╯      ╰─╮     │     ╰╮╭╯     │ ╭╯                ╰╮
   1 ┤                 │           │╭╯          ╰─╮  ╭╯      ││      ╰─╯                  ╰╮
   0 ┼─────────────────╯           ╰╯             ╰──╯       ╰╯                            ╰─────────────
     +───────+───────+───────+───────+───────+───────+───────+───────+───────+───────+───────+───────+────
@@ -35,13 +35,25 @@
 						Commits by Hour of Day
 
 
-Since 2025-06-03 09:26:05 -0700 PDT, I'm most active between 18:00-18:59 - with 23 events in that hour.
+Since 2025-06-03 09:26:19 -0700 PDT, I'm most active between 18:00-18:59 - with 23 events in that hour.
 
 ```
 
 
 
 ```
+                                    |###########
+ openconfig/public                  |###########
+                                    |###########
+
+                                    |#
+ openconfig/gnoi                    |#
+                                    |#
+
+                                    |##
+ openconfig/reference               |##
+                                    |##
+
                                     |#
  daveruturaj/featureprofiles        |#
                                     |#
@@ -62,20 +74,12 @@ Since 2025-06-03 09:26:05 -0700 PDT, I'm most active between 18:00-18:59 - with 
  openconfig/ygnmi                   |##
                                     |##
 
-                                    |###########
- openconfig/public                  |###########
-                                    |###########
-
-                                    |###
- openconfig/gnoi                    |###
-                                    |###
 
 
-
-Since 2025-06-03 09:26:05 -0700 PDT, I've been most active in openconfig/featureprofiles, with 81 events.
+Since 2025-06-03 09:26:19 -0700 PDT, I've been most active in openconfig/featureprofiles, with 81 events.
 
 ```
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2025-06-13 16:01:30.614504205 -0700 PDT
+Last Updated: 2025-06-13 16:21:07.46441898 -0700 PDT
