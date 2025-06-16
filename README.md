@@ -43,10 +43,6 @@ Since 2025-06-03 18:56:13 -0700 PDT, I'm most active between 05:00-05:59 - with 
 
 ```
                                     |#
- daveruturaj/featureprofiles        |#
-                                    |#
-
-                                    |#
  danameme/featureprofiles           |#
                                     |#
 
@@ -74,6 +70,10 @@ Since 2025-06-03 18:56:13 -0700 PDT, I'm most active between 05:00-05:59 - with 
  openconfig/reference               |##
                                     |##
 
+                                    |#
+ daveruturaj/featureprofiles        |#
+                                    |#
+
 
 
 Since 2025-06-03 18:56:13 -0700 PDT, I've been most active in openconfig/featureprofiles, with 85 events.
@@ -82,4 +82,4 @@ Since 2025-06-03 18:56:13 -0700 PDT, I've been most active in openconfig/feature
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2025-06-16 01:01:44.241841778 -0700 PDT
+Last Updated: 2025-06-16 01:22:05.746594364 -0700 PDT
