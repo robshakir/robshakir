@@ -46,18 +46,6 @@ Since 2025-06-10 08:38:52 -0700 PDT, I'm most active between 05:00-05:59 - with 
  daveruturaj/featureprofiles          |#
                                       |#
 
-                                      |#
- Swetha-haridasula/featureprofiles    |#
-                                      |#
-
-                                      |##
- openconfig/reference                 |##
-                                      |##
-
-                                      |#
- AvniTripathi777/featureprofiles      |#
-                                      |#
-
                                       |##################################################################
  openconfig/featureprofiles           |##################################################################
                                       |##################################################################
@@ -74,6 +62,14 @@ Since 2025-06-10 08:38:52 -0700 PDT, I'm most active between 05:00-05:59 - with 
  openconfig/common-ci                 |##
                                       |##
 
+                                      |##
+ openconfig/reference                 |##
+                                      |##
+
+                                      |#
+ AvniTripathi777/featureprofiles      |#
+                                      |#
+
                                       |########
  openconfig/ygnmi                     |########
                                       |########
@@ -81,6 +77,10 @@ Since 2025-06-10 08:38:52 -0700 PDT, I'm most active between 05:00-05:59 - with 
                                       |##
  danameme/featureprofiles             |##
                                       |##
+
+                                      |#
+ Swetha-haridasula/featureprofiles    |#
+                                      |#
 
                                       |#
  axelrod-mike/featureprofiles         |#
@@ -94,4 +94,4 @@ Since 2025-06-10 08:38:52 -0700 PDT, I've been most active in openconfig/feature
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2025-06-30 06:02:05.62371591 -0700 PDT
+Last Updated: 2025-06-30 06:24:32.642206069 -0700 PDT
