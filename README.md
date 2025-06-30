@@ -46,9 +46,9 @@ Since 2025-06-10 08:38:52 -0700 PDT, I'm most active between 05:00-05:59 - with 
  openconfig/featureprofiles           |##################################################################
                                       |##################################################################
 
-                                      |#######
- openconfig/public                    |#######
-                                      |#######
+                                      |##
+ openconfig/common-ci                 |##
+                                      |##
 
                                       |########
  openconfig/ygnmi                     |########
@@ -59,20 +59,24 @@ Since 2025-06-10 08:38:52 -0700 PDT, I'm most active between 05:00-05:59 - with 
                                       |##
 
                                       |#
+ Swetha-haridasula/featureprofiles    |#
+                                      |#
+
+                                      |#
  axelrod-mike/featureprofiles         |#
                                       |#
+
+                                      |#
+ AvniTripathi777/featureprofiles      |#
+                                      |#
+
+                                      |#######
+ openconfig/public                    |#######
+                                      |#######
 
                                       |#########
  openconfig/gribigo                   |#########
                                       |#########
-
-                                      |##
- openconfig/common-ci                 |##
-                                      |##
-
-                                      |#
- Swetha-haridasula/featureprofiles    |#
-                                      |#
 
                                       |##
  openconfig/reference                 |##
@@ -80,10 +84,6 @@ Since 2025-06-10 08:38:52 -0700 PDT, I'm most active between 05:00-05:59 - with 
 
                                       |#
  daveruturaj/featureprofiles          |#
-                                      |#
-
-                                      |#
- AvniTripathi777/featureprofiles      |#
                                       |#
 
 
@@ -94,4 +94,4 @@ Since 2025-06-10 08:38:52 -0700 PDT, I've been most active in openconfig/feature
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2025-06-30 03:49:15.667555175 -0700 PDT
+Last Updated: 2025-06-30 04:01:37.912583779 -0700 PDT
