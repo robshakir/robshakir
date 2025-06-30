@@ -46,18 +46,6 @@ Since 2025-06-10 08:38:52 -0700 PDT, I'm most active between 05:00-05:59 - with 
  openconfig/featureprofiles           |##################################################################
                                       |##################################################################
 
-                                      |##
- openconfig/common-ci                 |##
-                                      |##
-
-                                      |#
- axelrod-mike/featureprofiles         |#
-                                      |#
-
-                                      |#
- daveruturaj/featureprofiles          |#
-                                      |#
-
                                       |#######
  openconfig/public                    |#######
                                       |#######
@@ -65,6 +53,10 @@ Since 2025-06-10 08:38:52 -0700 PDT, I'm most active between 05:00-05:59 - with 
                                       |#########
  openconfig/gribigo                   |#########
                                       |#########
+
+                                      |##
+ openconfig/common-ci                 |##
+                                      |##
 
                                       |########
  openconfig/ygnmi                     |########
@@ -76,6 +68,14 @@ Since 2025-06-10 08:38:52 -0700 PDT, I'm most active between 05:00-05:59 - with 
 
                                       |#
  Swetha-haridasula/featureprofiles    |#
+                                      |#
+
+                                      |#
+ daveruturaj/featureprofiles          |#
+                                      |#
+
+                                      |#
+ axelrod-mike/featureprofiles         |#
                                       |#
 
                                       |##
@@ -94,4 +94,4 @@ Since 2025-06-10 08:38:52 -0700 PDT, I've been most active in openconfig/feature
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2025-06-30 02:02:27.911222561 -0700 PDT
+Last Updated: 2025-06-30 02:21:35.849349609 -0700 PDT
