@@ -42,9 +42,9 @@ Since 2025-06-10 19:07:32 -0700 PDT, I'm most active between 05:00-05:59 - with 
 
 
 ```
-                                      |##
- openconfig/common-ci                 |##
-                                      |##
+                                      |###########
+ openconfig/public                    |###########
+                                      |###########
 
                                       |######
  openconfig/ygnmi                     |######
@@ -52,6 +52,26 @@ Since 2025-06-10 19:07:32 -0700 PDT, I'm most active between 05:00-05:59 - with 
 
                                       |##
  danameme/featureprofiles             |##
+                                      |##
+
+                                      |#
+ Swetha-haridasula/featureprofiles    |#
+                                      |#
+
+                                      |#
+ AvniTripathi777/featureprofiles      |#
+                                      |#
+
+                                      |################################################################
+ openconfig/featureprofiles           |################################################################
+                                      |################################################################
+
+                                      |#########
+ openconfig/gribigo                   |#########
+                                      |#########
+
+                                      |##
+ openconfig/common-ci                 |##
                                       |##
 
                                       |#
@@ -66,26 +86,6 @@ Since 2025-06-10 19:07:32 -0700 PDT, I'm most active between 05:00-05:59 - with 
  daveruturaj/featureprofiles          |#
                                       |#
 
-                                      |###########
- openconfig/public                    |###########
-                                      |###########
-
-                                      |################################################################
- openconfig/featureprofiles           |################################################################
-                                      |################################################################
-
-                                      |#########
- openconfig/gribigo                   |#########
-                                      |#########
-
-                                      |#
- Swetha-haridasula/featureprofiles    |#
-                                      |#
-
-                                      |#
- AvniTripathi777/featureprofiles      |#
-                                      |#
-
 
 
 Since 2025-06-10 19:07:32 -0700 PDT, I've been most active in openconfig/featureprofiles, with 64 events.
@@ -94,4 +94,4 @@ Since 2025-06-10 19:07:32 -0700 PDT, I've been most active in openconfig/feature
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2025-06-30 16:46:52.947440841 -0700 PDT
+Last Updated: 2025-06-30 17:05:10.036506935 -0700 PDT
