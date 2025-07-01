@@ -47,20 +47,24 @@ Since 2025-06-11 14:56:29 -0700 PDT, I'm most active between 05:00-05:59 - with 
                                       |#########
 
                                       |##
- danameme/featureprofiles             |##
+ openconfig/common-ci                 |##
                                       |##
 
                                       |#
  daveruturaj/featureprofiles          |#
                                       |#
 
-                                      |##
- openconfig/common-ci                 |##
-                                      |##
+                                      |#############################################################
+ openconfig/featureprofiles           |#############################################################
+                                      |#############################################################
 
                                       |######
  openconfig/ygnmi                     |######
                                       |######
+
+                                      |##
+ danameme/featureprofiles             |##
+                                      |##
 
                                       |#
  Swetha-haridasula/featureprofiles    |#
@@ -74,10 +78,6 @@ Since 2025-06-11 14:56:29 -0700 PDT, I'm most active between 05:00-05:59 - with 
  openconfig/reference                 |##
                                       |##
 
-                                      |#############################################################
- openconfig/featureprofiles           |#############################################################
-                                      |#############################################################
-
                                       |###############
  openconfig/public                    |###############
                                       |###############
@@ -90,4 +90,4 @@ Since 2025-06-11 14:56:29 -0700 PDT, I've been most active in openconfig/feature
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2025-07-01 16:01:28.786635296 -0700 PDT
+Last Updated: 2025-07-01 16:20:44.741237785 -0700 PDT
