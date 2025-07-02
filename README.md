@@ -42,10 +42,6 @@ Since 2025-06-11 14:54:44 -0700 PDT, I'm most active between 05:00-05:59 - with 
 
 
 ```
-                                      |###############
- openconfig/public                    |###############
-                                      |###############
-
                                       |######
  openconfig/ygnmi                     |######
                                       |######
@@ -54,13 +50,9 @@ Since 2025-06-11 14:54:44 -0700 PDT, I'm most active between 05:00-05:59 - with 
  Swetha-haridasula/featureprofiles    |#
                                       |#
 
-                                      |##
- openconfig/reference                 |##
-                                      |##
-
-                                      |#
- daveruturaj/featureprofiles          |#
-                                      |#
+                                      |###############
+ openconfig/public                    |###############
+                                      |###############
 
                                       |#########
  openconfig/gribigo                   |#########
@@ -76,6 +68,14 @@ Since 2025-06-11 14:54:44 -0700 PDT, I'm most active between 05:00-05:59 - with 
 
                                       |#
  axelrod-mike/featureprofiles         |#
+                                      |#
+
+                                      |##
+ openconfig/reference                 |##
+                                      |##
+
+                                      |#
+ daveruturaj/featureprofiles          |#
                                       |#
 
                                       |#
@@ -94,4 +94,4 @@ Since 2025-06-11 14:54:44 -0700 PDT, I've been most active in openconfig/feature
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2025-07-01 18:07:31.398763279 -0700 PDT
+Last Updated: 2025-07-01 18:50:45.12112717 -0700 PDT
