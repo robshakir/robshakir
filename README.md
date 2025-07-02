@@ -1,5 +1,7 @@
 ### 🍞 Bread Crumbs
 
+ * 🚢: Pushed some commits to `openconfig/gnoi` at 2025-07-01 08:40:44 -0700 PDT
+ * ✍🏼: Created a pull request in `openconfig/gnoi` at 2025-07-01 08:40:43 -0700 PDT
  * 💬: Commented on a PR in  `openconfig/public` at 2025-07-01 08:31:46 -0700 PDT
  * 🔍: Reviewed a pull request in  `openconfig/public` at 2025-07-01 08:31:48 -0700 PDT
  * 😃: Commented on an issue in `openconfig/public` at 2025-07-01 08:29:24 -0700 PDT
@@ -8,8 +10,6 @@
  * 😃: Commented on an issue in `openconfig/gnoi` at 2025-07-01 07:43:26 -0700 PDT
  * 💬: Commented on a PR in  `openconfig/gnoi` at 2025-07-01 07:41:02 -0700 PDT
  * 🔍: Reviewed a pull request in  `openconfig/gnoi` at 2025-07-01 07:41:03 -0700 PDT
- * 🔍: Reviewed a pull request in  `openconfig/gnoi` at 2025-07-01 06:47:33 -0700 PDT
- * 🔍: Reviewed a pull request in  `openconfig/featureprofiles` at 2025-06-30 20:40:31 -0700 PDT
 
 ### 🕘 Recent Activity
 ```
@@ -22,11 +22,11 @@
  11 ┤                  ╭╯    ╰╮
  10 ┤                  │      │                                                               ╭─╮
   8 ┤                  │      ╰╮                                                             ╭╯ │
-  7 ┤                 ╭╯       ╰╮                                       ╭─╮                  │  ╰╮
-  6 ┤                 │         ╰╮    ╭─╮                             ╭─╯ ╰╮     ╭─╮        ╭╯   │
-  5 ┤                ╭╯          ╰╮╭──╯ ╰╮                         ╭──╯    ╰╮   ╭╯ ╰╮       │    ╰╮
-  4 ┤              ╭─╯            ╰╯     ╰╮  ╭─────────────────────╯        ╰╮ ╭╯   ╰╮     ╭╯     │
-  2 ┤        ╭─────╯                      ╰──╯                               ╰─╯     ╰─╮   │      │
+  7 ┤                 ╭╯       ╰╮    ╭──╮                                                    │  ╰╮
+  6 ┤                 │         ╰╮  ╭╯  ╰╮                                       ╭─╮        ╭╯   │
+  5 ┤                ╭╯          ╰╮╭╯    ╰╮                        ╭───────╮    ╭╯ ╰╮       │    ╰╮
+  4 ┤              ╭─╯            ╰╯      ╰╮ ╭─────────────────────╯       ╰╮  ╭╯   ╰╮     ╭╯     │
+  2 ┤        ╭─────╯                       ╰─╯                              ╰──╯     ╰─╮   │      │
   1 ┤     ╭──╯                                                                         ╰───╯      ╰╮
   0 ┼─────╯                                                                                        ╰────
     +───────+───────+───────+───────+───────+───────+───────+───────+───────+───────+───────+───────+────
@@ -35,7 +35,7 @@
 						Commits by Hour of Day
 
 
-Since 2025-06-11 16:50:30 -0700 PDT, I'm most active between 05:00-05:59 - with 19 events in that hour.
+Since 2025-06-11 16:47:55 -0700 PDT, I'm most active between 05:00-05:59 - with 19 events in that hour.
 
 ```
 
@@ -45,6 +45,18 @@ Since 2025-06-11 16:50:30 -0700 PDT, I'm most active between 05:00-05:59 - with 
                                       |######
  openconfig/ygnmi                     |######
                                       |######
+
+                                      |#######
+ openconfig/gnoi                      |#######
+                                      |#######
+
+                                      |##################
+ openconfig/public                    |##################
+                                      |##################
+
+                                      |#########
+ openconfig/gribigo                   |#########
+                                      |#########
 
                                       |##
  danameme/featureprofiles             |##
@@ -58,18 +70,6 @@ Since 2025-06-11 16:50:30 -0700 PDT, I'm most active between 05:00-05:59 - with 
  axelrod-mike/featureprofiles         |#
                                       |#
 
-                                      |#
- earies/openconfig-public             |#
-                                      |#
-
-                                      |#####
- openconfig/gnoi                      |#####
-                                      |#####
-
-                                      |##
- openconfig/common-ci                 |##
-                                      |##
-
                                       |##
  openconfig/reference                 |##
                                       |##
@@ -78,24 +78,24 @@ Since 2025-06-11 16:50:30 -0700 PDT, I'm most active between 05:00-05:59 - with 
  daveruturaj/featureprofiles          |#
                                       |#
 
-                                      |##################
- openconfig/public                    |##################
-                                      |##################
+                                      |#
+ earies/openconfig-public             |#
+                                      |#
 
-                                      |####################################################
- openconfig/featureprofiles           |####################################################
-                                      |####################################################
+                                      |##################################################
+ openconfig/featureprofiles           |##################################################
+                                      |##################################################
 
-                                      |#########
- openconfig/gribigo                   |#########
-                                      |#########
+                                      |##
+ openconfig/common-ci                 |##
+                                      |##
 
 
 
-Since 2025-06-11 16:50:30 -0700 PDT, I've been most active in openconfig/featureprofiles, with 52 events.
+Since 2025-06-11 16:47:55 -0700 PDT, I've been most active in openconfig/featureprofiles, with 50 events.
 
 ```
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2025-07-01 20:58:42.10994934 -0700 PDT
+Last Updated: 2025-07-01 21:14:30.143677464 -0700 PDT
