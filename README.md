@@ -42,29 +42,13 @@ Since 2025-06-13 06:52:06 -0700 PDT, I'm most active between 21:00-21:59 - with 
 
 
 ```
-                                      |########
- openconfig/gnoi                      |########
-                                      |########
+                                      |####
+ openconfig/goyang                    |####
+                                      |####
 
                                       |##
  openconfig/ygot                      |##
                                       |##
-
-                                      |#########
- openconfig/gribigo                   |#########
-                                      |#########
-
-                                      |######
- openconfig/ygnmi                     |######
-                                      |######
-
-                                      |##########################
- openconfig/public                    |##########################
-                                      |##########################
-
-                                      |####
- openconfig/goyang                    |####
-                                      |####
 
                                       |#######################################
  openconfig/featureprofiles           |#######################################
@@ -78,12 +62,28 @@ Since 2025-06-13 06:52:06 -0700 PDT, I'm most active between 21:00-21:59 - with 
  openconfig/common-ci                 |##
                                       |##
 
-                                      |#
- danameme/featureprofiles             |#
-                                      |#
+                                      |######
+ openconfig/ygnmi                     |######
+                                      |######
 
                                       |#
  Swetha-haridasula/featureprofiles    |#
+                                      |#
+
+                                      |########
+ openconfig/gnoi                      |########
+                                      |########
+
+                                      |##########################
+ openconfig/public                    |##########################
+                                      |##########################
+
+                                      |#########
+ openconfig/gribigo                   |#########
+                                      |#########
+
+                                      |#
+ danameme/featureprofiles             |#
                                       |#
 
                                       |#
@@ -98,4 +98,4 @@ Since 2025-06-13 06:52:06 -0700 PDT, I've been most active in openconfig/feature
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2025-07-05 06:12:42.08772535 -0700 PDT
+Last Updated: 2025-07-05 06:25:20.601250794 -0700 PDT
