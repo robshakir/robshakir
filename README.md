@@ -42,37 +42,17 @@ Since 2025-06-13 06:52:06 -0700 PDT, I'm most active between 21:00-21:59 - with 
 
 
 ```
-                                      |########
- openconfig/gnoi                      |########
-                                      |########
-
-                                      |#######################################
- openconfig/featureprofiles           |#######################################
-                                      |#######################################
-
-                                      |#
- earies/openconfig-public             |#
-                                      |#
-
                                       |#########
  openconfig/gribigo                   |#########
                                       |#########
-
-                                      |##
- openconfig/common-ci                 |##
-                                      |##
 
                                       |######
  openconfig/ygnmi                     |######
                                       |######
 
-                                      |#
- Swetha-haridasula/featureprofiles    |#
-                                      |#
-
-                                      |#
- axelrod-mike/featureprofiles         |#
-                                      |#
+                                      |########
+ openconfig/gnoi                      |########
+                                      |########
 
                                       |##########################
  openconfig/public                    |##########################
@@ -83,11 +63,31 @@ Since 2025-06-13 06:52:06 -0700 PDT, I'm most active between 21:00-21:59 - with 
                                       |####
 
                                       |##
- openconfig/ygot                      |##
+ openconfig/common-ci                 |##
                                       |##
 
                                       |#
  danameme/featureprofiles             |#
+                                      |#
+
+                                      |#
+ Swetha-haridasula/featureprofiles    |#
+                                      |#
+
+                                      |#
+ axelrod-mike/featureprofiles         |#
+                                      |#
+
+                                      |##
+ openconfig/ygot                      |##
+                                      |##
+
+                                      |#######################################
+ openconfig/featureprofiles           |#######################################
+                                      |#######################################
+
+                                      |#
+ earies/openconfig-public             |#
                                       |#
 
 
@@ -98,4 +98,4 @@ Since 2025-06-13 06:52:06 -0700 PDT, I've been most active in openconfig/feature
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2025-07-06 13:21:06.711678212 -0700 PDT
+Last Updated: 2025-07-06 13:34:13.530144267 -0700 PDT
