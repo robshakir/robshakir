@@ -42,6 +42,14 @@ Since 2025-06-13 06:52:06 -0700 PDT, I'm most active between 21:00-21:59 - with 
 
 
 ```
+                                      |##########################
+ openconfig/public                    |##########################
+                                      |##########################
+
+                                      |##
+ openconfig/ygot                      |##
+                                      |##
+
                                       |#######################################
  openconfig/featureprofiles           |#######################################
                                       |#######################################
@@ -49,6 +57,10 @@ Since 2025-06-13 06:52:06 -0700 PDT, I'm most active between 21:00-21:59 - with 
                                       |#########
  openconfig/gribigo                   |#########
                                       |#########
+
+                                      |##
+ openconfig/common-ci                 |##
+                                      |##
 
                                       |#
  danameme/featureprofiles             |#
@@ -66,10 +78,6 @@ Since 2025-06-13 06:52:06 -0700 PDT, I'm most active between 21:00-21:59 - with 
  earies/openconfig-public             |#
                                       |#
 
-                                      |##
- openconfig/common-ci                 |##
-                                      |##
-
                                       |######
  openconfig/ygnmi                     |######
                                       |######
@@ -82,14 +90,6 @@ Since 2025-06-13 06:52:06 -0700 PDT, I'm most active between 21:00-21:59 - with 
  axelrod-mike/featureprofiles         |#
                                       |#
 
-                                      |##########################
- openconfig/public                    |##########################
-                                      |##########################
-
-                                      |##
- openconfig/ygot                      |##
-                                      |##
-
 
 
 Since 2025-06-13 06:52:06 -0700 PDT, I've been most active in openconfig/featureprofiles, with 39 events.
@@ -98,4 +98,4 @@ Since 2025-06-13 06:52:06 -0700 PDT, I've been most active in openconfig/feature
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2025-07-07 07:20:51.381467068 -0700 PDT
+Last Updated: 2025-07-07 07:36:08.466632926 -0700 PDT
