@@ -46,17 +46,37 @@ Since 2025-06-13 06:52:06 -0700 PDT, I'm most active between 21:00-21:59 - with 
  openconfig/public                    |##########################
                                       |##########################
 
-                                      |##
- openconfig/ygot                      |##
-                                      |##
+                                      |####
+ openconfig/goyang                    |####
+                                      |####
 
                                       |#######################################
  openconfig/featureprofiles           |#######################################
                                       |#######################################
 
+                                      |#
+ earies/openconfig-public             |#
+                                      |#
+
+                                      |##
+ openconfig/common-ci                 |##
+                                      |##
+
                                       |######
  openconfig/ygnmi                     |######
                                       |######
+
+                                      |########
+ openconfig/gnoi                      |########
+                                      |########
+
+                                      |##
+ openconfig/ygot                      |##
+                                      |##
+
+                                      |#########
+ openconfig/gribigo                   |#########
+                                      |#########
 
                                       |#
  danameme/featureprofiles             |#
@@ -70,26 +90,6 @@ Since 2025-06-13 06:52:06 -0700 PDT, I'm most active between 21:00-21:59 - with 
  axelrod-mike/featureprofiles         |#
                                       |#
 
-                                      |########
- openconfig/gnoi                      |########
-                                      |########
-
-                                      |####
- openconfig/goyang                    |####
-                                      |####
-
-                                      |#
- earies/openconfig-public             |#
-                                      |#
-
-                                      |#########
- openconfig/gribigo                   |#########
-                                      |#########
-
-                                      |##
- openconfig/common-ci                 |##
-                                      |##
-
 
 
 Since 2025-06-13 06:52:06 -0700 PDT, I've been most active in openconfig/featureprofiles, with 39 events.
@@ -98,4 +98,4 @@ Since 2025-06-13 06:52:06 -0700 PDT, I've been most active in openconfig/feature
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2025-07-07 15:01:23.270391465 -0700 PDT
+Last Updated: 2025-07-07 15:21:03.295957091 -0700 PDT
