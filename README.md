@@ -42,6 +42,10 @@ Since 2025-06-13 06:52:06 -0700 PDT, I'm most active between 21:00-21:59 - with 
 
 
 ```
+                                      |######
+ openconfig/ygnmi                     |######
+                                      |######
+
                                       |#
  axelrod-mike/featureprofiles         |#
                                       |#
@@ -53,10 +57,6 @@ Since 2025-06-13 06:52:06 -0700 PDT, I'm most active between 21:00-21:59 - with 
                                       |####
  openconfig/goyang                    |####
                                       |####
-
-                                      |#######################################
- openconfig/featureprofiles           |#######################################
-                                      |#######################################
 
                                       |#
  earies/openconfig-public             |#
@@ -86,9 +86,9 @@ Since 2025-06-13 06:52:06 -0700 PDT, I'm most active between 21:00-21:59 - with 
  openconfig/ygot                      |##
                                       |##
 
-                                      |######
- openconfig/ygnmi                     |######
-                                      |######
+                                      |#######################################
+ openconfig/featureprofiles           |#######################################
+                                      |#######################################
 
 
 
@@ -98,4 +98,4 @@ Since 2025-06-13 06:52:06 -0700 PDT, I've been most active in openconfig/feature
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2025-07-08 13:21:17.136868867 -0700 PDT
+Last Updated: 2025-07-08 13:35:13.350482819 -0700 PDT
