@@ -46,9 +46,29 @@ Since 2025-06-13 06:52:06 -0700 PDT, I'm most active between 21:00-21:59 - with 
  openconfig/goyang                    |####
                                       |####
 
+                                      |##
+ openconfig/ygot                      |##
+                                      |##
+
+                                      |#######################################
+ openconfig/featureprofiles           |#######################################
+                                      |#######################################
+
                                       |#########
  openconfig/gribigo                   |#########
                                       |#########
+
+                                      |#
+ danameme/featureprofiles             |#
+                                      |#
+
+                                      |##########################
+ openconfig/public                    |##########################
+                                      |##########################
+
+                                      |#
+ earies/openconfig-public             |#
+                                      |#
 
                                       |##
  openconfig/common-ci                 |##
@@ -60,26 +80,6 @@ Since 2025-06-13 06:52:06 -0700 PDT, I'm most active between 21:00-21:59 - with 
 
                                       |#
  Swetha-haridasula/featureprofiles    |#
-                                      |#
-
-                                      |##########################
- openconfig/public                    |##########################
-                                      |##########################
-
-                                      |##
- openconfig/ygot                      |##
-                                      |##
-
-                                      |#######################################
- openconfig/featureprofiles           |#######################################
-                                      |#######################################
-
-                                      |#
- earies/openconfig-public             |#
-                                      |#
-
-                                      |#
- danameme/featureprofiles             |#
                                       |#
 
                                       |#
@@ -98,4 +98,4 @@ Since 2025-06-13 06:52:06 -0700 PDT, I've been most active in openconfig/feature
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2025-07-08 00:33:53.007822694 -0700 PDT
+Last Updated: 2025-07-08 00:46:52.38254252 -0700 PDT
