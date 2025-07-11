@@ -46,41 +46,13 @@ Since 2025-06-13 14:44:16 -0700 PDT, I'm most active between 21:00-21:59 - with 
  openconfig/ygnmi                     |##########
                                       |##########
 
-                                      |####
- openconfig/goyang                    |####
-                                      |####
-
-                                      |##
- openconfig/ygot                      |##
-                                      |##
-
-                                      |#################################
- openconfig/featureprofiles           |#################################
-                                      |#################################
-
-                                      |##
- openconfig/common-ci                 |##
-                                      |##
-
-                                      |#
- axelrod-mike/featureprofiles         |#
-                                      |#
-
-                                      |#########
- openconfig/gnoi                      |#########
-                                      |#########
-
-                                      |#
- gtxaspec/wz_mini_hacks               |#
-                                      |#
-
                                       |##########################
  openconfig/public                    |##########################
                                       |##########################
 
-                                      |#
- earies/openconfig-public             |#
-                                      |#
+                                      |##
+ openconfig/ygot                      |##
+                                      |##
 
                                       |#########
  openconfig/gribigo                   |#########
@@ -94,6 +66,34 @@ Since 2025-06-13 14:44:16 -0700 PDT, I'm most active between 21:00-21:59 - with 
  Swetha-haridasula/featureprofiles    |#
                                       |#
 
+                                      |#########
+ openconfig/gnoi                      |#########
+                                      |#########
+
+                                      |#
+ gtxaspec/wz_mini_hacks               |#
+                                      |#
+
+                                      |####
+ openconfig/goyang                    |####
+                                      |####
+
+                                      |#################################
+ openconfig/featureprofiles           |#################################
+                                      |#################################
+
+                                      |#
+ earies/openconfig-public             |#
+                                      |#
+
+                                      |##
+ openconfig/common-ci                 |##
+                                      |##
+
+                                      |#
+ axelrod-mike/featureprofiles         |#
+                                      |#
+
 
 
 Since 2025-06-13 14:44:16 -0700 PDT, I've been most active in openconfig/featureprofiles, with 33 events.
@@ -102,4 +102,4 @@ Since 2025-06-13 14:44:16 -0700 PDT, I've been most active in openconfig/feature
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2025-07-11 00:02:24.809754534 -0700 PDT
+Last Updated: 2025-07-11 00:21:01.333158712 -0700 PDT
