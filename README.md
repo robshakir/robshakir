@@ -42,34 +42,6 @@ Since 2025-06-13 14:44:15 -0700 PDT, I'm most active between 21:00-21:59 - with 
 
 
 ```
-                                      |####
- openconfig/goyang                    |####
-                                      |####
-
-                                      |##
- openconfig/ygot                      |##
-                                      |##
-
-                                      |#########
- openconfig/gribigo                   |#########
-                                      |#########
-
-                                      |#
- danameme/featureprofiles             |#
-                                      |#
-
-                                      |#
- Swetha-haridasula/featureprofiles    |#
-                                      |#
-
-                                      |#
- axelrod-mike/featureprofiles         |#
-                                      |#
-
-                                      |#
- SecKatie/ha-wyzeapi                  |#
-                                      |#
-
                                       |#########
  openconfig/gnoi                      |#########
                                       |#########
@@ -82,21 +54,49 @@ Since 2025-06-13 14:44:15 -0700 PDT, I'm most active between 21:00-21:59 - with 
  openconfig/ygnmi                     |##########
                                       |##########
 
+                                      |################################
+ openconfig/featureprofiles           |################################
+                                      |################################
+
+                                      |#########
+ openconfig/gribigo                   |#########
+                                      |#########
+
+                                      |##
+ openconfig/common-ci                 |##
+                                      |##
+
+                                      |#
+ Swetha-haridasula/featureprofiles    |#
+                                      |#
+
+                                      |#
+ SecKatie/ha-wyzeapi                  |#
+                                      |#
+
                                       |##########################
  openconfig/public                    |##########################
                                       |##########################
 
-                                      |################################
- openconfig/featureprofiles           |################################
-                                      |################################
+                                      |####
+ openconfig/goyang                    |####
+                                      |####
+
+                                      |##
+ openconfig/ygot                      |##
+                                      |##
 
                                       |#
  earies/openconfig-public             |#
                                       |#
 
-                                      |##
- openconfig/common-ci                 |##
-                                      |##
+                                      |#
+ danameme/featureprofiles             |#
+                                      |#
+
+                                      |#
+ axelrod-mike/featureprofiles         |#
+                                      |#
 
 
 
@@ -106,4 +106,4 @@ Since 2025-06-13 14:44:15 -0700 PDT, I've been most active in openconfig/feature
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2025-07-13 11:01:27.106816475 -0700 PDT
+Last Updated: 2025-07-13 11:21:49.258279409 -0700 PDT
