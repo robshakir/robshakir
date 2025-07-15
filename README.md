@@ -42,25 +42,9 @@ Since 2025-06-14 21:29:13 -0700 PDT, I'm most active between 21:00-21:59 - with 
 
 
 ```
-                                      |#########
- openconfig/gribigo                   |#########
-                                      |#########
-
                                       |##
- openconfig/common-ci                 |##
+ openconfig/ygot                      |##
                                       |##
-
-                                      |#
- Swetha-haridasula/featureprofiles    |#
-                                      |#
-
-                                      |#
- gtxaspec/wz_mini_hacks               |#
-                                      |#
-
-                                      |####
- openconfig/goyang                    |####
-                                      |####
 
                                       |###########################
  openconfig/featureprofiles           |###########################
@@ -70,8 +54,24 @@ Since 2025-06-14 21:29:13 -0700 PDT, I'm most active between 21:00-21:59 - with 
  earies/openconfig-public             |#
                                       |#
 
+                                      |####
+ openconfig/goyang                    |####
+                                      |####
+
+                                      |#########
+ openconfig/gribigo                   |#########
+                                      |#########
+
+                                      |##
+ openconfig/common-ci                 |##
+                                      |##
+
                                       |#
  danameme/featureprofiles             |#
+                                      |#
+
+                                      |#
+ Swetha-haridasula/featureprofiles    |#
                                       |#
 
                                       |#
@@ -82,6 +82,10 @@ Since 2025-06-14 21:29:13 -0700 PDT, I'm most active between 21:00-21:59 - with 
  openconfig/gnoi                      |#########
                                       |#########
 
+                                      |#
+ gtxaspec/wz_mini_hacks               |#
+                                      |#
+
                                       |########
  openconfig/ygnmi                     |########
                                       |########
@@ -89,10 +93,6 @@ Since 2025-06-14 21:29:13 -0700 PDT, I'm most active between 21:00-21:59 - with 
                                       |##########################
  openconfig/public                    |##########################
                                       |##########################
-
-                                      |##
- openconfig/ygot                      |##
-                                      |##
 
 
 
@@ -102,4 +102,4 @@ Since 2025-06-14 21:29:13 -0700 PDT, I've been most active in openconfig/feature
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2025-07-15 06:42:52.921637442 -0700 PDT
+Last Updated: 2025-07-15 06:54:31.661489323 -0700 PDT
