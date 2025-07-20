@@ -42,21 +42,21 @@ Since 2025-06-25 05:57:43 -0700 PDT, I'm most active between 10:00-10:59 - with 
 
 
 ```
-                               |#################
- openconfig/goyang             |#################
-                               |#################
+                               |##
+ openconfig/common-ci          |##
+                               |##
 
                                |##########
  openconfig/lemming            |##########
                                |##########
 
                                |#
- djtimca/hagooglewifi          |#
-                               |#
-
-                               |#
  gtxaspec/wz_mini_hacks        |#
                                |#
+
+                               |####
+ openconfig/ygnmi              |####
+                               |####
 
                                |#############
  openconfig/featureprofiles    |#############
@@ -74,8 +74,16 @@ Since 2025-06-25 05:57:43 -0700 PDT, I'm most active between 10:00-10:59 - with 
  openconfig/ygot               |###############
                                |###############
 
+                               |#################
+ openconfig/goyang             |#################
+                               |#################
+
                                |#
  openconfig/clio               |#
+                               |#
+
+                               |#
+ djtimca/hagooglewifi          |#
                                |#
 
                                |#
@@ -86,17 +94,9 @@ Since 2025-06-25 05:57:43 -0700 PDT, I'm most active between 10:00-10:59 - with 
  openconfig/gnoi               |#########
                                |#########
 
-                               |####
- openconfig/ygnmi              |####
-                               |####
-
                                |####################
  openconfig/public             |####################
                                |####################
-
-                               |##
- openconfig/common-ci          |##
-                               |##
 
 
 
@@ -106,4 +106,4 @@ Since 2025-06-25 05:57:43 -0700 PDT, I've been most active in openconfig/public,
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2025-07-20 06:49:31.586403759 -0700 PDT
+Last Updated: 2025-07-20 07:01:17.750798516 -0700 PDT
