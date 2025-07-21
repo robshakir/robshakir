@@ -43,20 +43,20 @@ Since 2025-06-25 05:57:43 -0700 PDT, I'm most active between 10:00-10:59 - with 
 
 ```
                                |#
- gtxaspec/wz_mini_hacks        |#
+ earies/openconfig-public      |#
                                |#
-
-                               |####
- openconfig/ygnmi              |####
-                               |####
-
-                               |#############
- openconfig/featureprofiles    |#############
-                               |#############
 
                                |#####
  openconfig/gribigo            |#####
                                |#####
+
+                               |##
+ openconfig/common-ci          |##
+                               |##
+
+                               |###############
+ openconfig/ygot               |###############
+                               |###############
 
                                |#################
  openconfig/goyang             |#################
@@ -70,21 +70,21 @@ Since 2025-06-25 05:57:43 -0700 PDT, I'm most active between 10:00-10:59 - with 
  openconfig/gnoi               |#########
                                |#########
 
+                               |#
+ gtxaspec/wz_mini_hacks        |#
+                               |#
+
+                               |####
+ openconfig/ygnmi              |####
+                               |####
+
                                |####################
  openconfig/public             |####################
                                |####################
 
-                               |#
- earies/openconfig-public      |#
-                               |#
-
-                               |##
- openconfig/common-ci          |##
-                               |##
-
-                               |###############
- openconfig/ygot               |###############
-                               |###############
+                               |#############
+ openconfig/featureprofiles    |#############
+                               |#############
 
                                |#
  openconfig/clio               |#
@@ -106,4 +106,4 @@ Since 2025-06-25 05:57:43 -0700 PDT, I've been most active in openconfig/public,
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2025-07-21 04:47:55.316077341 -0700 PDT
+Last Updated: 2025-07-21 05:01:57.193527555 -0700 PDT
