@@ -42,41 +42,9 @@ Since 2025-06-25 06:13:14 -0700 PDT, I'm most active between 10:00-10:59 - with 
 
 
 ```
-                               |#
- openconfig/clio               |#
-                               |#
-
-                               |#
- djtimca/hagooglewifi          |#
-                               |#
-
-                               |#
- gtxaspec/wz_mini_hacks        |#
-                               |#
-
                                |####
  openconfig/ygnmi              |####
                                |####
-
-                               |###############
- openconfig/ygot               |###############
-                               |###############
-
-                               |#
- SecKatie/ha-wyzeapi           |#
-                               |#
-
-                               |#########
- openconfig/gnoi               |#########
-                               |#########
-
-                               |####################
- openconfig/public             |####################
-                               |####################
-
-                               |#############
- openconfig/featureprofiles    |#############
-                               |#############
 
                                |##########
  openconfig/lemming            |##########
@@ -86,9 +54,9 @@ Since 2025-06-25 06:13:14 -0700 PDT, I'm most active between 10:00-10:59 - with 
  openconfig/common-ci          |#
                                |#
 
-                               |###
- openconfig/gribigo            |###
-                               |###
+                               |#
+ earies/openconfig-public      |#
+                               |#
 
                                |###
  openconfig/gnmi               |###
@@ -99,7 +67,39 @@ Since 2025-06-25 06:13:14 -0700 PDT, I'm most active between 10:00-10:59 - with 
                                |#################
 
                                |#
- earies/openconfig-public      |#
+ SecKatie/ha-wyzeapi           |#
+                               |#
+
+                               |#########
+ openconfig/gnoi               |#########
+                               |#########
+
+                               |#
+ gtxaspec/wz_mini_hacks        |#
+                               |#
+
+                               |###############
+ openconfig/ygot               |###############
+                               |###############
+
+                               |###
+ openconfig/gribigo            |###
+                               |###
+
+                               |####################
+ openconfig/public             |####################
+                               |####################
+
+                               |#############
+ openconfig/featureprofiles    |#############
+                               |#############
+
+                               |#
+ openconfig/clio               |#
+                               |#
+
+                               |#
+ djtimca/hagooglewifi          |#
                                |#
 
 
@@ -110,4 +110,4 @@ Since 2025-06-25 06:13:14 -0700 PDT, I've been most active in openconfig/public,
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2025-07-23 04:46:58.429982324 -0700 PDT
+Last Updated: 2025-07-23 05:02:06.880856386 -0700 PDT
