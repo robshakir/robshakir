@@ -50,14 +50,6 @@ Since 2025-06-25 06:14:30 -0700 PDT, I'm most active between 10:00-10:59 - with 
  openconfig/gribigo            |###
                                |###
 
-                               |####
- openconfig/gnmi               |####
-                               |####
-
-                               |#################
- openconfig/goyang             |#################
-                               |#################
-
                                |#
  openconfig/clio               |#
                                |#
@@ -70,6 +62,10 @@ Since 2025-06-25 06:14:30 -0700 PDT, I'm most active between 10:00-10:59 - with 
  SecKatie/ha-wyzeapi           |#
                                |#
 
+                               |#########
+ openconfig/gnoi               |#########
+                               |#########
+
                                |#
  gtxaspec/wz_mini_hacks        |#
                                |#
@@ -78,25 +74,29 @@ Since 2025-06-25 06:14:30 -0700 PDT, I'm most active between 10:00-10:59 - with 
  openconfig/ygnmi              |####
                                |####
 
+                               |####################
+ openconfig/public             |####################
+                               |####################
+
                                |#############
  openconfig/featureprofiles    |#############
                                |#############
+
+                               |####
+ openconfig/gnmi               |####
+                               |####
 
                                |###############
  openconfig/ygot               |###############
                                |###############
 
+                               |#################
+ openconfig/goyang             |#################
+                               |#################
+
                                |##########
  openconfig/lemming            |##########
                                |##########
-
-                               |#########
- openconfig/gnoi               |#########
-                               |#########
-
-                               |####################
- openconfig/public             |####################
-                               |####################
 
 
 
@@ -106,4 +106,4 @@ Since 2025-06-25 06:14:30 -0700 PDT, I've been most active in openconfig/public,
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2025-07-25 07:21:00.850654215 -0700 PDT
+Last Updated: 2025-07-25 07:36:22.986080003 -0700 PDT
