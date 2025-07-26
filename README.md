@@ -42,6 +42,22 @@ Since 2025-06-27 04:08:26 -0700 PDT, I'm most active between 10:00-10:59 - with 
 
 
 ```
+                               |#############
+ openconfig/featureprofiles    |#############
+                               |#############
+
+                               |#################
+ openconfig/goyang             |#################
+                               |#################
+
+                               |##########
+ openconfig/lemming            |##########
+                               |##########
+
+                               |#
+ djtimca/hagooglewifi          |#
+                               |#
+
                                |#
  SecKatie/ha-wyzeapi           |#
                                |#
@@ -50,14 +66,6 @@ Since 2025-06-27 04:08:26 -0700 PDT, I'm most active between 10:00-10:59 - with 
  openconfig/gnoi               |#########
                                |#########
 
-                               |###################
- openconfig/public             |###################
-                               |###################
-
-                               |#
- djtimca/hagooglewifi          |#
-                               |#
-
                                |#
  gtxaspec/wz_mini_hacks        |#
                                |#
@@ -65,10 +73,6 @@ Since 2025-06-27 04:08:26 -0700 PDT, I'm most active between 10:00-10:59 - with 
                                |####
  openconfig/ygnmi              |####
                                |####
-
-                               |#############
- openconfig/featureprofiles    |#############
-                               |#############
 
                                |#
  earies/openconfig-public      |#
@@ -82,17 +86,13 @@ Since 2025-06-27 04:08:26 -0700 PDT, I'm most active between 10:00-10:59 - with 
  openconfig/ygot               |###############
                                |###############
 
-                               |#################
- openconfig/goyang             |#################
-                               |#################
-
                                |#
  openconfig/clio               |#
                                |#
 
-                               |##########
- openconfig/lemming            |##########
-                               |##########
+                               |###################
+ openconfig/public             |###################
+                               |###################
 
 
 
@@ -102,4 +102,4 @@ Since 2025-06-27 04:08:26 -0700 PDT, I've been most active in openconfig/public,
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2025-07-25 22:37:19.535591152 -0700 PDT
+Last Updated: 2025-07-25 22:49:09.057441506 -0700 PDT
