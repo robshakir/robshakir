@@ -43,12 +43,24 @@ Since 2025-06-27 04:08:26 -0700 PDT, I'm most active between 10:00-10:59 - with 
 
 ```
                                |#
+ gtxaspec/wz_mini_hacks        |#
+                               |#
+
+                               |####
+ openconfig/ygnmi              |####
+                               |####
+
+                               |#
  earies/openconfig-public      |#
                                |#
 
                                |####
  openconfig/gnmi               |####
                                |####
+
+                               |#
+ openconfig/clio               |#
+                               |#
 
                                |##########
  openconfig/lemming            |##########
@@ -58,9 +70,9 @@ Since 2025-06-27 04:08:26 -0700 PDT, I'm most active between 10:00-10:59 - with 
  SecKatie/ha-wyzeapi           |#
                                |#
 
-                               |####
- openconfig/ygnmi              |####
-                               |####
+                               |###################
+ openconfig/public             |###################
+                               |###################
 
                                |#############
  openconfig/featureprofiles    |#############
@@ -75,24 +87,12 @@ Since 2025-06-27 04:08:26 -0700 PDT, I'm most active between 10:00-10:59 - with 
                                |#################
 
                                |#
- openconfig/clio               |#
-                               |#
-
-                               |#
  djtimca/hagooglewifi          |#
                                |#
 
                                |#########
  openconfig/gnoi               |#########
                                |#########
-
-                               |#
- gtxaspec/wz_mini_hacks        |#
-                               |#
-
-                               |###################
- openconfig/public             |###################
-                               |###################
 
 
 
@@ -102,4 +102,4 @@ Since 2025-06-27 04:08:26 -0700 PDT, I've been most active in openconfig/public,
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2025-07-26 05:01:44.077232643 -0700 PDT
+Last Updated: 2025-07-26 05:22:53.662962844 -0700 PDT
