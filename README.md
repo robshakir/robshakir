@@ -46,6 +46,34 @@ Since 2025-06-30 09:05:45 -0700 PDT, I'm most active between 10:00-10:59 - with 
  openconfig/gnmi               |####
                                |####
 
+                               |##########
+ openconfig/lemming            |##########
+                               |##########
+
+                               |#
+ djtimca/hagooglewifi          |#
+                               |#
+
+                               |#
+ SecKatie/ha-wyzeapi           |#
+                               |#
+
+                               |#########
+ openconfig/gnoi               |#########
+                               |#########
+
+                               |####
+ openconfig/ygnmi              |####
+                               |####
+
+                               |#######
+ openconfig/featureprofiles    |#######
+                               |#######
+
+                               |#
+ earies/openconfig-public      |#
+                               |#
+
                                |###############
  openconfig/ygot               |###############
                                |###############
@@ -59,40 +87,12 @@ Since 2025-06-30 09:05:45 -0700 PDT, I'm most active between 10:00-10:59 - with 
                                |#
 
                                |#
- djtimca/hagooglewifi          |#
-                               |#
-
-                               |#
  gtxaspec/wz_mini_hacks        |#
                                |#
-
-                               |####
- openconfig/ygnmi              |####
-                               |####
-
-                               |#
- earies/openconfig-public      |#
-                               |#
-
-                               |##########
- openconfig/lemming            |##########
-                               |##########
-
-                               |#
- SecKatie/ha-wyzeapi           |#
-                               |#
-
-                               |#########
- openconfig/gnoi               |#########
-                               |#########
 
                                |###################
  openconfig/public             |###################
                                |###################
-
-                               |#######
- openconfig/featureprofiles    |#######
-                               |#######
 
 
 
@@ -102,4 +102,4 @@ Since 2025-06-30 09:05:45 -0700 PDT, I've been most active in openconfig/public,
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2025-07-30 11:42:09.577513209 -0700 PDT
+Last Updated: 2025-07-30 11:54:09.958214912 -0700 PDT
