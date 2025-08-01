@@ -42,18 +42,6 @@ Since 2025-07-03 16:57:25 -0700 PDT, I'm most active between 10:00-10:59 - with 
 
 
 ```
-                           |####
- openconfig/ygnmi          |####
-                           |####
-
-                           |#############
- openconfig/ygot           |#############
-                           |#############
-
-                           |#############
- openconfig/goyang         |#############
-                           |#############
-
                            |#
  openconfig/clio           |#
                            |#
@@ -61,18 +49,6 @@ Since 2025-07-03 16:57:25 -0700 PDT, I'm most active between 10:00-10:59 - with 
                            |##########
  openconfig/lemming        |##########
                            |##########
-
-                           |#
- djtimca/hagooglewifi      |#
-                           |#
-
-                           |#
- SecKatie/ha-wyzeapi       |#
-                           |#
-
-                           |####
- openconfig/gnmi           |####
-                           |####
 
                            |##
  openconfig/gnoi           |##
@@ -82,6 +58,30 @@ Since 2025-07-03 16:57:25 -0700 PDT, I'm most active between 10:00-10:59 - with 
  gtxaspec/wz_mini_hacks    |#
                            |#
 
+                           |####
+ openconfig/ygnmi          |####
+                           |####
+
+                           |####
+ openconfig/gnmi           |####
+                           |####
+
+                           |#############
+ openconfig/goyang         |#############
+                           |#############
+
+                           |#
+ djtimca/hagooglewifi      |#
+                           |#
+
+                           |#
+ SecKatie/ha-wyzeapi       |#
+                           |#
+
+                           |#############
+ openconfig/ygot           |#############
+                           |#############
+
 
 
 Since 2025-07-03 16:57:25 -0700 PDT, I've been most active in openconfig/ygot, with 13 events.
@@ -90,4 +90,4 @@ Since 2025-07-03 16:57:25 -0700 PDT, I've been most active in openconfig/ygot, w
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2025-07-31 23:55:46.866726641 -0700 PDT
+Last Updated: 2025-08-01 00:06:01.595905384 -0700 PDT
