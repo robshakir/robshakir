@@ -42,21 +42,21 @@ Since 2025-07-03 16:57:25 -0700 PDT, I'm most active between 10:00-10:59 - with 
 
 
 ```
-                           |##
- openconfig/gnoi           |##
-                           |##
-
-                           |#############
- openconfig/ygot           |#############
-                           |#############
+                           |####
+ openconfig/gnmi           |####
+                           |####
 
                            |#############
  openconfig/goyang         |#############
                            |#############
 
                            |#
- SecKatie/ha-wyzeapi       |#
+ openconfig/clio           |#
                            |#
+
+                           |##
+ openconfig/gnoi           |##
+                           |##
 
                            |#
  gtxaspec/wz_mini_hacks    |#
@@ -66,13 +66,9 @@ Since 2025-07-03 16:57:25 -0700 PDT, I'm most active between 10:00-10:59 - with 
  openconfig/ygnmi          |####
                            |####
 
-                           |####
- openconfig/gnmi           |####
-                           |####
-
-                           |#
- openconfig/clio           |#
-                           |#
+                           |#############
+ openconfig/ygot           |#############
+                           |#############
 
                            |##########
  openconfig/lemming        |##########
@@ -80,6 +76,10 @@ Since 2025-07-03 16:57:25 -0700 PDT, I'm most active between 10:00-10:59 - with 
 
                            |#
  djtimca/hagooglewifi      |#
+                           |#
+
+                           |#
+ SecKatie/ha-wyzeapi       |#
                            |#
 
 
@@ -90,4 +90,4 @@ Since 2025-07-03 16:57:25 -0700 PDT, I've been most active in openconfig/ygot, w
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2025-08-02 02:02:17.616344654 -0700 PDT
+Last Updated: 2025-08-02 02:21:23.686435085 -0700 PDT
