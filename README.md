@@ -42,13 +42,33 @@ Since 2025-07-03 16:57:25 -0700 PDT, I'm most active between 10:00-10:59 - with 
 
 
 ```
-                           |##
- openconfig/gnoi           |##
-                           |##
+                           |##########
+ openconfig/lemming        |##########
+                           |##########
+
+                           |#
+ SecKatie/ha-wyzeapi       |#
+                           |#
 
                            |####
  openconfig/gnmi           |####
                            |####
+
+                           |#############
+ openconfig/ygot           |#############
+                           |#############
+
+                           |#
+ openconfig/clio           |#
+                           |#
+
+                           |#
+ djtimca/hagooglewifi      |#
+                           |#
+
+                           |##
+ openconfig/gnoi           |##
+                           |##
 
                            |#
  gtxaspec/wz_mini_hacks    |#
@@ -59,28 +79,8 @@ Since 2025-07-03 16:57:25 -0700 PDT, I'm most active between 10:00-10:59 - with 
                            |####
 
                            |#############
- openconfig/ygot           |#############
-                           |#############
-
-                           |#############
  openconfig/goyang         |#############
                            |#############
-
-                           |#
- openconfig/clio           |#
-                           |#
-
-                           |##########
- openconfig/lemming        |##########
-                           |##########
-
-                           |#
- djtimca/hagooglewifi      |#
-                           |#
-
-                           |#
- SecKatie/ha-wyzeapi       |#
-                           |#
 
 
 
@@ -90,4 +90,4 @@ Since 2025-07-03 16:57:25 -0700 PDT, I've been most active in openconfig/ygot, w
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2025-08-02 08:21:01.364224295 -0700 PDT
+Last Updated: 2025-08-02 08:34:50.26999149 -0700 PDT
