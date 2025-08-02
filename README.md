@@ -54,16 +54,8 @@ Since 2025-07-03 16:57:25 -0700 PDT, I'm most active between 10:00-10:59 - with 
  openconfig/goyang         |#############
                            |#############
 
-                           |##########
- openconfig/lemming        |##########
-                           |##########
-
                            |#
  openconfig/clio           |#
-                           |#
-
-                           |#
- djtimca/hagooglewifi      |#
                            |#
 
                            |#
@@ -73,6 +65,14 @@ Since 2025-07-03 16:57:25 -0700 PDT, I'm most active between 10:00-10:59 - with 
                            |##
  openconfig/gnoi           |##
                            |##
+
+                           |##########
+ openconfig/lemming        |##########
+                           |##########
+
+                           |#
+ djtimca/hagooglewifi      |#
+                           |#
 
                            |#
  gtxaspec/wz_mini_hacks    |#
@@ -90,4 +90,4 @@ Since 2025-07-03 16:57:25 -0700 PDT, I've been most active in openconfig/ygot, w
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2025-08-01 21:54:17.148009421 -0700 PDT
+Last Updated: 2025-08-01 22:04:15.453622197 -0700 PDT
