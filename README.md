@@ -43,20 +43,8 @@ Since 2025-07-08 17:15:05 -0700 PDT, I'm most active between 10:00-10:59 - with 
 
 ```
                            |#
- djtimca/hagooglewifi      |#
-                           |#
-
-                           |#
- openconfig/gnoi           |#
-                           |#
-
-                           |#
  gtxaspec/wz_mini_hacks    |#
                            |#
-
-                           |####
- openconfig/ygnmi          |####
-                           |####
 
                            |####
  openconfig/gnmi           |####
@@ -66,9 +54,17 @@ Since 2025-07-08 17:15:05 -0700 PDT, I'm most active between 10:00-10:59 - with 
  openconfig/goyang         |#############
                            |#############
 
+                           |##########
+ openconfig/lemming        |##########
+                           |##########
+
                            |#
- SecKatie/ha-wyzeapi       |#
+ djtimca/hagooglewifi      |#
                            |#
+
+                           |####
+ openconfig/ygnmi          |####
+                           |####
 
                            |#############
  openconfig/ygot           |#############
@@ -78,16 +74,20 @@ Since 2025-07-08 17:15:05 -0700 PDT, I'm most active between 10:00-10:59 - with 
  openconfig/clio           |#
                            |#
 
-                           |##########
- openconfig/lemming        |##########
-                           |##########
+                           |#
+ SecKatie/ha-wyzeapi       |#
+                           |#
+
+                           |#
+ openconfig/gnoi           |#
+                           |#
 
 
 
-Since 2025-07-08 17:15:05 -0700 PDT, I've been most active in openconfig/ygot, with 13 events.
+Since 2025-07-08 17:15:05 -0700 PDT, I've been most active in openconfig/goyang, with 13 events.
 
 ```
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2025-08-03 01:37:47.098219854 -0700 PDT
+Last Updated: 2025-08-03 01:50:01.884401256 -0700 PDT
