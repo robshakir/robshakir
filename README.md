@@ -42,6 +42,18 @@ Since 2025-07-08 17:15:05 -0700 PDT, I'm most active between 10:00-10:59 - with 
 
 
 ```
+                           |#############
+ openconfig/goyang         |#############
+                           |#############
+
+                           |##########
+ openconfig/lemming        |##########
+                           |##########
+
+                           |####
+ openconfig/gnmi           |####
+                           |####
+
                            |#
  openconfig/clio           |#
                            |#
@@ -70,18 +82,6 @@ Since 2025-07-08 17:15:05 -0700 PDT, I'm most active between 10:00-10:59 - with 
  openconfig/ygot           |#############
                            |#############
 
-                           |##########
- openconfig/lemming        |##########
-                           |##########
-
-                           |####
- openconfig/gnmi           |####
-                           |####
-
-                           |#############
- openconfig/goyang         |#############
-                           |#############
-
 
 
 Since 2025-07-08 17:15:05 -0700 PDT, I've been most active in openconfig/ygot, with 13 events.
@@ -90,4 +90,4 @@ Since 2025-07-08 17:15:05 -0700 PDT, I've been most active in openconfig/ygot, w
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2025-08-04 04:47:27.701431828 -0700 PDT
+Last Updated: 2025-08-04 05:02:11.591687955 -0700 PDT
