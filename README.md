@@ -42,9 +42,17 @@ Since 2025-07-08 17:15:05 -0700 PDT, I'm most active between 10:00-10:59 - with 
 
 
 ```
-                           |#
- djtimca/hagooglewifi      |#
-                           |#
+                           |####
+ openconfig/gnmi           |####
+                           |####
+
+                           |#############
+ openconfig/goyang         |#############
+                           |#############
+
+                           |##########
+ openconfig/lemming        |##########
+                           |##########
 
                            |#
  SecKatie/ha-wyzeapi       |#
@@ -58,36 +66,28 @@ Since 2025-07-08 17:15:05 -0700 PDT, I'm most active between 10:00-10:59 - with 
  openconfig/ygnmi          |####
                            |####
 
-                           |####
- openconfig/gnmi           |####
-                           |####
+                           |#############
+ openconfig/ygot           |#############
+                           |#############
 
                            |#
  openconfig/clio           |#
                            |#
 
-                           |##########
- openconfig/lemming        |##########
-                           |##########
+                           |#
+ djtimca/hagooglewifi      |#
+                           |#
 
                            |#
  openconfig/gnoi           |#
                            |#
 
-                           |#############
- openconfig/ygot           |#############
-                           |#############
-
-                           |#############
- openconfig/goyang         |#############
-                           |#############
 
 
-
-Since 2025-07-08 17:15:05 -0700 PDT, I've been most active in openconfig/ygot, with 13 events.
+Since 2025-07-08 17:15:05 -0700 PDT, I've been most active in openconfig/goyang, with 13 events.
 
 ```
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2025-08-05 01:01:43.654627924 -0700 PDT
+Last Updated: 2025-08-05 01:22:14.742141061 -0700 PDT
