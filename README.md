@@ -42,28 +42,28 @@ Since 2025-07-08 17:15:05 -0700 PDT, I'm most active between 10:00-10:59 - with 
 
 
 ```
-                           |##########
- openconfig/lemming        |##########
-                           |##########
-
-                           |#
- djtimca/hagooglewifi      |#
-                           |#
-
-                           |#
- gtxaspec/wz_mini_hacks    |#
-                           |#
-
                            |####
- openconfig/ygnmi          |####
+ openconfig/gnmi           |####
                            |####
 
                            |#############
  openconfig/ygot           |#############
                            |#############
 
+                           |#############
+ openconfig/goyang         |#############
+                           |#############
+
                            |#
  openconfig/clio           |#
+                           |#
+
+                           |##########
+ openconfig/lemming        |##########
+                           |##########
+
+                           |#
+ djtimca/hagooglewifi      |#
                            |#
 
                            |#
@@ -74,13 +74,13 @@ Since 2025-07-08 17:15:05 -0700 PDT, I'm most active between 10:00-10:59 - with 
  openconfig/gnoi           |#
                            |#
 
-                           |####
- openconfig/gnmi           |####
-                           |####
+                           |#
+ gtxaspec/wz_mini_hacks    |#
+                           |#
 
-                           |#############
- openconfig/goyang         |#############
-                           |#############
+                           |####
+ openconfig/ygnmi          |####
+                           |####
 
 
 
@@ -90,4 +90,4 @@ Since 2025-07-08 17:15:05 -0700 PDT, I've been most active in openconfig/ygot, w
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2025-08-06 15:21:37.485903636 -0700 PDT
+Last Updated: 2025-08-06 15:37:01.933893143 -0700 PDT
