@@ -42,28 +42,28 @@ Since 2025-07-08 17:15:05 -0700 PDT, I'm most active between 10:00-10:59 - with 
 
 
 ```
-                           |##########
- openconfig/lemming        |##########
-                           |##########
+                           |#############
+ openconfig/ygot           |#############
+                           |#############
 
-                           |#
- openconfig/gnoi           |#
-                           |#
-
-                           |####
- openconfig/ygnmi          |####
-                           |####
+                           |#############
+ openconfig/goyang         |#############
+                           |#############
 
                            |#
  openconfig/clio           |#
                            |#
 
-                           |#
- djtimca/hagooglewifi      |#
-                           |#
+                           |##########
+ openconfig/lemming        |##########
+                           |##########
 
                            |#
  SecKatie/ha-wyzeapi       |#
+                           |#
+
+                           |#
+ openconfig/gnoi           |#
                            |#
 
                            |#
@@ -74,20 +74,20 @@ Since 2025-07-08 17:15:05 -0700 PDT, I'm most active between 10:00-10:59 - with 
  openconfig/gnmi           |####
                            |####
 
-                           |#############
- openconfig/ygot           |#############
-                           |#############
+                           |#
+ djtimca/hagooglewifi      |#
+                           |#
 
-                           |#############
- openconfig/goyang         |#############
-                           |#############
+                           |####
+ openconfig/ygnmi          |####
+                           |####
 
 
 
-Since 2025-07-08 17:15:05 -0700 PDT, I've been most active in openconfig/ygot, with 13 events.
+Since 2025-07-08 17:15:05 -0700 PDT, I've been most active in openconfig/goyang, with 13 events.
 
 ```
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2025-08-05 18:09:34.340422162 -0700 PDT
+Last Updated: 2025-08-05 18:51:06.091465483 -0700 PDT
