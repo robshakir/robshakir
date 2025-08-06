@@ -43,20 +43,20 @@ Since 2025-07-08 17:15:05 -0700 PDT, I'm most active between 10:00-10:59 - with 
 
 ```
                            |####
+ openconfig/ygnmi          |####
+                           |####
+
+                           |####
  openconfig/gnmi           |####
                            |####
 
-                           |#
- openconfig/clio           |#
-                           |#
+                           |#############
+ openconfig/ygot           |#############
+                           |#############
 
-                           |##########
- openconfig/lemming        |##########
-                           |##########
-
-                           |#
- djtimca/hagooglewifi      |#
-                           |#
+                           |#############
+ openconfig/goyang         |#############
+                           |#############
 
                            |#
  SecKatie/ha-wyzeapi       |#
@@ -70,17 +70,17 @@ Since 2025-07-08 17:15:05 -0700 PDT, I'm most active between 10:00-10:59 - with 
  gtxaspec/wz_mini_hacks    |#
                            |#
 
-                           |####
- openconfig/ygnmi          |####
-                           |####
+                           |#
+ openconfig/clio           |#
+                           |#
 
-                           |#############
- openconfig/ygot           |#############
-                           |#############
+                           |##########
+ openconfig/lemming        |##########
+                           |##########
 
-                           |#############
- openconfig/goyang         |#############
-                           |#############
+                           |#
+ djtimca/hagooglewifi      |#
+                           |#
 
 
 
@@ -90,4 +90,4 @@ Since 2025-07-08 17:15:05 -0700 PDT, I've been most active in openconfig/ygot, w
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2025-08-05 16:47:58.099048772 -0700 PDT
+Last Updated: 2025-08-05 17:05:11.373472901 -0700 PDT
