@@ -42,25 +42,13 @@ Since 2025-07-08 17:15:05 -0700 PDT, I'm most active between 10:00-10:59 - with 
 
 
 ```
-                           |####
- openconfig/ygnmi          |####
-                           |####
-
-                           |##########
- openconfig/lemming        |##########
-                           |##########
-
                            |#
- openconfig/gnoi           |#
+ openconfig/clio           |#
                            |#
 
                            |#
  gtxaspec/wz_mini_hacks    |#
                            |#
-
-                           |####
- openconfig/gnmi           |####
-                           |####
 
                            |#############
  openconfig/ygot           |#############
@@ -70,9 +58,9 @@ Since 2025-07-08 17:15:05 -0700 PDT, I'm most active between 10:00-10:59 - with 
  openconfig/goyang         |#############
                            |#############
 
-                           |#
- openconfig/clio           |#
-                           |#
+                           |##########
+ openconfig/lemming        |##########
+                           |##########
 
                            |#
  djtimca/hagooglewifi      |#
@@ -82,6 +70,18 @@ Since 2025-07-08 17:15:05 -0700 PDT, I'm most active between 10:00-10:59 - with 
  SecKatie/ha-wyzeapi       |#
                            |#
 
+                           |#
+ openconfig/gnoi           |#
+                           |#
+
+                           |####
+ openconfig/ygnmi          |####
+                           |####
+
+                           |####
+ openconfig/gnmi           |####
+                           |####
+
 
 
 Since 2025-07-08 17:15:05 -0700 PDT, I've been most active in openconfig/ygot, with 13 events.
@@ -90,4 +90,4 @@ Since 2025-07-08 17:15:05 -0700 PDT, I've been most active in openconfig/ygot, w
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2025-08-06 10:37:16.920790986 -0700 PDT
+Last Updated: 2025-08-06 10:49:31.615335717 -0700 PDT
