@@ -43,14 +43,6 @@ Since 2025-07-08 17:15:05 -0700 PDT, I'm most active between 10:00-10:59 - with 
 
 ```
                            |#
- openconfig/clio           |#
-                           |#
-
-                           |##########
- openconfig/lemming        |##########
-                           |##########
-
-                           |#
  SecKatie/ha-wyzeapi       |#
                            |#
 
@@ -58,29 +50,37 @@ Since 2025-07-08 17:15:05 -0700 PDT, I'm most active between 10:00-10:59 - with 
  openconfig/gnoi           |#
                            |#
 
-                           |#
- gtxaspec/wz_mini_hacks    |#
-                           |#
-
                            |####
  openconfig/ygnmi          |####
                            |####
-
-                           |####
- openconfig/gnmi           |####
-                           |####
-
-                           |#
- djtimca/hagooglewifi      |#
-                           |#
 
                            |#############
  openconfig/ygot           |#############
                            |#############
 
+                           |##########
+ openconfig/lemming        |##########
+                           |##########
+
+                           |#
+ gtxaspec/wz_mini_hacks    |#
+                           |#
+
+                           |####
+ openconfig/gnmi           |####
+                           |####
+
                            |#############
  openconfig/goyang         |#############
                            |#############
+
+                           |#
+ openconfig/clio           |#
+                           |#
+
+                           |#
+ djtimca/hagooglewifi      |#
+                           |#
 
 
 
@@ -90,4 +90,4 @@ Since 2025-07-08 17:15:05 -0700 PDT, I've been most active in openconfig/ygot, w
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2025-08-06 05:43:52.199005722 -0700 PDT
+Last Updated: 2025-08-06 06:06:20.984362216 -0700 PDT
