@@ -42,10 +42,6 @@ Since 2025-07-16 04:47:40 -0700 PDT, I'm most active between 10:00-10:59 - with 
 
 
 ```
-                         |####
- openconfig/gnmi         |####
-                         |####
-
                          |#############
  openconfig/ygot         |#############
                          |#############
@@ -66,6 +62,10 @@ Since 2025-07-16 04:47:40 -0700 PDT, I'm most active between 10:00-10:59 - with 
  djtimca/hagooglewifi    |#
                          |#
 
+                         |####
+ openconfig/gnmi         |####
+                         |####
+
 
 
 Since 2025-07-16 04:47:40 -0700 PDT, I've been most active in openconfig/ygot, with 13 events.
@@ -74,4 +74,4 @@ Since 2025-07-16 04:47:40 -0700 PDT, I've been most active in openconfig/ygot, w
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2025-08-14 03:01:38.081820703 -0700 PDT
+Last Updated: 2025-08-14 03:21:18.136502249 -0700 PDT
