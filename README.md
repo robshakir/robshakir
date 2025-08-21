@@ -60,10 +60,10 @@ Since 2025-07-21 07:51:29 -0700 PDT, I'm most active between 08:00-08:59 - with 
 
 
 
-Since 2025-07-21 07:51:29 -0700 PDT, I've been most active in openconfig/gnmi, with 4 events.
+Since 2025-07-21 07:51:29 -0700 PDT, I've been most active in openconfig/ygot, with 4 events.
 
 ```
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2025-08-20 16:46:00.270265875 -0700 PDT
+Last Updated: 2025-08-20 17:03:49.665390938 -0700 PDT
