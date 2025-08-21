@@ -41,10 +41,6 @@ Since 2025-07-23 16:05:55 -0700 PDT, I'm most active between 08:00-08:59 - with 
 
 
 ```
-                      |#
- openconfig/public    |#
-                      |#
-
                       |###
  openconfig/ygnmi     |###
                       |###
@@ -57,6 +53,10 @@ Since 2025-07-23 16:05:55 -0700 PDT, I'm most active between 08:00-08:59 - with 
  openconfig/gnmi      |#
                       |#
 
+                      |#
+ openconfig/public    |#
+                      |#
+
 
 
 Since 2025-07-23 16:05:55 -0700 PDT, I've been most active in openconfig/ygot, with 4 events.
@@ -65,4 +65,4 @@ Since 2025-07-23 16:05:55 -0700 PDT, I've been most active in openconfig/ygot, w
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2025-08-21 10:06:17.206597834 -0700 PDT
+Last Updated: 2025-08-21 10:20:27.742486978 -0700 PDT
