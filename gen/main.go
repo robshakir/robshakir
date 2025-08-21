@@ -194,6 +194,7 @@ func breadcrumbs(events *Events) string {
 		activity := actMap[e.GetType()]
 		if activity == "" {
 			log.Errorf("activity %s is not mapped to a name", e.GetType())
+			continue
 		}
 		outBuf.WriteString(fmt.Sprintf(" * %s `%s` at %s\n", activity, e.Repo.GetName(), pacific(e.GetCreatedAt())))
 	}
