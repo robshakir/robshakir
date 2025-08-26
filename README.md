@@ -42,10 +42,6 @@ Since 2025-08-18 08:57:07 -0700 PDT, I'm most active between 12:00-12:59 - with 
 
 
 ```
-                               |#
- openconfig/public             |#
-                               |#
-
                                |####
  openconfig/ygot               |####
                                |####
@@ -62,6 +58,10 @@ Since 2025-08-18 08:57:07 -0700 PDT, I'm most active between 12:00-12:59 - with 
  robshakir/robshakir           |#
                                |#
 
+                               |#
+ openconfig/public             |#
+                               |#
+
 
 
 Since 2025-08-18 08:57:07 -0700 PDT, I've been most active in openconfig/featureprofiles, with 11 events.
@@ -70,4 +70,4 @@ Since 2025-08-18 08:57:07 -0700 PDT, I've been most active in openconfig/feature
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2025-08-26 03:48:10.332687908 -0700 PDT
+Last Updated: 2025-08-26 04:01:21.014936888 -0700 PDT
