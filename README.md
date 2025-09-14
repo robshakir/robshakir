@@ -42,14 +42,6 @@ Since 2025-08-22 10:43:26 -0700 PDT, I'm most active between 16:00-16:59 - with 
 
 
 ```
-                               |##
- openconfig/public             |##
-                               |##
-
-                               |######################
- openconfig/gribigo            |######################
-                               |######################
-
                                |#
  alshabib/gribigo              |#
                                |#
@@ -58,6 +50,14 @@ Since 2025-08-22 10:43:26 -0700 PDT, I'm most active between 16:00-16:59 - with 
  openconfig/gribi              |#######
                                |#######
 
+                               |######################
+ openconfig/gribigo            |######################
+                               |######################
+
+                               |#
+ openconfig/gnmi               |#
+                               |#
+
                                |#######
  openconfig/ygnmi              |#######
                                |#######
@@ -65,6 +65,10 @@ Since 2025-08-22 10:43:26 -0700 PDT, I'm most active between 16:00-16:59 - with 
                                |#############################
  openconfig/featureprofiles    |#############################
                                |#############################
+
+                               |##
+ openconfig/public             |##
+                               |##
 
                                |###
  openconfig/reference          |###
@@ -82,10 +86,6 @@ Since 2025-08-22 10:43:26 -0700 PDT, I'm most active between 16:00-16:59 - with 
  openconfig/ondatra            |###
                                |###
 
-                               |#
- openconfig/gnmi               |#
-                               |#
-
 
 
 Since 2025-08-22 10:43:26 -0700 PDT, I've been most active in openconfig/featureprofiles, with 29 events.
@@ -94,4 +94,4 @@ Since 2025-08-22 10:43:26 -0700 PDT, I've been most active in openconfig/feature
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2025-09-14 12:01:06.168774924 -0700 PDT
+Last Updated: 2025-09-14 12:18:05.451781101 -0700 PDT
