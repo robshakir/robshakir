@@ -42,6 +42,18 @@ Since 2025-08-22 10:43:26 -0700 PDT, I'm most active between 16:00-16:59 - with 
 
 
 ```
+                               |#
+ openconfig/gnoi               |#
+                               |#
+
+                               |#
+ alshabib/gribigo              |#
+                               |#
+
+                               |#
+ openconfig/gnmi               |#
+                               |#
+
                                |#############################
  openconfig/featureprofiles    |#############################
                                |#############################
@@ -74,18 +86,6 @@ Since 2025-08-22 10:43:26 -0700 PDT, I'm most active between 16:00-16:59 - with 
  openconfig/ygnmi              |#######
                                |#######
 
-                               |#
- openconfig/gnoi               |#
-                               |#
-
-                               |#
- alshabib/gribigo              |#
-                               |#
-
-                               |#
- openconfig/gnmi               |#
-                               |#
-
 
 
 Since 2025-08-22 10:43:26 -0700 PDT, I've been most active in openconfig/featureprofiles, with 29 events.
@@ -94,4 +94,4 @@ Since 2025-08-22 10:43:26 -0700 PDT, I've been most active in openconfig/feature
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2025-09-16 18:07:00.352735624 -0700 PDT
+Last Updated: 2025-09-16 18:50:14.424074241 -0700 PDT
