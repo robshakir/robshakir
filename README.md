@@ -42,13 +42,9 @@ Since 2025-08-22 10:43:26 -0700 PDT, I'm most active between 16:00-16:59 - with 
 
 
 ```
-                               |##
- openconfig/public             |##
-                               |##
-
-                               |#
- openconfig/gnoi               |#
-                               |#
+                               |#######
+ openconfig/gribi              |#######
+                               |#######
 
                                |########################
  openconfig/ygot               |########################
@@ -57,10 +53,6 @@ Since 2025-08-22 10:43:26 -0700 PDT, I'm most active between 16:00-16:59 - with 
                                |###
  openconfig/ondatra            |###
                                |###
-
-                               |#
- alshabib/gribigo              |#
-                               |#
 
                                |#
  openconfig/gnmi               |#
@@ -74,17 +66,25 @@ Since 2025-08-22 10:43:26 -0700 PDT, I'm most active between 16:00-16:59 - with 
  openconfig/featureprofiles    |#############################
                                |#############################
 
+                               |##
+ openconfig/public             |##
+                               |##
+
                                |###
  openconfig/reference          |###
                                |###
+
+                               |#
+ openconfig/gnoi               |#
+                               |#
 
                                |######################
  openconfig/gribigo            |######################
                                |######################
 
-                               |#######
- openconfig/gribi              |#######
-                               |#######
+                               |#
+ alshabib/gribigo              |#
+                               |#
 
 
 
@@ -94,4 +94,4 @@ Since 2025-08-22 10:43:26 -0700 PDT, I've been most active in openconfig/feature
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2025-09-18 14:01:17.482599628 -0700 PDT
+Last Updated: 2025-09-18 14:20:10.414574655 -0700 PDT
