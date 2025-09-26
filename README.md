@@ -42,17 +42,13 @@ Since 2025-08-27 10:40:13 -0700 PDT, I'm most active between 04:00-04:59 - with 
 
 
 ```
-                               |#######################
- openconfig/gribigo            |#######################
-                               |#######################
-
                                |##################
  openconfig/ygot               |##################
                                |##################
 
-                               |##
- openconfig/public             |##
-                               |##
+                               |#############
+ openconfig/featureprofiles    |#############
+                               |#############
 
                                |###
  openconfig/reference          |###
@@ -67,6 +63,10 @@ Since 2025-08-27 10:40:13 -0700 PDT, I'm most active between 04:00-04:59 - with 
                                |###
 
                                |#
+ alshabib/gribigo              |#
+                               |#
+
+                               |#
  openconfig/gnmi               |#
                                |#
 
@@ -78,13 +78,13 @@ Since 2025-08-27 10:40:13 -0700 PDT, I'm most active between 04:00-04:59 - with 
  openconfig/ygnmi              |####
                                |####
 
-                               |#############
- openconfig/featureprofiles    |#############
-                               |#############
+                               |#######################
+ openconfig/gribigo            |#######################
+                               |#######################
 
-                               |#
- alshabib/gribigo              |#
-                               |#
+                               |##
+ openconfig/public             |##
+                               |##
 
                                |#######
  openconfig/gribi              |#######
@@ -98,4 +98,4 @@ Since 2025-08-27 10:40:13 -0700 PDT, I've been most active in openconfig/gribigo
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2025-09-25 22:46:02.071047994 -0700 PDT
+Last Updated: 2025-09-25 23:02:02.628087204 -0700 PDT
