@@ -46,29 +46,9 @@ Since 2025-09-02 12:50:36 -0700 PDT, I'm most active between 04:00-04:59 - with 
  openconfig/clio               |########
                                |########
 
-                               |####
- openconfig/ygnmi              |####
-                               |####
-
-                               |###
- openconfig/reference          |###
-                               |###
-
-                               |###
- openconfig/ondatra            |###
-                               |###
-
-                               |#
- alshabib/gribigo              |#
-                               |#
-
                                |#######################
  openconfig/gribigo            |#######################
                                |#######################
-
-                               |############
- openconfig/ygot               |############
-                               |############
 
                                |#############
  openconfig/featureprofiles    |#############
@@ -80,6 +60,26 @@ Since 2025-09-02 12:50:36 -0700 PDT, I'm most active between 04:00-04:59 - with 
 
                                |#
  openconfig/gnoi               |#
+                               |#
+
+                               |####
+ openconfig/ygnmi              |####
+                               |####
+
+                               |############
+ openconfig/ygot               |############
+                               |############
+
+                               |###
+ openconfig/reference          |###
+                               |###
+
+                               |###
+ openconfig/ondatra            |###
+                               |###
+
+                               |#
+ alshabib/gribigo              |#
                                |#
 
                                |#######
@@ -94,4 +94,4 @@ Since 2025-09-02 12:50:36 -0700 PDT, I've been most active in openconfig/gribigo
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2025-10-01 15:33:09.566847773 -0700 PDT
+Last Updated: 2025-10-01 15:46:04.222577694 -0700 PDT
