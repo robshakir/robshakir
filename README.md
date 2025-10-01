@@ -42,18 +42,6 @@ Since 2025-09-02 12:50:36 -0700 PDT, I'm most active between 04:00-04:59 - with 
 
 
 ```
-                               |###
- openconfig/reference          |###
-                               |###
-
-                               |#
- alshabib/gribigo              |#
-                               |#
-
-                               |#######
- openconfig/gribi              |#######
-                               |#######
-
                                |####
  openconfig/ygnmi              |####
                                |####
@@ -62,13 +50,13 @@ Since 2025-09-02 12:50:36 -0700 PDT, I'm most active between 04:00-04:59 - with 
  openconfig/public             |##
                                |##
 
-                               |#
- openconfig/gnoi               |#
-                               |#
-
                                |###
  openconfig/ondatra            |###
                                |###
+
+                               |#
+ alshabib/gribigo              |#
+                               |#
 
                                |########
  openconfig/clio               |########
@@ -86,6 +74,18 @@ Since 2025-09-02 12:50:36 -0700 PDT, I'm most active between 04:00-04:59 - with 
  openconfig/featureprofiles    |#############
                                |#############
 
+                               |###
+ openconfig/reference          |###
+                               |###
+
+                               |#
+ openconfig/gnoi               |#
+                               |#
+
+                               |#######
+ openconfig/gribi              |#######
+                               |#######
+
 
 
 Since 2025-09-02 12:50:36 -0700 PDT, I've been most active in openconfig/gribigo, with 23 events.
@@ -94,4 +94,4 @@ Since 2025-09-02 12:50:36 -0700 PDT, I've been most active in openconfig/gribigo
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2025-10-01 05:02:09.403430874 -0700 PDT
+Last Updated: 2025-10-01 05:23:00.160617763 -0700 PDT
