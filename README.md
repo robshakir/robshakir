@@ -42,10 +42,6 @@ Since 2025-09-02 12:50:36 -0700 PDT, I'm most active between 04:00-04:59 - with 
 
 
 ```
-                               |#######################
- openconfig/gribigo            |#######################
-                               |#######################
-
                                |#############
  openconfig/featureprofiles    |#############
                                |#############
@@ -54,9 +50,25 @@ Since 2025-09-02 12:50:36 -0700 PDT, I'm most active between 04:00-04:59 - with 
  openconfig/public             |##
                                |##
 
+                               |####
+ openconfig/ygnmi              |####
+                               |####
+
+                               |#######################
+ openconfig/gribigo            |#######################
+                               |#######################
+
+                               |############
+ openconfig/ygot               |############
+                               |############
+
                                |###
  openconfig/reference          |###
                                |###
+
+                               |#
+ openconfig/gnoi               |#
+                               |#
 
                                |###
  openconfig/ondatra            |###
@@ -66,25 +78,13 @@ Since 2025-09-02 12:50:36 -0700 PDT, I'm most active between 04:00-04:59 - with 
  alshabib/gribigo              |#
                                |#
 
-                               |########
- openconfig/clio               |########
-                               |########
-
-                               |####
- openconfig/ygnmi              |####
-                               |####
-
-                               |############
- openconfig/ygot               |############
-                               |############
-
-                               |#
- openconfig/gnoi               |#
-                               |#
-
                                |#######
  openconfig/gribi              |#######
                                |#######
+
+                               |########
+ openconfig/clio               |########
+                               |########
 
 
 
@@ -94,4 +94,4 @@ Since 2025-09-02 12:50:36 -0700 PDT, I've been most active in openconfig/gribigo
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2025-10-02 08:20:44.195386961 -0700 PDT
+Last Updated: 2025-10-02 08:33:31.386128437 -0700 PDT
