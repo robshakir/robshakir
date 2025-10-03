@@ -42,14 +42,6 @@ Since 2025-09-03 04:40:05 -0700 PDT, I'm most active between 04:00-04:59 - with 
 
 
 ```
-                               |########
- openconfig/clio               |########
-                               |########
-
-                               |####
- openconfig/ygnmi              |####
-                               |####
-
                                |##################
  openconfig/gribigo            |##################
                                |##################
@@ -57,10 +49,6 @@ Since 2025-09-03 04:40:05 -0700 PDT, I'm most active between 04:00-04:59 - with 
                                |########
  openconfig/ygot               |########
                                |########
-
-                               |##
- openconfig/public             |##
-                               |##
 
                                |###
  openconfig/reference          |###
@@ -74,9 +62,17 @@ Since 2025-09-03 04:40:05 -0700 PDT, I'm most active between 04:00-04:59 - with 
  openconfig/gribi              |##
                                |##
 
+                               |####
+ openconfig/ygnmi              |####
+                               |####
+
                                |#############
  openconfig/featureprofiles    |#############
                                |#############
+
+                               |##
+ openconfig/public             |##
+                               |##
 
                                |###
  openconfig/ondatra            |###
@@ -86,6 +82,10 @@ Since 2025-09-03 04:40:05 -0700 PDT, I'm most active between 04:00-04:59 - with 
  alshabib/gribigo              |#
                                |#
 
+                               |########
+ openconfig/clio               |########
+                               |########
+
 
 
 Since 2025-09-03 04:40:05 -0700 PDT, I've been most active in openconfig/gribigo, with 18 events.
@@ -94,4 +94,4 @@ Since 2025-09-03 04:40:05 -0700 PDT, I've been most active in openconfig/gribigo
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2025-10-03 14:45:53.15947697 -0700 PDT
+Last Updated: 2025-10-03 15:01:14.345825406 -0700 PDT
