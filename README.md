@@ -46,9 +46,17 @@ Since 2025-09-03 04:40:05 -0700 PDT, I'm most active between 04:00-04:59 - with 
  openconfig/ygnmi              |####
                                |####
 
-                               |#############
- openconfig/featureprofiles    |#############
-                               |#############
+                               |###
+ openconfig/reference          |###
+                               |###
+
+                               |#
+ alshabib/gribigo              |#
+                               |#
+
+                               |########
+ openconfig/clio               |########
+                               |########
 
                                |##################
  openconfig/gribigo            |##################
@@ -58,13 +66,13 @@ Since 2025-09-03 04:40:05 -0700 PDT, I'm most active between 04:00-04:59 - with 
  openconfig/ygot               |########
                                |########
 
+                               |#############
+ openconfig/featureprofiles    |#############
+                               |#############
+
                                |##
  openconfig/public             |##
                                |##
-
-                               |###
- openconfig/reference          |###
-                               |###
 
                                |#
  openconfig/gnoi               |#
@@ -74,17 +82,9 @@ Since 2025-09-03 04:40:05 -0700 PDT, I'm most active between 04:00-04:59 - with 
  openconfig/ondatra            |###
                                |###
 
-                               |#
- alshabib/gribigo              |#
-                               |#
-
                                |##
  openconfig/gribi              |##
                                |##
-
-                               |########
- openconfig/clio               |########
-                               |########
 
 
 
@@ -94,4 +94,4 @@ Since 2025-09-03 04:40:05 -0700 PDT, I've been most active in openconfig/gribigo
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2025-10-03 04:20:08.542587105 -0700 PDT
+Last Updated: 2025-10-03 04:31:03.519435183 -0700 PDT
