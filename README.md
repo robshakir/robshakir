@@ -42,10 +42,6 @@ Since 2025-09-08 11:03:18 -0700 PDT, I'm most active between 02:00-02:59 - with 
 
 
 ```
-                               |#
- openconfig/gribigo            |#
-                               |#
-
                                |###
  openconfig/ygot               |###
                                |###
@@ -70,6 +66,10 @@ Since 2025-09-08 11:03:18 -0700 PDT, I'm most active between 02:00-02:59 - with 
  openconfig/ygnmi              |####
                                |####
 
+                               |#
+ openconfig/gribigo            |#
+                               |#
+
                                |###
  openconfig/reference          |###
                                |###
@@ -82,4 +82,4 @@ Since 2025-09-08 11:03:18 -0700 PDT, I've been most active in openconfig/feature
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2025-10-05 08:31:05.133507056 -0700 PDT
+Last Updated: 2025-10-05 08:46:03.446006941 -0700 PDT
