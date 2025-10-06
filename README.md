@@ -42,9 +42,9 @@ Since 2025-09-08 11:03:18 -0700 PDT, I'm most active between 02:00-02:59 - with 
 
 
 ```
-                               |#
- openconfig/gnoi               |#
-                               |#
+                               |########
+ openconfig/clio               |########
+                               |########
 
                                |#
  openconfig/gribigo            |#
@@ -54,9 +54,9 @@ Since 2025-09-08 11:03:18 -0700 PDT, I'm most active between 02:00-02:59 - with 
  openconfig/ygot               |###
                                |###
 
-                               |########
- openconfig/clio               |########
-                               |########
+                               |###
+ openconfig/reference          |###
+                               |###
 
                                |####
  openconfig/ygnmi              |####
@@ -70,9 +70,9 @@ Since 2025-09-08 11:03:18 -0700 PDT, I'm most active between 02:00-02:59 - with 
  openconfig/public             |##
                                |##
 
-                               |###
- openconfig/reference          |###
-                               |###
+                               |#
+ openconfig/gnoi               |#
+                               |#
 
 
 
@@ -82,4 +82,4 @@ Since 2025-09-08 11:03:18 -0700 PDT, I've been most active in openconfig/clio, w
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2025-10-06 09:48:30.696037189 -0700 PDT
+Last Updated: 2025-10-06 10:01:35.782060914 -0700 PDT
