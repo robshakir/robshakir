@@ -42,25 +42,13 @@ Since 2025-09-08 11:03:18 -0700 PDT, I'm most active between 02:00-02:59 - with 
 
 
 ```
-                               |#########
- openconfig/magna              |#########
-                               |#########
-
-                               |###
- openconfig/ygot               |###
-                               |###
-
-                               |########
- openconfig/featureprofiles    |########
-                               |########
-
-                               |##
- openconfig/public             |##
-                               |##
-
                                |###
  openconfig/reference          |###
                                |###
+
+                               |#########
+ openconfig/magna              |#########
+                               |#########
 
                                |########
  openconfig/clio               |########
@@ -70,13 +58,25 @@ Since 2025-09-08 11:03:18 -0700 PDT, I'm most active between 02:00-02:59 - with 
  openconfig/ygnmi              |####
                                |####
 
-                               |#
- openconfig/gribigo            |#
-                               |#
+                               |########
+ openconfig/featureprofiles    |########
+                               |########
+
+                               |##
+ openconfig/public             |##
+                               |##
 
                                |#
  openconfig/gnoi               |#
                                |#
+
+                               |#
+ openconfig/gribigo            |#
+                               |#
+
+                               |###
+ openconfig/ygot               |###
+                               |###
 
 
 
@@ -86,4 +86,4 @@ Since 2025-09-08 11:03:18 -0700 PDT, I've been most active in openconfig/magna, 
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2025-10-07 10:46:05.302699484 -0700 PDT
+Last Updated: 2025-10-07 11:02:00.399626872 -0700 PDT
