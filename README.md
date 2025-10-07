@@ -42,26 +42,6 @@ Since 2025-09-08 11:03:18 -0700 PDT, I'm most active between 02:00-02:59 - with 
 
 
 ```
-                               |##
- openconfig/magna              |##
-                               |##
-
-                               |####
- openconfig/ygnmi              |####
-                               |####
-
-                               |#
- openconfig/gribigo            |#
-                               |#
-
-                               |##
- openconfig/public             |##
-                               |##
-
-                               |########
- openconfig/clio               |########
-                               |########
-
                                |###
  openconfig/ygot               |###
                                |###
@@ -70,12 +50,32 @@ Since 2025-09-08 11:03:18 -0700 PDT, I'm most active between 02:00-02:59 - with 
  openconfig/featureprofiles    |########
                                |########
 
+                               |##
+ openconfig/public             |##
+                               |##
+
+                               |####
+ openconfig/ygnmi              |####
+                               |####
+
                                |###
  openconfig/reference          |###
                                |###
 
                                |#
  openconfig/gnoi               |#
+                               |#
+
+                               |##
+ openconfig/magna              |##
+                               |##
+
+                               |########
+ openconfig/clio               |########
+                               |########
+
+                               |#
+ openconfig/gribigo            |#
                                |#
 
 
@@ -86,4 +86,4 @@ Since 2025-09-08 11:03:18 -0700 PDT, I've been most active in openconfig/clio, w
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2025-10-06 19:25:34.105225434 -0700 PDT
+Last Updated: 2025-10-06 19:47:42.813410957 -0700 PDT
