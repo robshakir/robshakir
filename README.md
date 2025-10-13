@@ -42,6 +42,14 @@ Since 2025-09-19 02:34:07 -0700 PDT, I'm most active between 02:00-02:59 - with 
 
 
 ```
+                       |####
+ openconfig/ygnmi      |####
+                       |####
+
+                       |###
+ openconfig/ygot       |###
+                       |###
+
                        |##
  openconfig/gribigo    |##
                        |##
@@ -54,14 +62,6 @@ Since 2025-09-19 02:34:07 -0700 PDT, I'm most active between 02:00-02:59 - with 
  openconfig/clio       |########
                        |########
 
-                       |####
- openconfig/ygnmi      |####
-                       |####
-
-                       |###
- openconfig/ygot       |###
-                       |###
-
 
 
 Since 2025-09-19 02:34:07 -0700 PDT, I've been most active in openconfig/magna, with 9 events.
@@ -70,4 +70,4 @@ Since 2025-09-19 02:34:07 -0700 PDT, I've been most active in openconfig/magna, 
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2025-10-13 12:01:10.02184164 -0700 PDT
+Last Updated: 2025-10-13 12:19:33.228289457 -0700 PDT
