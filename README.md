@@ -72,10 +72,10 @@ Since 2025-09-15 05:55:49 -0700 PDT, I'm most active between 02:00-02:59 - with 
 
 
 
-Since 2025-09-15 05:55:49 -0700 PDT, I've been most active in openconfig/ygnmi, with 8 events.
+Since 2025-09-15 05:55:49 -0700 PDT, I've been most active in openconfig/magna, with 8 events.
 
 ```
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2025-10-15 02:34:18.777720917 -0700 PDT
+Last Updated: 2025-10-15 02:47:06.331951517 -0700 PDT
