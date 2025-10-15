@@ -1,15 +1,15 @@
 ### 🍞 Bread Crumbs
 
+ * 🔍: Reviewed a pull request in  `openconfig/featureprofiles` at 2025-10-15 09:18:39 -0700 PDT
+ * 💬: Commented on a PR in  `openconfig/featureprofiles` at 2025-10-15 09:18:37 -0700 PDT
+ * 💬: Commented on a PR in  `openconfig/featureprofiles` at 2025-10-15 09:18:17 -0700 PDT
+ * 💬: Commented on a PR in  `openconfig/featureprofiles` at 2025-10-15 09:17:30 -0700 PDT
+ * 💬: Commented on a PR in  `openconfig/featureprofiles` at 2025-10-15 09:13:28 -0700 PDT
  * 🔍: Reviewed a pull request in  `openconfig/ygnmi` at 2025-10-14 13:49:38 -0700 PDT
  * 😃: Commented on an issue in `openconfig/ygnmi` at 2025-10-14 13:48:12 -0700 PDT
  * 🔍: Reviewed a pull request in  `openconfig/gribigo` at 2025-10-10 15:17:19 -0700 PDT
  * 🗑: Deleted a branch in `openconfig/magna` at 2025-10-06 12:38:03 -0700 PDT
  * 🚢: Pushed some commits to `openconfig/magna` at 2025-10-06 12:36:42 -0700 PDT
- * 🚢: Pushed some commits to `openconfig/magna` at 2025-10-06 12:26:24 -0700 PDT
- * 🚢: Pushed some commits to `openconfig/magna` at 2025-10-06 12:18:02 -0700 PDT
- * 🚢: Pushed some commits to `openconfig/magna` at 2025-10-06 11:34:03 -0700 PDT
- * 🚢: Pushed some commits to `openconfig/magna` at 2025-10-06 11:08:22 -0700 PDT
- * ✍🏼: Created a pull request in `openconfig/magna` at 2025-10-06 10:43:54 -0700 PDT
 
 ### 🕘 Recent Activity
 ```
@@ -19,16 +19,16 @@
   7┤       │ │
   6┤       │ ╰╮
   5┤      ╭╯  │
-  5┤      │   │
-  4┤      │   │
-  4┤     ╭╯   ╰╮                              ╭─────────╮
-  3┤     │     │                             ╭╯         ╰╮
-  3┤     │     │           ╭──╮              │           ╰╮
-  2┤     │     │         ╭─╯  ╰╮            ╭╯            ╰─╮
-  2┤    ╭╯     ╰╮     ╭──╯     ╰╮    ╭─╮    │               ╰╮
-  1┤    │       │   ╭─╯         │  ╭─╯ ╰╮  ╭╯                ╰╮    ╭─╮
-  1┤    │       │ ╭─╯           ╰╮╭╯    ╰─╮│                  ╰╮ ╭─╯ ╰─╮
-  0┼────╯       ╰─╯              ╰╯       ╰╯                   ╰─╯     ╰───────────────────────────────
+  5┤      │   │                           ╭─╮
+  4┤      │   │                          ╭╯ ╰─╮
+  4┤     ╭╯   ╰╮                        ╭╯    ╰─────────╮
+  3┤     │     │                       ╭╯               ╰╮
+  3┤     │     │           ╭──╮        │                 ╰╮
+  2┤     │     │         ╭─╯  ╰╮      ╭╯                  ╰─╮
+  2┤    ╭╯     ╰╮     ╭──╯     ╰╮    ╭╯                     ╰╮
+  1┤    │       │   ╭─╯         │  ╭─╯                       ╰╮    ╭─╮
+  1┤    │       │ ╭─╯           ╰╮╭╯                          ╰╮ ╭─╯ ╰─╮
+  0┼────╯       ╰─╯              ╰╯                            ╰─╯     ╰───────────────────────────────
     +───────+───────+───────+───────+───────+───────+───────+───────+───────+───────+───────+───────+────
   00:00   02:00   04:00   06:00   08:00   10:00   12:00   14:00   16:00   18:00   20:00   22:00   00:00   
 
@@ -42,40 +42,44 @@ Since 2025-09-15 05:55:49 -0700 PDT, I'm most active between 02:00-02:59 - with 
 
 
 ```
-                       |##
- openconfig/gnoi       |##
-                       |##
+                               |#####
+ openconfig/featureprofiles    |#####
+                               |#####
 
-                       |########
- openconfig/ygnmi      |########
-                       |########
+                               |########
+ openconfig/ygnmi              |########
+                               |########
 
-                       |##
- openconfig/gribigo    |##
-                       |##
+                               |##
+ openconfig/gribigo            |##
+                               |##
 
-                       |########
- openconfig/magna      |########
-                       |########
+                               |########
+ openconfig/magna              |########
+                               |########
 
-                       |#######
- openconfig/clio       |#######
-                       |#######
+                               |#######
+ openconfig/clio               |#######
+                               |#######
 
-                       |##
- openconfig/ygot       |##
-                       |##
+                               |##
+ openconfig/ygot               |##
+                               |##
 
-                       |###
- openconfig/gnsi       |###
-                       |###
+                               |###
+ openconfig/gnsi               |###
+                               |###
+
+                               |##
+ openconfig/gnoi               |##
+                               |##
 
 
 
-Since 2025-09-15 05:55:49 -0700 PDT, I've been most active in openconfig/ygnmi, with 8 events.
+Since 2025-09-15 05:55:49 -0700 PDT, I've been most active in openconfig/magna, with 8 events.
 
 ```
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2025-10-15 09:01:02.881223349 -0700 PDT
+Last Updated: 2025-10-15 09:21:13.280162285 -0700 PDT
