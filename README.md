@@ -43,28 +43,20 @@ Since 2025-10-06 10:43:54 -0700 PDT, I'm most active between 09:00-09:59 - with 
 
 ```
                                       |#
- renovate-bot/openconfig-_-gribigo    |#
-                                      |#
-
-                                      |#
- openconfig/gnmi                      |#
-                                      |#
-
-                                      |########
- openconfig/magna                     |########
-                                      |########
-
-                                      |####
- openconfig/ygot                      |####
-                                      |####
-
-                                      |#
  bstoll/ygot                          |#
+                                      |#
+
+                                      |#
+ renovate-bot/openconfig-_-gribigo    |#
                                       |#
 
                                       |###
  openconfig/gribigo                   |###
                                       |###
+
+                                      |#
+ openconfig/gnmi                      |#
+                                      |#
 
                                       |###########
  openconfig/featureprofiles           |###########
@@ -74,6 +66,14 @@ Since 2025-10-06 10:43:54 -0700 PDT, I'm most active between 09:00-09:59 - with 
  openconfig/ygnmi                     |##
                                       |##
 
+                                      |########
+ openconfig/magna                     |########
+                                      |########
+
+                                      |####
+ openconfig/ygot                      |####
+                                      |####
+
 
 
 Since 2025-10-06 10:43:54 -0700 PDT, I've been most active in openconfig/featureprofiles, with 11 events.
@@ -82,4 +82,4 @@ Since 2025-10-06 10:43:54 -0700 PDT, I've been most active in openconfig/feature
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2025-10-28 08:47:44.346537531 -0700 PDT
+Last Updated: 2025-10-28 09:01:42.896539444 -0700 PDT
