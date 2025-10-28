@@ -47,6 +47,14 @@ Since 2025-10-06 10:43:54 -0700 PDT, I'm most active between 09:00-09:59 - with 
                                       |####
 
                                       |#
+ renovate-bot/openconfig-_-gribigo    |#
+                                      |#
+
+                                      |###########
+ openconfig/featureprofiles           |###########
+                                      |###########
+
+                                      |#
  bstoll/ygot                          |#
                                       |#
 
@@ -58,21 +66,13 @@ Since 2025-10-06 10:43:54 -0700 PDT, I'm most active between 09:00-09:59 - with 
  openconfig/gnmi                      |#
                                       |#
 
-                                      |########
- openconfig/magna                     |########
-                                      |########
-
-                                      |#
- renovate-bot/openconfig-_-gribigo    |#
-                                      |#
-
-                                      |###########
- openconfig/featureprofiles           |###########
-                                      |###########
-
                                       |##
  openconfig/ygnmi                     |##
                                       |##
+
+                                      |########
+ openconfig/magna                     |########
+                                      |########
 
 
 
@@ -82,4 +82,4 @@ Since 2025-10-06 10:43:54 -0700 PDT, I've been most active in openconfig/feature
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2025-10-28 13:47:24.967669337 -0700 PDT
+Last Updated: 2025-10-28 14:01:14.475403303 -0700 PDT
