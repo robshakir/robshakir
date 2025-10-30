@@ -43,8 +43,28 @@ Since 2025-10-06 10:43:54 -0700 PDT, I'm most active between 09:00-09:59 - with 
 
 ```
                                       |#
+ bstoll/ygot                          |#
+                                      |#
+
+                                      |###
+ openconfig/gribigo                   |###
+                                      |###
+
+                                      |#
  openconfig/gnmi                      |#
                                       |#
+
+                                      |###########
+ openconfig/featureprofiles           |###########
+                                      |###########
+
+                                      |#
+ renovate-bot/openconfig-_-gribigo    |#
+                                      |#
+
+                                      |##
+ openconfig/ygnmi                     |##
+                                      |##
 
                                       |########
  openconfig/magna                     |########
@@ -54,26 +74,6 @@ Since 2025-10-06 10:43:54 -0700 PDT, I'm most active between 09:00-09:59 - with 
  openconfig/ygot                      |####
                                       |####
 
-                                      |###########
- openconfig/featureprofiles           |###########
-                                      |###########
-
-                                      |##
- openconfig/ygnmi                     |##
-                                      |##
-
-                                      |#
- bstoll/ygot                          |#
-                                      |#
-
-                                      |#
- renovate-bot/openconfig-_-gribigo    |#
-                                      |#
-
-                                      |###
- openconfig/gribigo                   |###
-                                      |###
-
 
 
 Since 2025-10-06 10:43:54 -0700 PDT, I've been most active in openconfig/featureprofiles, with 11 events.
@@ -82,4 +82,4 @@ Since 2025-10-06 10:43:54 -0700 PDT, I've been most active in openconfig/feature
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2025-10-30 00:46:03.477760429 -0700 PDT
+Last Updated: 2025-10-30 01:01:53.829128199 -0700 PDT
