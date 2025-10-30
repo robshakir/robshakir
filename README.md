@@ -42,13 +42,9 @@ Since 2025-10-06 10:43:54 -0700 PDT, I'm most active between 09:00-09:59 - with 
 
 
 ```
-                                      |####
- openconfig/ygot                      |####
-                                      |####
-
-                                      |###
- openconfig/gribigo                   |###
-                                      |###
+                                      |#
+ bstoll/ygot                          |#
+                                      |#
 
                                       |#
  openconfig/gnmi                      |#
@@ -58,21 +54,25 @@ Since 2025-10-06 10:43:54 -0700 PDT, I'm most active between 09:00-09:59 - with 
  openconfig/featureprofiles           |###########
                                       |###########
 
-                                      |########
- openconfig/magna                     |########
-                                      |########
+                                      |##
+ openconfig/ygnmi                     |##
+                                      |##
 
-                                      |#
- bstoll/ygot                          |#
-                                      |#
+                                      |####
+ openconfig/ygot                      |####
+                                      |####
 
                                       |#
  renovate-bot/openconfig-_-gribigo    |#
                                       |#
 
-                                      |##
- openconfig/ygnmi                     |##
-                                      |##
+                                      |###
+ openconfig/gribigo                   |###
+                                      |###
+
+                                      |########
+ openconfig/magna                     |########
+                                      |########
 
 
 
@@ -82,4 +82,4 @@ Since 2025-10-06 10:43:54 -0700 PDT, I've been most active in openconfig/feature
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2025-10-30 11:01:32.129054857 -0700 PDT
+Last Updated: 2025-10-30 11:22:02.719805853 -0700 PDT
