@@ -42,6 +42,18 @@ Since 2025-10-06 10:43:54 -0700 PDT, I'm most active between 09:00-09:59 - with 
 
 
 ```
+                                      |####
+ openconfig/ygot                      |####
+                                      |####
+
+                                      |###
+ openconfig/gribigo                   |###
+                                      |###
+
+                                      |###########
+ openconfig/featureprofiles           |###########
+                                      |###########
+
                                       |#
  bstoll/ygot                          |#
                                       |#
@@ -50,17 +62,9 @@ Since 2025-10-06 10:43:54 -0700 PDT, I'm most active between 09:00-09:59 - with 
  renovate-bot/openconfig-_-gribigo    |#
                                       |#
 
-                                      |###
- openconfig/gribigo                   |###
-                                      |###
-
                                       |#
  openconfig/gnmi                      |#
                                       |#
-
-                                      |###########
- openconfig/featureprofiles           |###########
-                                      |###########
 
                                       |##
  openconfig/ygnmi                     |##
@@ -70,10 +74,6 @@ Since 2025-10-06 10:43:54 -0700 PDT, I'm most active between 09:00-09:59 - with 
  openconfig/magna                     |########
                                       |########
 
-                                      |####
- openconfig/ygot                      |####
-                                      |####
-
 
 
 Since 2025-10-06 10:43:54 -0700 PDT, I've been most active in openconfig/featureprofiles, with 11 events.
@@ -82,4 +82,4 @@ Since 2025-10-06 10:43:54 -0700 PDT, I've been most active in openconfig/feature
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2025-10-31 11:01:35.255560048 -0700 PDT
+Last Updated: 2025-10-31 11:22:13.762242117 -0700 PDT
