@@ -42,26 +42,6 @@ Since 2025-10-06 10:43:54 -0700 PDT, I'm most active between 09:00-09:59 - with 
 
 
 ```
-                                      |###########
- openconfig/featureprofiles           |###########
-                                      |###########
-
-                                      |########
- openconfig/magna                     |########
-                                      |########
-
-                                      |#
- bstoll/ygot                          |#
-                                      |#
-
-                                      |#
- openconfig/gnmi                      |#
-                                      |#
-
-                                      |##
- openconfig/ygnmi                     |##
-                                      |##
-
                                       |####
  openconfig/ygot                      |####
                                       |####
@@ -74,6 +54,26 @@ Since 2025-10-06 10:43:54 -0700 PDT, I'm most active between 09:00-09:59 - with 
  openconfig/gribigo                   |###
                                       |###
 
+                                      |#
+ bstoll/ygot                          |#
+                                      |#
+
+                                      |#
+ openconfig/gnmi                      |#
+                                      |#
+
+                                      |###########
+ openconfig/featureprofiles           |###########
+                                      |###########
+
+                                      |##
+ openconfig/ygnmi                     |##
+                                      |##
+
+                                      |########
+ openconfig/magna                     |########
+                                      |########
+
 
 
 Since 2025-10-06 10:43:54 -0700 PDT, I've been most active in openconfig/featureprofiles, with 11 events.
@@ -82,4 +82,4 @@ Since 2025-10-06 10:43:54 -0700 PDT, I've been most active in openconfig/feature
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2025-10-31 15:34:09.474539475 -0700 PDT
+Last Updated: 2025-10-31 15:46:06.752997731 -0700 PDT
