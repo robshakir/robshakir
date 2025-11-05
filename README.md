@@ -1,15 +1,15 @@
 ### 🍞 Bread Crumbs
 
+ * 🚢: Pushed some commits to `openconfig/goyang` at 2025-11-04 16:48:26 -0800 PST
+ * 🔍: Reviewed a pull request in  `openconfig/goyang` at 2025-11-04 16:48:21 -0800 PST
+ * 🔍: Reviewed a pull request in  `openconfig/goyang` at 2025-11-04 16:47:51 -0800 PST
+ * 💬: Commented on a PR in  `openconfig/goyang` at 2025-11-04 16:47:48 -0800 PST
  * 🔍: Reviewed a pull request in  `openconfig/ygot` at 2025-10-27 03:34:57 -0700 PDT
  * 🚢: Pushed some commits to `bstoll/ygot` at 2025-10-27 03:34:15 -0700 PDT
  * 👀: Worked on an issue in `openconfig/ygot` at 2025-10-27 03:32:11 -0700 PDT
  * 😃: Commented on an issue in `openconfig/ygot` at 2025-10-27 03:32:09 -0700 PDT
  * 😃: Commented on an issue in `openconfig/ygot` at 2025-10-27 03:31:19 -0700 PDT
  * 🚢: Pushed some commits to `renovate-bot/openconfig-_-gribigo` at 2025-10-17 09:57:24 -0700 PDT
- * 🚢: Pushed some commits to `openconfig/gribigo` at 2025-10-17 09:57:11 -0700 PDT
- * 🔍: Reviewed a pull request in  `openconfig/gribigo` at 2025-10-17 09:57:03 -0700 PDT
- * 😃: Commented on an issue in `openconfig/gnmi` at 2025-10-17 09:46:20 -0700 PDT
- * 😃: Commented on an issue in `openconfig/featureprofiles` at 2025-10-15 12:50:00 -0700 PDT
 
 ### 🕘 Recent Activity
 ```
@@ -23,12 +23,12 @@
   7 ┤                                    │    │
   6 ┤                                    │    │        ╭─╮
   5 ┤            ╭╮                     ╭╯    ╰╮       │ ╰╮
-  4 ┤           ╭╯╰╮                    │      │      ╭╯  ╰╮
-  3 ┤           │  │                    │      │     ╭╯    ╰╮
-  2 ┤          ╭╯  ╰╮                   │      ╰╮   ╭╯      │
-  2 ┤         ╭╯    ╰╮                 ╭╯       ╰───╯       ╰─╮
-  1 ┤        ╭╯      │                 │                      ╰─╮  ╭────╮
-  0 ┼────────╯       ╰─────────────────╯                        ╰──╯    ╰───────────────────────────────
+  4 ┤           ╭╯╰╮                    │      │      ╭╯  ╰╮             ╭╮
+  3 ┤           │  │                    │      │     ╭╯    ╰╮           ╭╯╰╮
+  2 ┤          ╭╯  ╰╮                   │      ╰╮   ╭╯      │          ╭╯  │
+  2 ┤         ╭╯    ╰╮                 ╭╯       ╰───╯       ╰─╮      ╭─╯   ╰╮
+  1 ┤        ╭╯      │                 │                      ╰─╮  ╭─╯      ╰╮
+  0 ┼────────╯       ╰─────────────────╯                        ╰──╯         ╰──────────────────────────
     +───────+───────+───────+───────+───────+───────+───────+───────+───────+───────+───────+───────+────
   00:00   02:00   04:00   06:00   08:00   10:00   12:00   14:00   16:00   18:00   20:00   22:00   00:00   
 
@@ -43,6 +43,26 @@ Since 2025-10-06 10:43:54 -0700 PDT, I'm most active between 09:00-09:59 - with 
 
 ```
                                       |#
+ bstoll/ygot                          |#
+                                      |#
+
+                                      |#
+ renovate-bot/openconfig-_-gribigo    |#
+                                      |#
+
+                                      |##
+ openconfig/ygnmi                     |##
+                                      |##
+
+                                      |####
+ openconfig/goyang                    |####
+                                      |####
+
+                                      |###
+ openconfig/gribigo                   |###
+                                      |###
+
+                                      |#
  openconfig/gnmi                      |#
                                       |#
 
@@ -50,29 +70,13 @@ Since 2025-10-06 10:43:54 -0700 PDT, I'm most active between 09:00-09:59 - with 
  openconfig/featureprofiles           |###########
                                       |###########
 
-                                      |##
- openconfig/ygnmi                     |##
-                                      |##
-
-                                      |####
- openconfig/ygot                      |####
-                                      |####
-
-                                      |#
- renovate-bot/openconfig-_-gribigo    |#
-                                      |#
-
-                                      |###
- openconfig/gribigo                   |###
-                                      |###
-
                                       |########
  openconfig/magna                     |########
                                       |########
 
-                                      |#
- bstoll/ygot                          |#
-                                      |#
+                                      |####
+ openconfig/ygot                      |####
+                                      |####
 
 
 
@@ -82,4 +86,4 @@ Since 2025-10-06 10:43:54 -0700 PDT, I've been most active in openconfig/feature
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2025-11-04 16:38:23.634211815 -0800 PST
+Last Updated: 2025-11-04 17:07:21.249365081 -0800 PST
