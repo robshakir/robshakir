@@ -42,9 +42,13 @@ Since 2025-10-10 15:17:19 -0700 PDT, I'm most active between 09:00-09:59 - with 
 
 
 ```
-                                      |####
- openconfig/ygot                      |####
-                                      |####
+                                      |###
+ openconfig/gribigo                   |###
+                                      |###
+
+                                      |###########
+ openconfig/featureprofiles           |###########
+                                      |###########
 
                                       |#
  bstoll/ygot                          |#
@@ -54,18 +58,6 @@ Since 2025-10-10 15:17:19 -0700 PDT, I'm most active between 09:00-09:59 - with 
  openconfig/gnmi                      |#
                                       |#
 
-                                      |#
- renovate-bot/openconfig-_-gribigo    |#
-                                      |#
-
-                                      |###
- openconfig/gribigo                   |###
-                                      |###
-
-                                      |###########
- openconfig/featureprofiles           |###########
-                                      |###########
-
                                       |##
  openconfig/ygnmi                     |##
                                       |##
@@ -73,6 +65,14 @@ Since 2025-10-10 15:17:19 -0700 PDT, I'm most active between 09:00-09:59 - with 
                                       |####
  openconfig/goyang                    |####
                                       |####
+
+                                      |####
+ openconfig/ygot                      |####
+                                      |####
+
+                                      |#
+ renovate-bot/openconfig-_-gribigo    |#
+                                      |#
 
 
 
@@ -82,4 +82,4 @@ Since 2025-10-10 15:17:19 -0700 PDT, I've been most active in openconfig/feature
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2025-11-05 22:02:05.148616968 -0800 PST
+Last Updated: 2025-11-05 22:22:18.696388726 -0800 PST
