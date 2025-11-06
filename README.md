@@ -42,37 +42,37 @@ Since 2025-10-10 15:17:19 -0700 PDT, I'm most active between 09:00-09:59 - with 
 
 
 ```
+                                      |#
+ bstoll/ygot                          |#
+                                      |#
+
+                                      |###
+ openconfig/gribigo                   |###
+                                      |###
+
+                                      |###########
+ openconfig/featureprofiles           |###########
+                                      |###########
+
                                       |##
  openconfig/ygnmi                     |##
                                       |##
+
+                                      |####
+ openconfig/goyang                    |####
+                                      |####
 
                                       |####
  openconfig/ygot                      |####
                                       |####
 
                                       |#
- openconfig/gnmi                      |#
-                                      |#
-
-                                      |###########
- openconfig/featureprofiles           |###########
-                                      |###########
-
-                                      |####
- openconfig/goyang                    |####
-                                      |####
-
-                                      |#
- bstoll/ygot                          |#
-                                      |#
-
-                                      |#
  renovate-bot/openconfig-_-gribigo    |#
                                       |#
 
-                                      |###
- openconfig/gribigo                   |###
-                                      |###
+                                      |#
+ openconfig/gnmi                      |#
+                                      |#
 
 
 
@@ -82,4 +82,4 @@ Since 2025-10-10 15:17:19 -0700 PDT, I've been most active in openconfig/feature
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2025-11-06 15:01:25.355168045 -0800 PST
+Last Updated: 2025-11-06 15:20:39.720381453 -0800 PST
