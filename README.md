@@ -42,14 +42,6 @@ Since 2025-10-14 13:48:12 -0700 PDT, I'm most active between 09:00-09:59 - with 
 
 
 ```
-                                      |####
- openconfig/public                    |####
-                                      |####
-
-                                      |####
- openconfig/ygot                      |####
-                                      |####
-
                                       |#
  bstoll/ygot                          |#
                                       |#
@@ -57,6 +49,18 @@ Since 2025-10-14 13:48:12 -0700 PDT, I'm most active between 09:00-09:59 - with 
                                       |#
  renovate-bot/openconfig-_-gribigo    |#
                                       |#
+
+                                      |#
+ openconfig/gnmi                      |#
+                                      |#
+
+                                      |##
+ openconfig/ygnmi                     |##
+                                      |##
+
+                                      |####
+ openconfig/public                    |####
+                                      |####
 
                                       |##
  openconfig/gribigo                   |##
@@ -66,17 +70,13 @@ Since 2025-10-14 13:48:12 -0700 PDT, I'm most active between 09:00-09:59 - with 
  openconfig/featureprofiles           |###########
                                       |###########
 
-                                      |##
- openconfig/ygnmi                     |##
-                                      |##
-
                                       |####
  openconfig/goyang                    |####
                                       |####
 
-                                      |#
- openconfig/gnmi                      |#
-                                      |#
+                                      |####
+ openconfig/ygot                      |####
+                                      |####
 
 
 
@@ -86,4 +86,4 @@ Since 2025-10-14 13:48:12 -0700 PDT, I've been most active in openconfig/feature
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2025-11-11 08:38:05.969045409 -0800 PST
+Last Updated: 2025-11-11 08:50:08.848653753 -0800 PST
