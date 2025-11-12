@@ -43,19 +43,23 @@ Since 2025-10-14 13:48:12 -0700 PDT, I'm most active between 09:00-09:59 - with 
 
 ```
                                       |####
+ openconfig/goyang                    |####
+                                      |####
+
+                                      |#
+ openconfig/gnmi                      |#
+                                      |#
+
+                                      |###########
+ openconfig/featureprofiles           |###########
+                                      |###########
+
+                                      |####
  openconfig/public                    |####
                                       |####
 
                                       |####
  openconfig/ygot                      |####
-                                      |####
-
-                                      |##
- openconfig/gribigo                   |##
-                                      |##
-
-                                      |####
- openconfig/goyang                    |####
                                       |####
 
                                       |#
@@ -66,13 +70,9 @@ Since 2025-10-14 13:48:12 -0700 PDT, I'm most active between 09:00-09:59 - with 
  renovate-bot/openconfig-_-gribigo    |#
                                       |#
 
-                                      |#
- openconfig/gnmi                      |#
-                                      |#
-
-                                      |###########
- openconfig/featureprofiles           |###########
-                                      |###########
+                                      |##
+ openconfig/gribigo                   |##
+                                      |##
 
                                       |##
  openconfig/ygnmi                     |##
@@ -86,4 +86,4 @@ Since 2025-10-14 13:48:12 -0700 PDT, I've been most active in openconfig/feature
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2025-11-12 12:01:22.272621617 -0800 PST
+Last Updated: 2025-11-12 12:21:24.352390992 -0800 PST
