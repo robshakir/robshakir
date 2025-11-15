@@ -43,6 +43,10 @@ Since 2025-10-17 09:46:20 -0700 PDT, I'm most active between 03:00-03:59 - with 
 
 ```
                                       |####
+ openconfig/public                    |####
+                                      |####
+
+                                      |####
  openconfig/goyang                    |####
                                       |####
 
@@ -66,10 +70,6 @@ Since 2025-10-17 09:46:20 -0700 PDT, I'm most active between 03:00-03:59 - with 
  openconfig/gnmi                      |#
                                       |#
 
-                                      |####
- openconfig/public                    |####
-                                      |####
-
 
 
 Since 2025-10-17 09:46:20 -0700 PDT, I've been most active in openconfig/public, with 4 events.
@@ -78,4 +78,4 @@ Since 2025-10-17 09:46:20 -0700 PDT, I've been most active in openconfig/public,
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2025-11-15 08:47:07.119065706 -0800 PST
+Last Updated: 2025-11-15 09:01:08.205068645 -0800 PST
