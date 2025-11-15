@@ -43,32 +43,32 @@ Since 2025-10-15 12:47:31 -0700 PDT, I'm most active between 03:00-03:59 - with 
 
 ```
                                       |####
- openconfig/ygot                      |####
-                                      |####
-
-                                      |#
- bstoll/ygot                          |#
-                                      |#
-
-                                      |#
- renovate-bot/openconfig-_-gribigo    |#
-                                      |#
-
-                                      |##
- openconfig/gribigo                   |##
-                                      |##
-
-                                      |#
- openconfig/gnmi                      |#
-                                      |#
-
-                                      |####
  openconfig/public                    |####
                                       |####
 
                                       |####
  openconfig/goyang                    |####
                                       |####
+
+                                      |#
+ bstoll/ygot                          |#
+                                      |#
+
+                                      |##
+ openconfig/gribigo                   |##
+                                      |##
+
+                                      |####
+ openconfig/ygot                      |####
+                                      |####
+
+                                      |#
+ renovate-bot/openconfig-_-gribigo    |#
+                                      |#
+
+                                      |#
+ openconfig/gnmi                      |#
+                                      |#
 
                                       |##
  openconfig/featureprofiles           |##
@@ -82,4 +82,4 @@ Since 2025-10-15 12:47:31 -0700 PDT, I've been most active in openconfig/public,
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2025-11-14 19:21:41.305245817 -0800 PST
+Last Updated: 2025-11-14 19:41:52.652510391 -0800 PST
