@@ -42,14 +42,6 @@ Since 2025-10-17 09:46:20 -0700 PDT, I'm most active between 03:00-03:59 - with 
 
 
 ```
-                                      |##
- openconfig/gribigo                   |##
-                                      |##
-
-                                      |#
- openconfig/gnmi                      |#
-                                      |#
-
                                       |####
  openconfig/public                    |####
                                       |####
@@ -70,6 +62,14 @@ Since 2025-10-17 09:46:20 -0700 PDT, I'm most active between 03:00-03:59 - with 
  renovate-bot/openconfig-_-gribigo    |#
                                       |#
 
+                                      |##
+ openconfig/gribigo                   |##
+                                      |##
+
+                                      |#
+ openconfig/gnmi                      |#
+                                      |#
+
 
 
 Since 2025-10-17 09:46:20 -0700 PDT, I've been most active in openconfig/public, with 4 events.
@@ -78,4 +78,4 @@ Since 2025-10-17 09:46:20 -0700 PDT, I've been most active in openconfig/public,
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2025-11-16 00:47:58.585424067 -0800 PST
+Last Updated: 2025-11-16 01:01:20.00854069 -0800 PST
