@@ -60,10 +60,10 @@ Since 2025-10-27 03:31:19 -0700 PDT, I'm most active between 03:00-03:59 - with 
 
 
 
-Since 2025-10-27 03:31:19 -0700 PDT, I've been most active in openconfig/goyang, with 4 events.
+Since 2025-10-27 03:31:19 -0700 PDT, I've been most active in openconfig/public, with 4 events.
 
 ```
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2025-11-26 01:21:31.76434222 -0800 PST
+Last Updated: 2025-11-26 01:35:47.839736018 -0800 PST
