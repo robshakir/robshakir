@@ -68,7 +68,12 @@ func events(ctx context.Context, client *github.Client) (*Events, error) {
 	}
 
 	e.Start = pacific(*ghevents[len(ghevents)-1].CreatedAt)
-	e.Breadcrumbs = ghevents[0:10]
+	switch {
+	case len(ghevents) >=10:
+		e.Breadcrumbs = ghevents[0:10]
+	default:
+		e.Breadcrumbs = ghevents
+	}
 
 	return e, nil
 }
