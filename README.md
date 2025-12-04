@@ -43,14 +43,6 @@ Since 2025-11-04 16:47:48 -0800 PST, I'm most active between 11:00-11:59 - with 
 
 ```
                         |####
- openconfig/gnoi        |####
-                        |####
-
-                        |#
- robshakir/robshakir    |#
-                        |#
-
-                        |####
  openconfig/public      |####
                         |####
 
@@ -58,12 +50,20 @@ Since 2025-11-04 16:47:48 -0800 PST, I'm most active between 11:00-11:59 - with 
  openconfig/goyang      |####
                         |####
 
+                        |####
+ openconfig/gnoi        |####
+                        |####
+
+                        |#
+ robshakir/robshakir    |#
+                        |#
 
 
-Since 2025-11-04 16:47:48 -0800 PST, I've been most active in openconfig/goyang, with 4 events.
+
+Since 2025-11-04 16:47:48 -0800 PST, I've been most active in openconfig/public, with 4 events.
 
 ```
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2025-12-04 06:37:06.159317247 -0800 PST
+Last Updated: 2025-12-04 06:49:26.130271875 -0800 PST
