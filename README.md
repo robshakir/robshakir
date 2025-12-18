@@ -42,14 +42,6 @@ Since 2025-12-01 09:48:05 -0800 PST, I'm most active between 11:00-11:59 - with 
 
 
 ```
-                        |########
- openconfig/gnoi        |########
-                        |########
-
-                        |#
- robshakir/robshakir    |#
-                        |#
-
                         |#####
  openconfig/gribi       |#####
                         |#####
@@ -57,6 +49,14 @@ Since 2025-12-01 09:48:05 -0800 PST, I'm most active between 11:00-11:59 - with 
                         |##
  openconfig/ygnmi       |##
                         |##
+
+                        |########
+ openconfig/gnoi        |########
+                        |########
+
+                        |#
+ robshakir/robshakir    |#
+                        |#
 
 
 
@@ -66,4 +66,4 @@ Since 2025-12-01 09:48:05 -0800 PST, I've been most active in openconfig/gnoi, w
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2025-12-18 02:38:14.708855337 -0800 PST
+Last Updated: 2025-12-18 02:49:40.619446831 -0800 PST
