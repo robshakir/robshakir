@@ -43,6 +43,10 @@ Since 2025-12-04 11:06:32 -0800 PST, I'm most active between 11:00-11:59 - with 
 
 ```
                                |#
+ alshabib/featureprofiles      |#
+                               |#
+
+                               |#
  openconfig/featureprofiles    |#
                                |#
 
@@ -66,10 +70,6 @@ Since 2025-12-04 11:06:32 -0800 PST, I'm most active between 11:00-11:59 - with 
  openconfig/gnoi               |####
                                |####
 
-                               |#
- alshabib/featureprofiles      |#
-                               |#
-
 
 
 Since 2025-12-04 11:06:32 -0800 PST, I've been most active in openconfig/public, with 20 events.
@@ -78,4 +78,4 @@ Since 2025-12-04 11:06:32 -0800 PST, I've been most active in openconfig/public,
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2026-01-03 08:01:49.718547789 -0800 PST
+Last Updated: 2026-01-03 08:22:01.618226665 -0800 PST
