@@ -42,10 +42,6 @@ Since 2025-12-22 11:28:48 -0800 PST, I'm most active between 10:00-10:59 - with 
 
 
 ```
-                               |###########
- openconfig/public             |###########
-                               |###########
-
                                |######
  openconfig/oc-pyang           |######
                                |######
@@ -58,6 +54,10 @@ Since 2025-12-22 11:28:48 -0800 PST, I'm most active between 10:00-10:59 - with 
  openconfig/featureprofiles    |#
                                |#
 
+                               |###########
+ openconfig/public             |###########
+                               |###########
+
 
 
 Since 2025-12-22 11:28:48 -0800 PST, I've been most active in openconfig/public, with 11 events.
@@ -66,4 +66,4 @@ Since 2025-12-22 11:28:48 -0800 PST, I've been most active in openconfig/public,
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2026-01-19 10:42:25.512631713 -0800 PST
+Last Updated: 2026-01-19 10:54:29.90336845 -0800 PST
