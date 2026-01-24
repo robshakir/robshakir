@@ -42,13 +42,13 @@ Since 2026-01-09 17:02:16 -0800 PST, I'm most active between 10:00-10:59 - with 
 
 
 ```
-                        |######
- openconfig/oc-pyang    |######
-                        |######
-
                         |###########
  openconfig/public      |###########
                         |###########
+
+                        |######
+ openconfig/oc-pyang    |######
+                        |######
 
 
 
@@ -58,4 +58,4 @@ Since 2026-01-09 17:02:16 -0800 PST, I've been most active in openconfig/public,
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2026-01-24 04:43:25.563546661 -0800 PST
+Last Updated: 2026-01-24 05:01:56.286965621 -0800 PST
