@@ -43,6 +43,10 @@ Since 2026-02-06 05:49:34 -0800 PST, I'm most active between 05:00-05:59 - with 
 
 ```
                                    |##
+ openconfig/oc-pyang               |##
+                                   |##
+
+                                   |##
  openconfig/reference              |##
                                    |##
 
@@ -58,10 +62,6 @@ Since 2026-02-06 05:49:34 -0800 PST, I'm most active between 05:00-05:59 - with 
  openconfig/gribigo                |##
                                    |##
 
-                                   |##
- openconfig/oc-pyang               |##
-                                   |##
-
 
 
 Since 2026-02-06 05:49:34 -0800 PST, I've been most active in openconfig/ygot, with 3 events.
@@ -70,4 +70,4 @@ Since 2026-02-06 05:49:34 -0800 PST, I've been most active in openconfig/ygot, w
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2026-03-08 12:21:29.30283454 -0700 PDT
+Last Updated: 2026-03-08 12:35:33.931664644 -0700 PDT
