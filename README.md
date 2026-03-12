@@ -41,10 +41,6 @@ Since 2026-02-12 13:15:17 -0800 PST, I'm most active between 10:00-10:59 - with 
 
 
 ```
-                                   |##
- openconfig/reference              |##
-                                   |##
-
                                    |#
  renovate-bot/openconfig-_-ygot    |#
                                    |#
@@ -61,6 +57,10 @@ Since 2026-02-12 13:15:17 -0800 PST, I'm most active between 10:00-10:59 - with 
  bhandarivijay-png/lemming         |#
                                    |#
 
+                                   |##
+ openconfig/reference              |##
+                                   |##
+
 
 
 Since 2026-02-12 13:15:17 -0800 PST, I've been most active in openconfig/ygot, with 3 events.
@@ -69,4 +69,4 @@ Since 2026-02-12 13:15:17 -0800 PST, I've been most active in openconfig/ygot, w
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2026-03-12 05:25:16.721568116 -0700 PDT
+Last Updated: 2026-03-12 05:44:51.640893068 -0700 PDT
