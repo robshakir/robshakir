@@ -42,14 +42,6 @@ Since 2026-02-12 13:15:17 -0800 PST, I'm most active between 11:00-11:59 - with 
 
 
 ```
-                                   |###
- openconfig/ygot                   |###
-                                   |###
-
-                                   |##
- openconfig/gribigo                |##
-                                   |##
-
                                    |#
  openconfig/models-ci              |#
                                    |#
@@ -70,6 +62,14 @@ Since 2026-02-12 13:15:17 -0800 PST, I'm most active between 11:00-11:59 - with 
  renovate-bot/openconfig-_-ygot    |#
                                    |#
 
+                                   |###
+ openconfig/ygot                   |###
+                                   |###
+
+                                   |##
+ openconfig/gribigo                |##
+                                   |##
+
 
 
 Since 2026-02-12 13:15:17 -0800 PST, I've been most active in openconfig/ygot, with 3 events.
@@ -78,4 +78,4 @@ Since 2026-02-12 13:15:17 -0800 PST, I've been most active in openconfig/ygot, w
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2026-03-14 18:36:04.795067625 -0700 PDT
+Last Updated: 2026-03-14 19:35:55.182206487 -0700 PDT
