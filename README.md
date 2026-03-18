@@ -41,18 +41,6 @@ Since 2026-03-03 10:57:22 -0800 PST, I'm most active between 11:00-11:59 - with 
 
 
 ```
-                                   |#
- openconfig/models-ci              |#
-                                   |#
-
-                                   |#
- openconfig/lemming                |#
-                                   |#
-
-                                   |#
- bhandarivijay-png/lemming         |#
-                                   |#
-
                                    |##
  openconfig/reference              |##
                                    |##
@@ -65,6 +53,18 @@ Since 2026-03-03 10:57:22 -0800 PST, I'm most active between 11:00-11:59 - with 
  openconfig/ygot                   |###
                                    |###
 
+                                   |#
+ openconfig/models-ci              |#
+                                   |#
+
+                                   |#
+ openconfig/lemming                |#
+                                   |#
+
+                                   |#
+ bhandarivijay-png/lemming         |#
+                                   |#
+
 
 
 Since 2026-03-03 10:57:22 -0800 PST, I've been most active in openconfig/ygot, with 3 events.
@@ -73,4 +73,4 @@ Since 2026-03-03 10:57:22 -0800 PST, I've been most active in openconfig/ygot, w
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2026-03-17 17:08:52.331719636 -0700 PDT
+Last Updated: 2026-03-17 17:52:34.582057478 -0700 PDT
