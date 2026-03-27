@@ -42,6 +42,10 @@ Since 2026-03-03 10:57:22 -0800 PST, I'm most active between 11:00-11:59 - with 
 
 
 ```
+                                   |#
+ openconfig/gribigo                |#
+                                   |#
+
                                    |#####
  openconfig/gnoi                   |#####
                                    |#####
@@ -58,14 +62,6 @@ Since 2026-03-03 10:57:22 -0800 PST, I'm most active between 11:00-11:59 - with 
  openconfig/reference              |##
                                    |##
 
-                                   |###
- openconfig/ygot                   |###
-                                   |###
-
-                                   |#
- openconfig/gribigo                |#
-                                   |#
-
                                    |#
  openconfig/models-ci              |#
                                    |#
@@ -73,6 +69,10 @@ Since 2026-03-03 10:57:22 -0800 PST, I'm most active between 11:00-11:59 - with 
                                    |#
  renovate-bot/openconfig-_-ygot    |#
                                    |#
+
+                                   |###
+ openconfig/ygot                   |###
+                                   |###
 
 
 
@@ -82,4 +82,4 @@ Since 2026-03-03 10:57:22 -0800 PST, I've been most active in openconfig/gnoi, w
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2026-03-26 19:35:57.964966404 -0700 PDT
+Last Updated: 2026-03-26 20:42:02.856647873 -0700 PDT
