@@ -42,6 +42,14 @@ Since 2026-03-10 12:37:26 -0700 PDT, I'm most active between 11:00-11:59 - with 
 
 
 ```
+                              |#######
+ openconfig/gnoi              |#######
+                              |#######
+
+                              |#
+ openconfig/gribigo           |#
+                              |#
+
                               |#
  openconfig/models-ci         |#
                               |#
@@ -54,14 +62,6 @@ Since 2026-03-10 12:37:26 -0700 PDT, I'm most active between 11:00-11:59 - with 
  bhandarivijay-png/lemming    |#
                               |#
 
-                              |#######
- openconfig/gnoi              |#######
-                              |#######
-
-                              |#
- openconfig/gribigo           |#
-                              |#
-
 
 
 Since 2026-03-10 12:37:26 -0700 PDT, I've been most active in openconfig/gnoi, with 7 events.
@@ -70,4 +70,4 @@ Since 2026-03-10 12:37:26 -0700 PDT, I've been most active in openconfig/gnoi, w
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
 
-Last Updated: 2026-04-06 21:37:03.602941692 -0700 PDT
+Last Updated: 2026-04-06 22:22:35.374655301 -0700 PDT
