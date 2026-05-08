@@ -8,6 +8,8 @@ import (
 	"fmt"
 	"io/ioutil"
 	"os"
+	"sort"
+	"strings"
 	"time"
 
 	"golang.org/x/oauth2"
@@ -19,7 +21,7 @@ import (
 
 const (
 	ghUsername  string = "robshakir"
-	fetchEvents int    = 100
+	fetchEvents int    = 300
 )
 
 func pacific(t time.Time) time.Time {
@@ -35,6 +37,8 @@ type Events struct {
 	Repos       map[string]int
 	Actions     map[string]int
 	Hours       []float64
+	Days        [7]int
+	User        *github.User
 	Breadcrumbs []*github.Event
 }
 
@@ -43,24 +47,45 @@ func NewEvents() *Events {
 		Repos:       map[string]int{},
 		Actions:     map[string]int{},
 		Hours:       []float64{},
+		Days:        [7]int{},
 		Breadcrumbs: []*github.Event{},
 	}
 }
 
 func events(ctx context.Context, client *github.Client) (*Events, error) {
+	user, _, err := client.Users.Get(ctx, ghUsername)
+	if err != nil {
+		return nil, err
+	}
+
 	ghevents, _, err := client.Activity.ListEventsPerformedByUser(ctx, ghUsername, false, &github.ListOptions{
-		PerPage: fetchEvents,
+		PerPage: 100,
 	})
 	if err != nil {
 		return nil, err
 	}
 
+	// Fetch up to 3 pages if needed
+	for i := 2; i <= (fetchEvents / 100); i++ {
+		e, _, err := client.Activity.ListEventsPerformedByUser(ctx, ghUsername, false, &github.ListOptions{
+			Page:    i,
+			PerPage: 100,
+		})
+		if err != nil {
+			break
+		}
+		ghevents = append(ghevents, e...)
+	}
+
 	e := NewEvents()
+	e.User = user
 	hours := map[int]int{}
 	for _, event := range ghevents {
 		e.Repos[event.GetRepo().GetName()]++
 		e.Actions[event.GetType()]++
-		hours[pacific(*event.CreatedAt).Hour()]++
+		t := pacific(*event.CreatedAt)
+		hours[t.Hour()]++
+		e.Days[int(t.Weekday())]++
 	}
 
 	for i := 0; i < 24; i++ {
@@ -69,7 +94,7 @@ func events(ctx context.Context, client *github.Client) (*Events, error) {
 
 	e.Start = pacific(*ghevents[len(ghevents)-1].CreatedAt)
 	switch {
-	case len(ghevents) >=10:
+	case len(ghevents) >= 10:
 		e.Breadcrumbs = ghevents[0:10]
 	default:
 		e.Breadcrumbs = ghevents
@@ -123,53 +148,97 @@ func plotHourOfDay(events *Events) string {
 }
 
 func writeActiveRepos(events *Events) string {
-	maxEvents := 0
-	maxNameLen := 0
-	var activeRepo string
-
+	type repoCount struct {
+		name  string
+		count int
+	}
+	var repos []repoCount
+	max := 0
 	for name, count := range events.Repos {
-		if count > maxEvents {
-			maxEvents = count
-			activeRepo = name
-		}
-		if l := len(name); l > maxNameLen {
-			maxNameLen = l
+		repos = append(repos, repoCount{name: name, count: count})
+		if count > max {
+			max = count
 		}
 	}
-
-	div := 1
-	if maxEvents > 100 {
-		div = 2
-	}
-
-	padBuf := &bytes.Buffer{}
-	for i := 0; i < maxNameLen+5; i++ {
-		padBuf.WriteRune(' ')
-	}
+	sort.Slice(repos, func(i, j int) bool {
+		return repos[i].count > repos[j].count
+	})
 
 	outBuf := &bytes.Buffer{}
-	for name, events := range events.Repos {
-		barBuf := &bytes.Buffer{}
-		for i := 0; i < events/div; i++ {
-			barBuf.WriteString("#")
+	for _, r := range repos {
+		outBuf.WriteString(fmt.Sprintf("%-40s | ", r.name))
+		if max > 0 {
+			barLen := (r.count * 40) / max
+			for j := 0; j < barLen; j++ {
+				outBuf.WriteString("█")
+			}
 		}
-		outBuf.WriteString(padBuf.String())
-		outBuf.WriteRune('|')
-		outBuf.WriteString(barBuf.String())
-		outBuf.WriteString("\n")
-		outBuf.WriteString(fmt.Sprintf(" %s", name))
-		for i := 0; i < (maxNameLen-len(name))+4; i++ {
-			outBuf.WriteRune(' ')
-		}
-		outBuf.WriteRune('|')
-		outBuf.WriteString(barBuf.String())
-		outBuf.WriteString("\n")
-		outBuf.WriteString(padBuf.String())
-		outBuf.WriteRune('|')
-		outBuf.WriteString(barBuf.String())
-		outBuf.WriteString("\n\n")
+		outBuf.WriteString(fmt.Sprintf(" %d\n", r.count))
 	}
-	outBuf.WriteString(fmt.Sprintf("\n\nSince %s, I've been most active in %s, with %d events.\n", events.Start, activeRepo, maxEvents))
+
+	activeRepo := ""
+	if len(repos) > 0 {
+		activeRepo = repos[0].name
+	}
+
+	outBuf.WriteString(fmt.Sprintf("\n\nSince %s, I've been most active in %s, with %d events.\n", events.Start, activeRepo, max))
+	return outBuf.String()
+}
+
+func plotDayOfWeek(events *Events) string {
+	outBuf := &bytes.Buffer{}
+	days := []string{"Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"}
+
+	max := 0
+	for _, count := range events.Days {
+		if count > max {
+			max = count
+		}
+	}
+
+	for i, count := range events.Days {
+		outBuf.WriteString(fmt.Sprintf("%-10s | ", days[i]))
+		if max > 0 {
+			barLen := (count * 50) / max
+			for j := 0; j < barLen; j++ {
+				outBuf.WriteString("█")
+			}
+		}
+		outBuf.WriteString(fmt.Sprintf(" %d\n", count))
+	}
+	return outBuf.String()
+}
+
+func writeActivityTypes(events *Events) string {
+	outBuf := &bytes.Buffer{}
+
+	type actCount struct {
+		name  string
+		count int
+	}
+	var counts []actCount
+	max := 0
+	for name, count := range events.Actions {
+		counts = append(counts, actCount{name: name, count: count})
+		if count > max {
+			max = count
+		}
+	}
+	sort.Slice(counts, func(i, j int) bool {
+		return counts[i].count > counts[j].count
+	})
+
+	for _, ac := range counts {
+		name := strings.TrimSuffix(ac.name, "Event")
+		outBuf.WriteString(fmt.Sprintf("%-20s | ", name))
+		if max > 0 {
+			barLen := (ac.count * 50) / max
+			for j := 0; j < barLen; j++ {
+				outBuf.WriteString("█")
+			}
+		}
+		outBuf.WriteString(fmt.Sprintf(" %d\n", ac.count))
+	}
 	return outBuf.String()
 }
 
@@ -228,23 +297,45 @@ func main() {
 	hours := plotHourOfDay(events)
 	repos := writeActiveRepos(events)
 	bc := breadcrumbs(events)
+	days := plotDayOfWeek(events)
+	actions := writeActivityTypes(events)
 
 	outBuf := &bytes.Buffer{}
+	outBuf.WriteString(fmt.Sprintf("### 📊 GitHub Stats\n\n"))
+	outBuf.WriteString(fmt.Sprintf(" * 👥 **Followers**: %d\n", events.User.GetFollowers()))
+	outBuf.WriteString(fmt.Sprintf(" * 👤 **Following**: %d\n", events.User.GetFollowing()))
+	outBuf.WriteString(fmt.Sprintf(" * 📦 **Public Repos**: %d\n", events.User.GetPublicRepos()))
+	outBuf.WriteString("\n")
+
 	outBuf.WriteString(bc)
-	outBuf.WriteString("\n### 🕘 Recent Activity")
-	outBuf.WriteString("\n```\n")
+
+	outBuf.WriteString("\n### 🕘 Recent Activity (Last 300 Events)\n")
+
+	outBuf.WriteString("\n#### Hourly Activity\n")
+	outBuf.WriteString("```\n")
 	outBuf.WriteString(hours)
 	outBuf.WriteString("\n```\n")
-	outBuf.WriteString("\n\n")
+
+	outBuf.WriteString("\n#### Weekly Activity\n")
+	outBuf.WriteString("```\n")
+	outBuf.WriteString(days)
 	outBuf.WriteString("\n```\n")
+
+	outBuf.WriteString("\n#### Activity Type Breakdown\n")
+	outBuf.WriteString("```\n")
+	outBuf.WriteString(actions)
+	outBuf.WriteString("\n```\n")
+
+	outBuf.WriteString("\n#### Most Active Repositories\n")
+	outBuf.WriteString("```\n")
 	outBuf.WriteString(repos)
 	outBuf.WriteString("\n```\n")
 
+	outBuf.WriteString("\n---\n")
 	outBuf.WriteString("**[robshakir](mailto:robjs@google.com) is not an official Google product.**  \n")
-	outBuf.WriteString(fmt.Sprintf("\n\nLast Updated: %s\n", pacific(time.Now())))
+	outBuf.WriteString(fmt.Sprintf("\nLast Updated: %s\n", pacific(time.Now())))
 
 	if err := ioutil.WriteFile("README.md", outBuf.Bytes(), 0644); err != nil {
 		log.Exitf("can't write file, %v", err)
 	}
-
 }
