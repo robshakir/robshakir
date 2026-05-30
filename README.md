@@ -77,10 +77,10 @@ openconfig/featureprofiles               | ████████████�
 robshakir/oximon                         | ███████████████ 7
 robshakir/directeur                      | ████████ 4
 openconfig/gribigo                       | ████████ 4
-openconfig/public                        | ██ 1
-mudhireddy/gribigo                       | ██ 1
-robshakir/robshakir                      | ██ 1
 openconfig/gnmi                          | ██ 1
+openconfig/public                        | ██ 1
+robshakir/robshakir                      | ██ 1
+mudhireddy/gribigo                       | ██ 1
 
 
 Since 2026-05-07 21:41:45 -0700 PDT, I've been most active in openconfig/ygnmi, with 18 events.
@@ -90,4 +90,4 @@ Since 2026-05-07 21:41:45 -0700 PDT, I've been most active in openconfig/ygnmi, 
 ---
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
-Last Updated: 2026-05-30 14:34:44.129773972 -0700 PDT
+Last Updated: 2026-05-30 15:04:55.09050534 -0700 PDT
