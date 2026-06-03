@@ -75,8 +75,8 @@ PullRequest          | ██ 1
 openconfig/ygnmi                         | ████████████████████████████████████████ 18
 openconfig/featureprofiles               | ███████████████████████████████████ 16
 robshakir/oximon                         | ███████████████ 7
-robshakir/directeur                      | ████████ 4
 openconfig/gribigo                       | ████████ 4
+robshakir/directeur                      | ████████ 4
 openconfig/gnmi                          | ██ 1
 mudhireddy/gribigo                       | ██ 1
 robshakir/robshakir                      | ██ 1
@@ -90,4 +90,4 @@ Since 2026-05-07 21:41:45 -0700 PDT, I've been most active in openconfig/ygnmi, 
 ---
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
-Last Updated: 2026-06-02 16:50:19.469302908 -0700 PDT
+Last Updated: 2026-06-02 17:34:18.316833243 -0700 PDT
