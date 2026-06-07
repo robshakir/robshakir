@@ -77,9 +77,9 @@ openconfig/ygnmi                         | ████████████�
 openconfig/featureprofiles               | █████████████████████ 16
 openconfig/gribigo                       | ████████ 6
 robshakir/oximon                         | ██ 2
-openconfig/gnmi                          | █ 1
 openconfig/public                        | █ 1
 mudhireddy/gribigo                       | █ 1
+openconfig/gnmi                          | █ 1
 
 
 Since 2026-05-07 23:33:19 -0700 PDT, I've been most active in robshakir/directeur, with 30 events.
@@ -89,4 +89,4 @@ Since 2026-05-07 23:33:19 -0700 PDT, I've been most active in robshakir/directeu
 ---
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
-Last Updated: 2026-06-07 05:26:41.133596235 -0700 PDT
+Last Updated: 2026-06-07 06:00:54.916635482 -0700 PDT
