@@ -74,9 +74,9 @@ PullRequestReview    |  1
 ```
 robshakir/directeur                      | ████████████████████████████████████████ 59
 openconfig/gribigo                       | ██ 4
-openconfig/featureprofiles               | █ 2
 openconfig/public                        | █ 2
 openconfig/gnmi                          | █ 2
+openconfig/featureprofiles               | █ 2
 
 
 Since 2026-05-21 06:22:52 -0700 PDT, I've been most active in robshakir/directeur, with 59 events.
@@ -86,4 +86,4 @@ Since 2026-05-21 06:22:52 -0700 PDT, I've been most active in robshakir/directeu
 ---
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
-Last Updated: 2026-06-20 00:59:08.339007478 -0700 PDT
+Last Updated: 2026-06-20 02:13:39.084035272 -0700 PDT
