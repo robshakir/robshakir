@@ -74,8 +74,8 @@ PullRequestReview    |  1
 ```
 robshakir/directeur                      | ████████████████████████████████████████ 59
 openconfig/gribigo                       | ██ 4
-openconfig/gnmi                          | █ 2
 openconfig/featureprofiles               | █ 2
+openconfig/gnmi                          | █ 2
 openconfig/public                        |  1
 
 
@@ -86,4 +86,4 @@ Since 2026-05-21 08:18:45 -0700 PDT, I've been most active in robshakir/directeu
 ---
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
-Last Updated: 2026-06-20 14:09:48.81095315 -0700 PDT
+Last Updated: 2026-06-20 14:41:17.816620865 -0700 PDT
