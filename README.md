@@ -73,8 +73,8 @@ PullRequestReview    |  1
 #### Most Active Repositories
 ```
 robshakir/directeur                      | ████████████████████████████████████████ 69
-openconfig/gribigo                       | █ 2
 openconfig/featureprofiles               | █ 2
+openconfig/gribigo                       | █ 2
 openconfig/public                        |  1
 openconfig/gnmi                          |  1
 
@@ -86,4 +86,4 @@ Since 2026-05-27 20:37:37 -0700 PDT, I've been most active in robshakir/directeu
 ---
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
-Last Updated: 2026-06-21 05:12:28.188480481 -0700 PDT
+Last Updated: 2026-06-21 05:57:42.801904326 -0700 PDT
