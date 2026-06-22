@@ -1,6 +1,6 @@
 ### 📊 GitHub Stats
 
- * 👥 **Followers**: 153
+ * 👥 **Followers**: 152
  * 👤 **Following**: 8
  * 📦 **Public Repos**: 29
 
@@ -63,18 +63,18 @@ Saturday   | █████████████ 10
 ```
 Push                 | ██████████████████████████████████████████████████ 99
 Create               | █ 2
-PullRequestReview    |  1
-PullRequest          |  1
 IssueComment         |  1
 Issues               |  1
+PullRequestReview    |  1
+PullRequest          |  1
 
 ```
 
 #### Most Active Repositories
 ```
 robshakir/directeur                      | ████████████████████████████████████████ 99
-openconfig/featureprofiles               |  2
 openconfig/gribigo                       |  2
+openconfig/featureprofiles               |  2
 openconfig/public                        |  1
 openconfig/gnmi                          |  1
 
@@ -86,4 +86,4 @@ Since 2026-05-27 20:37:37 -0700 PDT, I've been most active in robshakir/directeu
 ---
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
-Last Updated: 2026-06-22 08:30:44.613890926 -0700 PDT
+Last Updated: 2026-06-22 10:16:46.878698525 -0700 PDT
