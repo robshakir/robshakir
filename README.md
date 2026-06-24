@@ -65,8 +65,8 @@ Push                 | ███████████████████
 PullRequestReview    |  2
 IssueComment         |  2
 Create               |  2
-Issues               |  1
 PullRequest          |  1
+Issues               |  1
 
 ```
 
@@ -74,8 +74,8 @@ PullRequest          |  1
 ```
 robshakir/directeur                      | ████████████████████████████████████████ 105
 openconfig/ygot                          | █ 3
-openconfig/featureprofiles               |  2
 openconfig/gribigo                       |  2
+openconfig/featureprofiles               |  2
 openconfig/public                        |  1
 openconfig/gnmi                          |  1
 
@@ -87,4 +87,4 @@ Since 2026-05-27 20:37:37 -0700 PDT, I've been most active in robshakir/directeu
 ---
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
-Last Updated: 2026-06-24 08:34:56.015775852 -0700 PDT
+Last Updated: 2026-06-24 09:30:44.614428441 -0700 PDT
