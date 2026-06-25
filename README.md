@@ -73,8 +73,8 @@ Issues               |  1
 #### Most Active Repositories
 ```
 robshakir/directeur                      | ████████████████████████████████████████ 105
-openconfig/public                        | █ 3
 openconfig/ygot                          | █ 3
+openconfig/public                        | █ 3
 openconfig/featureprofiles               |  2
 openconfig/gribigo                       |  2
 alshabib/public                          |  1
@@ -88,4 +88,4 @@ Since 2026-05-27 20:37:37 -0700 PDT, I've been most active in robshakir/directeu
 ---
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
-Last Updated: 2026-06-25 15:59:11.754806407 -0700 PDT
+Last Updated: 2026-06-25 16:36:02.375550989 -0700 PDT
