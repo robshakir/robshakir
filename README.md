@@ -65,8 +65,8 @@ Push                 | ███████████████████
 IssueComment         | █ 3
 PullRequestReview    | █ 3
 Create               |  2
-Issues               |  1
 PullRequest          |  1
+Issues               |  1
 
 ```
 
@@ -75,10 +75,10 @@ PullRequest          |  1
 robshakir/directeur                      | ████████████████████████████████████████ 105
 openconfig/public                        | █ 3
 openconfig/ygot                          | █ 3
-openconfig/featureprofiles               |  2
 openconfig/gribigo                       |  2
-alshabib/public                          |  1
+openconfig/featureprofiles               |  2
 openconfig/gnmi                          |  1
+alshabib/public                          |  1
 
 
 Since 2026-05-27 20:37:37 -0700 PDT, I've been most active in robshakir/directeur, with 105 events.
@@ -88,4 +88,4 @@ Since 2026-05-27 20:37:37 -0700 PDT, I've been most active in robshakir/directeu
 ---
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
-Last Updated: 2026-06-25 20:43:42.815519331 -0700 PDT
+Last Updated: 2026-06-25 22:10:23.320466932 -0700 PDT
