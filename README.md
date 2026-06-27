@@ -77,8 +77,8 @@ openconfig/ygot                          | █ 3
 openconfig/public                        | █ 3
 openconfig/featureprofiles               |  2
 openconfig/gribigo                       |  2
-openconfig/gnmi                          |  1
 alshabib/public                          |  1
+openconfig/gnmi                          |  1
 
 
 Since 2026-05-28 11:01:41 -0700 PDT, I've been most active in robshakir/directeur, with 104 events.
@@ -88,4 +88,4 @@ Since 2026-05-28 11:01:41 -0700 PDT, I've been most active in robshakir/directeu
 ---
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
-Last Updated: 2026-06-27 05:39:53.846906777 -0700 PDT
+Last Updated: 2026-06-27 06:08:02.021475338 -0700 PDT
