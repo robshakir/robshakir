@@ -75,10 +75,10 @@ Issues               |  1
 robshakir/directeur                      | ████████████████████████████████████████ 79
 openconfig/public                        | █ 3
 openconfig/ygot                          | █ 3
-openconfig/gribigo                       | █ 2
 openconfig/featureprofiles               | █ 2
-alshabib/public                          |  1
+openconfig/gribigo                       | █ 2
 openconfig/gnmi                          |  1
+alshabib/public                          |  1
 
 
 Since 2026-06-05 05:56:19 -0700 PDT, I've been most active in robshakir/directeur, with 79 events.
@@ -88,4 +88,4 @@ Since 2026-06-05 05:56:19 -0700 PDT, I've been most active in robshakir/directeu
 ---
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
-Last Updated: 2026-07-05 01:14:35.380267694 -0700 PDT
+Last Updated: 2026-07-05 02:21:00.692027277 -0700 PDT
