@@ -66,9 +66,9 @@ PullRequestReview    | ███ 7
 IssueComment         | ██ 5
 PullRequestReviewComment | █ 2
 PullRequest          | █ 2
-Create               |  1
 Release              |  1
 Delete               |  1
+Create               |  1
 
 ```
 
@@ -90,4 +90,4 @@ Since 2026-06-11 12:58:22 -0700 PDT, I've been most active in robshakir/directeu
 ---
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
-Last Updated: 2026-07-11 05:33:15.4761257 -0700 PDT
+Last Updated: 2026-07-11 06:07:10.201129858 -0700 PDT
