@@ -77,8 +77,8 @@ Release              |  1
 robshakir/directeur                      | ████████████████████████████████████████ 75
 openconfig/public                        | ████ 8
 openconfig/featureprofiles               | ███ 7
-openconfig/gribigo                       | ███ 6
 openconfig/ygot                          | ███ 6
+openconfig/gribigo                       | ███ 6
 openconfig/grpctunnel                    | ██ 4
 alshabib/public                          |  1
 
@@ -90,4 +90,4 @@ Since 2026-06-11 12:58:22 -0700 PDT, I've been most active in robshakir/directeu
 ---
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
-Last Updated: 2026-07-11 17:56:09.494469232 -0700 PDT
+Last Updated: 2026-07-11 18:32:29.238392644 -0700 PDT
