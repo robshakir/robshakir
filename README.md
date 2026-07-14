@@ -66,8 +66,8 @@ PullRequestReview    | ████ 9
 IssueComment         | ██ 5
 Delete               | █ 2
 PullRequestReviewComment | █ 2
-PullRequest          |  1
 Release              |  1
+PullRequest          |  1
 
 ```
 
@@ -75,12 +75,12 @@ Release              |  1
 ```
 robshakir/directeur                      | ████████████████████████████████████████ 75
 openconfig/ygot                          | █████ 10
-openconfig/public                        | ████ 8
 openconfig/gribigo                       | ████ 8
+openconfig/public                        | ████ 8
 openconfig/featureprofiles               | ██ 5
 openconfig/grpctunnel                    | ██ 4
-renovate-bot/openconfig-_-gribigo        |  1
 alshabib/public                          |  1
+renovate-bot/openconfig-_-gribigo        |  1
 
 
 Since 2026-06-16 05:43:46 -0700 PDT, I've been most active in robshakir/directeur, with 75 events.
@@ -90,4 +90,4 @@ Since 2026-06-16 05:43:46 -0700 PDT, I've been most active in robshakir/directeu
 ---
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
-Last Updated: 2026-07-14 01:13:00.288852817 -0700 PDT
+Last Updated: 2026-07-14 01:57:06.52542183 -0700 PDT
