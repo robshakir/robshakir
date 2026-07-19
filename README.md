@@ -75,13 +75,13 @@ Release              |  1
 ```
 robshakir/directeur                      | ████████████████████████████████████████ 46
 openconfig/ygot                          | ███████████████ 18
-openconfig/public                        | ██████ 8
 openconfig/gribigo                       | ██████ 8
+openconfig/public                        | ██████ 8
 openconfig/featureprofiles               | ████ 5
 openconfig/grpctunnel                    | ███ 4
+renovate-bot/openconfig-_-gribigo        |  1
 alshabib/public                          |  1
 renovate-bot/openconfig-_-ygot           |  1
-renovate-bot/openconfig-_-gribigo        |  1
 
 
 Since 2026-06-20 17:47:13 -0700 PDT, I've been most active in robshakir/directeur, with 46 events.
@@ -91,4 +91,4 @@ Since 2026-06-20 17:47:13 -0700 PDT, I've been most active in robshakir/directeu
 ---
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
-Last Updated: 2026-07-19 16:03:05.189527122 -0700 PDT
+Last Updated: 2026-07-19 16:33:14.73771531 -0700 PDT
