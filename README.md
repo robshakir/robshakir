@@ -65,9 +65,9 @@ Push                 | ███████████████████
 PullRequestReview    | ███████ 11
 IssueComment         | █████ 7
 Delete               | ██ 3
-PullRequestReviewComment | █ 2
 Release              | █ 2
 PullRequest          | █ 2
+PullRequestReviewComment | █ 2
 Issues               |  1
 
 ```
@@ -76,8 +76,8 @@ Issues               |  1
 ```
 robshakir/directeur                      | ████████████████████████████████████████ 46
 openconfig/ygot                          | ████████████████████ 23
-openconfig/gribigo                       | ██████ 8
 openconfig/public                        | ██████ 8
+openconfig/gribigo                       | ██████ 8
 openconfig/featureprofiles               | ████ 5
 openconfig/grpctunnel                    | ███ 4
 renovate-bot/openconfig-_-ygot           |  1
@@ -92,4 +92,4 @@ Since 2026-06-20 17:47:13 -0700 PDT, I've been most active in robshakir/directeu
 ---
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
-Last Updated: 2026-07-20 15:32:31.519702456 -0700 PDT
+Last Updated: 2026-07-20 16:05:12.527724987 -0700 PDT
