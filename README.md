@@ -80,8 +80,8 @@ openconfig/public                        | ████████ 8
 openconfig/gribigo                       | ████████ 8
 openconfig/featureprofiles               | █████ 5
 openconfig/grpctunnel                    | ████ 4
-renovate-bot/openconfig-_-ygot           | █ 1
 renovate-bot/openconfig-_-gribigo        | █ 1
+renovate-bot/openconfig-_-ygot           | █ 1
 alshabib/public                          | █ 1
 
 
@@ -92,4 +92,4 @@ Since 2026-06-21 19:27:32 -0700 PDT, I've been most active in robshakir/directeu
 ---
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
-Last Updated: 2026-07-21 01:57:38.401074225 -0700 PDT
+Last Updated: 2026-07-21 02:51:28.141215067 -0700 PDT
