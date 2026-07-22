@@ -65,9 +65,9 @@ Push                 | ███████████████████
 PullRequestReview    | ██████████████████ 11
 IssueComment         | ████████████ 7
 Delete               | █████ 3
-PullRequestReviewComment | ███ 2
 Release              | ███ 2
 PullRequest          | ███ 2
+PullRequestReviewComment | ███ 2
 Issues               | █ 1
 
 ```
@@ -92,4 +92,4 @@ Since 2026-06-22 17:11:46 -0700 PDT, I've been most active in openconfig/ygot, w
 ---
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
-Last Updated: 2026-07-22 13:36:44.392656377 -0700 PDT
+Last Updated: 2026-07-22 14:06:12.49701457 -0700 PDT
