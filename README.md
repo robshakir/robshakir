@@ -65,9 +65,9 @@ Push                 | ███████████████████
 PullRequestReview    | ███████████████████ 11
 IssueComment         | ██████████ 6
 Delete               | █████ 3
+PullRequestReviewComment | ███ 2
 Release              | ███ 2
 PullRequest          | ███ 2
-PullRequestReviewComment | ███ 2
 Issues               | █ 1
 
 ```
@@ -75,8 +75,8 @@ Issues               | █ 1
 #### Most Active Repositories
 ```
 openconfig/ygot                          | ████████████████████████████████████████ 21
-openconfig/public                        | ███████████████ 8
 openconfig/gribigo                       | ███████████████ 8
+openconfig/public                        | ███████████████ 8
 robshakir/directeur                      | ███████████ 6
 openconfig/featureprofiles               | █████████ 5
 openconfig/grpctunnel                    | ███████ 4
@@ -92,4 +92,4 @@ Since 2026-06-22 20:35:26 -0700 PDT, I've been most active in openconfig/ygot, w
 ---
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
-Last Updated: 2026-07-23 02:00:43.931037001 -0700 PDT
+Last Updated: 2026-07-23 03:02:04.609531898 -0700 PDT
