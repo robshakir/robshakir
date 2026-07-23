@@ -65,8 +65,8 @@ Push                 | ███████████████████
 PullRequestReview    | ████████████████████ 10
 IssueComment         | ████████████ 6
 Delete               | ██████ 3
-PullRequest          | ████ 2
 Release              | ████ 2
+PullRequest          | ████ 2
 PullRequestReviewComment | ████ 2
 Issues               | ██ 1
 
@@ -80,9 +80,9 @@ openconfig/gribigo                       | ████████████�
 openconfig/featureprofiles               | ██████████ 5
 openconfig/grpctunnel                    | ████████ 4
 robshakir/directeur                      | ████ 2
-alshabib/public                          | ██ 1
 renovate-bot/openconfig-_-ygot           | ██ 1
 renovate-bot/openconfig-_-gribigo        | ██ 1
+alshabib/public                          | ██ 1
 
 
 Since 2026-06-23 19:09:19 -0700 PDT, I've been most active in openconfig/ygot, with 20 events.
@@ -92,4 +92,4 @@ Since 2026-06-23 19:09:19 -0700 PDT, I've been most active in openconfig/ygot, w
 ---
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
-Last Updated: 2026-07-23 10:13:34.087446605 -0700 PDT
+Last Updated: 2026-07-23 10:47:28.777089816 -0700 PDT
