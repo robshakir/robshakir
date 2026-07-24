@@ -75,12 +75,12 @@ Issues               | ██ 1
 #### Most Active Repositories
 ```
 openconfig/ygot                          | ████████████████████████████████████████ 20
-openconfig/public                        | ████████████████ 8
 openconfig/gribigo                       | ████████████████ 8
+openconfig/public                        | ████████████████ 8
 openconfig/featureprofiles               | ██████████ 5
 openconfig/grpctunnel                    | ████████ 4
-renovate-bot/openconfig-_-ygot           | ██ 1
 renovate-bot/openconfig-_-gribigo        | ██ 1
+renovate-bot/openconfig-_-ygot           | ██ 1
 alshabib/public                          | ██ 1
 
 
@@ -91,4 +91,4 @@ Since 2026-06-24 16:56:22 -0700 PDT, I've been most active in openconfig/ygot, w
 ---
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
-Last Updated: 2026-07-24 05:26:14.325022277 -0700 PDT
+Last Updated: 2026-07-24 05:59:10.105077324 -0700 PDT
