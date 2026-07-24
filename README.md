@@ -80,8 +80,8 @@ openconfig/public                        | ████████████�
 openconfig/featureprofiles               | ██████████ 5
 openconfig/grpctunnel                    | ████████ 4
 robshakir/directeur                      | ████ 2
-renovate-bot/openconfig-_-ygot           | ██ 1
 alshabib/public                          | ██ 1
+renovate-bot/openconfig-_-ygot           | ██ 1
 renovate-bot/openconfig-_-gribigo        | ██ 1
 
 
@@ -92,4 +92,4 @@ Since 2026-06-23 19:09:19 -0700 PDT, I've been most active in openconfig/ygot, w
 ---
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
-Last Updated: 2026-07-23 18:36:41.016373525 -0700 PDT
+Last Updated: 2026-07-23 19:36:13.261308875 -0700 PDT
