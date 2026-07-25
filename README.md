@@ -80,8 +80,8 @@ openconfig/gribigo                       | ████████████�
 openconfig/featureprofiles               | ██████████ 5
 openconfig/grpctunnel                    | ████████ 4
 renovate-bot/openconfig-_-ygot           | ██ 1
-renovate-bot/openconfig-_-gribigo        | ██ 1
 alshabib/public                          | ██ 1
+renovate-bot/openconfig-_-gribigo        | ██ 1
 
 
 Since 2026-06-24 16:56:22 -0700 PDT, I've been most active in openconfig/ygot, with 20 events.
@@ -91,4 +91,4 @@ Since 2026-06-24 16:56:22 -0700 PDT, I've been most active in openconfig/ygot, w
 ---
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
-Last Updated: 2026-07-24 22:00:18.93029419 -0700 PDT
+Last Updated: 2026-07-24 22:57:00.733619612 -0700 PDT
