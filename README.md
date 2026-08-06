@@ -77,9 +77,9 @@ PullRequest          | ███ 1
 openconfig/ygot                          | ████████████████████████████████████████ 20
 openconfig/public                        | ████████████ 6
 openconfig/gribigo                       | ████ 2
-openconfig/featureprofiles               | ██ 1
 renovate-bot/openconfig-_-ygot           | ██ 1
 renovate-bot/openconfig-_-gribigo        | ██ 1
+openconfig/featureprofiles               | ██ 1
 
 
 Since 2026-07-08 07:39:09 -0700 PDT, I've been most active in openconfig/ygot, with 20 events.
@@ -89,4 +89,4 @@ Since 2026-07-08 07:39:09 -0700 PDT, I've been most active in openconfig/ygot, w
 ---
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
-Last Updated: 2026-08-05 18:05:34.326405591 -0700 PDT
+Last Updated: 2026-08-05 21:27:22.928761841 -0700 PDT
