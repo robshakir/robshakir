@@ -75,8 +75,8 @@ Release              | █████ 1
 ```
 openconfig/ygot                          | ████████████████████████████████████████ 17
 openconfig/gribigo                       | ████ 2
-renovate-bot/openconfig-_-ygot           | ██ 1
 renovate-bot/openconfig-_-gribigo        | ██ 1
+renovate-bot/openconfig-_-ygot           | ██ 1
 
 
 Since 2026-07-13 01:51:51 -0700 PDT, I've been most active in openconfig/ygot, with 17 events.
@@ -86,4 +86,4 @@ Since 2026-07-13 01:51:51 -0700 PDT, I've been most active in openconfig/ygot, w
 ---
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
-Last Updated: 2026-08-08 17:00:47.298310587 -0700 PDT
+Last Updated: 2026-08-08 19:25:33.097498603 -0700 PDT
