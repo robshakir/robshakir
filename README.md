@@ -62,8 +62,8 @@ Saturday   | ██████████ 1
 #### Activity Type Breakdown
 ```
 Push                 | ██████████████████████████████████████████████████ 4
-PullRequestReviewComment | █████████████████████████████████████ 3
 PullRequestReview    | █████████████████████████████████████ 3
+PullRequestReviewComment | █████████████████████████████████████ 3
 
 ```
 
@@ -81,4 +81,4 @@ Since 2026-08-22 08:09:14 -0700 PDT, I've been most active in openconfig/gribigo
 ---
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
-Last Updated: 2026-09-10 02:09:57.900999038 -0700 PDT
+Last Updated: 2026-09-10 06:33:49.40524426 -0700 PDT
