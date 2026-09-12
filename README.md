@@ -71,10 +71,10 @@ IssueComment         | ███████████████████
 #### Most Active Repositories
 ```
 openconfig/gribigo                       | ████████████████████████████████████████ 8
-openconfig/public                        | █████ 1
 openconfig/reference                     | █████ 1
 renovate-bot/openconfig-_-gribigo        | █████ 1
 robshakir/directeur                      | █████ 1
+openconfig/public                        | █████ 1
 
 
 Since 2026-08-22 08:09:14 -0700 PDT, I've been most active in openconfig/gribigo, with 8 events.
@@ -84,4 +84,4 @@ Since 2026-08-22 08:09:14 -0700 PDT, I've been most active in openconfig/gribigo
 ---
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
-Last Updated: 2026-09-12 09:16:07.099651066 -0700 PDT
+Last Updated: 2026-09-12 11:31:52.282267245 -0700 PDT
