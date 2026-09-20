@@ -73,13 +73,13 @@ Create               | █ 1
 #### Most Active Repositories
 ```
 openconfig/ygot                          | ████████████████████████████████████████ 28
-nabhan06/ygot                            | ███████████ 8
 openconfig/gribigo                       | ███████████ 8
+nabhan06/ygot                            | ███████████ 8
 openconfig/public                        | ████ 3
+renovate-bot/openconfig-_-gribigo        | █ 1
 robshakir/directeur                      | █ 1
 renovate-bot/openconfig-_-ygot           | █ 1
 openconfig/reference                     | █ 1
-renovate-bot/openconfig-_-gribigo        | █ 1
 
 
 Since 2026-08-22 08:09:14 -0700 PDT, I've been most active in openconfig/ygot, with 28 events.
@@ -89,4 +89,4 @@ Since 2026-08-22 08:09:14 -0700 PDT, I've been most active in openconfig/ygot, w
 ---
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
-Last Updated: 2026-09-20 06:47:05.449063691 -0700 PDT
+Last Updated: 2026-09-20 10:04:39.044051541 -0700 PDT
