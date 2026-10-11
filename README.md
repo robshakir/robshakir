@@ -73,8 +73,8 @@ Create               | ██ 1
 #### Most Active Repositories
 ```
 openconfig/ygot                          | ████████████████████████████████████████ 28
-openconfig/gribi                         | ███████████ 8
 nabhan06/ygot                            | ███████████ 8
+openconfig/gribi                         | ███████████ 8
 openconfig/public                        | ███████ 5
 renovate-bot/openconfig-_-ygot           | █ 1
 
@@ -86,4 +86,4 @@ Since 2026-09-11 08:49:58 -0700 PDT, I've been most active in openconfig/ygot, w
 ---
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
-Last Updated: 2026-10-11 11:54:50.372522984 -0700 PDT
+Last Updated: 2026-10-11 15:33:38.289577099 -0700 PDT
