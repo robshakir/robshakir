@@ -6,35 +6,35 @@
 
 ### 🍞 Bread Crumbs
 
+ * 🔍: Reviewed a pull request in  `openconfig/ygot` at 2026-10-26 16:16:05 -0700 PDT
+ * ✍🏼: Created a pull request in `openconfig/ygot` at 2026-10-22 11:57:19 -0700 PDT
+ * 🔍: Reviewed a pull request in  `openconfig/ygot` at 2026-10-26 16:13:54 -0700 PDT
+ * 🚢: Pushed some commits to `openconfig/ygnmi` at 2026-10-26 09:13:18 -0700 PDT
  * 💥: Created a branch in `openconfig/ygnmi` at 2026-10-26 08:14:47 -0700 PDT
  * 🚢: Pushed some commits to `openconfig/ygnmi` at 2026-10-26 08:21:43 -0700 PDT
  * 💥: Created a branch in `openconfig/ygnmi` at 2026-10-26 08:01:57 -0700 PDT
  * 🐿: Created a release in `openconfig/ygnmi` at 2026-10-26 09:26:15 -0700 PDT
  * ✍🏼: Created a pull request in `openconfig/ygnmi` at 2026-10-26 09:18:16 -0700 PDT
  * ✍🏼: Created a pull request in `openconfig/ygnmi` at 2026-10-26 09:13:17 -0700 PDT
- * ✍🏼: Created a pull request in `openconfig/ygnmi` at 2026-10-26 08:14:48 -0700 PDT
- * ✍🏼: Created a pull request in `openconfig/ygnmi` at 2026-10-26 08:01:59 -0700 PDT
- * 🚢: Pushed some commits to `openconfig/ygot` at 2026-10-23 04:22:24 -0700 PDT
- * 🚢: Pushed some commits to `openconfig/ygot` at 2026-10-23 04:07:32 -0700 PDT
 
 ### 🕘 Recent Activity (Last 300 Events)
 
 #### Hourly Activity
 ```
   9┼                                                                ╭╮
-  8┤                                                               ╭╯│
-  8┤                                 ╭─╮                           │ │
-  7┤                                 │ │                           │ ╰╮
-  7┤                                ╭╯ ╰╮                          │  │
-  6┤                         ╭╮     │   ╰╮                        ╭╯  │
-  5┤                ╭╮       │╰╮   ╭╯    ╰╮                       │   │
-  5┤   ╭╮           │╰╮     ╭╯ ╰╮ ╭╯      ╰─╮                     │   ╰╮
-  4┤   │╰╮         ╭╯ │     │   ╰─╯         ╰──────╮             ╭╯    │
-  4┤  ╭╯ │         │  ╰╮   ╭╯                      ╰╮            │     │    ╭╮
-  3┤  │  ╰╮       ╭╯   ╰╮  │                        │            │     ╰╮  ╭╯╰╮
-  2┤ ╭╯   │       │     │ ╭╯                        ╰╮           │      │ ╭╯  ╰╮
-  2┤ │    ╰╮      │     ╰─╯                          ╰╮         ╭╯      │╭╯    │
-  1┤╭╯     │     ╭╯                                   │    ╭╮   │       ╰╯     ╰╮
+  9┤                                                               ╭╯│
+  8┤                                                               │ │
+  7┤                                 ╭──╮                          │ ╰╮
+  7┤                                ╭╯  ╰╮                         │  │
+  6┤                         ╭╮     │    ╰╮                       ╭╯  ╰╮
+  6┤                ╭╮       │╰╮   ╭╯     ╰─╮                     │    │
+  5┤                │╰╮     ╭╯ ╰╮ ╭╯        ╰╮   ╭─╮              │    │
+  4┤   ╭─╮         ╭╯ │     │   ╰─╯          ╰╮╭─╯ ╰╮            ╭╯    ╰╮
+  4┤  ╭╯ │         │  ╰╮   ╭╯                 ╰╯    │            │      │ ╭──╮
+  3┤  │  ╰╮       ╭╯   │   │                        ╰╮           │      ╰─╯  ╰╮
+  2┤ ╭╯   │       │    ╰╮ ╭╯                         │           │            ╰╮
+  2┤ │    ╰╮      │     ╰─╯                          ╰╮         ╭╯             │
+  1┤╭╯     │     ╭╯                                   │    ╭╮   │              ╰╮
   1┤│      ╰╮    │                                    ╰╮╭──╯╰─╮ │               ╰╮
   0┼╯       ╰────╯                                     ╰╯     ╰─╯                ╰─────────────────────
     +───────+───────+───────+───────+───────+───────+───────+───────+───────+───────+───────+───────+────
@@ -50,10 +50,10 @@ Since 2026-09-30 15:01:30 -0700 PDT, I'm most active between 15:00-15:59 - with 
 #### Weekly Activity
 ```
 Sunday     |  0
-Monday     | ████████████ 8
-Tuesday    | ████████ 5
-Wednesday  | ███████████ 7
-Thursday   | ██████████████████████████████████████████████████ 31
+Monday     | █████████████████ 11
+Tuesday    | ███████ 5
+Wednesday  | ██████████ 7
+Thursday   | ██████████████████████████████████████████████████ 32
 Friday     | ████████████ 8
 Saturday   |  0
 
@@ -62,29 +62,29 @@ Saturday   |  0
 #### Activity Type Breakdown
 ```
 PullRequestReviewComment | ██████████████████████████████████████████████████ 19
-PullRequestReview    | ████████████████████████████ 11
-PullRequest          | ███████████████████████ 9
-Push                 | ███████████████████████ 9
-IssueComment         | ██████████ 4
+PullRequestReview    | ██████████████████████████████████ 13
+PullRequest          | ██████████████████████████ 10
+Push                 | ██████████████████████████ 10
 Release              | ██████████ 4
+IssueComment         | ██████████ 4
 Create               | ███████ 3
 
 ```
 
 #### Most Active Repositories
 ```
-openconfig/gribi                         | ████████████████████████████████████████ 22
-openconfig/ygot                          | ██████████████████████████████████████ 21
-openconfig/ygnmi                         | ██████████████ 8
+openconfig/ygot                          | ████████████████████████████████████████ 24
+openconfig/gribi                         | ████████████████████████████████████ 22
+openconfig/ygnmi                         | ███████████████ 9
 openconfig/gribigo                       | ██████████ 6
 openconfig/public                        | ███ 2
 
 
-Since 2026-09-30 15:01:30 -0700 PDT, I've been most active in openconfig/gribi, with 22 events.
+Since 2026-09-30 15:01:30 -0700 PDT, I've been most active in openconfig/ygot, with 24 events.
 
 ```
 
 ---
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
-Last Updated: 2026-10-26 12:32:35.200408705 -0700 PDT
+Last Updated: 2026-10-26 16:19:07.790535634 -0700 PDT
