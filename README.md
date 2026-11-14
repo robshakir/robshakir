@@ -77,8 +77,8 @@ openconfig/ygot                          | ████████████�
 openconfig/public                        | ████████████████████████ 33
 openconfig/ygnmi                         | █████████ 13
 openconfig/gribi                         | ████████ 11
-openconfig/models-ci                     | █████ 8
 openconfig/gribigo                       | █████ 8
+openconfig/models-ci                     | █████ 8
 openconfig/goyang                        | ███ 5
 nabhan06/ygot                            | █ 2
 
@@ -90,4 +90,4 @@ Since 2026-10-20 01:42:39 -0700 PDT, I've been most active in openconfig/ygot, w
 ---
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
-Last Updated: 2026-11-13 18:21:26.614438434 -0800 PST
+Last Updated: 2026-11-14 01:09:13.032330929 -0800 PST
