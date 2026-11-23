@@ -6,6 +6,8 @@
 
 ### 🍞 Bread Crumbs
 
+ * 🔍: Reviewed a pull request in  `openconfig/public` at 2026-11-23 11:27:46 -0800 PST
+ * 😃: Commented on an issue in `openconfig/public` at 2026-11-23 11:27:04 -0800 PST
  * 🚢: Pushed some commits to `openconfig/gribigo` at 2026-11-18 19:59:30 -0800 PST
  * ✍🏼: Created a pull request in `openconfig/gribigo` at 2026-11-20 13:54:34 -0800 PST
  * 😃: Commented on an issue in `openconfig/gribigo` at 2026-11-18 20:18:14 -0800 PST
@@ -14,8 +16,6 @@
  * 🚢: Pushed some commits to `openconfig/models-ci` at 2026-11-11 08:57:46 -0800 PST
  * 🚢: Pushed some commits to `openconfig/models-ci` at 2026-11-11 08:57:12 -0800 PST
  * 💬: Commented on a PR in  `openconfig/public` at 2026-11-11 09:55:31 -0800 PST
- * 🚢: Pushed some commits to `openconfig/models-ci` at 2026-11-11 08:33:31 -0800 PST
- * 💬: Commented on a PR in  `openconfig/public` at 2026-11-11 09:48:50 -0800 PST
 
 ### 🕘 Recent Activity (Last 300 Events)
 
@@ -27,66 +27,66 @@
  18 ┤                                 │  ╰╮
  16 ┤                                 │   ╰╮                             ╭─╮
  15 ┤                                ╭╯    ╰╮                            │ ╰╮
- 13 ┤                                │      │                           ╭╯  ╰╮
- 12 ┤                                │      │      ╭─╮                  │    ╰╮
- 10 ┤                               ╭╯      ╰╮     │ ╰╮                ╭╯     ╰╮
-  9 ┤                               │        │    ╭╯  │                │       │
-  7 ┤                               │        ╰╮   │   ╰╮               │       ╰╮
-  6 ┤                               │         │  ╭╯    ╰╮      ╭─╮    ╭╯        ╰╮
+ 13 ┤                                │      │      ╭─╮                  ╭╯  ╰╮
+ 12 ┤                                │      │      │ │                  │    ╰╮
+ 10 ┤                               ╭╯      ╰╮    ╭╯ ╰╮                ╭╯     ╰╮
+  9 ┤                               │        │    │   ╰╮               │       │
+  7 ┤                               │        ╰╮  ╭╯    │               │       ╰╮
+  6 ┤                               │         │  │     ╰╮      ╭─╮    ╭╯        ╰╮
   4 ┤                              ╭╯         │  │      ╰──────╯ ╰╮   │          ╰╮
   3 ┤                              │          ╰╮╭╯                ╰╮  │           ╰──╮   ╭──╮
-  1 ┤              ╭────╮          │           ││                  ╰──╯              ╰───╯  ╰─╮
- -0 ┼──────────────╯    ╰──────────╯           ╰╯                                             ╰─────────
+  1 ┤                              │           ││                  ╰──╯              ╰───╯  ╰─╮
+ -0 ┼──────────────────────────────╯           ╰╯                                             ╰─────────
     +───────+───────+───────+───────+───────+───────+───────+───────+───────+───────+───────+───────+────
   00:00   02:00   04:00   06:00   08:00   10:00   12:00   14:00   16:00   18:00   20:00   22:00   00:00   
 
 						Commits by Hour of Day
 
 
-Since 2026-10-23 04:07:32 -0700 PDT, I'm most active between 08:00-08:59 - with 23 events in that hour.
+Since 2026-10-26 08:01:59 -0700 PDT, I'm most active between 08:00-08:59 - with 23 events in that hour.
 
 ```
 
 #### Weekly Activity
 ```
 Sunday     |  0
-Monday     | ██████████████████████████████████████████████████ 37
-Tuesday    | █████████████████████████████ 22
-Wednesday  | ███████████████████████████████████ 26
-Thursday   | █████████ 7
-Friday     | ████████████ 9
+Monday     | ██████████████████████████████████████████████████ 39
+Tuesday    | ████████████████████████████ 22
+Wednesday  | █████████████████████████████████ 26
+Thursday   | ████████ 7
+Friday     | ████████ 7
 Saturday   | ██ 2
 
 ```
 
 #### Activity Type Breakdown
 ```
-Push                 | ██████████████████████████████████████████████████ 26
-PullRequestReviewComment | ██████████████████████████████████████████ 22
-PullRequestReview    | ██████████████████████████████████████ 20
-PullRequest          | ██████████████████████████████████ 18
-Create               | █████████████████████████ 13
-IssueComment         | █████ 3
-Release              | █ 1
+Push                 | ██████████████████████████████████████████████████ 24
+PullRequestReviewComment | █████████████████████████████████████████████ 22
+PullRequestReview    | ███████████████████████████████████████████ 21
+PullRequest          | █████████████████████████████████████ 18
+Create               | ███████████████████████████ 13
+IssueComment         | ████████ 4
+Release              | ██ 1
 
 ```
 
 #### Most Active Repositories
 ```
-openconfig/ygot                          | ████████████████████████████████████████ 36
-openconfig/public                        | ████████████████████████████████████ 33
+openconfig/public                        | ████████████████████████████████████████ 35
+openconfig/ygot                          | ██████████████████████████████████████ 34
 openconfig/ygnmi                         | ██████████████ 13
-openconfig/models-ci                     | ████████ 8
+openconfig/models-ci                     | █████████ 8
 openconfig/gribigo                       | ██████ 6
 openconfig/goyang                        | █████ 5
 nabhan06/ygot                            | ██ 2
 
 
-Since 2026-10-23 04:07:32 -0700 PDT, I've been most active in openconfig/ygot, with 36 events.
+Since 2026-10-26 08:01:59 -0700 PDT, I've been most active in openconfig/public, with 35 events.
 
 ```
 
 ---
 **[robshakir](mailto:robjs@google.com) is not an official Google product.**  
 
-Last Updated: 2026-11-23 03:16:27.518041583 -0800 PST
+Last Updated: 2026-11-23 14:46:20.006699403 -0800 PST
